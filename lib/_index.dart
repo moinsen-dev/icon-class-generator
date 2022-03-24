@@ -1,3 +1,3 @@
-library together_icons;
+library icon_class_generator;
 
-export 'icons/together_icons_8.dart';
+export 'icons/icons_8.dart';

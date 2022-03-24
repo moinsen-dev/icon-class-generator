@@ -5,7 +5,7 @@
 // **************************************************************************
 
 import 'package:flutter/material.dart';
-import 'package:together_icons/icons/icon_8.dart';
+import 'package:icon_class_generator/icons/icon_8.dart';
 
 class TogetherIcon8 extends Icon {
   /// General constructor

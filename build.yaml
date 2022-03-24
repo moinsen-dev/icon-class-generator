@@ -1,11 +1,11 @@
 targets:
   $default:
     builders:
-      together_icons|icon_font:
+      icon_class_generator|icon_font:
         enabled: true
 builders:
   icon_font:
-    import: 'package:together_icons/builder.dart'
+    import: 'package:icon_class_generator/builder.dart'
     builder_factories: ['iconFontBuilder']
     build_extensions: { '.dart': ['.g.part'] }
     auto_apply: root_package

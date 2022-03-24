@@ -2,11 +2,11 @@ import 'dart:io';
 
 import 'package:analyzer/dart/element/element.dart';
 import 'package:build/build.dart';
+import 'package:icon_class_generator/src/icons_annotation.dart';
 import 'package:recase/recase.dart';
 import 'package:source_gen/source_gen.dart';
-import 'package:together_icons/src/together_icons_annotation.dart';
 
-class IconFontGenerator extends GeneratorForAnnotation<TogetherIcons1> {
+class IconFontGenerator extends GeneratorForAnnotation<IconClassGenerator> {
   @override
   generateForAnnotatedElement(
       Element element, ConstantReader annotation, BuildStep buildStep) {
@@ -14,12 +14,13 @@ class IconFontGenerator extends GeneratorForAnnotation<TogetherIcons1> {
     final name = 'icon_8';
     final fontName = transformToCamelCase(name);
 
-    String contents = new File('./lib/icons/${name}.dart').readAsStringSync();
+// TODO: remove implicit file path
+    String contents = new File('./lib/icons/$name.dart').readAsStringSync();
 
     final staticIconRegEx =
         RegExp(r'static\sconst\sIconData.*[\n\r]*.*?;', multiLine: true);
 
-    final className = "Together${fontName.pascalCase}";
+    final className = "Icons${fontName.pascalCase}";
 
     final newIcons = staticIconRegEx
         .allMatches(contents)
@@ -29,12 +30,12 @@ class IconFontGenerator extends GeneratorForAnnotation<TogetherIcons1> {
 
     return """
 import 'package:flutter/material.dart';
-import 'package:together_icons/icons/${name}.dart';
+import 'package:icon_class_generator/icons/$name.dart';
 
-class ${className} extends Icon {
+class $className extends Icon {
   /// General constructor
   /// Not intended to be used widely, but who knows. It may come at hand sometime
-  ${className}(
+  $className(
     IconData icon, {
     Key? key,
     double? size,
@@ -50,7 +51,7 @@ class ${className} extends Icon {
           textDirection: textDirection,
         );
 
-  ${newIcons}
+  $newIcons
 
   }
 
