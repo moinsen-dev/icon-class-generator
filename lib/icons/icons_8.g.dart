@@ -7,10 +7,10 @@
 import 'package:flutter/material.dart';
 import 'package:icon_class_generator/icons/icon_8.dart';
 
-class TogetherIcon8 extends Icon {
+class IconsIcon8 extends Icon {
   /// General constructor
   /// Not intended to be used widely, but who knows. It may come at hand sometime
-  TogetherIcon8(
+  IconsIcon8(
     IconData icon, {
     Key? key,
     double? size,
@@ -26,7 +26,7 @@ class TogetherIcon8 extends Icon {
           textDirection: textDirection,
         );
 
-  TogetherIcon8.building2({
+  IconsIcon8.building2({
     Key? key,
     double? size,
     Color? color,
@@ -40,7 +40,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.map2({
+  IconsIcon8.map2({
     Key? key,
     double? size,
     Color? color,
@@ -54,7 +54,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.neutralFace2({
+  IconsIcon8.neutralFace2({
     Key? key,
     double? size,
     Color? color,
@@ -68,7 +68,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.eyeSlash1({
+  IconsIcon8.eyeSlash1({
     Key? key,
     double? size,
     Color? color,
@@ -82,7 +82,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretSquareUp2({
+  IconsIcon8.caretSquareUp2({
     Key? key,
     double? size,
     Color? color,
@@ -96,7 +96,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.copy2({
+  IconsIcon8.copy2({
     Key? key,
     double? size,
     Color? color,
@@ -110,7 +110,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dotCircle2({
+  IconsIcon8.dotCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -124,7 +124,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningFaceWithBigEyes4({
+  IconsIcon8.grinningFaceWithBigEyes4({
     Key? key,
     double? size,
     Color? color,
@@ -138,7 +138,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.save2({
+  IconsIcon8.save2({
     Key? key,
     double? size,
     Color? color,
@@ -152,7 +152,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.faceWithTearsOfJoy2({
+  IconsIcon8.faceWithTearsOfJoy2({
     Key? key,
     double? size,
     Color? color,
@@ -166,7 +166,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.starHalf2({
+  IconsIcon8.starHalf2({
     Key? key,
     double? size,
     Color? color,
@@ -180,7 +180,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.smilingFace2({
+  IconsIcon8.smilingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -194,7 +194,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningFaceWithSmilingEyes4({
+  IconsIcon8.grinningFaceWithSmilingEyes4({
     Key? key,
     double? size,
     Color? color,
@@ -208,7 +208,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.audioFile2({
+  IconsIcon8.audioFile2({
     Key? key,
     double? size,
     Color? color,
@@ -222,7 +222,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.windowMaximize2({
+  IconsIcon8.windowMaximize2({
     Key? key,
     double? size,
     Color? color,
@@ -236,7 +236,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.loudlyCryingFace2({
+  IconsIcon8.loudlyCryingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -250,7 +250,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stickyNote2({
+  IconsIcon8.stickyNote2({
     Key? key,
     double? size,
     Color? color,
@@ -264,7 +264,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angryFace2({
+  IconsIcon8.angryFace2({
     Key? key,
     double? size,
     Color? color,
@@ -278,7 +278,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.windowRestore2({
+  IconsIcon8.windowRestore2({
     Key? key,
     double? size,
     Color? color,
@@ -292,7 +292,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.star1({
+  IconsIcon8.star1({
     Key? key,
     double? size,
     Color? color,
@@ -306,7 +306,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.addressCard2({
+  IconsIcon8.addressCard2({
     Key? key,
     double? size,
     Color? color,
@@ -320,7 +320,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.comment2({
+  IconsIcon8.comment2({
     Key? key,
     double? size,
     Color? color,
@@ -334,7 +334,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.objectUngroup2({
+  IconsIcon8.objectUngroup2({
     Key? key,
     double? size,
     Color? color,
@@ -348,7 +348,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.winkingFace4({
+  IconsIcon8.winkingFace4({
     Key? key,
     double? size,
     Color? color,
@@ -362,7 +362,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.windowClose2({
+  IconsIcon8.windowClose2({
     Key? key,
     double? size,
     Color? color,
@@ -376,7 +376,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.videoFile2({
+  IconsIcon8.videoFile2({
     Key? key,
     double? size,
     Color? color,
@@ -390,7 +390,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hushedFace4({
+  IconsIcon8.hushedFace4({
     Key? key,
     double? size,
     Color? color,
@@ -404,7 +404,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.envelope2({
+  IconsIcon8.envelope2({
     Key? key,
     double? size,
     Color? color,
@@ -418,7 +418,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.faceWithTongue2({
+  IconsIcon8.faceWithTongue2({
     Key? key,
     double? size,
     Color? color,
@@ -432,7 +432,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretSquareDown2({
+  IconsIcon8.caretSquareDown2({
     Key? key,
     double? size,
     Color? color,
@@ -446,7 +446,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pauseCircle2({
+  IconsIcon8.pauseCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -460,7 +460,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.folderOpen2({
+  IconsIcon8.folderOpen2({
     Key? key,
     double? size,
     Color? color,
@@ -474,7 +474,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.folder2({
+  IconsIcon8.folder2({
     Key? key,
     double? size,
     Color? color,
@@ -488,7 +488,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.flag2({
+  IconsIcon8.flag2({
     Key? key,
     double? size,
     Color? color,
@@ -502,7 +502,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handPointingRight2({
+  IconsIcon8.handPointingRight2({
     Key? key,
     double? size,
     Color? color,
@@ -516,7 +516,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.minusSquare2({
+  IconsIcon8.minusSquare2({
     Key? key,
     double? size,
     Color? color,
@@ -530,7 +530,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateArrowCircleDown2({
+  IconsIcon8.alternateArrowCircleDown2({
     Key? key,
     double? size,
     Color? color,
@@ -544,7 +544,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.excelFile2({
+  IconsIcon8.excelFile2({
     Key? key,
     double? size,
     Color? color,
@@ -558,7 +558,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretSquareLeft2({
+  IconsIcon8.caretSquareLeft2({
     Key? key,
     double? size,
     Color? color,
@@ -572,7 +572,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pointerXhandX2({
+  IconsIcon8.pointerXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -586,7 +586,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningFaceWithSmilingEyes3({
+  IconsIcon8.grinningFaceWithSmilingEyes3({
     Key? key,
     double? size,
     Color? color,
@@ -600,7 +600,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.snowflake2({
+  IconsIcon8.snowflake2({
     Key? key,
     double? size,
     Color? color,
@@ -614,7 +614,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.starStruck2({
+  IconsIcon8.starStruck2({
     Key? key,
     double? size,
     Color? color,
@@ -628,7 +628,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stopCircle2({
+  IconsIcon8.stopCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -642,7 +642,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.comments2({
+  IconsIcon8.comments2({
     Key? key,
     double? size,
     Color? color,
@@ -656,7 +656,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.closedCaptioning2({
+  IconsIcon8.closedCaptioning2({
     Key? key,
     double? size,
     Color? color,
@@ -670,7 +670,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thumbsDown2({
+  IconsIcon8.thumbsDown2({
     Key? key,
     double? size,
     Color? color,
@@ -684,7 +684,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.winkingFace3({
+  IconsIcon8.winkingFace3({
     Key? key,
     double? size,
     Color? color,
@@ -698,7 +698,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.images2({
+  IconsIcon8.images2({
     Key? key,
     double? size,
     Color? color,
@@ -712,7 +712,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.compass2({
+  IconsIcon8.compass2({
     Key? key,
     double? size,
     Color? color,
@@ -726,7 +726,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.codeFile2({
+  IconsIcon8.codeFile2({
     Key? key,
     double? size,
     Color? color,
@@ -740,7 +740,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.squintingFaceWithTongue2({
+  IconsIcon8.squintingFaceWithTongue2({
     Key? key,
     double? size,
     Color? color,
@@ -754,7 +754,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.clipboard2({
+  IconsIcon8.clipboard2({
     Key? key,
     double? size,
     Color? color,
@@ -768,7 +768,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.newspaper2({
+  IconsIcon8.newspaper2({
     Key? key,
     double? size,
     Color? color,
@@ -782,7 +782,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handPointingLeft2({
+  IconsIcon8.handPointingLeft2({
     Key? key,
     double? size,
     Color? color,
@@ -796,7 +796,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.objectGroup2({
+  IconsIcon8.objectGroup2({
     Key? key,
     double? size,
     Color? color,
@@ -810,7 +810,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.image2({
+  IconsIcon8.image2({
     Key? key,
     double? size,
     Color? color,
@@ -824,7 +824,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.keyboard2({
+  IconsIcon8.keyboard2({
     Key? key,
     double? size,
     Color? color,
@@ -838,7 +838,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningSquintingFace4({
+  IconsIcon8.grinningSquintingFace4({
     Key? key,
     double? size,
     Color? color,
@@ -852,7 +852,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handPointingDown2({
+  IconsIcon8.handPointingDown2({
     Key? key,
     double? size,
     Color? color,
@@ -866,7 +866,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gem2({
+  IconsIcon8.gem2({
     Key? key,
     double? size,
     Color? color,
@@ -880,7 +880,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.kissingFaceWithSmilingEyes2({
+  IconsIcon8.kissingFaceWithSmilingEyes2({
     Key? key,
     double? size,
     Color? color,
@@ -894,7 +894,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.addressBook2({
+  IconsIcon8.addressBook2({
     Key? key,
     double? size,
     Color? color,
@@ -908,7 +908,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.faceWithoutMouth2({
+  IconsIcon8.faceWithoutMouth2({
     Key? key,
     double? size,
     Color? color,
@@ -922,7 +922,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.paperPlane2({
+  IconsIcon8.paperPlane2({
     Key? key,
     double? size,
     Color? color,
@@ -936,7 +936,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateArrowCircleUp2({
+  IconsIcon8.alternateArrowCircleUp2({
     Key? key,
     double? size,
     Color? color,
@@ -950,7 +950,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.playCircle2({
+  IconsIcon8.playCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -964,7 +964,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.imageFile2({
+  IconsIcon8.imageFile2({
     Key? key,
     double? size,
     Color? color,
@@ -978,7 +978,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dizzyFace2({
+  IconsIcon8.dizzyFace2({
     Key? key,
     double? size,
     Color? color,
@@ -992,7 +992,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.laughingWinkingFace2({
+  IconsIcon8.laughingWinkingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1006,7 +1006,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateMoneyBill2({
+  IconsIcon8.alternateMoneyBill2({
     Key? key,
     double? size,
     Color? color,
@@ -1020,7 +1020,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendarTimes2({
+  IconsIcon8.calendarTimes2({
     Key? key,
     double? size,
     Color? color,
@@ -1034,7 +1034,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rollingOnTheFloorLaughing2({
+  IconsIcon8.rollingOnTheFloorLaughing2({
     Key? key,
     double? size,
     Color? color,
@@ -1048,7 +1048,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.timesCircle2({
+  IconsIcon8.timesCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -1062,7 +1062,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendarPlus2({
+  IconsIcon8.calendarPlus2({
     Key? key,
     double? size,
     Color? color,
@@ -1076,7 +1076,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cryingFace2({
+  IconsIcon8.cryingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1090,7 +1090,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.powerpointFile2({
+  IconsIcon8.powerpointFile2({
     Key? key,
     double? size,
     Color? color,
@@ -1104,7 +1104,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hdd2({
+  IconsIcon8.hdd2({
     Key? key,
     double? size,
     Color? color,
@@ -1118,7 +1118,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hourglass2({
+  IconsIcon8.hourglass2({
     Key? key,
     double? size,
     Color? color,
@@ -1132,7 +1132,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creditCard2({
+  IconsIcon8.creditCard2({
     Key? key,
     double? size,
     Color? color,
@@ -1146,7 +1146,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bellSlash2({
+  IconsIcon8.bellSlash2({
     Key? key,
     double? size,
     Color? color,
@@ -1160,7 +1160,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lemon2({
+  IconsIcon8.lemon2({
     Key? key,
     double? size,
     Color? color,
@@ -1174,7 +1174,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateGrinningFace2({
+  IconsIcon8.alternateGrinningFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1188,7 +1188,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateArrowCircleRight2({
+  IconsIcon8.alternateArrowCircleRight2({
     Key? key,
     double? size,
     Color? color,
@@ -1202,7 +1202,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.archiveFile2({
+  IconsIcon8.archiveFile2({
     Key? key,
     double? size,
     Color? color,
@@ -1216,7 +1216,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lizardXhandX2({
+  IconsIcon8.lizardXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -1230,7 +1230,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningSquintingFace3({
+  IconsIcon8.grinningSquintingFace3({
     Key? key,
     double? size,
     Color? color,
@@ -1244,7 +1244,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningFaceWithBigEyes3({
+  IconsIcon8.grinningFaceWithBigEyes3({
     Key? key,
     double? size,
     Color? color,
@@ -1258,7 +1258,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thumbsUp2({
+  IconsIcon8.thumbsUp2({
     Key? key,
     double? size,
     Color? color,
@@ -1272,7 +1272,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hospital2({
+  IconsIcon8.hospital2({
     Key? key,
     double? size,
     Color? color,
@@ -1286,7 +1286,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.kissingFace2({
+  IconsIcon8.kissingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1300,7 +1300,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.faceBlowingAKiss2({
+  IconsIcon8.faceBlowingAKiss2({
     Key? key,
     double? size,
     Color? color,
@@ -1314,7 +1314,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.barChart1({
+  IconsIcon8.barChart1({
     Key? key,
     double? size,
     Color? color,
@@ -1328,7 +1328,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.heart1({
+  IconsIcon8.heart1({
     Key? key,
     double? size,
     Color? color,
@@ -1342,7 +1342,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateComment2({
+  IconsIcon8.alternateComment2({
     Key? key,
     double? size,
     Color? color,
@@ -1356,7 +1356,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.plusSquare2({
+  IconsIcon8.plusSquare2({
     Key? key,
     double? size,
     Color? color,
@@ -1370,7 +1370,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateList2({
+  IconsIcon8.alternateList2({
     Key? key,
     double? size,
     Color? color,
@@ -1384,7 +1384,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.smilingFaceWithHeartEyes2({
+  IconsIcon8.smilingFaceWithHeartEyes2({
     Key? key,
     double? size,
     Color? color,
@@ -1398,7 +1398,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateArrowCircleLeft2({
+  IconsIcon8.alternateArrowCircleLeft2({
     Key? key,
     double? size,
     Color? color,
@@ -1412,7 +1412,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hushedFace3({
+  IconsIcon8.hushedFace3({
     Key? key,
     double? size,
     Color? color,
@@ -1426,7 +1426,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tiredFace2({
+  IconsIcon8.tiredFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1440,7 +1440,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.peaceXhandX2({
+  IconsIcon8.peaceXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -1454,7 +1454,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendarMinus2({
+  IconsIcon8.calendarMinus2({
     Key? key,
     double? size,
     Color? color,
@@ -1468,7 +1468,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lightbulb2({
+  IconsIcon8.lightbulb2({
     Key? key,
     double? size,
     Color? color,
@@ -1482,7 +1482,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.checkSquare1({
+  IconsIcon8.checkSquare1({
     Key? key,
     double? size,
     Color? color,
@@ -1496,7 +1496,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.user2({
+  IconsIcon8.user2({
     Key? key,
     double? size,
     Color? color,
@@ -1510,7 +1510,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.spockXhandX2({
+  IconsIcon8.spockXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -1524,7 +1524,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.identificationCard2({
+  IconsIcon8.identificationCard2({
     Key? key,
     double? size,
     Color? color,
@@ -1538,7 +1538,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendarCheck2({
+  IconsIcon8.calendarCheck2({
     Key? key,
     double? size,
     Color? color,
@@ -1552,7 +1552,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.moon2({
+  IconsIcon8.moon2({
     Key? key,
     double? size,
     Color? color,
@@ -1566,7 +1566,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendar4({
+  IconsIcon8.calendar4({
     Key? key,
     double? size,
     Color? color,
@@ -1580,7 +1580,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.file2({
+  IconsIcon8.file2({
     Key? key,
     double? size,
     Color? color,
@@ -1594,7 +1594,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.clock2({
+  IconsIcon8.clock2({
     Key? key,
     double? size,
     Color? color,
@@ -1608,7 +1608,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sun2({
+  IconsIcon8.sun2({
     Key? key,
     double? size,
     Color? color,
@@ -1622,7 +1622,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handPointingUp2({
+  IconsIcon8.handPointingUp2({
     Key? key,
     double? size,
     Color? color,
@@ -1636,7 +1636,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userCircle2({
+  IconsIcon8.userCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -1650,7 +1650,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.envelopeOpen2({
+  IconsIcon8.envelopeOpen2({
     Key? key,
     double? size,
     Color? color,
@@ -1664,7 +1664,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.edit2({
+  IconsIcon8.edit2({
     Key? key,
     double? size,
     Color? color,
@@ -1678,7 +1678,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.circle1({
+  IconsIcon8.circle1({
     Key? key,
     double? size,
     Color? color,
@@ -1692,7 +1692,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wordFile2({
+  IconsIcon8.wordFile2({
     Key? key,
     double? size,
     Color? color,
@@ -1706,7 +1706,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateFile2({
+  IconsIcon8.alternateFile2({
     Key? key,
     double? size,
     Color? color,
@@ -1720,7 +1720,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.flushedFace2({
+  IconsIcon8.flushedFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1734,7 +1734,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lifeRing2({
+  IconsIcon8.lifeRing2({
     Key? key,
     double? size,
     Color? color,
@@ -1748,7 +1748,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretSquareRight2({
+  IconsIcon8.caretSquareRight2({
     Key? key,
     double? size,
     Color? color,
@@ -1762,7 +1762,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.beamingFaceWithSmilingEyes2({
+  IconsIcon8.beamingFaceWithSmilingEyes2({
     Key? key,
     double? size,
     Color? color,
@@ -1776,7 +1776,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.square2({
+  IconsIcon8.square2({
     Key? key,
     double? size,
     Color? color,
@@ -1790,7 +1790,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.questionCircle2({
+  IconsIcon8.questionCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -1804,7 +1804,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.eye2({
+  IconsIcon8.eye2({
     Key? key,
     double? size,
     Color? color,
@@ -1818,7 +1818,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pdfFile2({
+  IconsIcon8.pdfFile2({
     Key? key,
     double? size,
     Color? color,
@@ -1832,7 +1832,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.frowningFace2({
+  IconsIcon8.frowningFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1846,7 +1846,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.windowMinimize2({
+  IconsIcon8.windowMinimize2({
     Key? key,
     double? size,
     Color? color,
@@ -1860,7 +1860,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.registeredTrademark2({
+  IconsIcon8.registeredTrademark2({
     Key? key,
     double? size,
     Color? color,
@@ -1874,7 +1874,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.commentDots2({
+  IconsIcon8.commentDots2({
     Key? key,
     double? size,
     Color? color,
@@ -1888,7 +1888,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.winkingFaceWithTongue2({
+  IconsIcon8.winkingFaceWithTongue2({
     Key? key,
     double? size,
     Color? color,
@@ -1902,7 +1902,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.futbol2({
+  IconsIcon8.futbol2({
     Key? key,
     double? size,
     Color? color,
@@ -1916,7 +1916,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.clone1({
+  IconsIcon8.clone1({
     Key? key,
     double? size,
     Color? color,
@@ -1930,7 +1930,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shareSquare2({
+  IconsIcon8.shareSquare2({
     Key? key,
     double? size,
     Color? color,
@@ -1944,7 +1944,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.copyright2({
+  IconsIcon8.copyright2({
     Key? key,
     double? size,
     Color? color,
@@ -1958,7 +1958,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bell2({
+  IconsIcon8.bell2({
     Key? key,
     double? size,
     Color? color,
@@ -1972,7 +1972,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.paperXhandX2({
+  IconsIcon8.paperXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -1986,7 +1986,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.scissorsXhandX2({
+  IconsIcon8.scissorsXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -2000,7 +2000,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bookmark2({
+  IconsIcon8.bookmark2({
     Key? key,
     double? size,
     Color? color,
@@ -2014,7 +2014,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grimacingFace2({
+  IconsIcon8.grimacingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -2028,7 +2028,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.checkCircle2({
+  IconsIcon8.checkCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -2042,7 +2042,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendar3({
+  IconsIcon8.calendar3({
     Key? key,
     double? size,
     Color? color,
@@ -2056,7 +2056,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handshake2({
+  IconsIcon8.handshake2({
     Key? key,
     double? size,
     Color? color,
@@ -2070,7 +2070,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningFaceWithSweat2({
+  IconsIcon8.grinningFaceWithSweat2({
     Key? key,
     double? size,
     Color? color,
@@ -2084,7 +2084,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.identificationBadge2({
+  IconsIcon8.identificationBadge2({
     Key? key,
     double? size,
     Color? color,
@@ -2098,7 +2098,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rockXhandX2({
+  IconsIcon8.rockXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -2112,7 +2112,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.faceWithRollingEyes2({
+  IconsIcon8.faceWithRollingEyes2({
     Key? key,
     double? size,
     Color? color,
@@ -2126,7 +2126,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateTrash2({
+  IconsIcon8.alternateTrash2({
     Key? key,
     double? size,
     Color? color,
@@ -2140,7 +2140,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.martiniGlass({
+  IconsIcon8.martiniGlass({
     Key? key,
     double? size,
     Color? color,
@@ -2154,7 +2154,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.music({
+  IconsIcon8.music({
     Key? key,
     double? size,
     Color? color,
@@ -2168,7 +2168,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.search({
+  IconsIcon8.search({
     Key? key,
     double? size,
     Color? color,
@@ -2182,7 +2182,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.heart({
+  IconsIcon8.heart({
     Key? key,
     double? size,
     Color? color,
@@ -2196,7 +2196,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.star({
+  IconsIcon8.star({
     Key? key,
     double? size,
     Color? color,
@@ -2210,7 +2210,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.user1({
+  IconsIcon8.user1({
     Key? key,
     double? size,
     Color? color,
@@ -2224,7 +2224,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.film({
+  IconsIcon8.film({
     Key? key,
     double? size,
     Color? color,
@@ -2238,7 +2238,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thLarge({
+  IconsIcon8.thLarge({
     Key? key,
     double? size,
     Color? color,
@@ -2252,7 +2252,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.th({
+  IconsIcon8.th({
     Key? key,
     double? size,
     Color? color,
@@ -2266,7 +2266,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thList({
+  IconsIcon8.thList({
     Key? key,
     double? size,
     Color? color,
@@ -2280,7 +2280,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.check({
+  IconsIcon8.check({
     Key? key,
     double? size,
     Color? color,
@@ -2294,7 +2294,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.times({
+  IconsIcon8.times({
     Key? key,
     double? size,
     Color? color,
@@ -2308,7 +2308,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.searchPlus({
+  IconsIcon8.searchPlus({
     Key? key,
     double? size,
     Color? color,
@@ -2322,7 +2322,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.searchMinus({
+  IconsIcon8.searchMinus({
     Key? key,
     double? size,
     Color? color,
@@ -2336,7 +2336,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.powerOff({
+  IconsIcon8.powerOff({
     Key? key,
     double? size,
     Color? color,
@@ -2350,7 +2350,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.signal({
+  IconsIcon8.signal({
     Key? key,
     double? size,
     Color? color,
@@ -2364,7 +2364,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cog({
+  IconsIcon8.cog({
     Key? key,
     double? size,
     Color? color,
@@ -2378,7 +2378,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.home({
+  IconsIcon8.home({
     Key? key,
     double? size,
     Color? color,
@@ -2392,7 +2392,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.clock1({
+  IconsIcon8.clock1({
     Key? key,
     double? size,
     Color? color,
@@ -2406,7 +2406,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.road({
+  IconsIcon8.road({
     Key? key,
     double? size,
     Color? color,
@@ -2420,7 +2420,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.download({
+  IconsIcon8.download({
     Key? key,
     double? size,
     Color? color,
@@ -2434,7 +2434,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.inbox({
+  IconsIcon8.inbox({
     Key? key,
     double? size,
     Color? color,
@@ -2448,7 +2448,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.redo({
+  IconsIcon8.redo({
     Key? key,
     double? size,
     Color? color,
@@ -2462,7 +2462,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sync1({
+  IconsIcon8.sync1({
     Key? key,
     double? size,
     Color? color,
@@ -2476,7 +2476,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateList1({
+  IconsIcon8.alternateList1({
     Key? key,
     double? size,
     Color? color,
@@ -2490,7 +2490,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lock({
+  IconsIcon8.lock({
     Key? key,
     double? size,
     Color? color,
@@ -2504,7 +2504,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.flag1({
+  IconsIcon8.flag1({
     Key? key,
     double? size,
     Color? color,
@@ -2518,7 +2518,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.headphones1({
+  IconsIcon8.headphones1({
     Key? key,
     double? size,
     Color? color,
@@ -2532,7 +2532,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.volumeOff1({
+  IconsIcon8.volumeOff1({
     Key? key,
     double? size,
     Color? color,
@@ -2546,7 +2546,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.volumeDown({
+  IconsIcon8.volumeDown({
     Key? key,
     double? size,
     Color? color,
@@ -2560,7 +2560,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.volumeUp({
+  IconsIcon8.volumeUp({
     Key? key,
     double? size,
     Color? color,
@@ -2574,7 +2574,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.qrcode({
+  IconsIcon8.qrcode({
     Key? key,
     double? size,
     Color? color,
@@ -2588,7 +2588,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.barcode({
+  IconsIcon8.barcode({
     Key? key,
     double? size,
     Color? color,
@@ -2602,7 +2602,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tag({
+  IconsIcon8.tag({
     Key? key,
     double? size,
     Color? color,
@@ -2616,7 +2616,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tags({
+  IconsIcon8.tags({
     Key? key,
     double? size,
     Color? color,
@@ -2630,7 +2630,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.book({
+  IconsIcon8.book({
     Key? key,
     double? size,
     Color? color,
@@ -2644,7 +2644,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bookmark1({
+  IconsIcon8.bookmark1({
     Key? key,
     double? size,
     Color? color,
@@ -2658,7 +2658,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.print({
+  IconsIcon8.print({
     Key? key,
     double? size,
     Color? color,
@@ -2672,7 +2672,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.camera({
+  IconsIcon8.camera({
     Key? key,
     double? size,
     Color? color,
@@ -2686,7 +2686,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.font({
+  IconsIcon8.font({
     Key? key,
     double? size,
     Color? color,
@@ -2700,7 +2700,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bold({
+  IconsIcon8.bold({
     Key? key,
     double? size,
     Color? color,
@@ -2714,7 +2714,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.italic({
+  IconsIcon8.italic({
     Key? key,
     double? size,
     Color? color,
@@ -2728,7 +2728,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.textHeight({
+  IconsIcon8.textHeight({
     Key? key,
     double? size,
     Color? color,
@@ -2742,7 +2742,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.textWidth({
+  IconsIcon8.textWidth({
     Key? key,
     double? size,
     Color? color,
@@ -2756,7 +2756,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alignLeft({
+  IconsIcon8.alignLeft({
     Key? key,
     double? size,
     Color? color,
@@ -2770,7 +2770,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alignCenter({
+  IconsIcon8.alignCenter({
     Key? key,
     double? size,
     Color? color,
@@ -2784,7 +2784,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alignRight({
+  IconsIcon8.alignRight({
     Key? key,
     double? size,
     Color? color,
@@ -2798,7 +2798,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alignJustify({
+  IconsIcon8.alignJustify({
     Key? key,
     double? size,
     Color? color,
@@ -2812,7 +2812,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.list1({
+  IconsIcon8.list1({
     Key? key,
     double? size,
     Color? color,
@@ -2826,7 +2826,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.outdent({
+  IconsIcon8.outdent({
     Key? key,
     double? size,
     Color? color,
@@ -2840,7 +2840,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.indent({
+  IconsIcon8.indent({
     Key? key,
     double? size,
     Color? color,
@@ -2854,7 +2854,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.video({
+  IconsIcon8.video({
     Key? key,
     double? size,
     Color? color,
@@ -2868,7 +2868,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.image1({
+  IconsIcon8.image1({
     Key? key,
     double? size,
     Color? color,
@@ -2882,7 +2882,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mapMarker1({
+  IconsIcon8.mapMarker1({
     Key? key,
     double? size,
     Color? color,
@@ -2896,7 +2896,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.adjust({
+  IconsIcon8.adjust({
     Key? key,
     double? size,
     Color? color,
@@ -2910,7 +2910,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tint({
+  IconsIcon8.tint({
     Key? key,
     double? size,
     Color? color,
@@ -2924,7 +2924,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.edit1({
+  IconsIcon8.edit1({
     Key? key,
     double? size,
     Color? color,
@@ -2938,7 +2938,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stepBackward({
+  IconsIcon8.stepBackward({
     Key? key,
     double? size,
     Color? color,
@@ -2952,7 +2952,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fastBackward1({
+  IconsIcon8.fastBackward1({
     Key? key,
     double? size,
     Color? color,
@@ -2966,7 +2966,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fastBackward({
+  IconsIcon8.fastBackward({
     Key? key,
     double? size,
     Color? color,
@@ -2980,7 +2980,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.play({
+  IconsIcon8.play({
     Key? key,
     double? size,
     Color? color,
@@ -2994,7 +2994,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pause({
+  IconsIcon8.pause({
     Key? key,
     double? size,
     Color? color,
@@ -3008,7 +3008,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stop1({
+  IconsIcon8.stop1({
     Key? key,
     double? size,
     Color? color,
@@ -3022,7 +3022,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.forward1({
+  IconsIcon8.forward1({
     Key? key,
     double? size,
     Color? color,
@@ -3036,7 +3036,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.forward({
+  IconsIcon8.forward({
     Key? key,
     double? size,
     Color? color,
@@ -3050,7 +3050,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stepForward({
+  IconsIcon8.stepForward({
     Key? key,
     double? size,
     Color? color,
@@ -3064,7 +3064,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.eject({
+  IconsIcon8.eject({
     Key? key,
     double? size,
     Color? color,
@@ -3078,7 +3078,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chevronLeft({
+  IconsIcon8.chevronLeft({
     Key? key,
     double? size,
     Color? color,
@@ -3092,7 +3092,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chevronRight({
+  IconsIcon8.chevronRight({
     Key? key,
     double? size,
     Color? color,
@@ -3106,7 +3106,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.plusCircle({
+  IconsIcon8.plusCircle({
     Key? key,
     double? size,
     Color? color,
@@ -3120,7 +3120,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.minusCircle({
+  IconsIcon8.minusCircle({
     Key? key,
     double? size,
     Color? color,
@@ -3134,7 +3134,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.timesCircle1({
+  IconsIcon8.timesCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -3148,7 +3148,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.checkCircle1({
+  IconsIcon8.checkCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -3162,7 +3162,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.questionCircle1({
+  IconsIcon8.questionCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -3176,7 +3176,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.infoCircle({
+  IconsIcon8.infoCircle({
     Key? key,
     double? size,
     Color? color,
@@ -3190,7 +3190,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.crosshairs({
+  IconsIcon8.crosshairs({
     Key? key,
     double? size,
     Color? color,
@@ -3204,7 +3204,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ban({
+  IconsIcon8.ban({
     Key? key,
     double? size,
     Color? color,
@@ -3218,7 +3218,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.arrowLeft({
+  IconsIcon8.arrowLeft({
     Key? key,
     double? size,
     Color? color,
@@ -3232,7 +3232,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.arrowRight({
+  IconsIcon8.arrowRight({
     Key? key,
     double? size,
     Color? color,
@@ -3246,7 +3246,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.arrowUp({
+  IconsIcon8.arrowUp({
     Key? key,
     double? size,
     Color? color,
@@ -3260,7 +3260,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.arrowDown({
+  IconsIcon8.arrowDown({
     Key? key,
     double? size,
     Color? color,
@@ -3274,7 +3274,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.share({
+  IconsIcon8.share({
     Key? key,
     double? size,
     Color? color,
@@ -3288,7 +3288,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.expand({
+  IconsIcon8.expand({
     Key? key,
     double? size,
     Color? color,
@@ -3302,7 +3302,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.compress({
+  IconsIcon8.compress({
     Key? key,
     double? size,
     Color? color,
@@ -3316,7 +3316,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.plus({
+  IconsIcon8.plus({
     Key? key,
     double? size,
     Color? color,
@@ -3330,7 +3330,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.minus({
+  IconsIcon8.minus({
     Key? key,
     double? size,
     Color? color,
@@ -3344,7 +3344,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.asterisk({
+  IconsIcon8.asterisk({
     Key? key,
     double? size,
     Color? color,
@@ -3358,7 +3358,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.exclamationCircle({
+  IconsIcon8.exclamationCircle({
     Key? key,
     double? size,
     Color? color,
@@ -3372,7 +3372,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gift({
+  IconsIcon8.gift({
     Key? key,
     double? size,
     Color? color,
@@ -3386,7 +3386,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.leaf({
+  IconsIcon8.leaf({
     Key? key,
     double? size,
     Color? color,
@@ -3400,7 +3400,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fire({
+  IconsIcon8.fire({
     Key? key,
     double? size,
     Color? color,
@@ -3414,7 +3414,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.eye1({
+  IconsIcon8.eye1({
     Key? key,
     double? size,
     Color? color,
@@ -3428,7 +3428,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.eyeSlash({
+  IconsIcon8.eyeSlash({
     Key? key,
     double? size,
     Color? color,
@@ -3442,7 +3442,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.exclamationTriangle({
+  IconsIcon8.exclamationTriangle({
     Key? key,
     double? size,
     Color? color,
@@ -3456,7 +3456,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.plane({
+  IconsIcon8.plane({
     Key? key,
     double? size,
     Color? color,
@@ -3470,7 +3470,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendar2({
+  IconsIcon8.calendar2({
     Key? key,
     double? size,
     Color? color,
@@ -3484,7 +3484,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.random({
+  IconsIcon8.random({
     Key? key,
     double? size,
     Color? color,
@@ -3498,7 +3498,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.comment1({
+  IconsIcon8.comment1({
     Key? key,
     double? size,
     Color? color,
@@ -3512,7 +3512,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.magnet({
+  IconsIcon8.magnet({
     Key? key,
     double? size,
     Color? color,
@@ -3526,7 +3526,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chevronUp({
+  IconsIcon8.chevronUp({
     Key? key,
     double? size,
     Color? color,
@@ -3540,7 +3540,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chevronDown({
+  IconsIcon8.chevronDown({
     Key? key,
     double? size,
     Color? color,
@@ -3554,7 +3554,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.retweet({
+  IconsIcon8.retweet({
     Key? key,
     double? size,
     Color? color,
@@ -3568,7 +3568,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shoppingCart({
+  IconsIcon8.shoppingCart({
     Key? key,
     double? size,
     Color? color,
@@ -3582,7 +3582,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.folder1({
+  IconsIcon8.folder1({
     Key? key,
     double? size,
     Color? color,
@@ -3596,7 +3596,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.folderOpen1({
+  IconsIcon8.folderOpen1({
     Key? key,
     double? size,
     Color? color,
@@ -3610,7 +3610,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.barChart({
+  IconsIcon8.barChart({
     Key? key,
     double? size,
     Color? color,
@@ -3624,7 +3624,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.twitterSquare({
+  IconsIcon8.twitterSquare({
     Key? key,
     double? size,
     Color? color,
@@ -3638,7 +3638,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.facebookSquare({
+  IconsIcon8.facebookSquare({
     Key? key,
     double? size,
     Color? color,
@@ -3652,7 +3652,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.retroCamera({
+  IconsIcon8.retroCamera({
     Key? key,
     double? size,
     Color? color,
@@ -3666,7 +3666,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.key({
+  IconsIcon8.key({
     Key? key,
     double? size,
     Color? color,
@@ -3680,7 +3680,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cogs({
+  IconsIcon8.cogs({
     Key? key,
     double? size,
     Color? color,
@@ -3694,7 +3694,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.comments1({
+  IconsIcon8.comments1({
     Key? key,
     double? size,
     Color? color,
@@ -3708,7 +3708,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.starHalf1({
+  IconsIcon8.starHalf1({
     Key? key,
     double? size,
     Color? color,
@@ -3722,7 +3722,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.linkedin({
+  IconsIcon8.linkedin({
     Key? key,
     double? size,
     Color? color,
@@ -3736,7 +3736,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thumbtack({
+  IconsIcon8.thumbtack({
     Key? key,
     double? size,
     Color? color,
@@ -3750,7 +3750,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.trophy({
+  IconsIcon8.trophy({
     Key? key,
     double? size,
     Color? color,
@@ -3764,7 +3764,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.githubSquare({
+  IconsIcon8.githubSquare({
     Key? key,
     double? size,
     Color? color,
@@ -3778,7 +3778,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.upload({
+  IconsIcon8.upload({
     Key? key,
     double? size,
     Color? color,
@@ -3792,7 +3792,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lemon1({
+  IconsIcon8.lemon1({
     Key? key,
     double? size,
     Color? color,
@@ -3806,7 +3806,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.phone({
+  IconsIcon8.phone({
     Key? key,
     double? size,
     Color? color,
@@ -3820,7 +3820,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.phoneSquare({
+  IconsIcon8.phoneSquare({
     Key? key,
     double? size,
     Color? color,
@@ -3834,7 +3834,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.twitter({
+  IconsIcon8.twitter({
     Key? key,
     double? size,
     Color? color,
@@ -3848,7 +3848,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.facebook({
+  IconsIcon8.facebook({
     Key? key,
     double? size,
     Color? color,
@@ -3862,7 +3862,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.github({
+  IconsIcon8.github({
     Key? key,
     double? size,
     Color? color,
@@ -3876,7 +3876,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.unlock1({
+  IconsIcon8.unlock1({
     Key? key,
     double? size,
     Color? color,
@@ -3890,7 +3890,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creditCard1({
+  IconsIcon8.creditCard1({
     Key? key,
     double? size,
     Color? color,
@@ -3904,7 +3904,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rss({
+  IconsIcon8.rss({
     Key? key,
     double? size,
     Color? color,
@@ -3918,7 +3918,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hdd1({
+  IconsIcon8.hdd1({
     Key? key,
     double? size,
     Color? color,
@@ -3932,7 +3932,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bullhorn({
+  IconsIcon8.bullhorn({
     Key? key,
     double? size,
     Color? color,
@@ -3946,7 +3946,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.certificate1({
+  IconsIcon8.certificate1({
     Key? key,
     double? size,
     Color? color,
@@ -3960,7 +3960,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handPointingRight1({
+  IconsIcon8.handPointingRight1({
     Key? key,
     double? size,
     Color? color,
@@ -3974,7 +3974,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handPointingLeft1({
+  IconsIcon8.handPointingLeft1({
     Key? key,
     double? size,
     Color? color,
@@ -3988,7 +3988,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handPointingUp1({
+  IconsIcon8.handPointingUp1({
     Key? key,
     double? size,
     Color? color,
@@ -4002,7 +4002,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handPointingDown1({
+  IconsIcon8.handPointingDown1({
     Key? key,
     double? size,
     Color? color,
@@ -4016,7 +4016,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.arrowCircleLeft({
+  IconsIcon8.arrowCircleLeft({
     Key? key,
     double? size,
     Color? color,
@@ -4030,7 +4030,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.arrowCircleRight({
+  IconsIcon8.arrowCircleRight({
     Key? key,
     double? size,
     Color? color,
@@ -4044,7 +4044,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.arrowCircleUp({
+  IconsIcon8.arrowCircleUp({
     Key? key,
     double? size,
     Color? color,
@@ -4058,7 +4058,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.arrowCircleDown({
+  IconsIcon8.arrowCircleDown({
     Key? key,
     double? size,
     Color? color,
@@ -4072,7 +4072,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.globe({
+  IconsIcon8.globe({
     Key? key,
     double? size,
     Color? color,
@@ -4086,7 +4086,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wrench({
+  IconsIcon8.wrench({
     Key? key,
     double? size,
     Color? color,
@@ -4100,7 +4100,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tasks({
+  IconsIcon8.tasks({
     Key? key,
     double? size,
     Color? color,
@@ -4114,7 +4114,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.filter({
+  IconsIcon8.filter({
     Key? key,
     double? size,
     Color? color,
@@ -4128,7 +4128,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.briefcase({
+  IconsIcon8.briefcase({
     Key? key,
     double? size,
     Color? color,
@@ -4142,7 +4142,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateArrows({
+  IconsIcon8.alternateArrows({
     Key? key,
     double? size,
     Color? color,
@@ -4156,7 +4156,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.users({
+  IconsIcon8.users({
     Key? key,
     double? size,
     Color? color,
@@ -4170,7 +4170,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.link({
+  IconsIcon8.link({
     Key? key,
     double? size,
     Color? color,
@@ -4184,7 +4184,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cloud({
+  IconsIcon8.cloud({
     Key? key,
     double? size,
     Color? color,
@@ -4198,7 +4198,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.flask({
+  IconsIcon8.flask({
     Key? key,
     double? size,
     Color? color,
@@ -4212,7 +4212,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cut({
+  IconsIcon8.cut({
     Key? key,
     double? size,
     Color? color,
@@ -4226,7 +4226,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.copy1({
+  IconsIcon8.copy1({
     Key? key,
     double? size,
     Color? color,
@@ -4240,7 +4240,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.paperclip({
+  IconsIcon8.paperclip({
     Key? key,
     double? size,
     Color? color,
@@ -4254,7 +4254,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.save1({
+  IconsIcon8.save1({
     Key? key,
     double? size,
     Color? color,
@@ -4268,7 +4268,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stop({
+  IconsIcon8.stop({
     Key? key,
     double? size,
     Color? color,
@@ -4282,7 +4282,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bars({
+  IconsIcon8.bars({
     Key? key,
     double? size,
     Color? color,
@@ -4296,7 +4296,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.list({
+  IconsIcon8.list({
     Key? key,
     double? size,
     Color? color,
@@ -4310,7 +4310,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.listOl({
+  IconsIcon8.listOl({
     Key? key,
     double? size,
     Color? color,
@@ -4324,7 +4324,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.strikethrough({
+  IconsIcon8.strikethrough({
     Key? key,
     double? size,
     Color? color,
@@ -4338,7 +4338,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.underline({
+  IconsIcon8.underline({
     Key? key,
     double? size,
     Color? color,
@@ -4352,7 +4352,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.table({
+  IconsIcon8.table({
     Key? key,
     double? size,
     Color? color,
@@ -4366,7 +4366,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.magic({
+  IconsIcon8.magic({
     Key? key,
     double? size,
     Color? color,
@@ -4380,7 +4380,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.truck1({
+  IconsIcon8.truck1({
     Key? key,
     double? size,
     Color? color,
@@ -4394,7 +4394,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pinterest({
+  IconsIcon8.pinterest({
     Key? key,
     double? size,
     Color? color,
@@ -4408,7 +4408,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pinterestSquare({
+  IconsIcon8.pinterestSquare({
     Key? key,
     double? size,
     Color? color,
@@ -4422,7 +4422,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.googlePlusSquare({
+  IconsIcon8.googlePlusSquare({
     Key? key,
     double? size,
     Color? color,
@@ -4436,7 +4436,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.googlePlusG1({
+  IconsIcon8.googlePlusG1({
     Key? key,
     double? size,
     Color? color,
@@ -4450,7 +4450,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.moneyBill({
+  IconsIcon8.moneyBill({
     Key? key,
     double? size,
     Color? color,
@@ -4464,7 +4464,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretDown1({
+  IconsIcon8.caretDown1({
     Key? key,
     double? size,
     Color? color,
@@ -4478,7 +4478,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretUp1({
+  IconsIcon8.caretUp1({
     Key? key,
     double? size,
     Color? color,
@@ -4492,7 +4492,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretLeft({
+  IconsIcon8.caretLeft({
     Key? key,
     double? size,
     Color? color,
@@ -4506,7 +4506,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretRight({
+  IconsIcon8.caretRight({
     Key? key,
     double? size,
     Color? color,
@@ -4520,7 +4520,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.columns({
+  IconsIcon8.columns({
     Key? key,
     double? size,
     Color? color,
@@ -4534,7 +4534,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sort({
+  IconsIcon8.sort({
     Key? key,
     double? size,
     Color? color,
@@ -4548,7 +4548,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretDown({
+  IconsIcon8.caretDown({
     Key? key,
     double? size,
     Color? color,
@@ -4562,7 +4562,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretUp({
+  IconsIcon8.caretUp({
     Key? key,
     double? size,
     Color? color,
@@ -4576,7 +4576,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.envelope1({
+  IconsIcon8.envelope1({
     Key? key,
     double? size,
     Color? color,
@@ -4590,7 +4590,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.linkedinIn({
+  IconsIcon8.linkedinIn({
     Key? key,
     double? size,
     Color? color,
@@ -4604,7 +4604,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.undo({
+  IconsIcon8.undo({
     Key? key,
     double? size,
     Color? color,
@@ -4618,7 +4618,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gavel({
+  IconsIcon8.gavel({
     Key? key,
     double? size,
     Color? color,
@@ -4632,7 +4632,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lightningBolt({
+  IconsIcon8.lightningBolt({
     Key? key,
     double? size,
     Color? color,
@@ -4646,7 +4646,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sitemap({
+  IconsIcon8.sitemap({
     Key? key,
     double? size,
     Color? color,
@@ -4660,7 +4660,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.umbrella({
+  IconsIcon8.umbrella({
     Key? key,
     double? size,
     Color? color,
@@ -4674,7 +4674,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.clipboard1({
+  IconsIcon8.clipboard1({
     Key? key,
     double? size,
     Color? color,
@@ -4688,7 +4688,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lightbulb1({
+  IconsIcon8.lightbulb1({
     Key? key,
     double? size,
     Color? color,
@@ -4702,7 +4702,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.doctor({
+  IconsIcon8.doctor({
     Key? key,
     double? size,
     Color? color,
@@ -4716,7 +4716,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stethoscope({
+  IconsIcon8.stethoscope({
     Key? key,
     double? size,
     Color? color,
@@ -4730,7 +4730,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.suitcase({
+  IconsIcon8.suitcase({
     Key? key,
     double? size,
     Color? color,
@@ -4744,7 +4744,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bell1({
+  IconsIcon8.bell1({
     Key? key,
     double? size,
     Color? color,
@@ -4758,7 +4758,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.coffee({
+  IconsIcon8.coffee({
     Key? key,
     double? size,
     Color? color,
@@ -4772,7 +4772,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hospital1({
+  IconsIcon8.hospital1({
     Key? key,
     double? size,
     Color? color,
@@ -4786,7 +4786,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ambulance({
+  IconsIcon8.ambulance({
     Key? key,
     double? size,
     Color? color,
@@ -4800,7 +4800,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.medkit2({
+  IconsIcon8.medkit2({
     Key? key,
     double? size,
     Color? color,
@@ -4814,7 +4814,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fighterJet({
+  IconsIcon8.fighterJet({
     Key? key,
     double? size,
     Color? color,
@@ -4828,7 +4828,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.beer({
+  IconsIcon8.beer({
     Key? key,
     double? size,
     Color? color,
@@ -4842,7 +4842,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hSquare1({
+  IconsIcon8.hSquare1({
     Key? key,
     double? size,
     Color? color,
@@ -4856,7 +4856,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.plusSquare1({
+  IconsIcon8.plusSquare1({
     Key? key,
     double? size,
     Color? color,
@@ -4870,7 +4870,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angleDoubleLeft({
+  IconsIcon8.angleDoubleLeft({
     Key? key,
     double? size,
     Color? color,
@@ -4884,7 +4884,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angleDoubleRight({
+  IconsIcon8.angleDoubleRight({
     Key? key,
     double? size,
     Color? color,
@@ -4898,7 +4898,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angleDoubleUp({
+  IconsIcon8.angleDoubleUp({
     Key? key,
     double? size,
     Color? color,
@@ -4912,7 +4912,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angleDoubleDown({
+  IconsIcon8.angleDoubleDown({
     Key? key,
     double? size,
     Color? color,
@@ -4926,7 +4926,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angleLeft({
+  IconsIcon8.angleLeft({
     Key? key,
     double? size,
     Color? color,
@@ -4940,7 +4940,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angleRight({
+  IconsIcon8.angleRight({
     Key? key,
     double? size,
     Color? color,
@@ -4954,7 +4954,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angleUp({
+  IconsIcon8.angleUp({
     Key? key,
     double? size,
     Color? color,
@@ -4968,7 +4968,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angleDown({
+  IconsIcon8.angleDown({
     Key? key,
     double? size,
     Color? color,
@@ -4982,7 +4982,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.desktop({
+  IconsIcon8.desktop({
     Key? key,
     double? size,
     Color? color,
@@ -4996,7 +4996,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.laptop({
+  IconsIcon8.laptop({
     Key? key,
     double? size,
     Color? color,
@@ -5010,7 +5010,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tablet1({
+  IconsIcon8.tablet1({
     Key? key,
     double? size,
     Color? color,
@@ -5024,7 +5024,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mobilePhone1({
+  IconsIcon8.mobilePhone1({
     Key? key,
     double? size,
     Color? color,
@@ -5038,7 +5038,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.quoteLeft({
+  IconsIcon8.quoteLeft({
     Key? key,
     double? size,
     Color? color,
@@ -5052,7 +5052,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.quoteRight({
+  IconsIcon8.quoteRight({
     Key? key,
     double? size,
     Color? color,
@@ -5066,7 +5066,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.spinner({
+  IconsIcon8.spinner({
     Key? key,
     double? size,
     Color? color,
@@ -5080,7 +5080,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.circle({
+  IconsIcon8.circle({
     Key? key,
     double? size,
     Color? color,
@@ -5094,7 +5094,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateGithub({
+  IconsIcon8.alternateGithub({
     Key? key,
     double? size,
     Color? color,
@@ -5108,7 +5108,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.smilingFace1({
+  IconsIcon8.smilingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -5122,7 +5122,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.frowningFace1({
+  IconsIcon8.frowningFace1({
     Key? key,
     double? size,
     Color? color,
@@ -5136,7 +5136,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.neutralFace1({
+  IconsIcon8.neutralFace1({
     Key? key,
     double? size,
     Color? color,
@@ -5150,7 +5150,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gamepad({
+  IconsIcon8.gamepad({
     Key? key,
     double? size,
     Color? color,
@@ -5164,7 +5164,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.keyboard1({
+  IconsIcon8.keyboard1({
     Key? key,
     double? size,
     Color? color,
@@ -5178,7 +5178,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.flagCheckered({
+  IconsIcon8.flagCheckered({
     Key? key,
     double? size,
     Color? color,
@@ -5192,7 +5192,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.terminal({
+  IconsIcon8.terminal({
     Key? key,
     double? size,
     Color? color,
@@ -5206,7 +5206,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.code({
+  IconsIcon8.code({
     Key? key,
     double? size,
     Color? color,
@@ -5220,7 +5220,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.replyAll({
+  IconsIcon8.replyAll({
     Key? key,
     double? size,
     Color? color,
@@ -5234,7 +5234,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.locationArrow({
+  IconsIcon8.locationArrow({
     Key? key,
     double? size,
     Color? color,
@@ -5248,7 +5248,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.crop({
+  IconsIcon8.crop({
     Key? key,
     double? size,
     Color? color,
@@ -5262,7 +5262,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.codeBranch({
+  IconsIcon8.codeBranch({
     Key? key,
     double? size,
     Color? color,
@@ -5276,7 +5276,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.unlink({
+  IconsIcon8.unlink({
     Key? key,
     double? size,
     Color? color,
@@ -5290,7 +5290,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.question({
+  IconsIcon8.question({
     Key? key,
     double? size,
     Color? color,
@@ -5304,7 +5304,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.info({
+  IconsIcon8.info({
     Key? key,
     double? size,
     Color? color,
@@ -5318,7 +5318,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.exclamation({
+  IconsIcon8.exclamation({
     Key? key,
     double? size,
     Color? color,
@@ -5332,7 +5332,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.superscript({
+  IconsIcon8.superscript({
     Key? key,
     double? size,
     Color? color,
@@ -5346,7 +5346,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.subscript({
+  IconsIcon8.subscript({
     Key? key,
     double? size,
     Color? color,
@@ -5360,7 +5360,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.eraser({
+  IconsIcon8.eraser({
     Key? key,
     double? size,
     Color? color,
@@ -5374,7 +5374,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.puzzlePiece({
+  IconsIcon8.puzzlePiece({
     Key? key,
     double? size,
     Color? color,
@@ -5388,7 +5388,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.microphone({
+  IconsIcon8.microphone({
     Key? key,
     double? size,
     Color? color,
@@ -5402,7 +5402,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.microphoneSlash({
+  IconsIcon8.microphoneSlash({
     Key? key,
     double? size,
     Color? color,
@@ -5416,7 +5416,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendar1({
+  IconsIcon8.calendar1({
     Key? key,
     double? size,
     Color? color,
@@ -5430,7 +5430,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fireExtinguisher({
+  IconsIcon8.fireExtinguisher({
     Key? key,
     double? size,
     Color? color,
@@ -5444,7 +5444,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rocket({
+  IconsIcon8.rocket({
     Key? key,
     double? size,
     Color? color,
@@ -5458,7 +5458,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.maxcdn({
+  IconsIcon8.maxcdn({
     Key? key,
     double? size,
     Color? color,
@@ -5472,7 +5472,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chevronCircleLeft({
+  IconsIcon8.chevronCircleLeft({
     Key? key,
     double? size,
     Color? color,
@@ -5486,7 +5486,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chevronCircleRight({
+  IconsIcon8.chevronCircleRight({
     Key? key,
     double? size,
     Color? color,
@@ -5500,7 +5500,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chevronCircleUp({
+  IconsIcon8.chevronCircleUp({
     Key? key,
     double? size,
     Color? color,
@@ -5514,7 +5514,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chevronCircleDown({
+  IconsIcon8.chevronCircleDown({
     Key? key,
     double? size,
     Color? color,
@@ -5528,7 +5528,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.html5Logo({
+  IconsIcon8.html5Logo({
     Key? key,
     double? size,
     Color? color,
@@ -5542,7 +5542,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.css3Logo({
+  IconsIcon8.css3Logo({
     Key? key,
     double? size,
     Color? color,
@@ -5556,7 +5556,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.anchor({
+  IconsIcon8.anchor({
     Key? key,
     double? size,
     Color? color,
@@ -5570,7 +5570,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateUnlock({
+  IconsIcon8.alternateUnlock({
     Key? key,
     double? size,
     Color? color,
@@ -5584,7 +5584,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bullseye({
+  IconsIcon8.bullseye({
     Key? key,
     double? size,
     Color? color,
@@ -5598,7 +5598,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.horizontalEllipsis({
+  IconsIcon8.horizontalEllipsis({
     Key? key,
     double? size,
     Color? color,
@@ -5612,7 +5612,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.verticalEllipsis({
+  IconsIcon8.verticalEllipsis({
     Key? key,
     double? size,
     Color? color,
@@ -5626,7 +5626,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rssSquare({
+  IconsIcon8.rssSquare({
     Key? key,
     double? size,
     Color? color,
@@ -5640,7 +5640,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.playCircle1({
+  IconsIcon8.playCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -5654,7 +5654,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.minusSquare1({
+  IconsIcon8.minusSquare1({
     Key? key,
     double? size,
     Color? color,
@@ -5668,7 +5668,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.checkSquare({
+  IconsIcon8.checkSquare({
     Key? key,
     double? size,
     Color? color,
@@ -5682,7 +5682,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.penSquare({
+  IconsIcon8.penSquare({
     Key? key,
     double? size,
     Color? color,
@@ -5696,7 +5696,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shareSquare1({
+  IconsIcon8.shareSquare1({
     Key? key,
     double? size,
     Color? color,
@@ -5710,7 +5710,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.compass1({
+  IconsIcon8.compass1({
     Key? key,
     double? size,
     Color? color,
@@ -5724,7 +5724,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretSquareDown1({
+  IconsIcon8.caretSquareDown1({
     Key? key,
     double? size,
     Color? color,
@@ -5738,7 +5738,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretSquareUp1({
+  IconsIcon8.caretSquareUp1({
     Key? key,
     double? size,
     Color? color,
@@ -5752,7 +5752,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretSquareRight1({
+  IconsIcon8.caretSquareRight1({
     Key? key,
     double? size,
     Color? color,
@@ -5766,7 +5766,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.euroSign({
+  IconsIcon8.euroSign({
     Key? key,
     double? size,
     Color? color,
@@ -5780,7 +5780,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.poundSign({
+  IconsIcon8.poundSign({
     Key? key,
     double? size,
     Color? color,
@@ -5794,7 +5794,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dollarSign({
+  IconsIcon8.dollarSign({
     Key? key,
     double? size,
     Color? color,
@@ -5808,7 +5808,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.indianRupeeSign({
+  IconsIcon8.indianRupeeSign({
     Key? key,
     double? size,
     Color? color,
@@ -5822,7 +5822,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.yenSign({
+  IconsIcon8.yenSign({
     Key? key,
     double? size,
     Color? color,
@@ -5836,7 +5836,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rubleSign({
+  IconsIcon8.rubleSign({
     Key? key,
     double? size,
     Color? color,
@@ -5850,7 +5850,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wonSign({
+  IconsIcon8.wonSign({
     Key? key,
     double? size,
     Color? color,
@@ -5864,7 +5864,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.btc1({
+  IconsIcon8.btc1({
     Key? key,
     double? size,
     Color? color,
@@ -5878,7 +5878,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.file1({
+  IconsIcon8.file1({
     Key? key,
     double? size,
     Color? color,
@@ -5892,7 +5892,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateFile1({
+  IconsIcon8.alternateFile1({
     Key? key,
     double? size,
     Color? color,
@@ -5906,7 +5906,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sortAlphabeticalDown({
+  IconsIcon8.sortAlphabeticalDown({
     Key? key,
     double? size,
     Color? color,
@@ -5920,7 +5920,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sortAlphabeticalUp({
+  IconsIcon8.sortAlphabeticalUp({
     Key? key,
     double? size,
     Color? color,
@@ -5934,7 +5934,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sortAmountDown({
+  IconsIcon8.sortAmountDown({
     Key? key,
     double? size,
     Color? color,
@@ -5948,7 +5948,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sortAmountUp({
+  IconsIcon8.sortAmountUp({
     Key? key,
     double? size,
     Color? color,
@@ -5962,7 +5962,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sortNumericDown({
+  IconsIcon8.sortNumericDown({
     Key? key,
     double? size,
     Color? color,
@@ -5976,7 +5976,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sortNumericUp({
+  IconsIcon8.sortNumericUp({
     Key? key,
     double? size,
     Color? color,
@@ -5990,7 +5990,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thumbsUp1({
+  IconsIcon8.thumbsUp1({
     Key? key,
     double? size,
     Color? color,
@@ -6004,7 +6004,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thumbsDown1({
+  IconsIcon8.thumbsDown1({
     Key? key,
     double? size,
     Color? color,
@@ -6018,7 +6018,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.youtube({
+  IconsIcon8.youtube({
     Key? key,
     double? size,
     Color? color,
@@ -6032,7 +6032,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.xing({
+  IconsIcon8.xing({
     Key? key,
     double? size,
     Color? color,
@@ -6046,7 +6046,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.xingSquare({
+  IconsIcon8.xingSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6060,7 +6060,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dropbox({
+  IconsIcon8.dropbox({
     Key? key,
     double? size,
     Color? color,
@@ -6074,7 +6074,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stackOverflow({
+  IconsIcon8.stackOverflow({
     Key? key,
     double? size,
     Color? color,
@@ -6088,7 +6088,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.instagram({
+  IconsIcon8.instagram({
     Key? key,
     double? size,
     Color? color,
@@ -6102,7 +6102,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.flickr({
+  IconsIcon8.flickr({
     Key? key,
     double? size,
     Color? color,
@@ -6116,7 +6116,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.appNet({
+  IconsIcon8.appNet({
     Key? key,
     double? size,
     Color? color,
@@ -6130,7 +6130,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bitbucket({
+  IconsIcon8.bitbucket({
     Key? key,
     double? size,
     Color? color,
@@ -6144,7 +6144,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tumblr({
+  IconsIcon8.tumblr({
     Key? key,
     double? size,
     Color? color,
@@ -6158,7 +6158,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tumblrSquare({
+  IconsIcon8.tumblrSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6172,7 +6172,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.apple({
+  IconsIcon8.apple({
     Key? key,
     double? size,
     Color? color,
@@ -6186,7 +6186,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.windows({
+  IconsIcon8.windows({
     Key? key,
     double? size,
     Color? color,
@@ -6200,7 +6200,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.android({
+  IconsIcon8.android({
     Key? key,
     double? size,
     Color? color,
@@ -6214,7 +6214,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.linux({
+  IconsIcon8.linux({
     Key? key,
     double? size,
     Color? color,
@@ -6228,7 +6228,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dribbble({
+  IconsIcon8.dribbble({
     Key? key,
     double? size,
     Color? color,
@@ -6242,7 +6242,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.skype({
+  IconsIcon8.skype({
     Key? key,
     double? size,
     Color? color,
@@ -6256,7 +6256,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.foursquare({
+  IconsIcon8.foursquare({
     Key? key,
     double? size,
     Color? color,
@@ -6270,7 +6270,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.trello({
+  IconsIcon8.trello({
     Key? key,
     double? size,
     Color? color,
@@ -6284,7 +6284,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.female({
+  IconsIcon8.female({
     Key? key,
     double? size,
     Color? color,
@@ -6298,7 +6298,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.male({
+  IconsIcon8.male({
     Key? key,
     double? size,
     Color? color,
@@ -6312,7 +6312,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gratipayXgittip({
+  IconsIcon8.gratipayXgittip({
     Key? key,
     double? size,
     Color? color,
@@ -6326,7 +6326,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sun1({
+  IconsIcon8.sun1({
     Key? key,
     double? size,
     Color? color,
@@ -6340,7 +6340,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.moon1({
+  IconsIcon8.moon1({
     Key? key,
     double? size,
     Color? color,
@@ -6354,7 +6354,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.archive({
+  IconsIcon8.archive({
     Key? key,
     double? size,
     Color? color,
@@ -6368,7 +6368,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bug({
+  IconsIcon8.bug({
     Key? key,
     double? size,
     Color? color,
@@ -6382,7 +6382,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.vk({
+  IconsIcon8.vk({
     Key? key,
     double? size,
     Color? color,
@@ -6396,7 +6396,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.weibo({
+  IconsIcon8.weibo({
     Key? key,
     double? size,
     Color? color,
@@ -6410,7 +6410,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.renren({
+  IconsIcon8.renren({
     Key? key,
     double? size,
     Color? color,
@@ -6424,7 +6424,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pagelines({
+  IconsIcon8.pagelines({
     Key? key,
     double? size,
     Color? color,
@@ -6438,7 +6438,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stackExchange({
+  IconsIcon8.stackExchange({
     Key? key,
     double? size,
     Color? color,
@@ -6452,7 +6452,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.caretSquareLeft1({
+  IconsIcon8.caretSquareLeft1({
     Key? key,
     double? size,
     Color? color,
@@ -6466,7 +6466,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dotCircle1({
+  IconsIcon8.dotCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -6480,7 +6480,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wheelchair({
+  IconsIcon8.wheelchair({
     Key? key,
     double? size,
     Color? color,
@@ -6494,7 +6494,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.vimeoSquare({
+  IconsIcon8.vimeoSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6508,7 +6508,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.turkishLiraSign({
+  IconsIcon8.turkishLiraSign({
     Key? key,
     double? size,
     Color? color,
@@ -6522,7 +6522,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.spaceShuttle({
+  IconsIcon8.spaceShuttle({
     Key? key,
     double? size,
     Color? color,
@@ -6536,7 +6536,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.slackLogo1({
+  IconsIcon8.slackLogo1({
     Key? key,
     double? size,
     Color? color,
@@ -6550,7 +6550,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.envelopeSquare({
+  IconsIcon8.envelopeSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6564,7 +6564,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wordpressLogo({
+  IconsIcon8.wordpressLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6578,7 +6578,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.openid({
+  IconsIcon8.openid({
     Key? key,
     double? size,
     Color? color,
@@ -6592,7 +6592,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.university({
+  IconsIcon8.university({
     Key? key,
     double? size,
     Color? color,
@@ -6606,7 +6606,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.graduationCap({
+  IconsIcon8.graduationCap({
     Key? key,
     double? size,
     Color? color,
@@ -6620,7 +6620,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.yahooLogo({
+  IconsIcon8.yahooLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6634,7 +6634,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.googleLogo({
+  IconsIcon8.googleLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6648,7 +6648,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.redditLogo1({
+  IconsIcon8.redditLogo1({
     Key? key,
     double? size,
     Color? color,
@@ -6662,7 +6662,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.redditSquare({
+  IconsIcon8.redditSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6676,7 +6676,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stumbleuponCircle({
+  IconsIcon8.stumbleuponCircle({
     Key? key,
     double? size,
     Color? color,
@@ -6690,7 +6690,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stumbleuponLogo({
+  IconsIcon8.stumbleuponLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6704,7 +6704,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.delicious({
+  IconsIcon8.delicious({
     Key? key,
     double? size,
     Color? color,
@@ -6718,7 +6718,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.diggLogo({
+  IconsIcon8.diggLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6732,7 +6732,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.piedPiperPpLogoXoldX1({
+  IconsIcon8.piedPiperPpLogoXoldX1({
     Key? key,
     double? size,
     Color? color,
@@ -6746,7 +6746,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternatePiedPiperLogo({
+  IconsIcon8.alternatePiedPiperLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6760,7 +6760,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.drupalLogo({
+  IconsIcon8.drupalLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6774,7 +6774,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.joomlaLogo({
+  IconsIcon8.joomlaLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6788,7 +6788,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.language({
+  IconsIcon8.language({
     Key? key,
     double? size,
     Color? color,
@@ -6802,7 +6802,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fax({
+  IconsIcon8.fax({
     Key? key,
     double? size,
     Color? color,
@@ -6816,7 +6816,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.building1({
+  IconsIcon8.building1({
     Key? key,
     double? size,
     Color? color,
@@ -6830,7 +6830,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.child({
+  IconsIcon8.child({
     Key? key,
     double? size,
     Color? color,
@@ -6844,7 +6844,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.paw({
+  IconsIcon8.paw({
     Key? key,
     double? size,
     Color? color,
@@ -6858,7 +6858,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cube({
+  IconsIcon8.cube({
     Key? key,
     double? size,
     Color? color,
@@ -6872,7 +6872,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cubes({
+  IconsIcon8.cubes({
     Key? key,
     double? size,
     Color? color,
@@ -6886,7 +6886,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.behance({
+  IconsIcon8.behance({
     Key? key,
     double? size,
     Color? color,
@@ -6900,7 +6900,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.behanceSquare({
+  IconsIcon8.behanceSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6914,7 +6914,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.steam({
+  IconsIcon8.steam({
     Key? key,
     double? size,
     Color? color,
@@ -6928,7 +6928,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.steamSquare({
+  IconsIcon8.steamSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6942,7 +6942,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.recycle({
+  IconsIcon8.recycle({
     Key? key,
     double? size,
     Color? color,
@@ -6956,7 +6956,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.car({
+  IconsIcon8.car({
     Key? key,
     double? size,
     Color? color,
@@ -6970,7 +6970,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.taxi({
+  IconsIcon8.taxi({
     Key? key,
     double? size,
     Color? color,
@@ -6984,7 +6984,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tree({
+  IconsIcon8.tree({
     Key? key,
     double? size,
     Color? color,
@@ -6998,7 +6998,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.spotify({
+  IconsIcon8.spotify({
     Key? key,
     double? size,
     Color? color,
@@ -7012,7 +7012,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.deviantart({
+  IconsIcon8.deviantart({
     Key? key,
     double? size,
     Color? color,
@@ -7026,7 +7026,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.soundcloud({
+  IconsIcon8.soundcloud({
     Key? key,
     double? size,
     Color? color,
@@ -7040,7 +7040,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.database({
+  IconsIcon8.database({
     Key? key,
     double? size,
     Color? color,
@@ -7054,7 +7054,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pdfFile1({
+  IconsIcon8.pdfFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7068,7 +7068,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wordFile1({
+  IconsIcon8.wordFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7082,7 +7082,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.excelFile1({
+  IconsIcon8.excelFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7096,7 +7096,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.powerpointFile1({
+  IconsIcon8.powerpointFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7110,7 +7110,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.imageFile1({
+  IconsIcon8.imageFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7124,7 +7124,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.archiveFile1({
+  IconsIcon8.archiveFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7138,7 +7138,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.audioFile1({
+  IconsIcon8.audioFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7152,7 +7152,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.videoFile1({
+  IconsIcon8.videoFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7166,7 +7166,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.codeFile1({
+  IconsIcon8.codeFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7180,7 +7180,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.vine({
+  IconsIcon8.vine({
     Key? key,
     double? size,
     Color? color,
@@ -7194,7 +7194,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.codepen({
+  IconsIcon8.codepen({
     Key? key,
     double? size,
     Color? color,
@@ -7208,7 +7208,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.jsfiddle({
+  IconsIcon8.jsfiddle({
     Key? key,
     double? size,
     Color? color,
@@ -7222,7 +7222,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lifeRing1({
+  IconsIcon8.lifeRing1({
     Key? key,
     double? size,
     Color? color,
@@ -7236,7 +7236,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.circleNotched({
+  IconsIcon8.circleNotched({
     Key? key,
     double? size,
     Color? color,
@@ -7250,7 +7250,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rebelAlliance({
+  IconsIcon8.rebelAlliance({
     Key? key,
     double? size,
     Color? color,
@@ -7264,7 +7264,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.galacticEmpire1({
+  IconsIcon8.galacticEmpire1({
     Key? key,
     double? size,
     Color? color,
@@ -7278,7 +7278,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gitSquare({
+  IconsIcon8.gitSquare({
     Key? key,
     double? size,
     Color? color,
@@ -7292,7 +7292,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.git1({
+  IconsIcon8.git1({
     Key? key,
     double? size,
     Color? color,
@@ -7306,7 +7306,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hackerNews1({
+  IconsIcon8.hackerNews1({
     Key? key,
     double? size,
     Color? color,
@@ -7320,7 +7320,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tencentWeibo({
+  IconsIcon8.tencentWeibo({
     Key? key,
     double? size,
     Color? color,
@@ -7334,7 +7334,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.qq({
+  IconsIcon8.qq({
     Key? key,
     double? size,
     Color? color,
@@ -7348,7 +7348,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.weixinXwechat({
+  IconsIcon8.weixinXwechat({
     Key? key,
     double? size,
     Color? color,
@@ -7362,7 +7362,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.paperPlane1({
+  IconsIcon8.paperPlane1({
     Key? key,
     double? size,
     Color? color,
@@ -7376,7 +7376,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.history({
+  IconsIcon8.history({
     Key? key,
     double? size,
     Color? color,
@@ -7390,7 +7390,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.heading({
+  IconsIcon8.heading({
     Key? key,
     double? size,
     Color? color,
@@ -7404,7 +7404,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.paragraph({
+  IconsIcon8.paragraph({
     Key? key,
     double? size,
     Color? color,
@@ -7418,7 +7418,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.horizontalSliders({
+  IconsIcon8.horizontalSliders({
     Key? key,
     double? size,
     Color? color,
@@ -7432,7 +7432,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateShare({
+  IconsIcon8.alternateShare({
     Key? key,
     double? size,
     Color? color,
@@ -7446,7 +7446,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateShareSquare({
+  IconsIcon8.alternateShareSquare({
     Key? key,
     double? size,
     Color? color,
@@ -7460,7 +7460,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bomb({
+  IconsIcon8.bomb({
     Key? key,
     double? size,
     Color? color,
@@ -7474,7 +7474,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.futbol1({
+  IconsIcon8.futbol1({
     Key? key,
     double? size,
     Color? color,
@@ -7488,7 +7488,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tty({
+  IconsIcon8.tty({
     Key? key,
     double? size,
     Color? color,
@@ -7502,7 +7502,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.binoculars({
+  IconsIcon8.binoculars({
     Key? key,
     double? size,
     Color? color,
@@ -7516,7 +7516,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.plug({
+  IconsIcon8.plug({
     Key? key,
     double? size,
     Color? color,
@@ -7530,7 +7530,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.slideshare({
+  IconsIcon8.slideshare({
     Key? key,
     double? size,
     Color? color,
@@ -7544,7 +7544,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.twitch({
+  IconsIcon8.twitch({
     Key? key,
     double? size,
     Color? color,
@@ -7558,7 +7558,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.yelp({
+  IconsIcon8.yelp({
     Key? key,
     double? size,
     Color? color,
@@ -7572,7 +7572,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.newspaper1({
+  IconsIcon8.newspaper1({
     Key? key,
     double? size,
     Color? color,
@@ -7586,7 +7586,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wifi({
+  IconsIcon8.wifi({
     Key? key,
     double? size,
     Color? color,
@@ -7600,7 +7600,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calculator({
+  IconsIcon8.calculator({
     Key? key,
     double? size,
     Color? color,
@@ -7614,7 +7614,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.paypal1({
+  IconsIcon8.paypal1({
     Key? key,
     double? size,
     Color? color,
@@ -7628,7 +7628,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.googleWallet({
+  IconsIcon8.googleWallet({
     Key? key,
     double? size,
     Color? color,
@@ -7642,7 +7642,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.visaCreditCard({
+  IconsIcon8.visaCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -7656,7 +7656,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mastercardCreditCard({
+  IconsIcon8.mastercardCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -7670,7 +7670,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.discoverCreditCard({
+  IconsIcon8.discoverCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -7684,7 +7684,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.americanExpressCreditCard({
+  IconsIcon8.americanExpressCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -7698,7 +7698,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.paypal({
+  IconsIcon8.paypal({
     Key? key,
     double? size,
     Color? color,
@@ -7712,7 +7712,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stripeCreditCard1({
+  IconsIcon8.stripeCreditCard1({
     Key? key,
     double? size,
     Color? color,
@@ -7726,7 +7726,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bellSlash1({
+  IconsIcon8.bellSlash1({
     Key? key,
     double? size,
     Color? color,
@@ -7740,7 +7740,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.trash({
+  IconsIcon8.trash({
     Key? key,
     double? size,
     Color? color,
@@ -7754,7 +7754,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.copyright1({
+  IconsIcon8.copyright1({
     Key? key,
     double? size,
     Color? color,
@@ -7768,7 +7768,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.at({
+  IconsIcon8.at({
     Key? key,
     double? size,
     Color? color,
@@ -7782,7 +7782,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.eyeDropper({
+  IconsIcon8.eyeDropper({
     Key? key,
     double? size,
     Color? color,
@@ -7796,7 +7796,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.paintBrush({
+  IconsIcon8.paintBrush({
     Key? key,
     double? size,
     Color? color,
@@ -7810,7 +7810,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.birthdayCake({
+  IconsIcon8.birthdayCake({
     Key? key,
     double? size,
     Color? color,
@@ -7824,7 +7824,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.areaChart({
+  IconsIcon8.areaChart({
     Key? key,
     double? size,
     Color? color,
@@ -7838,7 +7838,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pieChart({
+  IconsIcon8.pieChart({
     Key? key,
     double? size,
     Color? color,
@@ -7852,7 +7852,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lineChart({
+  IconsIcon8.lineChart({
     Key? key,
     double? size,
     Color? color,
@@ -7866,7 +7866,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lastFm({
+  IconsIcon8.lastFm({
     Key? key,
     double? size,
     Color? color,
@@ -7880,7 +7880,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lastFmSquare({
+  IconsIcon8.lastFmSquare({
     Key? key,
     double? size,
     Color? color,
@@ -7894,7 +7894,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.toggleOff({
+  IconsIcon8.toggleOff({
     Key? key,
     double? size,
     Color? color,
@@ -7908,7 +7908,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.toggleOn({
+  IconsIcon8.toggleOn({
     Key? key,
     double? size,
     Color? color,
@@ -7922,7 +7922,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bicycle({
+  IconsIcon8.bicycle({
     Key? key,
     double? size,
     Color? color,
@@ -7936,7 +7936,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bus({
+  IconsIcon8.bus({
     Key? key,
     double? size,
     Color? color,
@@ -7950,7 +7950,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ioxhost({
+  IconsIcon8.ioxhost({
     Key? key,
     double? size,
     Color? color,
@@ -7964,7 +7964,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angellist({
+  IconsIcon8.angellist({
     Key? key,
     double? size,
     Color? color,
@@ -7978,7 +7978,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.closedCaptioning1({
+  IconsIcon8.closedCaptioning1({
     Key? key,
     double? size,
     Color? color,
@@ -7992,7 +7992,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shekelSign({
+  IconsIcon8.shekelSign({
     Key? key,
     double? size,
     Color? color,
@@ -8006,7 +8006,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.buysellads({
+  IconsIcon8.buysellads({
     Key? key,
     double? size,
     Color? color,
@@ -8020,7 +8020,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.connectDevelop({
+  IconsIcon8.connectDevelop({
     Key? key,
     double? size,
     Color? color,
@@ -8034,7 +8034,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dashcube({
+  IconsIcon8.dashcube({
     Key? key,
     double? size,
     Color? color,
@@ -8048,7 +8048,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.forumbee({
+  IconsIcon8.forumbee({
     Key? key,
     double? size,
     Color? color,
@@ -8062,7 +8062,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.leanpub({
+  IconsIcon8.leanpub({
     Key? key,
     double? size,
     Color? color,
@@ -8076,7 +8076,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sellsy({
+  IconsIcon8.sellsy({
     Key? key,
     double? size,
     Color? color,
@@ -8090,7 +8090,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shirtsInBulk({
+  IconsIcon8.shirtsInBulk({
     Key? key,
     double? size,
     Color? color,
@@ -8104,7 +8104,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.simplybuilt({
+  IconsIcon8.simplybuilt({
     Key? key,
     double? size,
     Color? color,
@@ -8118,7 +8118,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.skyatlas({
+  IconsIcon8.skyatlas({
     Key? key,
     double? size,
     Color? color,
@@ -8132,7 +8132,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.addToShoppingCart({
+  IconsIcon8.addToShoppingCart({
     Key? key,
     double? size,
     Color? color,
@@ -8146,7 +8146,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shoppingCartArrowDown({
+  IconsIcon8.shoppingCartArrowDown({
     Key? key,
     double? size,
     Color? color,
@@ -8160,7 +8160,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ship({
+  IconsIcon8.ship({
     Key? key,
     double? size,
     Color? color,
@@ -8174,7 +8174,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userSecret({
+  IconsIcon8.userSecret({
     Key? key,
     double? size,
     Color? color,
@@ -8188,7 +8188,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.motorcycle({
+  IconsIcon8.motorcycle({
     Key? key,
     double? size,
     Color? color,
@@ -8202,7 +8202,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.streetView({
+  IconsIcon8.streetView({
     Key? key,
     double? size,
     Color? color,
@@ -8216,7 +8216,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.heartbeat({
+  IconsIcon8.heartbeat({
     Key? key,
     double? size,
     Color? color,
@@ -8230,7 +8230,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.venus({
+  IconsIcon8.venus({
     Key? key,
     double? size,
     Color? color,
@@ -8244,7 +8244,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mars({
+  IconsIcon8.mars({
     Key? key,
     double? size,
     Color? color,
@@ -8258,7 +8258,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mercury({
+  IconsIcon8.mercury({
     Key? key,
     double? size,
     Color? color,
@@ -8272,7 +8272,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.transgender({
+  IconsIcon8.transgender({
     Key? key,
     double? size,
     Color? color,
@@ -8286,7 +8286,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateTransgender({
+  IconsIcon8.alternateTransgender({
     Key? key,
     double? size,
     Color? color,
@@ -8300,7 +8300,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.venusDouble({
+  IconsIcon8.venusDouble({
     Key? key,
     double? size,
     Color? color,
@@ -8314,7 +8314,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.marsDouble({
+  IconsIcon8.marsDouble({
     Key? key,
     double? size,
     Color? color,
@@ -8328,7 +8328,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.venusMars({
+  IconsIcon8.venusMars({
     Key? key,
     double? size,
     Color? color,
@@ -8342,7 +8342,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.marsStroke({
+  IconsIcon8.marsStroke({
     Key? key,
     double? size,
     Color? color,
@@ -8356,7 +8356,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.marsStrokeVertical({
+  IconsIcon8.marsStrokeVertical({
     Key? key,
     double? size,
     Color? color,
@@ -8370,7 +8370,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.marsStrokeHorizontal({
+  IconsIcon8.marsStrokeHorizontal({
     Key? key,
     double? size,
     Color? color,
@@ -8384,7 +8384,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.neuter1({
+  IconsIcon8.neuter1({
     Key? key,
     double? size,
     Color? color,
@@ -8398,7 +8398,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.neuter({
+  IconsIcon8.neuter({
     Key? key,
     double? size,
     Color? color,
@@ -8412,7 +8412,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pinterestP({
+  IconsIcon8.pinterestP({
     Key? key,
     double? size,
     Color? color,
@@ -8426,7 +8426,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.whatSApp({
+  IconsIcon8.whatSApp({
     Key? key,
     double? size,
     Color? color,
@@ -8440,7 +8440,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.server({
+  IconsIcon8.server({
     Key? key,
     double? size,
     Color? color,
@@ -8454,7 +8454,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userPlus({
+  IconsIcon8.userPlus({
     Key? key,
     double? size,
     Color? color,
@@ -8468,7 +8468,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.removeUser({
+  IconsIcon8.removeUser({
     Key? key,
     double? size,
     Color? color,
@@ -8482,7 +8482,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bed({
+  IconsIcon8.bed({
     Key? key,
     double? size,
     Color? color,
@@ -8496,7 +8496,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.viacoin({
+  IconsIcon8.viacoin({
     Key? key,
     double? size,
     Color? color,
@@ -8510,7 +8510,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.train({
+  IconsIcon8.train({
     Key? key,
     double? size,
     Color? color,
@@ -8524,7 +8524,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.subway({
+  IconsIcon8.subway({
     Key? key,
     double? size,
     Color? color,
@@ -8538,7 +8538,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.medium1({
+  IconsIcon8.medium1({
     Key? key,
     double? size,
     Color? color,
@@ -8552,7 +8552,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hackerNews({
+  IconsIcon8.hackerNews({
     Key? key,
     double? size,
     Color? color,
@@ -8566,7 +8566,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.optinMonster({
+  IconsIcon8.optinMonster({
     Key? key,
     double? size,
     Color? color,
@@ -8580,7 +8580,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.opencart({
+  IconsIcon8.opencart({
     Key? key,
     double? size,
     Color? color,
@@ -8594,7 +8594,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.expeditedssl({
+  IconsIcon8.expeditedssl({
     Key? key,
     double? size,
     Color? color,
@@ -8608,7 +8608,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.batteryFull({
+  IconsIcon8.batteryFull({
     Key? key,
     double? size,
     Color? color,
@@ -8622,7 +8622,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.battery34Full({
+  IconsIcon8.battery34Full({
     Key? key,
     double? size,
     Color? color,
@@ -8636,7 +8636,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.battery12Full({
+  IconsIcon8.battery12Full({
     Key? key,
     double? size,
     Color? color,
@@ -8650,7 +8650,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.battery14Full({
+  IconsIcon8.battery14Full({
     Key? key,
     double? size,
     Color? color,
@@ -8664,7 +8664,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.batteryEmpty({
+  IconsIcon8.batteryEmpty({
     Key? key,
     double? size,
     Color? color,
@@ -8678,7 +8678,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mousePointer({
+  IconsIcon8.mousePointer({
     Key? key,
     double? size,
     Color? color,
@@ -8692,7 +8692,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.iBeamCursor({
+  IconsIcon8.iBeamCursor({
     Key? key,
     double? size,
     Color? color,
@@ -8706,7 +8706,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.objectGroup1({
+  IconsIcon8.objectGroup1({
     Key? key,
     double? size,
     Color? color,
@@ -8720,7 +8720,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.objectUngroup1({
+  IconsIcon8.objectUngroup1({
     Key? key,
     double? size,
     Color? color,
@@ -8734,7 +8734,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stickyNote1({
+  IconsIcon8.stickyNote1({
     Key? key,
     double? size,
     Color? color,
@@ -8748,7 +8748,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.jcbCreditCard({
+  IconsIcon8.jcbCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -8762,7 +8762,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dinerSClubCreditCard({
+  IconsIcon8.dinerSClubCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -8776,7 +8776,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.clone({
+  IconsIcon8.clone({
     Key? key,
     double? size,
     Color? color,
@@ -8790,7 +8790,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.balanceScale({
+  IconsIcon8.balanceScale({
     Key? key,
     double? size,
     Color? color,
@@ -8804,7 +8804,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hourglassStart({
+  IconsIcon8.hourglassStart({
     Key? key,
     double? size,
     Color? color,
@@ -8818,7 +8818,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hourglassHalf({
+  IconsIcon8.hourglassHalf({
     Key? key,
     double? size,
     Color? color,
@@ -8832,7 +8832,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hourglassEnd({
+  IconsIcon8.hourglassEnd({
     Key? key,
     double? size,
     Color? color,
@@ -8846,7 +8846,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hourglass1({
+  IconsIcon8.hourglass1({
     Key? key,
     double? size,
     Color? color,
@@ -8860,7 +8860,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rockXhandX1({
+  IconsIcon8.rockXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8874,7 +8874,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.paperXhandX1({
+  IconsIcon8.paperXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8888,7 +8888,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.scissorsXhandX1({
+  IconsIcon8.scissorsXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8902,7 +8902,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lizardXhandX1({
+  IconsIcon8.lizardXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8916,7 +8916,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.spockXhandX1({
+  IconsIcon8.spockXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8930,7 +8930,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pointerXhandX1({
+  IconsIcon8.pointerXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8944,7 +8944,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.peaceXhandX1({
+  IconsIcon8.peaceXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8958,7 +8958,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.trademark({
+  IconsIcon8.trademark({
     Key? key,
     double? size,
     Color? color,
@@ -8972,7 +8972,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.registeredTrademark1({
+  IconsIcon8.registeredTrademark1({
     Key? key,
     double? size,
     Color? color,
@@ -8986,7 +8986,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommons({
+  IconsIcon8.creativeCommons({
     Key? key,
     double? size,
     Color? color,
@@ -9000,7 +9000,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ggCurrency({
+  IconsIcon8.ggCurrency({
     Key? key,
     double? size,
     Color? color,
@@ -9014,7 +9014,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ggCurrencyCircle({
+  IconsIcon8.ggCurrencyCircle({
     Key? key,
     double? size,
     Color? color,
@@ -9028,7 +9028,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tripadvisor({
+  IconsIcon8.tripadvisor({
     Key? key,
     double? size,
     Color? color,
@@ -9042,7 +9042,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.odnoklassniki({
+  IconsIcon8.odnoklassniki({
     Key? key,
     double? size,
     Color? color,
@@ -9056,7 +9056,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.odnoklassnikiSquare({
+  IconsIcon8.odnoklassnikiSquare({
     Key? key,
     double? size,
     Color? color,
@@ -9070,7 +9070,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.getPocket({
+  IconsIcon8.getPocket({
     Key? key,
     double? size,
     Color? color,
@@ -9084,7 +9084,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wikipediaW({
+  IconsIcon8.wikipediaW({
     Key? key,
     double? size,
     Color? color,
@@ -9098,7 +9098,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.safari({
+  IconsIcon8.safari({
     Key? key,
     double? size,
     Color? color,
@@ -9112,7 +9112,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chrome({
+  IconsIcon8.chrome({
     Key? key,
     double? size,
     Color? color,
@@ -9126,7 +9126,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.firefox({
+  IconsIcon8.firefox({
     Key? key,
     double? size,
     Color? color,
@@ -9140,7 +9140,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.opera({
+  IconsIcon8.opera({
     Key? key,
     double? size,
     Color? color,
@@ -9154,7 +9154,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.internetExplorer({
+  IconsIcon8.internetExplorer({
     Key? key,
     double? size,
     Color? color,
@@ -9168,7 +9168,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.television({
+  IconsIcon8.television({
     Key? key,
     double? size,
     Color? color,
@@ -9182,7 +9182,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.contao({
+  IconsIcon8.contao({
     Key? key,
     double? size,
     Color? color,
@@ -9196,7 +9196,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.px500({
+  IconsIcon8.px500({
     Key? key,
     double? size,
     Color? color,
@@ -9210,7 +9210,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.amazon({
+  IconsIcon8.amazon({
     Key? key,
     double? size,
     Color? color,
@@ -9224,7 +9224,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendarPlus1({
+  IconsIcon8.calendarPlus1({
     Key? key,
     double? size,
     Color? color,
@@ -9238,7 +9238,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendarMinus1({
+  IconsIcon8.calendarMinus1({
     Key? key,
     double? size,
     Color? color,
@@ -9252,7 +9252,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendarTimes1({
+  IconsIcon8.calendarTimes1({
     Key? key,
     double? size,
     Color? color,
@@ -9266,7 +9266,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendarCheck1({
+  IconsIcon8.calendarCheck1({
     Key? key,
     double? size,
     Color? color,
@@ -9280,7 +9280,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.industry({
+  IconsIcon8.industry({
     Key? key,
     double? size,
     Color? color,
@@ -9294,7 +9294,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mapPin({
+  IconsIcon8.mapPin({
     Key? key,
     double? size,
     Color? color,
@@ -9308,7 +9308,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mapSigns({
+  IconsIcon8.mapSigns({
     Key? key,
     double? size,
     Color? color,
@@ -9322,7 +9322,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.map1({
+  IconsIcon8.map1({
     Key? key,
     double? size,
     Color? color,
@@ -9336,7 +9336,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateComment1({
+  IconsIcon8.alternateComment1({
     Key? key,
     double? size,
     Color? color,
@@ -9350,7 +9350,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.houzz({
+  IconsIcon8.houzz({
     Key? key,
     double? size,
     Color? color,
@@ -9364,7 +9364,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.vimeo1({
+  IconsIcon8.vimeo1({
     Key? key,
     double? size,
     Color? color,
@@ -9378,7 +9378,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fontAwesomeBlackTie({
+  IconsIcon8.fontAwesomeBlackTie({
     Key? key,
     double? size,
     Color? color,
@@ -9392,7 +9392,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fonticons1({
+  IconsIcon8.fonticons1({
     Key? key,
     double? size,
     Color? color,
@@ -9406,7 +9406,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.redditLogo({
+  IconsIcon8.redditLogo({
     Key? key,
     double? size,
     Color? color,
@@ -9420,7 +9420,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.edgeBrowser({
+  IconsIcon8.edgeBrowser({
     Key? key,
     double? size,
     Color? color,
@@ -9434,7 +9434,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.codiePie({
+  IconsIcon8.codiePie({
     Key? key,
     double? size,
     Color? color,
@@ -9448,7 +9448,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.modx({
+  IconsIcon8.modx({
     Key? key,
     double? size,
     Color? color,
@@ -9462,7 +9462,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fortAwesome({
+  IconsIcon8.fortAwesome({
     Key? key,
     double? size,
     Color? color,
@@ -9476,7 +9476,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.usb({
+  IconsIcon8.usb({
     Key? key,
     double? size,
     Color? color,
@@ -9490,7 +9490,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.productHunt({
+  IconsIcon8.productHunt({
     Key? key,
     double? size,
     Color? color,
@@ -9504,7 +9504,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mixcloud({
+  IconsIcon8.mixcloud({
     Key? key,
     double? size,
     Color? color,
@@ -9518,7 +9518,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.scribd({
+  IconsIcon8.scribd({
     Key? key,
     double? size,
     Color? color,
@@ -9532,7 +9532,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pauseCircle1({
+  IconsIcon8.pauseCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -9546,7 +9546,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stopCircle1({
+  IconsIcon8.stopCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -9560,7 +9560,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shoppingBag({
+  IconsIcon8.shoppingBag({
     Key? key,
     double? size,
     Color? color,
@@ -9574,7 +9574,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shoppingBasket({
+  IconsIcon8.shoppingBasket({
     Key? key,
     double? size,
     Color? color,
@@ -9588,7 +9588,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hashtag({
+  IconsIcon8.hashtag({
     Key? key,
     double? size,
     Color? color,
@@ -9602,7 +9602,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bluetooth2({
+  IconsIcon8.bluetooth2({
     Key? key,
     double? size,
     Color? color,
@@ -9616,7 +9616,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bluetooth({
+  IconsIcon8.bluetooth({
     Key? key,
     double? size,
     Color? color,
@@ -9630,7 +9630,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.percent({
+  IconsIcon8.percent({
     Key? key,
     double? size,
     Color? color,
@@ -9644,7 +9644,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gitlab({
+  IconsIcon8.gitlab({
     Key? key,
     double? size,
     Color? color,
@@ -9658,7 +9658,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wpbeginner({
+  IconsIcon8.wpbeginner({
     Key? key,
     double? size,
     Color? color,
@@ -9672,7 +9672,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wpforms({
+  IconsIcon8.wpforms({
     Key? key,
     double? size,
     Color? color,
@@ -9686,7 +9686,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.enviraGallery({
+  IconsIcon8.enviraGallery({
     Key? key,
     double? size,
     Color? color,
@@ -9700,7 +9700,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.universalAccess({
+  IconsIcon8.universalAccess({
     Key? key,
     double? size,
     Color? color,
@@ -9714,7 +9714,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.blind({
+  IconsIcon8.blind({
     Key? key,
     double? size,
     Color? color,
@@ -9728,7 +9728,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.audioDescription({
+  IconsIcon8.audioDescription({
     Key? key,
     double? size,
     Color? color,
@@ -9742,7 +9742,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.phoneVolume({
+  IconsIcon8.phoneVolume({
     Key? key,
     double? size,
     Color? color,
@@ -9756,7 +9756,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.braille({
+  IconsIcon8.braille({
     Key? key,
     double? size,
     Color? color,
@@ -9770,7 +9770,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.assistiveListeningSystems({
+  IconsIcon8.assistiveListeningSystems({
     Key? key,
     double? size,
     Color? color,
@@ -9784,7 +9784,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.americanSignLanguageInterpreting({
+  IconsIcon8.americanSignLanguageInterpreting({
     Key? key,
     double? size,
     Color? color,
@@ -9798,7 +9798,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.deaf({
+  IconsIcon8.deaf({
     Key? key,
     double? size,
     Color? color,
@@ -9812,7 +9812,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.glide({
+  IconsIcon8.glide({
     Key? key,
     double? size,
     Color? color,
@@ -9826,7 +9826,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.glideG({
+  IconsIcon8.glideG({
     Key? key,
     double? size,
     Color? color,
@@ -9840,7 +9840,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.signLanguage({
+  IconsIcon8.signLanguage({
     Key? key,
     double? size,
     Color? color,
@@ -9854,7 +9854,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lowVision({
+  IconsIcon8.lowVision({
     Key? key,
     double? size,
     Color? color,
@@ -9868,7 +9868,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.video1({
+  IconsIcon8.video1({
     Key? key,
     double? size,
     Color? color,
@@ -9882,7 +9882,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.videoSquare({
+  IconsIcon8.videoSquare({
     Key? key,
     double? size,
     Color? color,
@@ -9896,7 +9896,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.snapchat1({
+  IconsIcon8.snapchat1({
     Key? key,
     double? size,
     Color? color,
@@ -9910,7 +9910,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.snapchat({
+  IconsIcon8.snapchat({
     Key? key,
     double? size,
     Color? color,
@@ -9924,7 +9924,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.snapchatSquare({
+  IconsIcon8.snapchatSquare({
     Key? key,
     double? size,
     Color? color,
@@ -9938,7 +9938,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.piedPiperPpLogoXold({
+  IconsIcon8.piedPiperPpLogoXold({
     Key? key,
     double? size,
     Color? color,
@@ -9952,7 +9952,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.firstOrder({
+  IconsIcon8.firstOrder({
     Key? key,
     double? size,
     Color? color,
@@ -9966,7 +9966,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.yoast({
+  IconsIcon8.yoast({
     Key? key,
     double? size,
     Color? color,
@@ -9980,7 +9980,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.themeisle({
+  IconsIcon8.themeisle({
     Key? key,
     double? size,
     Color? color,
@@ -9994,7 +9994,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.googlePlusG({
+  IconsIcon8.googlePlusG({
     Key? key,
     double? size,
     Color? color,
@@ -10008,7 +10008,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fontAwesome1({
+  IconsIcon8.fontAwesome1({
     Key? key,
     double? size,
     Color? color,
@@ -10022,7 +10022,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handshake1({
+  IconsIcon8.handshake1({
     Key? key,
     double? size,
     Color? color,
@@ -10036,7 +10036,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.envelopeOpen1({
+  IconsIcon8.envelopeOpen1({
     Key? key,
     double? size,
     Color? color,
@@ -10050,7 +10050,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.linode({
+  IconsIcon8.linode({
     Key? key,
     double? size,
     Color? color,
@@ -10064,7 +10064,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.addressBook1({
+  IconsIcon8.addressBook1({
     Key? key,
     double? size,
     Color? color,
@@ -10078,7 +10078,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.addressCard1({
+  IconsIcon8.addressCard1({
     Key? key,
     double? size,
     Color? color,
@@ -10092,7 +10092,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userCircle1({
+  IconsIcon8.userCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -10106,7 +10106,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.identificationBadge1({
+  IconsIcon8.identificationBadge1({
     Key? key,
     double? size,
     Color? color,
@@ -10120,7 +10120,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.identificationCard1({
+  IconsIcon8.identificationCard1({
     Key? key,
     double? size,
     Color? color,
@@ -10134,7 +10134,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.quora({
+  IconsIcon8.quora({
     Key? key,
     double? size,
     Color? color,
@@ -10148,7 +10148,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.freeCodeCamp({
+  IconsIcon8.freeCodeCamp({
     Key? key,
     double? size,
     Color? color,
@@ -10162,7 +10162,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.telegram1({
+  IconsIcon8.telegram1({
     Key? key,
     double? size,
     Color? color,
@@ -10176,7 +10176,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thermometerFull({
+  IconsIcon8.thermometerFull({
     Key? key,
     double? size,
     Color? color,
@@ -10190,7 +10190,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thermometer34Full({
+  IconsIcon8.thermometer34Full({
     Key? key,
     double? size,
     Color? color,
@@ -10204,7 +10204,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thermometer12Full({
+  IconsIcon8.thermometer12Full({
     Key? key,
     double? size,
     Color? color,
@@ -10218,7 +10218,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thermometer14Full({
+  IconsIcon8.thermometer14Full({
     Key? key,
     double? size,
     Color? color,
@@ -10232,7 +10232,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thermometerEmpty({
+  IconsIcon8.thermometerEmpty({
     Key? key,
     double? size,
     Color? color,
@@ -10246,7 +10246,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shower({
+  IconsIcon8.shower({
     Key? key,
     double? size,
     Color? color,
@@ -10260,7 +10260,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bath({
+  IconsIcon8.bath({
     Key? key,
     double? size,
     Color? color,
@@ -10274,7 +10274,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.podcast({
+  IconsIcon8.podcast({
     Key? key,
     double? size,
     Color? color,
@@ -10288,7 +10288,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.windowMaximize1({
+  IconsIcon8.windowMaximize1({
     Key? key,
     double? size,
     Color? color,
@@ -10302,7 +10302,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.windowMinimize1({
+  IconsIcon8.windowMinimize1({
     Key? key,
     double? size,
     Color? color,
@@ -10316,7 +10316,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.windowRestore1({
+  IconsIcon8.windowRestore1({
     Key? key,
     double? size,
     Color? color,
@@ -10330,7 +10330,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bandcamp({
+  IconsIcon8.bandcamp({
     Key? key,
     double? size,
     Color? color,
@@ -10344,7 +10344,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grav({
+  IconsIcon8.grav({
     Key? key,
     double? size,
     Color? color,
@@ -10358,7 +10358,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.etsy({
+  IconsIcon8.etsy({
     Key? key,
     double? size,
     Color? color,
@@ -10372,7 +10372,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.imdb({
+  IconsIcon8.imdb({
     Key? key,
     double? size,
     Color? color,
@@ -10386,7 +10386,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ravelry({
+  IconsIcon8.ravelry({
     Key? key,
     double? size,
     Color? color,
@@ -10400,7 +10400,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sellcast({
+  IconsIcon8.sellcast({
     Key? key,
     double? size,
     Color? color,
@@ -10414,7 +10414,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.microchip({
+  IconsIcon8.microchip({
     Key? key,
     double? size,
     Color? color,
@@ -10428,7 +10428,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.snowflake1({
+  IconsIcon8.snowflake1({
     Key? key,
     double? size,
     Color? color,
@@ -10442,7 +10442,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.superpowers({
+  IconsIcon8.superpowers({
     Key? key,
     double? size,
     Color? color,
@@ -10456,7 +10456,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wpexplorer({
+  IconsIcon8.wpexplorer({
     Key? key,
     double? size,
     Color? color,
@@ -10470,7 +10470,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.meetup({
+  IconsIcon8.meetup({
     Key? key,
     double? size,
     Color? color,
@@ -10484,7 +10484,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.utensilSpoon({
+  IconsIcon8.utensilSpoon({
     Key? key,
     double? size,
     Color? color,
@@ -10498,7 +10498,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.utensils({
+  IconsIcon8.utensils({
     Key? key,
     double? size,
     Color? color,
@@ -10512,7 +10512,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateUndo({
+  IconsIcon8.alternateUndo({
     Key? key,
     double? size,
     Color? color,
@@ -10526,7 +10526,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateTrash1({
+  IconsIcon8.alternateTrash1({
     Key? key,
     double? size,
     Color? color,
@@ -10540,7 +10540,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.syncIcon({
+  IconsIcon8.syncIcon({
     Key? key,
     double? size,
     Color? color,
@@ -10554,7 +10554,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stopwatch({
+  IconsIcon8.stopwatch({
     Key? key,
     double? size,
     Color? color,
@@ -10568,7 +10568,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateSignOut({
+  IconsIcon8.alternateSignOut({
     Key? key,
     double? size,
     Color? color,
@@ -10582,7 +10582,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateSignIn({
+  IconsIcon8.alternateSignIn({
     Key? key,
     double? size,
     Color? color,
@@ -10596,7 +10596,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateRedo({
+  IconsIcon8.alternateRedo({
     Key? key,
     double? size,
     Color? color,
@@ -10610,7 +10610,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.poo({
+  IconsIcon8.poo({
     Key? key,
     double? size,
     Color? color,
@@ -10624,7 +10624,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.images1({
+  IconsIcon8.images1({
     Key? key,
     double? size,
     Color? color,
@@ -10638,7 +10638,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternatePencil({
+  IconsIcon8.alternatePencil({
     Key? key,
     double? size,
     Color? color,
@@ -10652,7 +10652,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pen({
+  IconsIcon8.pen({
     Key? key,
     double? size,
     Color? color,
@@ -10666,7 +10666,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternatePen({
+  IconsIcon8.alternatePen({
     Key? key,
     double? size,
     Color? color,
@@ -10680,7 +10680,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateLongArrowDown({
+  IconsIcon8.alternateLongArrowDown({
     Key? key,
     double? size,
     Color? color,
@@ -10694,7 +10694,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateLongArrowLeft({
+  IconsIcon8.alternateLongArrowLeft({
     Key? key,
     double? size,
     Color? color,
@@ -10708,7 +10708,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateLongArrowRight({
+  IconsIcon8.alternateLongArrowRight({
     Key? key,
     double? size,
     Color? color,
@@ -10722,7 +10722,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateLongArrowUp({
+  IconsIcon8.alternateLongArrowUp({
     Key? key,
     double? size,
     Color? color,
@@ -10736,7 +10736,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateExpandArrows({
+  IconsIcon8.alternateExpandArrows({
     Key? key,
     double? size,
     Color? color,
@@ -10750,7 +10750,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.clipboard({
+  IconsIcon8.clipboard({
     Key? key,
     double? size,
     Color? color,
@@ -10764,7 +10764,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateArrowsHorizontal({
+  IconsIcon8.alternateArrowsHorizontal({
     Key? key,
     double? size,
     Color? color,
@@ -10778,7 +10778,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateArrowsVertical({
+  IconsIcon8.alternateArrowsVertical({
     Key? key,
     double? size,
     Color? color,
@@ -10792,7 +10792,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateArrowCircleDown1({
+  IconsIcon8.alternateArrowCircleDown1({
     Key? key,
     double? size,
     Color? color,
@@ -10806,7 +10806,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateArrowCircleLeft1({
+  IconsIcon8.alternateArrowCircleLeft1({
     Key? key,
     double? size,
     Color? color,
@@ -10820,7 +10820,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateArrowCircleRight1({
+  IconsIcon8.alternateArrowCircleRight1({
     Key? key,
     double? size,
     Color? color,
@@ -10834,7 +10834,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateArrowCircleUp1({
+  IconsIcon8.alternateArrowCircleUp1({
     Key? key,
     double? size,
     Color? color,
@@ -10848,7 +10848,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fontAwesome({
+  IconsIcon8.fontAwesome({
     Key? key,
     double? size,
     Color? color,
@@ -10862,7 +10862,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateExternalLink({
+  IconsIcon8.alternateExternalLink({
     Key? key,
     double? size,
     Color? color,
@@ -10876,7 +10876,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateExternalLinkSquare({
+  IconsIcon8.alternateExternalLinkSquare({
     Key? key,
     double? size,
     Color? color,
@@ -10890,7 +10890,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateExchange({
+  IconsIcon8.alternateExchange({
     Key? key,
     double? size,
     Color? color,
@@ -10904,7 +10904,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.accessibleIcon({
+  IconsIcon8.accessibleIcon({
     Key? key,
     double? size,
     Color? color,
@@ -10918,7 +10918,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.accusoft({
+  IconsIcon8.accusoft({
     Key? key,
     double? size,
     Color? color,
@@ -10932,7 +10932,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.adversal({
+  IconsIcon8.adversal({
     Key? key,
     double? size,
     Color? color,
@@ -10946,7 +10946,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.affiliatetheme({
+  IconsIcon8.affiliatetheme({
     Key? key,
     double? size,
     Color? color,
@@ -10960,7 +10960,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.algolia({
+  IconsIcon8.algolia({
     Key? key,
     double? size,
     Color? color,
@@ -10974,7 +10974,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.amilia({
+  IconsIcon8.amilia({
     Key? key,
     double? size,
     Color? color,
@@ -10988,7 +10988,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angryCreative({
+  IconsIcon8.angryCreative({
     Key? key,
     double? size,
     Color? color,
@@ -11002,7 +11002,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.appStore({
+  IconsIcon8.appStore({
     Key? key,
     double? size,
     Color? color,
@@ -11016,7 +11016,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.iosAppStore({
+  IconsIcon8.iosAppStore({
     Key? key,
     double? size,
     Color? color,
@@ -11030,7 +11030,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.apperSystemsAb({
+  IconsIcon8.apperSystemsAb({
     Key? key,
     double? size,
     Color? color,
@@ -11044,7 +11044,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.asymmetrikXltd({
+  IconsIcon8.asymmetrikXltd({
     Key? key,
     double? size,
     Color? color,
@@ -11058,7 +11058,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.audible({
+  IconsIcon8.audible({
     Key? key,
     double? size,
     Color? color,
@@ -11072,7 +11072,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.avianex({
+  IconsIcon8.avianex({
     Key? key,
     double? size,
     Color? color,
@@ -11086,7 +11086,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.amazonWebServicesXaws({
+  IconsIcon8.amazonWebServicesXaws({
     Key? key,
     double? size,
     Color? color,
@@ -11100,7 +11100,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bimobject({
+  IconsIcon8.bimobject({
     Key? key,
     double? size,
     Color? color,
@@ -11114,7 +11114,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.btc({
+  IconsIcon8.btc({
     Key? key,
     double? size,
     Color? color,
@@ -11128,7 +11128,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bity({
+  IconsIcon8.bity({
     Key? key,
     double? size,
     Color? color,
@@ -11142,7 +11142,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.blackberry({
+  IconsIcon8.blackberry({
     Key? key,
     double? size,
     Color? color,
@@ -11156,7 +11156,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.blogger({
+  IconsIcon8.blogger({
     Key? key,
     double? size,
     Color? color,
@@ -11170,7 +11170,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bloggerB({
+  IconsIcon8.bloggerB({
     Key? key,
     double? size,
     Color? color,
@@ -11184,7 +11184,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bRomBelExperteGmbhXCoXkg({
+  IconsIcon8.bRomBelExperteGmbhXCoXkg({
     Key? key,
     double? size,
     Color? color,
@@ -11198,7 +11198,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.centercode({
+  IconsIcon8.centercode({
     Key? key,
     double? size,
     Color? color,
@@ -11212,7 +11212,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateCloudDownload({
+  IconsIcon8.alternateCloudDownload({
     Key? key,
     double? size,
     Color? color,
@@ -11226,7 +11226,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateCloudUpload({
+  IconsIcon8.alternateCloudUpload({
     Key? key,
     double? size,
     Color? color,
@@ -11240,7 +11240,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cloudscaleCh({
+  IconsIcon8.cloudscaleCh({
     Key? key,
     double? size,
     Color? color,
@@ -11254,7 +11254,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cloudsmith({
+  IconsIcon8.cloudsmith({
     Key? key,
     double? size,
     Color? color,
@@ -11268,7 +11268,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cloudversify({
+  IconsIcon8.cloudversify({
     Key? key,
     double? size,
     Color? color,
@@ -11282,7 +11282,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cpanel({
+  IconsIcon8.cpanel({
     Key? key,
     double? size,
     Color? color,
@@ -11296,7 +11296,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateCss3Logo({
+  IconsIcon8.alternateCss3Logo({
     Key? key,
     double? size,
     Color? color,
@@ -11310,7 +11310,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cuttlefish({
+  IconsIcon8.cuttlefish({
     Key? key,
     double? size,
     Color? color,
@@ -11324,7 +11324,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dungeonsXDragons({
+  IconsIcon8.dungeonsXDragons({
     Key? key,
     double? size,
     Color? color,
@@ -11338,7 +11338,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.deployDog({
+  IconsIcon8.deployDog({
     Key? key,
     double? size,
     Color? color,
@@ -11352,7 +11352,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.deskpro({
+  IconsIcon8.deskpro({
     Key? key,
     double? size,
     Color? color,
@@ -11366,7 +11366,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.digitalOcean({
+  IconsIcon8.digitalOcean({
     Key? key,
     double? size,
     Color? color,
@@ -11380,7 +11380,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.discord({
+  IconsIcon8.discord({
     Key? key,
     double? size,
     Color? color,
@@ -11394,7 +11394,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.discourse({
+  IconsIcon8.discourse({
     Key? key,
     double? size,
     Color? color,
@@ -11408,7 +11408,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dochub({
+  IconsIcon8.dochub({
     Key? key,
     double? size,
     Color? color,
@@ -11422,7 +11422,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.docker({
+  IconsIcon8.docker({
     Key? key,
     double? size,
     Color? color,
@@ -11436,7 +11436,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.draft2digital({
+  IconsIcon8.draft2digital({
     Key? key,
     double? size,
     Color? color,
@@ -11450,7 +11450,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dribbbleSquare({
+  IconsIcon8.dribbbleSquare({
     Key? key,
     double? size,
     Color? color,
@@ -11464,7 +11464,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dyalog({
+  IconsIcon8.dyalog({
     Key? key,
     double? size,
     Color? color,
@@ -11478,7 +11478,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.earlybirds({
+  IconsIcon8.earlybirds({
     Key? key,
     double? size,
     Color? color,
@@ -11492,7 +11492,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.erlang({
+  IconsIcon8.erlang({
     Key? key,
     double? size,
     Color? color,
@@ -11506,7 +11506,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.facebookF({
+  IconsIcon8.facebookF({
     Key? key,
     double? size,
     Color? color,
@@ -11520,7 +11520,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.facebookMessenger({
+  IconsIcon8.facebookMessenger({
     Key? key,
     double? size,
     Color? color,
@@ -11534,7 +11534,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.firstdraft({
+  IconsIcon8.firstdraft({
     Key? key,
     double? size,
     Color? color,
@@ -11548,7 +11548,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fonticons({
+  IconsIcon8.fonticons({
     Key? key,
     double? size,
     Color? color,
@@ -11562,7 +11562,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateFortAwesome({
+  IconsIcon8.alternateFortAwesome({
     Key? key,
     double? size,
     Color? color,
@@ -11576,7 +11576,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.freebsd({
+  IconsIcon8.freebsd({
     Key? key,
     double? size,
     Color? color,
@@ -11590,7 +11590,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gem1({
+  IconsIcon8.gem1({
     Key? key,
     double? size,
     Color? color,
@@ -11604,7 +11604,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gitkraken({
+  IconsIcon8.gitkraken({
     Key? key,
     double? size,
     Color? color,
@@ -11618,7 +11618,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gofore({
+  IconsIcon8.gofore({
     Key? key,
     double? size,
     Color? color,
@@ -11632,7 +11632,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.goodreads({
+  IconsIcon8.goodreads({
     Key? key,
     double? size,
     Color? color,
@@ -11646,7 +11646,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.goodreadsG({
+  IconsIcon8.goodreadsG({
     Key? key,
     double? size,
     Color? color,
@@ -11660,7 +11660,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.googleDrive({
+  IconsIcon8.googleDrive({
     Key? key,
     double? size,
     Color? color,
@@ -11674,7 +11674,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.googlePlay({
+  IconsIcon8.googlePlay({
     Key? key,
     double? size,
     Color? color,
@@ -11688,7 +11688,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gripfireXinc({
+  IconsIcon8.gripfireXinc({
     Key? key,
     double? size,
     Color? color,
@@ -11702,7 +11702,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grunt({
+  IconsIcon8.grunt({
     Key? key,
     double? size,
     Color? color,
@@ -11716,7 +11716,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gulp({
+  IconsIcon8.gulp({
     Key? key,
     double? size,
     Color? color,
@@ -11730,7 +11730,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hackerNewsSquare({
+  IconsIcon8.hackerNewsSquare({
     Key? key,
     double? size,
     Color? color,
@@ -11744,7 +11744,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hireahelper({
+  IconsIcon8.hireahelper({
     Key? key,
     double? size,
     Color? color,
@@ -11758,7 +11758,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hotjar({
+  IconsIcon8.hotjar({
     Key? key,
     double? size,
     Color? color,
@@ -11772,7 +11772,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hubspot({
+  IconsIcon8.hubspot({
     Key? key,
     double? size,
     Color? color,
@@ -11786,7 +11786,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.itunes({
+  IconsIcon8.itunes({
     Key? key,
     double? size,
     Color? color,
@@ -11800,7 +11800,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.itunesNote({
+  IconsIcon8.itunesNote({
     Key? key,
     double? size,
     Color? color,
@@ -11814,7 +11814,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.jenkis({
+  IconsIcon8.jenkis({
     Key? key,
     double? size,
     Color? color,
@@ -11828,7 +11828,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.joget({
+  IconsIcon8.joget({
     Key? key,
     double? size,
     Color? color,
@@ -11842,7 +11842,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.javascriptXjs({
+  IconsIcon8.javascriptXjs({
     Key? key,
     double? size,
     Color? color,
@@ -11856,7 +11856,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.javascriptXjsXsquare({
+  IconsIcon8.javascriptXjsXsquare({
     Key? key,
     double? size,
     Color? color,
@@ -11870,7 +11870,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.keycdn({
+  IconsIcon8.keycdn({
     Key? key,
     double? size,
     Color? color,
@@ -11884,7 +11884,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.kickstarter({
+  IconsIcon8.kickstarter({
     Key? key,
     double? size,
     Color? color,
@@ -11898,7 +11898,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.kickstarterK({
+  IconsIcon8.kickstarterK({
     Key? key,
     double? size,
     Color? color,
@@ -11912,7 +11912,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.laravel({
+  IconsIcon8.laravel({
     Key? key,
     double? size,
     Color? color,
@@ -11926,7 +11926,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateLevelDown({
+  IconsIcon8.alternateLevelDown({
     Key? key,
     double? size,
     Color? color,
@@ -11940,7 +11940,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateLevelUp({
+  IconsIcon8.alternateLevelUp({
     Key? key,
     double? size,
     Color? color,
@@ -11954,7 +11954,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.line({
+  IconsIcon8.line({
     Key? key,
     double? size,
     Color? color,
@@ -11968,7 +11968,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.unlock({
+  IconsIcon8.unlock({
     Key? key,
     double? size,
     Color? color,
@@ -11982,7 +11982,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lyft({
+  IconsIcon8.lyft({
     Key? key,
     double? size,
     Color? color,
@@ -11996,7 +11996,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.magento({
+  IconsIcon8.magento({
     Key? key,
     double? size,
     Color? color,
@@ -12010,7 +12010,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mapMarker({
+  IconsIcon8.mapMarker({
     Key? key,
     double? size,
     Color? color,
@@ -12024,7 +12024,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.medapps({
+  IconsIcon8.medapps({
     Key? key,
     double? size,
     Color? color,
@@ -12038,7 +12038,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.medium({
+  IconsIcon8.medium({
     Key? key,
     double? size,
     Color? color,
@@ -12052,7 +12052,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mrt({
+  IconsIcon8.mrt({
     Key? key,
     double? size,
     Color? color,
@@ -12066,7 +12066,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateMicrophone({
+  IconsIcon8.alternateMicrophone({
     Key? key,
     double? size,
     Color? color,
@@ -12080,7 +12080,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.microsoft1({
+  IconsIcon8.microsoft1({
     Key? key,
     double? size,
     Color? color,
@@ -12094,7 +12094,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mix({
+  IconsIcon8.mix({
     Key? key,
     double? size,
     Color? color,
@@ -12108,7 +12108,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mizuni({
+  IconsIcon8.mizuni({
     Key? key,
     double? size,
     Color? color,
@@ -12122,7 +12122,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mobilePhone({
+  IconsIcon8.mobilePhone({
     Key? key,
     double? size,
     Color? color,
@@ -12136,7 +12136,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.monero({
+  IconsIcon8.monero({
     Key? key,
     double? size,
     Color? color,
@@ -12150,7 +12150,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateMoneyBill1({
+  IconsIcon8.alternateMoneyBill1({
     Key? key,
     double? size,
     Color? color,
@@ -12164,7 +12164,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.napster({
+  IconsIcon8.napster({
     Key? key,
     double? size,
     Color? color,
@@ -12178,7 +12178,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.nodeJsJs({
+  IconsIcon8.nodeJsJs({
     Key? key,
     double? size,
     Color? color,
@@ -12192,7 +12192,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.npm({
+  IconsIcon8.npm({
     Key? key,
     double? size,
     Color? color,
@@ -12206,7 +12206,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ns8({
+  IconsIcon8.ns8({
     Key? key,
     double? size,
     Color? color,
@@ -12220,7 +12220,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.nutritionix({
+  IconsIcon8.nutritionix({
     Key? key,
     double? size,
     Color? color,
@@ -12234,7 +12234,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.page4Corporation({
+  IconsIcon8.page4Corporation({
     Key? key,
     double? size,
     Color? color,
@@ -12248,7 +12248,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.palfed({
+  IconsIcon8.palfed({
     Key? key,
     double? size,
     Color? color,
@@ -12262,7 +12262,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.patreon({
+  IconsIcon8.patreon({
     Key? key,
     double? size,
     Color? color,
@@ -12276,7 +12276,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.periscope({
+  IconsIcon8.periscope({
     Key? key,
     double? size,
     Color? color,
@@ -12290,7 +12290,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.phabricator({
+  IconsIcon8.phabricator({
     Key? key,
     double? size,
     Color? color,
@@ -12304,7 +12304,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.phoenixFramework({
+  IconsIcon8.phoenixFramework({
     Key? key,
     double? size,
     Color? color,
@@ -12318,7 +12318,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.phoneSlash({
+  IconsIcon8.phoneSlash({
     Key? key,
     double? size,
     Color? color,
@@ -12332,7 +12332,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.playstation({
+  IconsIcon8.playstation({
     Key? key,
     double? size,
     Color? color,
@@ -12346,7 +12346,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.portrait({
+  IconsIcon8.portrait({
     Key? key,
     double? size,
     Color? color,
@@ -12360,7 +12360,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pushed({
+  IconsIcon8.pushed({
     Key? key,
     double? size,
     Color? color,
@@ -12374,7 +12374,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.python({
+  IconsIcon8.python({
     Key? key,
     double? size,
     Color? color,
@@ -12388,7 +12388,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.redRiver({
+  IconsIcon8.redRiver({
     Key? key,
     double? size,
     Color? color,
@@ -12402,7 +12402,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wpressr({
+  IconsIcon8.wpressr({
     Key? key,
     double? size,
     Color? color,
@@ -12416,7 +12416,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.reply({
+  IconsIcon8.reply({
     Key? key,
     double? size,
     Color? color,
@@ -12430,7 +12430,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.replyd({
+  IconsIcon8.replyd({
     Key? key,
     double? size,
     Color? color,
@@ -12444,7 +12444,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.resolving({
+  IconsIcon8.resolving({
     Key? key,
     double? size,
     Color? color,
@@ -12458,7 +12458,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rocketChat({
+  IconsIcon8.rocketChat({
     Key? key,
     double? size,
     Color? color,
@@ -12472,7 +12472,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rockrms({
+  IconsIcon8.rockrms({
     Key? key,
     double? size,
     Color? color,
@@ -12486,7 +12486,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.schlix({
+  IconsIcon8.schlix({
     Key? key,
     double? size,
     Color? color,
@@ -12500,7 +12500,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.searchengin({
+  IconsIcon8.searchengin({
     Key? key,
     double? size,
     Color? color,
@@ -12514,7 +12514,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.servicestack({
+  IconsIcon8.servicestack({
     Key? key,
     double? size,
     Color? color,
@@ -12528,7 +12528,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateShield({
+  IconsIcon8.alternateShield({
     Key? key,
     double? size,
     Color? color,
@@ -12542,7 +12542,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sistrix({
+  IconsIcon8.sistrix({
     Key? key,
     double? size,
     Color? color,
@@ -12556,7 +12556,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.slackLogo({
+  IconsIcon8.slackLogo({
     Key? key,
     double? size,
     Color? color,
@@ -12570,7 +12570,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.speakap({
+  IconsIcon8.speakap({
     Key? key,
     double? size,
     Color? color,
@@ -12584,7 +12584,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.staylinked({
+  IconsIcon8.staylinked({
     Key? key,
     double? size,
     Color? color,
@@ -12598,7 +12598,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.steamSymbol({
+  IconsIcon8.steamSymbol({
     Key? key,
     double? size,
     Color? color,
@@ -12612,7 +12612,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stickerMule({
+  IconsIcon8.stickerMule({
     Key? key,
     double? size,
     Color? color,
@@ -12626,7 +12626,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.studioVinari({
+  IconsIcon8.studioVinari({
     Key? key,
     double? size,
     Color? color,
@@ -12640,7 +12640,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.supple({
+  IconsIcon8.supple({
     Key? key,
     double? size,
     Color? color,
@@ -12654,7 +12654,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tablet({
+  IconsIcon8.tablet({
     Key? key,
     double? size,
     Color? color,
@@ -12668,7 +12668,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateTachometer({
+  IconsIcon8.alternateTachometer({
     Key? key,
     double? size,
     Color? color,
@@ -12682,7 +12682,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.telegram({
+  IconsIcon8.telegram({
     Key? key,
     double? size,
     Color? color,
@@ -12696,7 +12696,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateTicket({
+  IconsIcon8.alternateTicket({
     Key? key,
     double? size,
     Color? color,
@@ -12710,7 +12710,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.uber({
+  IconsIcon8.uber({
     Key? key,
     double? size,
     Color? color,
@@ -12724,7 +12724,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.uikit({
+  IconsIcon8.uikit({
     Key? key,
     double? size,
     Color? color,
@@ -12738,7 +12738,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.uniregistry({
+  IconsIcon8.uniregistry({
     Key? key,
     double? size,
     Color? color,
@@ -12752,7 +12752,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.untappd({
+  IconsIcon8.untappd({
     Key? key,
     double? size,
     Color? color,
@@ -12766,7 +12766,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateUser({
+  IconsIcon8.alternateUser({
     Key? key,
     double? size,
     Color? color,
@@ -12780,7 +12780,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.usSunnahFoundation({
+  IconsIcon8.usSunnahFoundation({
     Key? key,
     double? size,
     Color? color,
@@ -12794,7 +12794,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.vaadin({
+  IconsIcon8.vaadin({
     Key? key,
     double? size,
     Color? color,
@@ -12808,7 +12808,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.viber({
+  IconsIcon8.viber({
     Key? key,
     double? size,
     Color? color,
@@ -12822,7 +12822,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.vimeo({
+  IconsIcon8.vimeo({
     Key? key,
     double? size,
     Color? color,
@@ -12836,7 +12836,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.vnv({
+  IconsIcon8.vnv({
     Key? key,
     double? size,
     Color? color,
@@ -12850,7 +12850,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.whatSAppSquare({
+  IconsIcon8.whatSAppSquare({
     Key? key,
     double? size,
     Color? color,
@@ -12864,7 +12864,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.whmcs({
+  IconsIcon8.whmcs({
     Key? key,
     double? size,
     Color? color,
@@ -12878,7 +12878,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.windowClose1({
+  IconsIcon8.windowClose1({
     Key? key,
     double? size,
     Color? color,
@@ -12892,7 +12892,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wordpressSimple({
+  IconsIcon8.wordpressSimple({
     Key? key,
     double? size,
     Color? color,
@@ -12906,7 +12906,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.xbox({
+  IconsIcon8.xbox({
     Key? key,
     double? size,
     Color? color,
@@ -12920,7 +12920,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.yandex({
+  IconsIcon8.yandex({
     Key? key,
     double? size,
     Color? color,
@@ -12934,7 +12934,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.yandexInternational({
+  IconsIcon8.yandexInternational({
     Key? key,
     double? size,
     Color? color,
@@ -12948,7 +12948,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.applePay({
+  IconsIcon8.applePay({
     Key? key,
     double? size,
     Color? color,
@@ -12962,7 +12962,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.applePayCreditCard({
+  IconsIcon8.applePayCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -12976,7 +12976,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fly({
+  IconsIcon8.fly({
     Key? key,
     double? size,
     Color? color,
@@ -12990,7 +12990,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.nodeJs({
+  IconsIcon8.nodeJs({
     Key? key,
     double? size,
     Color? color,
@@ -13004,7 +13004,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.openSourceInitiative({
+  IconsIcon8.openSourceInitiative({
     Key? key,
     double? size,
     Color? color,
@@ -13018,7 +13018,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.react({
+  IconsIcon8.react({
     Key? key,
     double? size,
     Color? color,
@@ -13032,7 +13032,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.autoprefixer({
+  IconsIcon8.autoprefixer({
     Key? key,
     double? size,
     Color? color,
@@ -13046,7 +13046,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.less({
+  IconsIcon8.less({
     Key? key,
     double? size,
     Color? color,
@@ -13060,7 +13060,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sass({
+  IconsIcon8.sass({
     Key? key,
     double? size,
     Color? color,
@@ -13074,7 +13074,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.vueJs({
+  IconsIcon8.vueJs({
     Key? key,
     double? size,
     Color? color,
@@ -13088,7 +13088,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angular({
+  IconsIcon8.angular({
     Key? key,
     double? size,
     Color? color,
@@ -13102,7 +13102,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.aviato({
+  IconsIcon8.aviato({
     Key? key,
     double? size,
     Color? color,
@@ -13116,7 +13116,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ember({
+  IconsIcon8.ember({
     Key? key,
     double? size,
     Color? color,
@@ -13130,7 +13130,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fontAwesomeFlag({
+  IconsIcon8.fontAwesomeFlag({
     Key? key,
     double? size,
     Color? color,
@@ -13144,7 +13144,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gitter({
+  IconsIcon8.gitter({
     Key? key,
     double? size,
     Color? color,
@@ -13158,7 +13158,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hooli({
+  IconsIcon8.hooli({
     Key? key,
     double? size,
     Color? color,
@@ -13172,7 +13172,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.strava({
+  IconsIcon8.strava({
     Key? key,
     double? size,
     Color? color,
@@ -13186,7 +13186,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stripeCreditCard({
+  IconsIcon8.stripeCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -13200,7 +13200,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stripeS({
+  IconsIcon8.stripeS({
     Key? key,
     double? size,
     Color? color,
@@ -13214,7 +13214,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.typo3({
+  IconsIcon8.typo3({
     Key? key,
     double? size,
     Color? color,
@@ -13228,7 +13228,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.amazonPay({
+  IconsIcon8.amazonPay({
     Key? key,
     double? size,
     Color? color,
@@ -13242,7 +13242,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.amazonPayCreditCard({
+  IconsIcon8.amazonPayCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -13256,7 +13256,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ethereum({
+  IconsIcon8.ethereum({
     Key? key,
     double? size,
     Color? color,
@@ -13270,7 +13270,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.korvue({
+  IconsIcon8.korvue({
     Key? key,
     double? size,
     Color? color,
@@ -13284,7 +13284,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.elementor({
+  IconsIcon8.elementor({
     Key? key,
     double? size,
     Color? color,
@@ -13298,7 +13298,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.youtubeSquare({
+  IconsIcon8.youtubeSquare({
     Key? key,
     double? size,
     Color? color,
@@ -13312,7 +13312,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.baseballBall({
+  IconsIcon8.baseballBall({
     Key? key,
     double? size,
     Color? color,
@@ -13326,7 +13326,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.basketballBall({
+  IconsIcon8.basketballBall({
     Key? key,
     double? size,
     Color? color,
@@ -13340,7 +13340,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bowlingBall({
+  IconsIcon8.bowlingBall({
     Key? key,
     double? size,
     Color? color,
@@ -13354,7 +13354,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chess({
+  IconsIcon8.chess({
     Key? key,
     double? size,
     Color? color,
@@ -13368,7 +13368,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chessBishop({
+  IconsIcon8.chessBishop({
     Key? key,
     double? size,
     Color? color,
@@ -13382,7 +13382,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chessBoard({
+  IconsIcon8.chessBoard({
     Key? key,
     double? size,
     Color? color,
@@ -13396,7 +13396,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chessKing({
+  IconsIcon8.chessKing({
     Key? key,
     double? size,
     Color? color,
@@ -13410,7 +13410,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chessKnight({
+  IconsIcon8.chessKnight({
     Key? key,
     double? size,
     Color? color,
@@ -13424,7 +13424,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chessPawn({
+  IconsIcon8.chessPawn({
     Key? key,
     double? size,
     Color? color,
@@ -13438,7 +13438,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chessQueen({
+  IconsIcon8.chessQueen({
     Key? key,
     double? size,
     Color? color,
@@ -13452,7 +13452,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chessRook({
+  IconsIcon8.chessRook({
     Key? key,
     double? size,
     Color? color,
@@ -13466,7 +13466,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dumbbell({
+  IconsIcon8.dumbbell({
     Key? key,
     double? size,
     Color? color,
@@ -13480,7 +13480,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.flipboard({
+  IconsIcon8.flipboard({
     Key? key,
     double? size,
     Color? color,
@@ -13494,7 +13494,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.footballBall({
+  IconsIcon8.footballBall({
     Key? key,
     double? size,
     Color? color,
@@ -13508,7 +13508,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.golfBall({
+  IconsIcon8.golfBall({
     Key? key,
     double? size,
     Color? color,
@@ -13522,7 +13522,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hips({
+  IconsIcon8.hips({
     Key? key,
     double? size,
     Color? color,
@@ -13536,7 +13536,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hockeyPuck({
+  IconsIcon8.hockeyPuck({
     Key? key,
     double? size,
     Color? color,
@@ -13550,7 +13550,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.php({
+  IconsIcon8.php({
     Key? key,
     double? size,
     Color? color,
@@ -13564,7 +13564,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.quidditch({
+  IconsIcon8.quidditch({
     Key? key,
     double? size,
     Color? color,
@@ -13578,7 +13578,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.quinscape({
+  IconsIcon8.quinscape({
     Key? key,
     double? size,
     Color? color,
@@ -13592,7 +13592,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.square1({
+  IconsIcon8.square1({
     Key? key,
     double? size,
     Color? color,
@@ -13606,7 +13606,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tableTennis({
+  IconsIcon8.tableTennis({
     Key? key,
     double? size,
     Color? color,
@@ -13620,7 +13620,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.volleyballBall({
+  IconsIcon8.volleyballBall({
     Key? key,
     double? size,
     Color? color,
@@ -13634,7 +13634,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.allergies({
+  IconsIcon8.allergies({
     Key? key,
     double? size,
     Color? color,
@@ -13648,7 +13648,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bandAid({
+  IconsIcon8.bandAid({
     Key? key,
     double? size,
     Color? color,
@@ -13662,7 +13662,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.box({
+  IconsIcon8.box({
     Key? key,
     double? size,
     Color? color,
@@ -13676,7 +13676,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.boxes({
+  IconsIcon8.boxes({
     Key? key,
     double? size,
     Color? color,
@@ -13690,7 +13690,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.medkit1({
+  IconsIcon8.medkit1({
     Key? key,
     double? size,
     Color? color,
@@ -13704,7 +13704,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.burn({
+  IconsIcon8.burn({
     Key? key,
     double? size,
     Color? color,
@@ -13718,7 +13718,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.capsules({
+  IconsIcon8.capsules({
     Key? key,
     double? size,
     Color? color,
@@ -13732,7 +13732,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.clipboardWithCheck({
+  IconsIcon8.clipboardWithCheck({
     Key? key,
     double? size,
     Color? color,
@@ -13746,7 +13746,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.clipboardList({
+  IconsIcon8.clipboardList({
     Key? key,
     double? size,
     Color? color,
@@ -13760,7 +13760,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.diagnoses({
+  IconsIcon8.diagnoses({
     Key? key,
     double? size,
     Color? color,
@@ -13774,7 +13774,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dna({
+  IconsIcon8.dna({
     Key? key,
     double? size,
     Color? color,
@@ -13788,7 +13788,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dolly({
+  IconsIcon8.dolly({
     Key? key,
     double? size,
     Color? color,
@@ -13802,7 +13802,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dollyFlatbed1({
+  IconsIcon8.dollyFlatbed1({
     Key? key,
     double? size,
     Color? color,
@@ -13816,7 +13816,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.medicalFile({
+  IconsIcon8.medicalFile({
     Key? key,
     double? size,
     Color? color,
@@ -13830,7 +13830,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateMedicalFile({
+  IconsIcon8.alternateMedicalFile({
     Key? key,
     double? size,
     Color? color,
@@ -13844,7 +13844,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.medkit({
+  IconsIcon8.medkit({
     Key? key,
     double? size,
     Color? color,
@@ -13858,7 +13858,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateHospital1({
+  IconsIcon8.alternateHospital1({
     Key? key,
     double? size,
     Color? color,
@@ -13872,7 +13872,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hSquare({
+  IconsIcon8.hSquare({
     Key? key,
     double? size,
     Color? color,
@@ -13886,7 +13886,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateIdentificationCard({
+  IconsIcon8.alternateIdentificationCard({
     Key? key,
     double? size,
     Color? color,
@@ -13900,7 +13900,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.medicalNotes({
+  IconsIcon8.medicalNotes({
     Key? key,
     double? size,
     Color? color,
@@ -13914,7 +13914,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pallet({
+  IconsIcon8.pallet({
     Key? key,
     double? size,
     Color? color,
@@ -13928,7 +13928,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pills({
+  IconsIcon8.pills({
     Key? key,
     double? size,
     Color? color,
@@ -13942,7 +13942,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.prescriptionBottle({
+  IconsIcon8.prescriptionBottle({
     Key? key,
     double? size,
     Color? color,
@@ -13956,7 +13956,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternatePrescriptionBottle({
+  IconsIcon8.alternatePrescriptionBottle({
     Key? key,
     double? size,
     Color? color,
@@ -13970,7 +13970,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.procedures({
+  IconsIcon8.procedures({
     Key? key,
     double? size,
     Color? color,
@@ -13984,7 +13984,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shippingFast({
+  IconsIcon8.shippingFast({
     Key? key,
     double? size,
     Color? color,
@@ -13998,7 +13998,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.smoking({
+  IconsIcon8.smoking({
     Key? key,
     double? size,
     Color? color,
@@ -14012,7 +14012,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.syringe({
+  IconsIcon8.syringe({
     Key? key,
     double? size,
     Color? color,
@@ -14026,7 +14026,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tablets({
+  IconsIcon8.tablets({
     Key? key,
     double? size,
     Color? color,
@@ -14040,7 +14040,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thermometer({
+  IconsIcon8.thermometer({
     Key? key,
     double? size,
     Color? color,
@@ -14054,7 +14054,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.vial({
+  IconsIcon8.vial({
     Key? key,
     double? size,
     Color? color,
@@ -14068,7 +14068,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.vials({
+  IconsIcon8.vials({
     Key? key,
     double? size,
     Color? color,
@@ -14082,7 +14082,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.warehouse({
+  IconsIcon8.warehouse({
     Key? key,
     double? size,
     Color? color,
@@ -14096,7 +14096,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.weight({
+  IconsIcon8.weight({
     Key? key,
     double? size,
     Color? color,
@@ -14110,7 +14110,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.xRay({
+  IconsIcon8.xRay({
     Key? key,
     double? size,
     Color? color,
@@ -14124,7 +14124,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.boxOpen({
+  IconsIcon8.boxOpen({
     Key? key,
     double? size,
     Color? color,
@@ -14138,7 +14138,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.commentDots1({
+  IconsIcon8.commentDots1({
     Key? key,
     double? size,
     Color? color,
@@ -14152,7 +14152,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.commentSlash({
+  IconsIcon8.commentSlash({
     Key? key,
     double? size,
     Color? color,
@@ -14166,7 +14166,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.couch({
+  IconsIcon8.couch({
     Key? key,
     double? size,
     Color? color,
@@ -14180,7 +14180,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.donate({
+  IconsIcon8.donate({
     Key? key,
     double? size,
     Color? color,
@@ -14194,7 +14194,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dove({
+  IconsIcon8.dove({
     Key? key,
     double? size,
     Color? color,
@@ -14208,7 +14208,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handHolding({
+  IconsIcon8.handHolding({
     Key? key,
     double? size,
     Color? color,
@@ -14222,7 +14222,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handHoldingHeart({
+  IconsIcon8.handHoldingHeart({
     Key? key,
     double? size,
     Color? color,
@@ -14236,7 +14236,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handHoldingUsDollar({
+  IconsIcon8.handHoldingUsDollar({
     Key? key,
     double? size,
     Color? color,
@@ -14250,7 +14250,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hands({
+  IconsIcon8.hands({
     Key? key,
     double? size,
     Color? color,
@@ -14264,7 +14264,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.helpingHands({
+  IconsIcon8.helpingHands({
     Key? key,
     double? size,
     Color? color,
@@ -14278,7 +14278,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.parachuteBox({
+  IconsIcon8.parachuteBox({
     Key? key,
     double? size,
     Color? color,
@@ -14292,7 +14292,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.peopleCarry({
+  IconsIcon8.peopleCarry({
     Key? key,
     double? size,
     Color? color,
@@ -14306,7 +14306,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.piggyBank({
+  IconsIcon8.piggyBank({
     Key? key,
     double? size,
     Color? color,
@@ -14320,7 +14320,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.readme({
+  IconsIcon8.readme({
     Key? key,
     double? size,
     Color? color,
@@ -14334,7 +14334,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ribbon({
+  IconsIcon8.ribbon({
     Key? key,
     double? size,
     Color? color,
@@ -14348,7 +14348,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.route({
+  IconsIcon8.route({
     Key? key,
     double? size,
     Color? color,
@@ -14362,7 +14362,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.seedling({
+  IconsIcon8.seedling({
     Key? key,
     double? size,
     Color? color,
@@ -14376,7 +14376,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sign({
+  IconsIcon8.sign({
     Key? key,
     double? size,
     Color? color,
@@ -14390,7 +14390,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.winkingFace2({
+  IconsIcon8.winkingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -14404,7 +14404,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tape({
+  IconsIcon8.tape({
     Key? key,
     double? size,
     Color? color,
@@ -14418,7 +14418,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.truckLoading({
+  IconsIcon8.truckLoading({
     Key? key,
     double? size,
     Color? color,
@@ -14432,7 +14432,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.truck({
+  IconsIcon8.truck({
     Key? key,
     double? size,
     Color? color,
@@ -14446,7 +14446,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.videoSlash({
+  IconsIcon8.videoSlash({
     Key? key,
     double? size,
     Color? color,
@@ -14460,7 +14460,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wineGlass({
+  IconsIcon8.wineGlass({
     Key? key,
     double? size,
     Color? color,
@@ -14474,7 +14474,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.java({
+  IconsIcon8.java({
     Key? key,
     double? size,
     Color? color,
@@ -14488,7 +14488,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.piedPiperHat({
+  IconsIcon8.piedPiperHat({
     Key? key,
     double? size,
     Color? color,
@@ -14502,7 +14502,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommonsAttribution({
+  IconsIcon8.creativeCommonsAttribution({
     Key? key,
     double? size,
     Color? color,
@@ -14516,7 +14516,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommonsNoncommercial({
+  IconsIcon8.creativeCommonsNoncommercial({
     Key? key,
     double? size,
     Color? color,
@@ -14530,7 +14530,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommonsNoncommercialXeuroSign({
+  IconsIcon8.creativeCommonsNoncommercialXeuroSign({
     Key? key,
     double? size,
     Color? color,
@@ -14544,7 +14544,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommonsNoncommercialXyenSign({
+  IconsIcon8.creativeCommonsNoncommercialXyenSign({
     Key? key,
     double? size,
     Color? color,
@@ -14558,7 +14558,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommonsNoDerivativeWorks({
+  IconsIcon8.creativeCommonsNoDerivativeWorks({
     Key? key,
     double? size,
     Color? color,
@@ -14572,7 +14572,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommonsPublicDomain({
+  IconsIcon8.creativeCommonsPublicDomain({
     Key? key,
     double? size,
     Color? color,
@@ -14586,7 +14586,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateCreativeCommonsPublicDomain({
+  IconsIcon8.alternateCreativeCommonsPublicDomain({
     Key? key,
     double? size,
     Color? color,
@@ -14600,7 +14600,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommonsRemix({
+  IconsIcon8.creativeCommonsRemix({
     Key? key,
     double? size,
     Color? color,
@@ -14614,7 +14614,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommonsShareAlike({
+  IconsIcon8.creativeCommonsShareAlike({
     Key? key,
     double? size,
     Color? color,
@@ -14628,7 +14628,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommonsSampling({
+  IconsIcon8.creativeCommonsSampling({
     Key? key,
     double? size,
     Color? color,
@@ -14642,7 +14642,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommonsSamplingX({
+  IconsIcon8.creativeCommonsSamplingX({
     Key? key,
     double? size,
     Color? color,
@@ -14656,7 +14656,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommonsShare({
+  IconsIcon8.creativeCommonsShare({
     Key? key,
     double? size,
     Color? color,
@@ -14670,7 +14670,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.creativeCommonsCc0({
+  IconsIcon8.creativeCommonsCc0({
     Key? key,
     double? size,
     Color? color,
@@ -14684,7 +14684,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ebay({
+  IconsIcon8.ebay({
     Key? key,
     double? size,
     Color? color,
@@ -14698,7 +14698,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.keybase({
+  IconsIcon8.keybase({
     Key? key,
     double? size,
     Color? color,
@@ -14712,7 +14712,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mastodon({
+  IconsIcon8.mastodon({
     Key? key,
     double? size,
     Color? color,
@@ -14726,7 +14726,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rProject({
+  IconsIcon8.rProject({
     Key? key,
     double? size,
     Color? color,
@@ -14740,7 +14740,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.researchgate({
+  IconsIcon8.researchgate({
     Key? key,
     double? size,
     Color? color,
@@ -14754,7 +14754,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.teamspeak({
+  IconsIcon8.teamspeak({
     Key? key,
     double? size,
     Color? color,
@@ -14768,7 +14768,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateUserSlash({
+  IconsIcon8.alternateUserSlash({
     Key? key,
     double? size,
     Color? color,
@@ -14782,7 +14782,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userAstronaut({
+  IconsIcon8.userAstronaut({
     Key? key,
     double? size,
     Color? color,
@@ -14796,7 +14796,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userCheck({
+  IconsIcon8.userCheck({
     Key? key,
     double? size,
     Color? color,
@@ -14810,7 +14810,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userClock({
+  IconsIcon8.userClock({
     Key? key,
     double? size,
     Color? color,
@@ -14824,7 +14824,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userCog({
+  IconsIcon8.userCog({
     Key? key,
     double? size,
     Color? color,
@@ -14838,7 +14838,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userEdit({
+  IconsIcon8.userEdit({
     Key? key,
     double? size,
     Color? color,
@@ -14852,7 +14852,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userFriends({
+  IconsIcon8.userFriends({
     Key? key,
     double? size,
     Color? color,
@@ -14866,7 +14866,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userGraduate({
+  IconsIcon8.userGraduate({
     Key? key,
     double? size,
     Color? color,
@@ -14880,7 +14880,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userLock({
+  IconsIcon8.userLock({
     Key? key,
     double? size,
     Color? color,
@@ -14894,7 +14894,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userMinus({
+  IconsIcon8.userMinus({
     Key? key,
     double? size,
     Color? color,
@@ -14908,7 +14908,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userNinja({
+  IconsIcon8.userNinja({
     Key? key,
     double? size,
     Color? color,
@@ -14922,7 +14922,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userShield({
+  IconsIcon8.userShield({
     Key? key,
     double? size,
     Color? color,
@@ -14936,7 +14936,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userSlash({
+  IconsIcon8.userSlash({
     Key? key,
     double? size,
     Color? color,
@@ -14950,7 +14950,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userTag({
+  IconsIcon8.userTag({
     Key? key,
     double? size,
     Color? color,
@@ -14964,7 +14964,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userTie({
+  IconsIcon8.userTie({
     Key? key,
     double? size,
     Color? color,
@@ -14978,7 +14978,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.usersCog({
+  IconsIcon8.usersCog({
     Key? key,
     double? size,
     Color? color,
@@ -14992,7 +14992,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateFirstOrder({
+  IconsIcon8.alternateFirstOrder({
     Key? key,
     double? size,
     Color? color,
@@ -15006,7 +15006,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fulcrum({
+  IconsIcon8.fulcrum({
     Key? key,
     double? size,
     Color? color,
@@ -15020,7 +15020,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.galacticEmpire({
+  IconsIcon8.galacticEmpire({
     Key? key,
     double? size,
     Color? color,
@@ -15034,7 +15034,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.galacticSenate({
+  IconsIcon8.galacticSenate({
     Key? key,
     double? size,
     Color? color,
@@ -15048,7 +15048,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.jediOrder({
+  IconsIcon8.jediOrder({
     Key? key,
     double? size,
     Color? color,
@@ -15062,7 +15062,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mandalorian({
+  IconsIcon8.mandalorian({
     Key? key,
     double? size,
     Color? color,
@@ -15076,7 +15076,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.oldRepublic({
+  IconsIcon8.oldRepublic({
     Key? key,
     double? size,
     Color? color,
@@ -15090,7 +15090,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.phoenixSquadron({
+  IconsIcon8.phoenixSquadron({
     Key? key,
     double? size,
     Color? color,
@@ -15104,7 +15104,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sith({
+  IconsIcon8.sith({
     Key? key,
     double? size,
     Color? color,
@@ -15118,7 +15118,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tradeFederation({
+  IconsIcon8.tradeFederation({
     Key? key,
     double? size,
     Color? color,
@@ -15132,7 +15132,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wolfPackBattalion({
+  IconsIcon8.wolfPackBattalion({
     Key? key,
     double? size,
     Color? color,
@@ -15146,7 +15146,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.balanceScaleXleftWeighted({
+  IconsIcon8.balanceScaleXleftWeighted({
     Key? key,
     double? size,
     Color? color,
@@ -15160,7 +15160,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.balanceScaleXrightWeighted({
+  IconsIcon8.balanceScaleXrightWeighted({
     Key? key,
     double? size,
     Color? color,
@@ -15174,7 +15174,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.blender({
+  IconsIcon8.blender({
     Key? key,
     double? size,
     Color? color,
@@ -15188,7 +15188,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bookOpen({
+  IconsIcon8.bookOpen({
     Key? key,
     double? size,
     Color? color,
@@ -15202,7 +15202,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.broadcastTower({
+  IconsIcon8.broadcastTower({
     Key? key,
     double? size,
     Color? color,
@@ -15216,7 +15216,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.broom({
+  IconsIcon8.broom({
     Key? key,
     double? size,
     Color? color,
@@ -15230,7 +15230,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chalkboard({
+  IconsIcon8.chalkboard({
     Key? key,
     double? size,
     Color? color,
@@ -15244,7 +15244,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chalkboardTeacher({
+  IconsIcon8.chalkboardTeacher({
     Key? key,
     double? size,
     Color? color,
@@ -15258,7 +15258,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.church({
+  IconsIcon8.church({
     Key? key,
     double? size,
     Color? color,
@@ -15272,7 +15272,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.coins({
+  IconsIcon8.coins({
     Key? key,
     double? size,
     Color? color,
@@ -15286,7 +15286,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.compactDisc({
+  IconsIcon8.compactDisc({
     Key? key,
     double? size,
     Color? color,
@@ -15300,7 +15300,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.crow({
+  IconsIcon8.crow({
     Key? key,
     double? size,
     Color? color,
@@ -15314,7 +15314,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.crown({
+  IconsIcon8.crown({
     Key? key,
     double? size,
     Color? color,
@@ -15328,7 +15328,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dice({
+  IconsIcon8.dice({
     Key? key,
     double? size,
     Color? color,
@@ -15342,7 +15342,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.diceFive({
+  IconsIcon8.diceFive({
     Key? key,
     double? size,
     Color? color,
@@ -15356,7 +15356,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.diceFour({
+  IconsIcon8.diceFour({
     Key? key,
     double? size,
     Color? color,
@@ -15370,7 +15370,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.diceOne({
+  IconsIcon8.diceOne({
     Key? key,
     double? size,
     Color? color,
@@ -15384,7 +15384,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.diceSix({
+  IconsIcon8.diceSix({
     Key? key,
     double? size,
     Color? color,
@@ -15398,7 +15398,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.diceThree({
+  IconsIcon8.diceThree({
     Key? key,
     double? size,
     Color? color,
@@ -15412,7 +15412,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.diceTwo({
+  IconsIcon8.diceTwo({
     Key? key,
     double? size,
     Color? color,
@@ -15426,7 +15426,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.divide({
+  IconsIcon8.divide({
     Key? key,
     double? size,
     Color? color,
@@ -15440,7 +15440,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.doorClosed({
+  IconsIcon8.doorClosed({
     Key? key,
     double? size,
     Color? color,
@@ -15454,7 +15454,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.doorOpen({
+  IconsIcon8.doorOpen({
     Key? key,
     double? size,
     Color? color,
@@ -15468,7 +15468,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.equals({
+  IconsIcon8.equals({
     Key? key,
     double? size,
     Color? color,
@@ -15482,7 +15482,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.feather({
+  IconsIcon8.feather({
     Key? key,
     double? size,
     Color? color,
@@ -15496,7 +15496,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.frog({
+  IconsIcon8.frog({
     Key? key,
     double? size,
     Color? color,
@@ -15510,7 +15510,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gasPump({
+  IconsIcon8.gasPump({
     Key? key,
     double? size,
     Color? color,
@@ -15524,7 +15524,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.glasses({
+  IconsIcon8.glasses({
     Key? key,
     double? size,
     Color? color,
@@ -15538,7 +15538,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.greaterThan({
+  IconsIcon8.greaterThan({
     Key? key,
     double? size,
     Color? color,
@@ -15552,7 +15552,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.greaterThanEqualTo({
+  IconsIcon8.greaterThanEqualTo({
     Key? key,
     double? size,
     Color? color,
@@ -15566,7 +15566,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.helicopter({
+  IconsIcon8.helicopter({
     Key? key,
     double? size,
     Color? color,
@@ -15580,7 +15580,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.infinity({
+  IconsIcon8.infinity({
     Key? key,
     double? size,
     Color? color,
@@ -15594,7 +15594,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.kiwiBird({
+  IconsIcon8.kiwiBird({
     Key? key,
     double? size,
     Color? color,
@@ -15608,7 +15608,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lessThan({
+  IconsIcon8.lessThan({
     Key? key,
     double? size,
     Color? color,
@@ -15622,7 +15622,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lessThanEqualTo({
+  IconsIcon8.lessThanEqualTo({
     Key? key,
     double? size,
     Color? color,
@@ -15636,7 +15636,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.memory({
+  IconsIcon8.memory({
     Key? key,
     double? size,
     Color? color,
@@ -15650,7 +15650,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateMicrophoneSlash({
+  IconsIcon8.alternateMicrophoneSlash({
     Key? key,
     double? size,
     Color? color,
@@ -15664,7 +15664,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wavyMoneyBill({
+  IconsIcon8.wavyMoneyBill({
     Key? key,
     double? size,
     Color? color,
@@ -15678,7 +15678,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateWavyMoneyBill({
+  IconsIcon8.alternateWavyMoneyBill({
     Key? key,
     double? size,
     Color? color,
@@ -15692,7 +15692,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.moneyCheck({
+  IconsIcon8.moneyCheck({
     Key? key,
     double? size,
     Color? color,
@@ -15706,7 +15706,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateMoneyCheck({
+  IconsIcon8.alternateMoneyCheck({
     Key? key,
     double? size,
     Color? color,
@@ -15720,7 +15720,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.notEqual({
+  IconsIcon8.notEqual({
     Key? key,
     double? size,
     Color? color,
@@ -15734,7 +15734,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.palette({
+  IconsIcon8.palette({
     Key? key,
     double? size,
     Color? color,
@@ -15748,7 +15748,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.parking({
+  IconsIcon8.parking({
     Key? key,
     double? size,
     Color? color,
@@ -15762,7 +15762,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.percentage({
+  IconsIcon8.percentage({
     Key? key,
     double? size,
     Color? color,
@@ -15776,7 +15776,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.projectDiagram({
+  IconsIcon8.projectDiagram({
     Key? key,
     double? size,
     Color? color,
@@ -15790,7 +15790,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.receipt({
+  IconsIcon8.receipt({
     Key? key,
     double? size,
     Color? color,
@@ -15804,7 +15804,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.robot({
+  IconsIcon8.robot({
     Key? key,
     double? size,
     Color? color,
@@ -15818,7 +15818,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ruler({
+  IconsIcon8.ruler({
     Key? key,
     double? size,
     Color? color,
@@ -15832,7 +15832,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rulerCombined({
+  IconsIcon8.rulerCombined({
     Key? key,
     double? size,
     Color? color,
@@ -15846,7 +15846,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rulerHorizontal({
+  IconsIcon8.rulerHorizontal({
     Key? key,
     double? size,
     Color? color,
@@ -15860,7 +15860,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rulerVertical({
+  IconsIcon8.rulerVertical({
     Key? key,
     double? size,
     Color? color,
@@ -15874,7 +15874,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.school({
+  IconsIcon8.school({
     Key? key,
     double? size,
     Color? color,
@@ -15888,7 +15888,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.screwdriver({
+  IconsIcon8.screwdriver({
     Key? key,
     double? size,
     Color? color,
@@ -15902,7 +15902,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shoePrints({
+  IconsIcon8.shoePrints({
     Key? key,
     double? size,
     Color? color,
@@ -15916,7 +15916,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.skull({
+  IconsIcon8.skull({
     Key? key,
     double? size,
     Color? color,
@@ -15930,7 +15930,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.smokingBan({
+  IconsIcon8.smokingBan({
     Key? key,
     double? size,
     Color? color,
@@ -15944,7 +15944,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.store({
+  IconsIcon8.store({
     Key? key,
     double? size,
     Color? color,
@@ -15958,7 +15958,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateStore({
+  IconsIcon8.alternateStore({
     Key? key,
     double? size,
     Color? color,
@@ -15972,7 +15972,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stream({
+  IconsIcon8.stream({
     Key? key,
     double? size,
     Color? color,
@@ -15986,7 +15986,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stroopwafel({
+  IconsIcon8.stroopwafel({
     Key? key,
     double? size,
     Color? color,
@@ -16000,7 +16000,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.toolbox({
+  IconsIcon8.toolbox({
     Key? key,
     double? size,
     Color? color,
@@ -16014,7 +16014,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tShirt({
+  IconsIcon8.tShirt({
     Key? key,
     double? size,
     Color? color,
@@ -16028,7 +16028,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.walking({
+  IconsIcon8.walking({
     Key? key,
     double? size,
     Color? color,
@@ -16042,7 +16042,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wallet({
+  IconsIcon8.wallet({
     Key? key,
     double? size,
     Color? color,
@@ -16056,7 +16056,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.angryFace1({
+  IconsIcon8.angryFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16070,7 +16070,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.archway({
+  IconsIcon8.archway({
     Key? key,
     double? size,
     Color? color,
@@ -16084,7 +16084,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.atlas({
+  IconsIcon8.atlas({
     Key? key,
     double? size,
     Color? color,
@@ -16098,7 +16098,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.certificate({
+  IconsIcon8.certificate({
     Key? key,
     double? size,
     Color? color,
@@ -16112,7 +16112,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.backspace({
+  IconsIcon8.backspace({
     Key? key,
     double? size,
     Color? color,
@@ -16126,7 +16126,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bezierCurve({
+  IconsIcon8.bezierCurve({
     Key? key,
     double? size,
     Color? color,
@@ -16140,7 +16140,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bong({
+  IconsIcon8.bong({
     Key? key,
     double? size,
     Color? color,
@@ -16154,7 +16154,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.brush({
+  IconsIcon8.brush({
     Key? key,
     double? size,
     Color? color,
@@ -16168,7 +16168,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.busAlt({
+  IconsIcon8.busAlt({
     Key? key,
     double? size,
     Color? color,
@@ -16182,7 +16182,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cannabis({
+  IconsIcon8.cannabis({
     Key? key,
     double? size,
     Color? color,
@@ -16196,7 +16196,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.doubleCheck({
+  IconsIcon8.doubleCheck({
     Key? key,
     double? size,
     Color? color,
@@ -16210,7 +16210,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cocktail1({
+  IconsIcon8.cocktail1({
     Key? key,
     double? size,
     Color? color,
@@ -16224,7 +16224,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.conciergeBell({
+  IconsIcon8.conciergeBell({
     Key? key,
     double? size,
     Color? color,
@@ -16238,7 +16238,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cookie({
+  IconsIcon8.cookie({
     Key? key,
     double? size,
     Color? color,
@@ -16252,7 +16252,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cookieBite({
+  IconsIcon8.cookieBite({
     Key? key,
     double? size,
     Color? color,
@@ -16266,7 +16266,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateCrop({
+  IconsIcon8.alternateCrop({
     Key? key,
     double? size,
     Color? color,
@@ -16280,7 +16280,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.digitalTachograph({
+  IconsIcon8.digitalTachograph({
     Key? key,
     double? size,
     Color? color,
@@ -16294,7 +16294,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dizzyFace1({
+  IconsIcon8.dizzyFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16308,7 +16308,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.draftingCompass({
+  IconsIcon8.draftingCompass({
     Key? key,
     double? size,
     Color? color,
@@ -16322,7 +16322,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.drum({
+  IconsIcon8.drum({
     Key? key,
     double? size,
     Color? color,
@@ -16336,7 +16336,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.drumSteelpan({
+  IconsIcon8.drumSteelpan({
     Key? key,
     double? size,
     Color? color,
@@ -16350,7 +16350,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateFeather({
+  IconsIcon8.alternateFeather({
     Key? key,
     double? size,
     Color? color,
@@ -16364,7 +16364,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fileContract({
+  IconsIcon8.fileContract({
     Key? key,
     double? size,
     Color? color,
@@ -16378,7 +16378,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fileDownload({
+  IconsIcon8.fileDownload({
     Key? key,
     double? size,
     Color? color,
@@ -16392,7 +16392,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fileExport({
+  IconsIcon8.fileExport({
     Key? key,
     double? size,
     Color? color,
@@ -16406,7 +16406,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fileImport({
+  IconsIcon8.fileImport({
     Key? key,
     double? size,
     Color? color,
@@ -16420,7 +16420,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fileInvoice({
+  IconsIcon8.fileInvoice({
     Key? key,
     double? size,
     Color? color,
@@ -16434,7 +16434,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fileInvoiceWithUsDollar({
+  IconsIcon8.fileInvoiceWithUsDollar({
     Key? key,
     double? size,
     Color? color,
@@ -16448,7 +16448,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.filePrescription({
+  IconsIcon8.filePrescription({
     Key? key,
     double? size,
     Color? color,
@@ -16462,7 +16462,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fileSignature({
+  IconsIcon8.fileSignature({
     Key? key,
     double? size,
     Color? color,
@@ -16476,7 +16476,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fileUpload({
+  IconsIcon8.fileUpload({
     Key? key,
     double? size,
     Color? color,
@@ -16490,7 +16490,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fill({
+  IconsIcon8.fill({
     Key? key,
     double? size,
     Color? color,
@@ -16504,7 +16504,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fillDrip({
+  IconsIcon8.fillDrip({
     Key? key,
     double? size,
     Color? color,
@@ -16518,7 +16518,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fingerprint({
+  IconsIcon8.fingerprint({
     Key? key,
     double? size,
     Color? color,
@@ -16532,7 +16532,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fish({
+  IconsIcon8.fish({
     Key? key,
     double? size,
     Color? color,
@@ -16546,7 +16546,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.flushedFace1({
+  IconsIcon8.flushedFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16560,7 +16560,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hushedFace2({
+  IconsIcon8.hushedFace2({
     Key? key,
     double? size,
     Color? color,
@@ -16574,7 +16574,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cocktail({
+  IconsIcon8.cocktail({
     Key? key,
     double? size,
     Color? color,
@@ -16588,7 +16588,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.globeWithAfricaShown({
+  IconsIcon8.globeWithAfricaShown({
     Key? key,
     double? size,
     Color? color,
@@ -16602,7 +16602,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.globeWithAmericasShown({
+  IconsIcon8.globeWithAmericasShown({
     Key? key,
     double? size,
     Color? color,
@@ -16616,7 +16616,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.globeWithAsiaShown({
+  IconsIcon8.globeWithAsiaShown({
     Key? key,
     double? size,
     Color? color,
@@ -16630,7 +16630,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grimacingFace1({
+  IconsIcon8.grimacingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16644,7 +16644,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningFaceWithBigEyes2({
+  IconsIcon8.grinningFaceWithBigEyes2({
     Key? key,
     double? size,
     Color? color,
@@ -16658,7 +16658,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateGrinningFace1({
+  IconsIcon8.alternateGrinningFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16672,7 +16672,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningFaceWithSmilingEyes2({
+  IconsIcon8.grinningFaceWithSmilingEyes2({
     Key? key,
     double? size,
     Color? color,
@@ -16686,7 +16686,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningFaceWithSweat1({
+  IconsIcon8.grinningFaceWithSweat1({
     Key? key,
     double? size,
     Color? color,
@@ -16700,7 +16700,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.smilingFaceWithHeartEyes1({
+  IconsIcon8.smilingFaceWithHeartEyes1({
     Key? key,
     double? size,
     Color? color,
@@ -16714,7 +16714,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningSquintingFace2({
+  IconsIcon8.grinningSquintingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -16728,7 +16728,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rollingOnTheFloorLaughing1({
+  IconsIcon8.rollingOnTheFloorLaughing1({
     Key? key,
     double? size,
     Color? color,
@@ -16742,7 +16742,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.starStruck1({
+  IconsIcon8.starStruck1({
     Key? key,
     double? size,
     Color? color,
@@ -16756,7 +16756,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.faceWithTearsOfJoy1({
+  IconsIcon8.faceWithTearsOfJoy1({
     Key? key,
     double? size,
     Color? color,
@@ -16770,7 +16770,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.faceWithTongue1({
+  IconsIcon8.faceWithTongue1({
     Key? key,
     double? size,
     Color? color,
@@ -16784,7 +16784,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.squintingFaceWithTongue1({
+  IconsIcon8.squintingFaceWithTongue1({
     Key? key,
     double? size,
     Color? color,
@@ -16798,7 +16798,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.winkingFaceWithTongue1({
+  IconsIcon8.winkingFaceWithTongue1({
     Key? key,
     double? size,
     Color? color,
@@ -16812,7 +16812,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.winkingFace1({
+  IconsIcon8.winkingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16826,7 +16826,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gripHorizontal({
+  IconsIcon8.gripHorizontal({
     Key? key,
     double? size,
     Color? color,
@@ -16840,7 +16840,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gripVertical({
+  IconsIcon8.gripVertical({
     Key? key,
     double? size,
     Color? color,
@@ -16854,7 +16854,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.headphones({
+  IconsIcon8.headphones({
     Key? key,
     double? size,
     Color? color,
@@ -16868,7 +16868,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.headset({
+  IconsIcon8.headset({
     Key? key,
     double? size,
     Color? color,
@@ -16882,7 +16882,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.highlighter1({
+  IconsIcon8.highlighter1({
     Key? key,
     double? size,
     Color? color,
@@ -16896,7 +16896,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hornbill({
+  IconsIcon8.hornbill({
     Key? key,
     double? size,
     Color? color,
@@ -16910,7 +16910,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hotTub({
+  IconsIcon8.hotTub({
     Key? key,
     double? size,
     Color? color,
@@ -16924,7 +16924,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hotel({
+  IconsIcon8.hotel({
     Key? key,
     double? size,
     Color? color,
@@ -16938,7 +16938,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.joint({
+  IconsIcon8.joint({
     Key? key,
     double? size,
     Color? color,
@@ -16952,7 +16952,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.kissingFace1({
+  IconsIcon8.kissingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16966,7 +16966,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.kissingFaceWithSmilingEyes1({
+  IconsIcon8.kissingFaceWithSmilingEyes1({
     Key? key,
     double? size,
     Color? color,
@@ -16980,7 +16980,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.faceBlowingAKiss1({
+  IconsIcon8.faceBlowingAKiss1({
     Key? key,
     double? size,
     Color? color,
@@ -16994,7 +16994,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningFaceWithBigEyes1({
+  IconsIcon8.grinningFaceWithBigEyes1({
     Key? key,
     double? size,
     Color? color,
@@ -17008,7 +17008,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningFaceWithSmilingEyes1({
+  IconsIcon8.grinningFaceWithSmilingEyes1({
     Key? key,
     double? size,
     Color? color,
@@ -17022,7 +17022,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.grinningSquintingFace1({
+  IconsIcon8.grinningSquintingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -17036,7 +17036,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.laughingWinkingFace1({
+  IconsIcon8.laughingWinkingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -17050,7 +17050,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dollyFlatbed({
+  IconsIcon8.dollyFlatbed({
     Key? key,
     double? size,
     Color? color,
@@ -17064,7 +17064,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mailchimp({
+  IconsIcon8.mailchimp({
     Key? key,
     double? size,
     Color? color,
@@ -17078,7 +17078,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mapMarked({
+  IconsIcon8.mapMarked({
     Key? key,
     double? size,
     Color? color,
@@ -17092,7 +17092,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateMapMarked({
+  IconsIcon8.alternateMapMarked({
     Key? key,
     double? size,
     Color? color,
@@ -17106,7 +17106,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.highlighter({
+  IconsIcon8.highlighter({
     Key? key,
     double? size,
     Color? color,
@@ -17120,7 +17120,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.medal({
+  IconsIcon8.medal({
     Key? key,
     double? size,
     Color? color,
@@ -17134,7 +17134,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.megaport({
+  IconsIcon8.megaport({
     Key? key,
     double? size,
     Color? color,
@@ -17148,7 +17148,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.faceWithoutMouth1({
+  IconsIcon8.faceWithoutMouth1({
     Key? key,
     double? size,
     Color? color,
@@ -17162,7 +17162,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.faceWithRollingEyes1({
+  IconsIcon8.faceWithRollingEyes1({
     Key? key,
     double? size,
     Color? color,
@@ -17176,7 +17176,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.monument({
+  IconsIcon8.monument({
     Key? key,
     double? size,
     Color? color,
@@ -17190,7 +17190,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mortarPestle({
+  IconsIcon8.mortarPestle({
     Key? key,
     double? size,
     Color? color,
@@ -17204,7 +17204,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.nimblr({
+  IconsIcon8.nimblr({
     Key? key,
     double? size,
     Color? color,
@@ -17218,7 +17218,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.paintRoller({
+  IconsIcon8.paintRoller({
     Key? key,
     double? size,
     Color? color,
@@ -17232,7 +17232,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.passport({
+  IconsIcon8.passport({
     Key? key,
     double? size,
     Color? color,
@@ -17246,7 +17246,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.penFancy({
+  IconsIcon8.penFancy({
     Key? key,
     double? size,
     Color? color,
@@ -17260,7 +17260,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.penNib({
+  IconsIcon8.penNib({
     Key? key,
     double? size,
     Color? color,
@@ -17274,7 +17274,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pencilRuler({
+  IconsIcon8.pencilRuler({
     Key? key,
     double? size,
     Color? color,
@@ -17288,7 +17288,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.planeArrival({
+  IconsIcon8.planeArrival({
     Key? key,
     double? size,
     Color? color,
@@ -17302,7 +17302,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.planeDeparture({
+  IconsIcon8.planeDeparture({
     Key? key,
     double? size,
     Color? color,
@@ -17316,7 +17316,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.prescription({
+  IconsIcon8.prescription({
     Key? key,
     double? size,
     Color? color,
@@ -17330,7 +17330,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.revIo({
+  IconsIcon8.revIo({
     Key? key,
     double? size,
     Color? color,
@@ -17344,7 +17344,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cryingFace1({
+  IconsIcon8.cryingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -17358,7 +17358,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.loudlyCryingFace1({
+  IconsIcon8.loudlyCryingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -17372,7 +17372,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shopware({
+  IconsIcon8.shopware({
     Key? key,
     double? size,
     Color? color,
@@ -17386,7 +17386,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shuttleVan({
+  IconsIcon8.shuttleVan({
     Key? key,
     double? size,
     Color? color,
@@ -17400,7 +17400,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.signature({
+  IconsIcon8.signature({
     Key? key,
     double? size,
     Color? color,
@@ -17414,7 +17414,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.beamingFaceWithSmilingEyes1({
+  IconsIcon8.beamingFaceWithSmilingEyes1({
     Key? key,
     double? size,
     Color? color,
@@ -17428,7 +17428,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.solarPanel({
+  IconsIcon8.solarPanel({
     Key? key,
     double? size,
     Color? color,
@@ -17442,7 +17442,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.spa({
+  IconsIcon8.spa({
     Key? key,
     double? size,
     Color? color,
@@ -17456,7 +17456,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.splotch({
+  IconsIcon8.splotch({
     Key? key,
     double? size,
     Color? color,
@@ -17470,7 +17470,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sprayCan({
+  IconsIcon8.sprayCan({
     Key? key,
     double? size,
     Color? color,
@@ -17484,7 +17484,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.squarespace({
+  IconsIcon8.squarespace({
     Key? key,
     double? size,
     Color? color,
@@ -17498,7 +17498,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stamp({
+  IconsIcon8.stamp({
     Key? key,
     double? size,
     Color? color,
@@ -17512,7 +17512,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateStarHalf({
+  IconsIcon8.alternateStarHalf({
     Key? key,
     double? size,
     Color? color,
@@ -17526,7 +17526,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.suitcaseRolling({
+  IconsIcon8.suitcaseRolling({
     Key? key,
     double? size,
     Color? color,
@@ -17540,7 +17540,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hushedFace1({
+  IconsIcon8.hushedFace1({
     Key? key,
     double? size,
     Color? color,
@@ -17554,7 +17554,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.swatchbook({
+  IconsIcon8.swatchbook({
     Key? key,
     double? size,
     Color? color,
@@ -17568,7 +17568,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.swimmer({
+  IconsIcon8.swimmer({
     Key? key,
     double? size,
     Color? color,
@@ -17582,7 +17582,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.swimmingPool({
+  IconsIcon8.swimmingPool({
     Key? key,
     double? size,
     Color? color,
@@ -17596,7 +17596,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.themeco({
+  IconsIcon8.themeco({
     Key? key,
     double? size,
     Color? color,
@@ -17610,7 +17610,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tintSlash({
+  IconsIcon8.tintSlash({
     Key? key,
     double? size,
     Color? color,
@@ -17624,7 +17624,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tiredFace1({
+  IconsIcon8.tiredFace1({
     Key? key,
     double? size,
     Color? color,
@@ -17638,7 +17638,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tooth({
+  IconsIcon8.tooth({
     Key? key,
     double? size,
     Color? color,
@@ -17652,7 +17652,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.umbrellaBeach({
+  IconsIcon8.umbrellaBeach({
     Key? key,
     double? size,
     Color? color,
@@ -17666,7 +17666,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.vectorSquare({
+  IconsIcon8.vectorSquare({
     Key? key,
     double? size,
     Color? color,
@@ -17680,7 +17680,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.weebly({
+  IconsIcon8.weebly({
     Key? key,
     double? size,
     Color? color,
@@ -17694,7 +17694,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hangingWeight({
+  IconsIcon8.hangingWeight({
     Key? key,
     double? size,
     Color? color,
@@ -17708,7 +17708,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateWineGlas({
+  IconsIcon8.alternateWineGlas({
     Key? key,
     double? size,
     Color? color,
@@ -17722,7 +17722,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wix({
+  IconsIcon8.wix({
     Key? key,
     double? size,
     Color? color,
@@ -17736,7 +17736,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.airFreshener({
+  IconsIcon8.airFreshener({
     Key? key,
     double? size,
     Color? color,
@@ -17750,7 +17750,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fruitApple({
+  IconsIcon8.fruitApple({
     Key? key,
     double? size,
     Color? color,
@@ -17764,7 +17764,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.atom({
+  IconsIcon8.atom({
     Key? key,
     double? size,
     Color? color,
@@ -17778,7 +17778,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bone({
+  IconsIcon8.bone({
     Key? key,
     double? size,
     Color? color,
@@ -17792,7 +17792,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bookReader({
+  IconsIcon8.bookReader({
     Key? key,
     double? size,
     Color? color,
@@ -17806,7 +17806,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.brain({
+  IconsIcon8.brain({
     Key? key,
     double? size,
     Color? color,
@@ -17820,7 +17820,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateCar({
+  IconsIcon8.alternateCar({
     Key? key,
     double? size,
     Color? color,
@@ -17834,7 +17834,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.carBattery({
+  IconsIcon8.carBattery({
     Key? key,
     double? size,
     Color? color,
@@ -17848,7 +17848,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.carCrash({
+  IconsIcon8.carCrash({
     Key? key,
     double? size,
     Color? color,
@@ -17862,7 +17862,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.carSide({
+  IconsIcon8.carSide({
     Key? key,
     double? size,
     Color? color,
@@ -17876,7 +17876,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chargingStation({
+  IconsIcon8.chargingStation({
     Key? key,
     double? size,
     Color? color,
@@ -17890,7 +17890,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.directions({
+  IconsIcon8.directions({
     Key? key,
     double? size,
     Color? color,
@@ -17904,7 +17904,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.drawPolygon({
+  IconsIcon8.drawPolygon({
     Key? key,
     double? size,
     Color? color,
@@ -17918,7 +17918,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ello({
+  IconsIcon8.ello({
     Key? key,
     double? size,
     Color? color,
@@ -17932,7 +17932,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hackerrank({
+  IconsIcon8.hackerrank({
     Key? key,
     double? size,
     Color? color,
@@ -17946,7 +17946,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.kaggle({
+  IconsIcon8.kaggle({
     Key? key,
     double? size,
     Color? color,
@@ -17960,7 +17960,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.laptopCode({
+  IconsIcon8.laptopCode({
     Key? key,
     double? size,
     Color? color,
@@ -17974,7 +17974,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.layerGroup({
+  IconsIcon8.layerGroup({
     Key? key,
     double? size,
     Color? color,
@@ -17988,7 +17988,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.markdown({
+  IconsIcon8.markdown({
     Key? key,
     double? size,
     Color? color,
@@ -18002,7 +18002,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.microscope({
+  IconsIcon8.microscope({
     Key? key,
     double? size,
     Color? color,
@@ -18016,7 +18016,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.neos({
+  IconsIcon8.neos({
     Key? key,
     double? size,
     Color? color,
@@ -18030,7 +18030,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.oilCan({
+  IconsIcon8.oilCan({
     Key? key,
     double? size,
     Color? color,
@@ -18044,7 +18044,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.poop({
+  IconsIcon8.poop({
     Key? key,
     double? size,
     Color? color,
@@ -18058,7 +18058,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.shapes({
+  IconsIcon8.shapes({
     Key? key,
     double? size,
     Color? color,
@@ -18072,7 +18072,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.starOfLife({
+  IconsIcon8.starOfLife({
     Key? key,
     double? size,
     Color? color,
@@ -18086,7 +18086,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.teeth({
+  IconsIcon8.teeth({
     Key? key,
     double? size,
     Color? color,
@@ -18100,7 +18100,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.teethOpen({
+  IconsIcon8.teethOpen({
     Key? key,
     double? size,
     Color? color,
@@ -18114,7 +18114,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.theaterMasks({
+  IconsIcon8.theaterMasks({
     Key? key,
     double? size,
     Color? color,
@@ -18128,7 +18128,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.trafficLight({
+  IconsIcon8.trafficLight({
     Key? key,
     double? size,
     Color? color,
@@ -18142,7 +18142,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.truckMonster({
+  IconsIcon8.truckMonster({
     Key? key,
     double? size,
     Color? color,
@@ -18156,7 +18156,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.truckSide({
+  IconsIcon8.truckSide({
     Key? key,
     double? size,
     Color? color,
@@ -18170,7 +18170,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.zhihu({
+  IconsIcon8.zhihu({
     Key? key,
     double? size,
     Color? color,
@@ -18184,7 +18184,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ad({
+  IconsIcon8.ad({
     Key? key,
     double? size,
     Color? color,
@@ -18198,7 +18198,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alipay({
+  IconsIcon8.alipay({
     Key? key,
     double? size,
     Color? color,
@@ -18212,7 +18212,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ankh({
+  IconsIcon8.ankh({
     Key? key,
     double? size,
     Color? color,
@@ -18226,7 +18226,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bible({
+  IconsIcon8.bible({
     Key? key,
     double? size,
     Color? color,
@@ -18240,7 +18240,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.businessTime({
+  IconsIcon8.businessTime({
     Key? key,
     double? size,
     Color? color,
@@ -18254,7 +18254,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.city({
+  IconsIcon8.city({
     Key? key,
     double? size,
     Color? color,
@@ -18268,7 +18268,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.commentDollar({
+  IconsIcon8.commentDollar({
     Key? key,
     double? size,
     Color? color,
@@ -18282,7 +18282,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.commentsDollar({
+  IconsIcon8.commentsDollar({
     Key? key,
     double? size,
     Color? color,
@@ -18296,7 +18296,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cross({
+  IconsIcon8.cross({
     Key? key,
     double? size,
     Color? color,
@@ -18310,7 +18310,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dharmachakra({
+  IconsIcon8.dharmachakra({
     Key? key,
     double? size,
     Color? color,
@@ -18324,7 +18324,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.envelopeOpenText({
+  IconsIcon8.envelopeOpenText({
     Key? key,
     double? size,
     Color? color,
@@ -18338,7 +18338,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.folderMinus({
+  IconsIcon8.folderMinus({
     Key? key,
     double? size,
     Color? color,
@@ -18352,7 +18352,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.folderPlus({
+  IconsIcon8.folderPlus({
     Key? key,
     double? size,
     Color? color,
@@ -18366,7 +18366,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.funnelDollar({
+  IconsIcon8.funnelDollar({
     Key? key,
     double? size,
     Color? color,
@@ -18380,7 +18380,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gopuram({
+  IconsIcon8.gopuram({
     Key? key,
     double? size,
     Color? color,
@@ -18394,7 +18394,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hamsa({
+  IconsIcon8.hamsa({
     Key? key,
     double? size,
     Color? color,
@@ -18408,7 +18408,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.haykal({
+  IconsIcon8.haykal({
     Key? key,
     double? size,
     Color? color,
@@ -18422,7 +18422,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.jedi({
+  IconsIcon8.jedi({
     Key? key,
     double? size,
     Color? color,
@@ -18436,7 +18436,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.journalOfTheWhills({
+  IconsIcon8.journalOfTheWhills({
     Key? key,
     double? size,
     Color? color,
@@ -18450,7 +18450,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.kaaba({
+  IconsIcon8.kaaba({
     Key? key,
     double? size,
     Color? color,
@@ -18464,7 +18464,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.khanda({
+  IconsIcon8.khanda({
     Key? key,
     double? size,
     Color? color,
@@ -18478,7 +18478,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.landmark({
+  IconsIcon8.landmark({
     Key? key,
     double? size,
     Color? color,
@@ -18492,7 +18492,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mailBulk({
+  IconsIcon8.mailBulk({
     Key? key,
     double? size,
     Color? color,
@@ -18506,7 +18506,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.menorah({
+  IconsIcon8.menorah({
     Key? key,
     double? size,
     Color? color,
@@ -18520,7 +18520,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mosque({
+  IconsIcon8.mosque({
     Key? key,
     double? size,
     Color? color,
@@ -18534,7 +18534,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.om({
+  IconsIcon8.om({
     Key? key,
     double? size,
     Color? color,
@@ -18548,7 +18548,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pastafarianism({
+  IconsIcon8.pastafarianism({
     Key? key,
     double? size,
     Color? color,
@@ -18562,7 +18562,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.peace({
+  IconsIcon8.peace({
     Key? key,
     double? size,
     Color? color,
@@ -18576,7 +18576,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.placeOfWorship({
+  IconsIcon8.placeOfWorship({
     Key? key,
     double? size,
     Color? color,
@@ -18590,7 +18590,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.poll({
+  IconsIcon8.poll({
     Key? key,
     double? size,
     Color? color,
@@ -18604,7 +18604,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pollH({
+  IconsIcon8.pollH({
     Key? key,
     double? size,
     Color? color,
@@ -18618,7 +18618,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pray({
+  IconsIcon8.pray({
     Key? key,
     double? size,
     Color? color,
@@ -18632,7 +18632,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.prayingHands({
+  IconsIcon8.prayingHands({
     Key? key,
     double? size,
     Color? color,
@@ -18646,7 +18646,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.quran({
+  IconsIcon8.quran({
     Key? key,
     double? size,
     Color? color,
@@ -18660,7 +18660,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.searchDollar({
+  IconsIcon8.searchDollar({
     Key? key,
     double? size,
     Color? color,
@@ -18674,7 +18674,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.searchLocation({
+  IconsIcon8.searchLocation({
     Key? key,
     double? size,
     Color? color,
@@ -18688,7 +18688,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.socks({
+  IconsIcon8.socks({
     Key? key,
     double? size,
     Color? color,
@@ -18702,7 +18702,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateSquareRoot({
+  IconsIcon8.alternateSquareRoot({
     Key? key,
     double? size,
     Color? color,
@@ -18716,7 +18716,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.starAndCrescent({
+  IconsIcon8.starAndCrescent({
     Key? key,
     double? size,
     Color? color,
@@ -18730,7 +18730,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.starOfDavid({
+  IconsIcon8.starOfDavid({
     Key? key,
     double? size,
     Color? color,
@@ -18744,7 +18744,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.synagogue({
+  IconsIcon8.synagogue({
     Key? key,
     double? size,
     Color? color,
@@ -18758,7 +18758,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.theRedYeti({
+  IconsIcon8.theRedYeti({
     Key? key,
     double? size,
     Color? color,
@@ -18772,7 +18772,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.torah({
+  IconsIcon8.torah({
     Key? key,
     double? size,
     Color? color,
@@ -18786,7 +18786,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.toriiGate({
+  IconsIcon8.toriiGate({
     Key? key,
     double? size,
     Color? color,
@@ -18800,7 +18800,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.vihara({
+  IconsIcon8.vihara({
     Key? key,
     double? size,
     Color? color,
@@ -18814,7 +18814,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.volumeOff({
+  IconsIcon8.volumeOff({
     Key? key,
     double? size,
     Color? color,
@@ -18828,7 +18828,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.yinYang({
+  IconsIcon8.yinYang({
     Key? key,
     double? size,
     Color? color,
@@ -18842,7 +18842,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.acquisitionsIncorporated({
+  IconsIcon8.acquisitionsIncorporated({
     Key? key,
     double? size,
     Color? color,
@@ -18856,7 +18856,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.blenderPhone({
+  IconsIcon8.blenderPhone({
     Key? key,
     double? size,
     Color? color,
@@ -18870,7 +18870,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bookOfTheDead({
+  IconsIcon8.bookOfTheDead({
     Key? key,
     double? size,
     Color? color,
@@ -18884,7 +18884,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.campground({
+  IconsIcon8.campground({
     Key? key,
     double? size,
     Color? color,
@@ -18898,7 +18898,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cat({
+  IconsIcon8.cat({
     Key? key,
     double? size,
     Color? color,
@@ -18912,7 +18912,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chair({
+  IconsIcon8.chair({
     Key? key,
     double? size,
     Color? color,
@@ -18926,7 +18926,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cloudWithMoon({
+  IconsIcon8.cloudWithMoon({
     Key? key,
     double? size,
     Color? color,
@@ -18940,7 +18940,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cloudWithSun({
+  IconsIcon8.cloudWithSun({
     Key? key,
     double? size,
     Color? color,
@@ -18954,7 +18954,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.criticalRole({
+  IconsIcon8.criticalRole({
     Key? key,
     double? size,
     Color? color,
@@ -18968,7 +18968,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dDBeyond({
+  IconsIcon8.dDBeyond({
     Key? key,
     double? size,
     Color? color,
@@ -18982,7 +18982,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dev({
+  IconsIcon8.dev({
     Key? key,
     double? size,
     Color? color,
@@ -18996,7 +18996,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.diceD20({
+  IconsIcon8.diceD20({
     Key? key,
     double? size,
     Color? color,
@@ -19010,7 +19010,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.diceD6({
+  IconsIcon8.diceD6({
     Key? key,
     double? size,
     Color? color,
@@ -19024,7 +19024,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dog({
+  IconsIcon8.dog({
     Key? key,
     double? size,
     Color? color,
@@ -19038,7 +19038,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dragon({
+  IconsIcon8.dragon({
     Key? key,
     double? size,
     Color? color,
@@ -19052,7 +19052,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.drumstickWithBiteTakenOut({
+  IconsIcon8.drumstickWithBiteTakenOut({
     Key? key,
     double? size,
     Color? color,
@@ -19066,7 +19066,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dungeon({
+  IconsIcon8.dungeon({
     Key? key,
     double? size,
     Color? color,
@@ -19080,7 +19080,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fantasyFlightGames({
+  IconsIcon8.fantasyFlightGames({
     Key? key,
     double? size,
     Color? color,
@@ -19094,7 +19094,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fileCsv({
+  IconsIcon8.fileCsv({
     Key? key,
     double? size,
     Color? color,
@@ -19108,7 +19108,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.raisedFist({
+  IconsIcon8.raisedFist({
     Key? key,
     double? size,
     Color? color,
@@ -19122,7 +19122,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ghost({
+  IconsIcon8.ghost({
     Key? key,
     double? size,
     Color? color,
@@ -19136,7 +19136,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hammer({
+  IconsIcon8.hammer({
     Key? key,
     double? size,
     Color? color,
@@ -19150,7 +19150,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hanukiah({
+  IconsIcon8.hanukiah({
     Key? key,
     double? size,
     Color? color,
@@ -19164,7 +19164,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wizardSHat({
+  IconsIcon8.wizardSHat({
     Key? key,
     double? size,
     Color? color,
@@ -19178,7 +19178,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hiking({
+  IconsIcon8.hiking({
     Key? key,
     double? size,
     Color? color,
@@ -19192,7 +19192,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hippo({
+  IconsIcon8.hippo({
     Key? key,
     double? size,
     Color? color,
@@ -19206,7 +19206,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.horse({
+  IconsIcon8.horse({
     Key? key,
     double? size,
     Color? color,
@@ -19220,7 +19220,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.damagedHouse({
+  IconsIcon8.damagedHouse({
     Key? key,
     double? size,
     Color? color,
@@ -19234,7 +19234,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hryvnia({
+  IconsIcon8.hryvnia({
     Key? key,
     double? size,
     Color? color,
@@ -19248,7 +19248,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mask({
+  IconsIcon8.mask({
     Key? key,
     double? size,
     Color? color,
@@ -19262,7 +19262,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mountain({
+  IconsIcon8.mountain({
     Key? key,
     double? size,
     Color? color,
@@ -19276,7 +19276,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wiredNetwork({
+  IconsIcon8.wiredNetwork({
     Key? key,
     double? size,
     Color? color,
@@ -19290,7 +19290,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.otter({
+  IconsIcon8.otter({
     Key? key,
     double? size,
     Color? color,
@@ -19304,7 +19304,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pennyArcade({
+  IconsIcon8.pennyArcade({
     Key? key,
     double? size,
     Color? color,
@@ -19318,7 +19318,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ring({
+  IconsIcon8.ring({
     Key? key,
     double? size,
     Color? color,
@@ -19332,7 +19332,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.running({
+  IconsIcon8.running({
     Key? key,
     double? size,
     Color? color,
@@ -19346,7 +19346,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.scroll({
+  IconsIcon8.scroll({
     Key? key,
     double? size,
     Color? color,
@@ -19360,7 +19360,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.skullXCrossbones({
+  IconsIcon8.skullXCrossbones({
     Key? key,
     double? size,
     Color? color,
@@ -19374,7 +19374,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.slash({
+  IconsIcon8.slash({
     Key? key,
     double? size,
     Color? color,
@@ -19388,7 +19388,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.spider({
+  IconsIcon8.spider({
     Key? key,
     double? size,
     Color? color,
@@ -19402,7 +19402,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.toiletPaper({
+  IconsIcon8.toiletPaper({
     Key? key,
     double? size,
     Color? color,
@@ -19416,7 +19416,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tractor({
+  IconsIcon8.tractor({
     Key? key,
     double? size,
     Color? color,
@@ -19430,7 +19430,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.userInjured({
+  IconsIcon8.userInjured({
     Key? key,
     double? size,
     Color? color,
@@ -19444,7 +19444,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cardboardVr({
+  IconsIcon8.cardboardVr({
     Key? key,
     double? size,
     Color? color,
@@ -19458,7 +19458,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wind({
+  IconsIcon8.wind({
     Key? key,
     double? size,
     Color? color,
@@ -19472,7 +19472,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wineBottle({
+  IconsIcon8.wineBottle({
     Key? key,
     double? size,
     Color? color,
@@ -19486,7 +19486,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.wizardsOfTheCoast({
+  IconsIcon8.wizardsOfTheCoast({
     Key? key,
     double? size,
     Color? color,
@@ -19500,7 +19500,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.thinkPeaks({
+  IconsIcon8.thinkPeaks({
     Key? key,
     double? size,
     Color? color,
@@ -19514,7 +19514,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cloudWithXaChanceOfXmeatball({
+  IconsIcon8.cloudWithXaChanceOfXmeatball({
     Key? key,
     double? size,
     Color? color,
@@ -19528,7 +19528,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cloudWithMoonAndRain({
+  IconsIcon8.cloudWithMoonAndRain({
     Key? key,
     double? size,
     Color? color,
@@ -19542,7 +19542,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cloudWithRain({
+  IconsIcon8.cloudWithRain({
     Key? key,
     double? size,
     Color? color,
@@ -19556,7 +19556,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cloudWithHeavyShowers({
+  IconsIcon8.cloudWithHeavyShowers({
     Key? key,
     double? size,
     Color? color,
@@ -19570,7 +19570,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cloudWithSunAndRain({
+  IconsIcon8.cloudWithSunAndRain({
     Key? key,
     double? size,
     Color? color,
@@ -19584,7 +19584,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.democrat({
+  IconsIcon8.democrat({
     Key? key,
     double? size,
     Color? color,
@@ -19598,7 +19598,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.unitedStatesOfAmericaFlag({
+  IconsIcon8.unitedStatesOfAmericaFlag({
     Key? key,
     double? size,
     Color? color,
@@ -19612,7 +19612,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.meteor({
+  IconsIcon8.meteor({
     Key? key,
     double? size,
     Color? color,
@@ -19626,7 +19626,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.personEnteringBooth({
+  IconsIcon8.personEnteringBooth({
     Key? key,
     double? size,
     Color? color,
@@ -19640,7 +19640,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pooStorm({
+  IconsIcon8.pooStorm({
     Key? key,
     double? size,
     Color? color,
@@ -19654,7 +19654,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.rainbow({
+  IconsIcon8.rainbow({
     Key? key,
     double? size,
     Color? color,
@@ -19668,7 +19668,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.reacteurope({
+  IconsIcon8.reacteurope({
     Key? key,
     double? size,
     Color? color,
@@ -19682,7 +19682,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.republican({
+  IconsIcon8.republican({
     Key? key,
     double? size,
     Color? color,
@@ -19696,7 +19696,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.smog({
+  IconsIcon8.smog({
     Key? key,
     double? size,
     Color? color,
@@ -19710,7 +19710,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.highTemperature({
+  IconsIcon8.highTemperature({
     Key? key,
     double? size,
     Color? color,
@@ -19724,7 +19724,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.lowTemperature({
+  IconsIcon8.lowTemperature({
     Key? key,
     double? size,
     Color? color,
@@ -19738,7 +19738,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.voteYea({
+  IconsIcon8.voteYea({
     Key? key,
     double? size,
     Color? color,
@@ -19752,7 +19752,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.water({
+  IconsIcon8.water({
     Key? key,
     double? size,
     Color? color,
@@ -19766,7 +19766,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.adobe({
+  IconsIcon8.adobe({
     Key? key,
     double? size,
     Color? color,
@@ -19780,7 +19780,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.artstation({
+  IconsIcon8.artstation({
     Key? key,
     double? size,
     Color? color,
@@ -19794,7 +19794,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.atlassian({
+  IconsIcon8.atlassian({
     Key? key,
     double? size,
     Color? color,
@@ -19808,7 +19808,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.baby({
+  IconsIcon8.baby({
     Key? key,
     double? size,
     Color? color,
@@ -19822,7 +19822,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.babyCarriage({
+  IconsIcon8.babyCarriage({
     Key? key,
     double? size,
     Color? color,
@@ -19836,7 +19836,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.biohazard({
+  IconsIcon8.biohazard({
     Key? key,
     double? size,
     Color? color,
@@ -19850,7 +19850,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.blog({
+  IconsIcon8.blog({
     Key? key,
     double? size,
     Color? color,
@@ -19864,7 +19864,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendarWithDayFocus({
+  IconsIcon8.calendarWithDayFocus({
     Key? key,
     double? size,
     Color? color,
@@ -19878,7 +19878,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.calendarWithWeekFocus({
+  IconsIcon8.calendarWithWeekFocus({
     Key? key,
     double? size,
     Color? color,
@@ -19892,7 +19892,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.canadianMapleLeaf({
+  IconsIcon8.canadianMapleLeaf({
     Key? key,
     double? size,
     Color? color,
@@ -19906,7 +19906,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.candyCane({
+  IconsIcon8.candyCane({
     Key? key,
     double? size,
     Color? color,
@@ -19920,7 +19920,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.carrot({
+  IconsIcon8.carrot({
     Key? key,
     double? size,
     Color? color,
@@ -19934,7 +19934,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cashRegister({
+  IconsIcon8.cashRegister({
     Key? key,
     double? size,
     Color? color,
@@ -19948,7 +19948,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.centos({
+  IconsIcon8.centos({
     Key? key,
     double? size,
     Color? color,
@@ -19962,7 +19962,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateCompressArrows({
+  IconsIcon8.alternateCompressArrows({
     Key? key,
     double? size,
     Color? color,
@@ -19976,7 +19976,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.confluence({
+  IconsIcon8.confluence({
     Key? key,
     double? size,
     Color? color,
@@ -19990,7 +19990,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dhl({
+  IconsIcon8.dhl({
     Key? key,
     double? size,
     Color? color,
@@ -20004,7 +20004,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.diaspora({
+  IconsIcon8.diaspora({
     Key? key,
     double? size,
     Color? color,
@@ -20018,7 +20018,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dumpster({
+  IconsIcon8.dumpster({
     Key? key,
     double? size,
     Color? color,
@@ -20032,7 +20032,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.dumpsterFire({
+  IconsIcon8.dumpsterFire({
     Key? key,
     double? size,
     Color? color,
@@ -20046,7 +20046,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ethernet({
+  IconsIcon8.ethernet({
     Key? key,
     double? size,
     Color? color,
@@ -20060,7 +20060,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fedex({
+  IconsIcon8.fedex({
     Key? key,
     double? size,
     Color? color,
@@ -20074,7 +20074,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fedora({
+  IconsIcon8.fedora({
     Key? key,
     double? size,
     Color? color,
@@ -20088,7 +20088,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.figma({
+  IconsIcon8.figma({
     Key? key,
     double? size,
     Color? color,
@@ -20102,7 +20102,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gifts({
+  IconsIcon8.gifts({
     Key? key,
     double? size,
     Color? color,
@@ -20116,7 +20116,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.glassCheers({
+  IconsIcon8.glassCheers({
     Key? key,
     double? size,
     Color? color,
@@ -20130,7 +20130,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.glassWhiskey({
+  IconsIcon8.glassWhiskey({
     Key? key,
     double? size,
     Color? color,
@@ -20144,7 +20144,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.globeWithEuropeShown({
+  IconsIcon8.globeWithEuropeShown({
     Key? key,
     double? size,
     Color? color,
@@ -20158,7 +20158,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gripLines({
+  IconsIcon8.gripLines({
     Key? key,
     double? size,
     Color? color,
@@ -20172,7 +20172,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.gripLinesVertical({
+  IconsIcon8.gripLinesVertical({
     Key? key,
     double? size,
     Color? color,
@@ -20186,7 +20186,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.guitar({
+  IconsIcon8.guitar({
     Key? key,
     double? size,
     Color? color,
@@ -20200,7 +20200,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.heartBroken({
+  IconsIcon8.heartBroken({
     Key? key,
     double? size,
     Color? color,
@@ -20214,7 +20214,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hollyBerry({
+  IconsIcon8.hollyBerry({
     Key? key,
     double? size,
     Color? color,
@@ -20228,7 +20228,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.horseHead({
+  IconsIcon8.horseHead({
     Key? key,
     double? size,
     Color? color,
@@ -20242,7 +20242,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.icicles({
+  IconsIcon8.icicles({
     Key? key,
     double? size,
     Color? color,
@@ -20256,7 +20256,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.igloo({
+  IconsIcon8.igloo({
     Key? key,
     double? size,
     Color? color,
@@ -20270,7 +20270,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.intercom({
+  IconsIcon8.intercom({
     Key? key,
     double? size,
     Color? color,
@@ -20284,7 +20284,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.invision({
+  IconsIcon8.invision({
     Key? key,
     double? size,
     Color? color,
@@ -20298,7 +20298,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.jira({
+  IconsIcon8.jira({
     Key? key,
     double? size,
     Color? color,
@@ -20312,7 +20312,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mendeley({
+  IconsIcon8.mendeley({
     Key? key,
     double? size,
     Color? color,
@@ -20326,7 +20326,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mitten({
+  IconsIcon8.mitten({
     Key? key,
     double? size,
     Color? color,
@@ -20340,7 +20340,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mugHot({
+  IconsIcon8.mugHot({
     Key? key,
     double? size,
     Color? color,
@@ -20354,7 +20354,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.radiation({
+  IconsIcon8.radiation({
     Key? key,
     double? size,
     Color? color,
@@ -20368,7 +20368,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateRadiation({
+  IconsIcon8.alternateRadiation({
     Key? key,
     double? size,
     Color? color,
@@ -20382,7 +20382,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.raspberryPi({
+  IconsIcon8.raspberryPi({
     Key? key,
     double? size,
     Color? color,
@@ -20396,7 +20396,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.redhat({
+  IconsIcon8.redhat({
     Key? key,
     double? size,
     Color? color,
@@ -20410,7 +20410,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.restroom({
+  IconsIcon8.restroom({
     Key? key,
     double? size,
     Color? color,
@@ -20424,7 +20424,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.satellite({
+  IconsIcon8.satellite({
     Key? key,
     double? size,
     Color? color,
@@ -20438,7 +20438,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.satelliteDish({
+  IconsIcon8.satelliteDish({
     Key? key,
     double? size,
     Color? color,
@@ -20452,7 +20452,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sdCard({
+  IconsIcon8.sdCard({
     Key? key,
     double? size,
     Color? color,
@@ -20466,7 +20466,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.simCard({
+  IconsIcon8.simCard({
     Key? key,
     double? size,
     Color? color,
@@ -20480,7 +20480,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.skating({
+  IconsIcon8.skating({
     Key? key,
     double? size,
     Color? color,
@@ -20494,7 +20494,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sketch({
+  IconsIcon8.sketch({
     Key? key,
     double? size,
     Color? color,
@@ -20508,7 +20508,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.skiing({
+  IconsIcon8.skiing({
     Key? key,
     double? size,
     Color? color,
@@ -20522,7 +20522,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.skiingNordic({
+  IconsIcon8.skiingNordic({
     Key? key,
     double? size,
     Color? color,
@@ -20536,7 +20536,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sleigh({
+  IconsIcon8.sleigh({
     Key? key,
     double? size,
     Color? color,
@@ -20550,7 +20550,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sms({
+  IconsIcon8.sms({
     Key? key,
     double? size,
     Color? color,
@@ -20564,7 +20564,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.snowboarding({
+  IconsIcon8.snowboarding({
     Key? key,
     double? size,
     Color? color,
@@ -20578,7 +20578,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.snowman({
+  IconsIcon8.snowman({
     Key? key,
     double? size,
     Color? color,
@@ -20592,7 +20592,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.snowplow({
+  IconsIcon8.snowplow({
     Key? key,
     double? size,
     Color? color,
@@ -20606,7 +20606,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.sourcetree({
+  IconsIcon8.sourcetree({
     Key? key,
     double? size,
     Color? color,
@@ -20620,7 +20620,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.suse({
+  IconsIcon8.suse({
     Key? key,
     double? size,
     Color? color,
@@ -20634,7 +20634,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tenge({
+  IconsIcon8.tenge({
     Key? key,
     double? size,
     Color? color,
@@ -20648,7 +20648,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.toilet({
+  IconsIcon8.toilet({
     Key? key,
     double? size,
     Color? color,
@@ -20662,7 +20662,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tools({
+  IconsIcon8.tools({
     Key? key,
     double? size,
     Color? color,
@@ -20676,7 +20676,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.tram({
+  IconsIcon8.tram({
     Key? key,
     double? size,
     Color? color,
@@ -20690,7 +20690,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ubuntu({
+  IconsIcon8.ubuntu({
     Key? key,
     double? size,
     Color? color,
@@ -20704,7 +20704,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.ups({
+  IconsIcon8.ups({
     Key? key,
     double? size,
     Color? color,
@@ -20718,7 +20718,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.unitedStatesPostalService({
+  IconsIcon8.unitedStatesPostalService({
     Key? key,
     double? size,
     Color? color,
@@ -20732,7 +20732,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.yarn({
+  IconsIcon8.yarn({
     Key? key,
     double? size,
     Color? color,
@@ -20746,7 +20746,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateFire({
+  IconsIcon8.alternateFire({
     Key? key,
     double? size,
     Color? color,
@@ -20760,7 +20760,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bacon({
+  IconsIcon8.bacon({
     Key? key,
     double? size,
     Color? color,
@@ -20774,7 +20774,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.medicalBook({
+  IconsIcon8.medicalBook({
     Key? key,
     double? size,
     Color? color,
@@ -20788,7 +20788,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.breadSlice({
+  IconsIcon8.breadSlice({
     Key? key,
     double? size,
     Color? color,
@@ -20802,7 +20802,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cheese({
+  IconsIcon8.cheese({
     Key? key,
     double? size,
     Color? color,
@@ -20816,7 +20816,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateHospital({
+  IconsIcon8.alternateHospital({
     Key? key,
     double? size,
     Color? color,
@@ -20830,7 +20830,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateMedicalChat({
+  IconsIcon8.alternateMedicalChat({
     Key? key,
     double? size,
     Color? color,
@@ -20844,7 +20844,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.crutch({
+  IconsIcon8.crutch({
     Key? key,
     double? size,
     Color? color,
@@ -20858,7 +20858,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.egg({
+  IconsIcon8.egg({
     Key? key,
     double? size,
     Color? color,
@@ -20872,7 +20872,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hamburger({
+  IconsIcon8.hamburger({
     Key? key,
     double? size,
     Color? color,
@@ -20886,7 +20886,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.handWithMiddleFingerRaised({
+  IconsIcon8.handWithMiddleFingerRaised({
     Key? key,
     double? size,
     Color? color,
@@ -20900,7 +20900,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hardHat({
+  IconsIcon8.hardHat({
     Key? key,
     double? size,
     Color? color,
@@ -20914,7 +20914,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hotDog({
+  IconsIcon8.hotDog({
     Key? key,
     double? size,
     Color? color,
@@ -20928,7 +20928,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.iceCream({
+  IconsIcon8.iceCream({
     Key? key,
     double? size,
     Color? color,
@@ -20942,7 +20942,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.laptopMedical({
+  IconsIcon8.laptopMedical({
     Key? key,
     double? size,
     Color? color,
@@ -20956,7 +20956,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pager({
+  IconsIcon8.pager({
     Key? key,
     double? size,
     Color? color,
@@ -20970,7 +20970,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.hotPepper({
+  IconsIcon8.hotPepper({
     Key? key,
     double? size,
     Color? color,
@@ -20984,7 +20984,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.pizzaSlice({
+  IconsIcon8.pizzaSlice({
     Key? key,
     double? size,
     Color? color,
@@ -20998,7 +20998,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.trashRestore({
+  IconsIcon8.trashRestore({
     Key? key,
     double? size,
     Color? color,
@@ -21012,7 +21012,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternativeTrashRestore({
+  IconsIcon8.alternativeTrashRestore({
     Key? key,
     double? size,
     Color? color,
@@ -21026,7 +21026,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.nurse({
+  IconsIcon8.nurse({
     Key? key,
     double? size,
     Color? color,
@@ -21040,7 +21040,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.airbnb({
+  IconsIcon8.airbnb({
     Key? key,
     double? size,
     Color? color,
@@ -21054,7 +21054,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.battleNet({
+  IconsIcon8.battleNet({
     Key? key,
     double? size,
     Color? color,
@@ -21068,7 +21068,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.bootstrap({
+  IconsIcon8.bootstrap({
     Key? key,
     double? size,
     Color? color,
@@ -21082,7 +21082,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.buffer({
+  IconsIcon8.buffer({
     Key? key,
     double? size,
     Color? color,
@@ -21096,7 +21096,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.chromecast({
+  IconsIcon8.chromecast({
     Key? key,
     double? size,
     Color? color,
@@ -21110,7 +21110,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.evernote({
+  IconsIcon8.evernote({
     Key? key,
     double? size,
     Color? color,
@@ -21124,7 +21124,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.itchIo({
+  IconsIcon8.itchIo({
     Key? key,
     double? size,
     Color? color,
@@ -21138,7 +21138,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.salesforce({
+  IconsIcon8.salesforce({
     Key? key,
     double? size,
     Color? color,
@@ -21152,7 +21152,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.speakerDeck({
+  IconsIcon8.speakerDeck({
     Key? key,
     double? size,
     Color? color,
@@ -21166,7 +21166,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.symfony({
+  IconsIcon8.symfony({
     Key? key,
     double? size,
     Color? color,
@@ -21180,7 +21180,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.squareWave({
+  IconsIcon8.squareWave({
     Key? key,
     double? size,
     Color? color,
@@ -21194,7 +21194,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.waze({
+  IconsIcon8.waze({
     Key? key,
     double? size,
     Color? color,
@@ -21208,7 +21208,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.yammer({
+  IconsIcon8.yammer({
     Key? key,
     double? size,
     Color? color,
@@ -21222,7 +21222,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.git({
+  IconsIcon8.git({
     Key? key,
     double? size,
     Color? color,
@@ -21236,7 +21236,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.stackpath({
+  IconsIcon8.stackpath({
     Key? key,
     double? size,
     Color? color,
@@ -21250,7 +21250,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.biking({
+  IconsIcon8.biking({
     Key? key,
     double? size,
     Color? color,
@@ -21264,7 +21264,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.microsoft({
+  IconsIcon8.microsoft({
     Key? key,
     double? size,
     Color? color,
@@ -21278,7 +21278,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.borderNone({
+  IconsIcon8.borderNone({
     Key? key,
     double? size,
     Color? color,
@@ -21292,7 +21292,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.borderStyle({
+  IconsIcon8.borderStyle({
     Key? key,
     double? size,
     Color? color,
@@ -21306,7 +21306,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.fan({
+  IconsIcon8.fan({
     Key? key,
     double? size,
     Color? color,
@@ -21320,7 +21320,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.icons({
+  IconsIcon8.icons({
     Key? key,
     double? size,
     Color? color,
@@ -21334,7 +21334,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternatePhone({
+  IconsIcon8.alternatePhone({
     Key? key,
     double? size,
     Color? color,
@@ -21348,7 +21348,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternatePhoneSquare({
+  IconsIcon8.alternatePhoneSquare({
     Key? key,
     double? size,
     Color? color,
@@ -21362,7 +21362,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.photoVideo({
+  IconsIcon8.photoVideo({
     Key? key,
     double? size,
     Color? color,
@@ -21376,7 +21376,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.removeFormat({
+  IconsIcon8.removeFormat({
     Key? key,
     double? size,
     Color? color,
@@ -21390,7 +21390,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateSortAlphabeticalDown({
+  IconsIcon8.alternateSortAlphabeticalDown({
     Key? key,
     double? size,
     Color? color,
@@ -21404,7 +21404,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateSortAlphabeticalUp({
+  IconsIcon8.alternateSortAlphabeticalUp({
     Key? key,
     double? size,
     Color? color,
@@ -21418,7 +21418,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateSortAmountDown({
+  IconsIcon8.alternateSortAmountDown({
     Key? key,
     double? size,
     Color? color,
@@ -21432,7 +21432,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateSortAmountUp({
+  IconsIcon8.alternateSortAmountUp({
     Key? key,
     double? size,
     Color? color,
@@ -21446,7 +21446,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateSortNumericDown({
+  IconsIcon8.alternateSortNumericDown({
     Key? key,
     double? size,
     Color? color,
@@ -21460,7 +21460,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.alternateSortNumericUp({
+  IconsIcon8.alternateSortNumericUp({
     Key? key,
     double? size,
     Color? color,
@@ -21474,7 +21474,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.spellCheck({
+  IconsIcon8.spellCheck({
     Key? key,
     double? size,
     Color? color,
@@ -21488,7 +21488,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.voicemail({
+  IconsIcon8.voicemail({
     Key? key,
     double? size,
     Color? color,
@@ -21502,7 +21502,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cottonBureau({
+  IconsIcon8.cottonBureau({
     Key? key,
     double? size,
     Color? color,
@@ -21516,7 +21516,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.buyNLarge({
+  IconsIcon8.buyNLarge({
     Key? key,
     double? size,
     Color? color,
@@ -21530,7 +21530,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cowboyHat({
+  IconsIcon8.cowboyHat({
     Key? key,
     double? size,
     Color? color,
@@ -21544,7 +21544,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.cowboyHatSide({
+  IconsIcon8.cowboyHatSide({
     Key? key,
     double? size,
     Color? color,
@@ -21558,7 +21558,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.materialDesignForBootstrap({
+  IconsIcon8.materialDesignForBootstrap({
     Key? key,
     double? size,
     Color? color,
@@ -21572,7 +21572,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.mouse({
+  IconsIcon8.mouse({
     Key? key,
     double? size,
     Color? color,
@@ -21586,7 +21586,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.orcid({
+  IconsIcon8.orcid({
     Key? key,
     double? size,
     Color? color,
@@ -21600,7 +21600,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.recordVinyl({
+  IconsIcon8.recordVinyl({
     Key? key,
     double? size,
     Color? color,
@@ -21614,7 +21614,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.swift({
+  IconsIcon8.swift({
     Key? key,
     double? size,
     Color? color,
@@ -21628,7 +21628,7 @@ class TogetherIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  TogetherIcon8.umbraco({
+  IconsIcon8.umbraco({
     Key? key,
     double? size,
     Color? color,
