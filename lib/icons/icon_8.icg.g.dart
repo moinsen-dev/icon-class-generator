@@ -23195,7 +23195,7 @@ class IcgIcon8 extends Icon {
     'umbraco': Icon8.umbraco,
   };
 
-  IconData? getIcon(String iconName) {
-    return iconMap[iconName] ?? null;
+  static IconData? getIcon(String iconName) {
+    return IcgIcon8.iconMap[iconName] ?? null;
   }
 }

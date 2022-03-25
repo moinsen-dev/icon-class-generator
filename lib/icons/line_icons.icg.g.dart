@@ -8010,7 +8010,7 @@ class IcgLineIcons extends Icon {
     'zoomOut': LineIcons.zoom_out,
   };
 
-  IconData? getIcon(String iconName) {
-    return iconMap[iconName] ?? null;
+  static IconData? getIcon(String iconName) {
+    return IcgLineIcons.iconMap[iconName] ?? null;
   }
 }

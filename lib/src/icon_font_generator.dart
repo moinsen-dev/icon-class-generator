@@ -60,8 +60,8 @@ class $className extends Icon {
     $iconsByString
   };
 
-  IconData? getIcon(String iconName) {
-    return iconMap[iconName] ?? null;
+  static IconData? getIcon(String iconName) {
+    return $className.iconMap[iconName] ?? null;
   }
 
 }
