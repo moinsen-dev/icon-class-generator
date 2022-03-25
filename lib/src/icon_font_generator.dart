@@ -18,7 +18,7 @@ class IconFontGenerator extends Generator {
     final staticIconRegEx =
         RegExp(r'static\sconst\sIconData.*[\n\r]*.*?;', multiLine: true);
 
-    final className = "Icons${fontName.pascalCase}";
+    final className = "Icg${fontName.pascalCase}";
 
     final newIcons = staticIconRegEx
         .allMatches(contents)

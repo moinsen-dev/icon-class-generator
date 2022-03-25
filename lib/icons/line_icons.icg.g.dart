@@ -7,10 +7,10 @@
 import 'package:flutter/material.dart';
 import 'package:icon_class_generator/icons/line_icons.icg.dart';
 
-class IconsLineIcons extends Icon {
+class IcgLineIcons extends Icon {
   /// General constructor
   /// Not intended to be used widely, but who knows. It may come at hand sometime
-  IconsLineIcons(
+  IcgLineIcons(
     IconData icon, {
     Key? key,
     double? size,
@@ -26,7 +26,7 @@ class IconsLineIcons extends Icon {
           textDirection: textDirection,
         );
 
-  IconsLineIcons.addFiles({
+  IcgLineIcons.addFiles({
     Key? key,
     double? size,
     Color? color,
@@ -40,7 +40,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.agenda({
+  IcgLineIcons.agenda({
     Key? key,
     double? size,
     Color? color,
@@ -54,7 +54,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.px500({
+  IcgLineIcons.px500({
     Key? key,
     double? size,
     Color? color,
@@ -68,7 +68,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.alarm({
+  IcgLineIcons.alarm({
     Key? key,
     double? size,
     Color? color,
@@ -82,7 +82,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.amazonOriginal({
+  IcgLineIcons.amazonOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -96,7 +96,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.adobe({
+  IcgLineIcons.adobe({
     Key? key,
     double? size,
     Color? color,
@@ -110,7 +110,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.airbnb({
+  IcgLineIcons.airbnb({
     Key? key,
     double? size,
     Color? color,
@@ -124,7 +124,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.alarmClock({
+  IcgLineIcons.alarmClock({
     Key? key,
     double? size,
     Color? color,
@@ -138,7 +138,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.amazonPay({
+  IcgLineIcons.amazonPay({
     Key? key,
     double? size,
     Color? color,
@@ -152,7 +152,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.amazon({
+  IcgLineIcons.amazon({
     Key? key,
     double? size,
     Color? color,
@@ -166,7 +166,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.ambulance({
+  IcgLineIcons.ambulance({
     Key? key,
     double? size,
     Color? color,
@@ -180,7 +180,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.amex({
+  IcgLineIcons.amex({
     Key? key,
     double? size,
     Color? color,
@@ -194,7 +194,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.anchor({
+  IcgLineIcons.anchor({
     Key? key,
     double? size,
     Color? color,
@@ -208,7 +208,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.androidOriginal({
+  IcgLineIcons.androidOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -222,7 +222,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.android({
+  IcgLineIcons.android({
     Key? key,
     double? size,
     Color? color,
@@ -236,7 +236,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.angellist({
+  IcgLineIcons.angellist({
     Key? key,
     double? size,
     Color? color,
@@ -250,7 +250,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.angleDoubleDown({
+  IcgLineIcons.angleDoubleDown({
     Key? key,
     double? size,
     Color? color,
@@ -264,7 +264,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.angleDoubleLeft({
+  IcgLineIcons.angleDoubleLeft({
     Key? key,
     double? size,
     Color? color,
@@ -278,7 +278,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.angleDoubleRight({
+  IcgLineIcons.angleDoubleRight({
     Key? key,
     double? size,
     Color? color,
@@ -292,7 +292,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.angleDoubleUp({
+  IcgLineIcons.angleDoubleUp({
     Key? key,
     double? size,
     Color? color,
@@ -306,7 +306,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.angular({
+  IcgLineIcons.angular({
     Key? key,
     double? size,
     Color? color,
@@ -320,7 +320,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.apartment({
+  IcgLineIcons.apartment({
     Key? key,
     double? size,
     Color? color,
@@ -334,7 +334,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.appStore({
+  IcgLineIcons.appStore({
     Key? key,
     double? size,
     Color? color,
@@ -348,7 +348,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.appleMusic({
+  IcgLineIcons.appleMusic({
     Key? key,
     double? size,
     Color? color,
@@ -362,7 +362,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.applePay({
+  IcgLineIcons.applePay({
     Key? key,
     double? size,
     Color? color,
@@ -376,7 +376,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.apple({
+  IcgLineIcons.apple({
     Key? key,
     double? size,
     Color? color,
@@ -390,7 +390,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.arrowDownCircle({
+  IcgLineIcons.arrowDownCircle({
     Key? key,
     double? size,
     Color? color,
@@ -404,7 +404,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.arrowDown({
+  IcgLineIcons.arrowDown({
     Key? key,
     double? size,
     Color? color,
@@ -418,7 +418,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.arrowLeftCircle({
+  IcgLineIcons.arrowLeftCircle({
     Key? key,
     double? size,
     Color? color,
@@ -432,7 +432,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.arrowLeft({
+  IcgLineIcons.arrowLeft({
     Key? key,
     double? size,
     Color? color,
@@ -446,7 +446,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.archive({
+  IcgLineIcons.archive({
     Key? key,
     double? size,
     Color? color,
@@ -460,7 +460,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.arrowRightCircle({
+  IcgLineIcons.arrowRightCircle({
     Key? key,
     double? size,
     Color? color,
@@ -474,7 +474,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.arrowRight({
+  IcgLineIcons.arrowRight({
     Key? key,
     double? size,
     Color? color,
@@ -488,7 +488,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.arrowTopLeft({
+  IcgLineIcons.arrowTopLeft({
     Key? key,
     double? size,
     Color? color,
@@ -502,7 +502,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.arrowTopRight({
+  IcgLineIcons.arrowTopRight({
     Key? key,
     double? size,
     Color? color,
@@ -516,7 +516,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.arrowUpCircle({
+  IcgLineIcons.arrowUpCircle({
     Key? key,
     double? size,
     Color? color,
@@ -530,7 +530,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.arrowUp({
+  IcgLineIcons.arrowUp({
     Key? key,
     double? size,
     Color? color,
@@ -544,7 +544,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.arrowsHorizontal({
+  IcgLineIcons.arrowsHorizontal({
     Key? key,
     double? size,
     Color? color,
@@ -558,7 +558,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.arrowsVertical({
+  IcgLineIcons.arrowsVertical({
     Key? key,
     double? size,
     Color? color,
@@ -572,7 +572,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.atlassian({
+  IcgLineIcons.atlassian({
     Key? key,
     double? size,
     Color? color,
@@ -586,7 +586,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.aws({
+  IcgLineIcons.aws({
     Key? key,
     double? size,
     Color? color,
@@ -600,7 +600,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.azure({
+  IcgLineIcons.azure({
     Key? key,
     double? size,
     Color? color,
@@ -614,7 +614,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.backward({
+  IcgLineIcons.backward({
     Key? key,
     double? size,
     Color? color,
@@ -628,7 +628,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.baloon({
+  IcgLineIcons.baloon({
     Key? key,
     double? size,
     Color? color,
@@ -642,7 +642,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.ban({
+  IcgLineIcons.ban({
     Key? key,
     double? size,
     Color? color,
@@ -656,7 +656,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.barChart({
+  IcgLineIcons.barChart({
     Key? key,
     double? size,
     Color? color,
@@ -670,7 +670,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.basketball({
+  IcgLineIcons.basketball({
     Key? key,
     double? size,
     Color? color,
@@ -684,7 +684,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.behanceOriginal({
+  IcgLineIcons.behanceOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -698,7 +698,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.behance({
+  IcgLineIcons.behance({
     Key? key,
     double? size,
     Color? color,
@@ -712,7 +712,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.biCycle({
+  IcgLineIcons.biCycle({
     Key? key,
     double? size,
     Color? color,
@@ -726,7 +726,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bitbucket({
+  IcgLineIcons.bitbucket({
     Key? key,
     double? size,
     Color? color,
@@ -740,7 +740,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bitcoin({
+  IcgLineIcons.bitcoin({
     Key? key,
     double? size,
     Color? color,
@@ -754,7 +754,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.blackboard({
+  IcgLineIcons.blackboard({
     Key? key,
     double? size,
     Color? color,
@@ -768,7 +768,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.blogger({
+  IcgLineIcons.blogger({
     Key? key,
     double? size,
     Color? color,
@@ -782,7 +782,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bluetoothOriginal({
+  IcgLineIcons.bluetoothOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -796,7 +796,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bluetooth({
+  IcgLineIcons.bluetooth({
     Key? key,
     double? size,
     Color? color,
@@ -810,7 +810,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bold({
+  IcgLineIcons.bold({
     Key? key,
     double? size,
     Color? color,
@@ -824,7 +824,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.boltAlt({
+  IcgLineIcons.boltAlt({
     Key? key,
     double? size,
     Color? color,
@@ -838,7 +838,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.book({
+  IcgLineIcons.book({
     Key? key,
     double? size,
     Color? color,
@@ -852,7 +852,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bookmarkAlt({
+  IcgLineIcons.bookmarkAlt({
     Key? key,
     double? size,
     Color? color,
@@ -866,7 +866,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bookmark({
+  IcgLineIcons.bookmark({
     Key? key,
     double? size,
     Color? color,
@@ -880,7 +880,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bootstrap({
+  IcgLineIcons.bootstrap({
     Key? key,
     double? size,
     Color? color,
@@ -894,7 +894,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bricks({
+  IcgLineIcons.bricks({
     Key? key,
     double? size,
     Color? color,
@@ -908,7 +908,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bolt({
+  IcgLineIcons.bolt({
     Key? key,
     double? size,
     Color? color,
@@ -922,7 +922,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bridge({
+  IcgLineIcons.bridge({
     Key? key,
     double? size,
     Color? color,
@@ -936,7 +936,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.briefcase({
+  IcgLineIcons.briefcase({
     Key? key,
     double? size,
     Color? color,
@@ -950,7 +950,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.brushAlt({
+  IcgLineIcons.brushAlt({
     Key? key,
     double? size,
     Color? color,
@@ -964,7 +964,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.brush({
+  IcgLineIcons.brush({
     Key? key,
     double? size,
     Color? color,
@@ -978,7 +978,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.btc({
+  IcgLineIcons.btc({
     Key? key,
     double? size,
     Color? color,
@@ -992,7 +992,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bubble({
+  IcgLineIcons.bubble({
     Key? key,
     double? size,
     Color? color,
@@ -1006,7 +1006,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bug({
+  IcgLineIcons.bug({
     Key? key,
     double? size,
     Color? color,
@@ -1020,7 +1020,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bulb({
+  IcgLineIcons.bulb({
     Key? key,
     double? size,
     Color? color,
@@ -1034,7 +1034,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bullhorn({
+  IcgLineIcons.bullhorn({
     Key? key,
     double? size,
     Color? color,
@@ -1048,7 +1048,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.burger({
+  IcgLineIcons.burger({
     Key? key,
     double? size,
     Color? color,
@@ -1062,7 +1062,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.bus({
+  IcgLineIcons.bus({
     Key? key,
     double? size,
     Color? color,
@@ -1076,7 +1076,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cake({
+  IcgLineIcons.cake({
     Key? key,
     double? size,
     Color? color,
@@ -1090,7 +1090,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.calculator({
+  IcgLineIcons.calculator({
     Key? key,
     double? size,
     Color? color,
@@ -1104,7 +1104,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.calendar({
+  IcgLineIcons.calendar({
     Key? key,
     double? size,
     Color? color,
@@ -1118,7 +1118,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.camera({
+  IcgLineIcons.camera({
     Key? key,
     double? size,
     Color? color,
@@ -1132,7 +1132,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.candyCane({
+  IcgLineIcons.candyCane({
     Key? key,
     double? size,
     Color? color,
@@ -1146,7 +1146,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.candy({
+  IcgLineIcons.candy({
     Key? key,
     double? size,
     Color? color,
@@ -1160,7 +1160,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.capsule({
+  IcgLineIcons.capsule({
     Key? key,
     double? size,
     Color? color,
@@ -1174,7 +1174,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.carAlt({
+  IcgLineIcons.carAlt({
     Key? key,
     double? size,
     Color? color,
@@ -1188,7 +1188,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.car({
+  IcgLineIcons.car({
     Key? key,
     double? size,
     Color? color,
@@ -1202,7 +1202,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.caravan({
+  IcgLineIcons.caravan({
     Key? key,
     double? size,
     Color? color,
@@ -1216,7 +1216,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cartFull({
+  IcgLineIcons.cartFull({
     Key? key,
     double? size,
     Color? color,
@@ -1230,7 +1230,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cart({
+  IcgLineIcons.cart({
     Key? key,
     double? size,
     Color? color,
@@ -1244,7 +1244,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.certificate({
+  IcgLineIcons.certificate({
     Key? key,
     double? size,
     Color? color,
@@ -1258,7 +1258,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.checkBox({
+  IcgLineIcons.checkBox({
     Key? key,
     double? size,
     Color? color,
@@ -1272,7 +1272,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.checkmarkCircle({
+  IcgLineIcons.checkmarkCircle({
     Key? key,
     double? size,
     Color? color,
@@ -1286,7 +1286,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.checkmark({
+  IcgLineIcons.checkmark({
     Key? key,
     double? size,
     Color? color,
@@ -1300,7 +1300,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.chefHat({
+  IcgLineIcons.chefHat({
     Key? key,
     double? size,
     Color? color,
@@ -1314,7 +1314,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.chevronDownCircle({
+  IcgLineIcons.chevronDownCircle({
     Key? key,
     double? size,
     Color? color,
@@ -1328,7 +1328,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.chevronDown({
+  IcgLineIcons.chevronDown({
     Key? key,
     double? size,
     Color? color,
@@ -1342,7 +1342,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.chevronLeftCircle({
+  IcgLineIcons.chevronLeftCircle({
     Key? key,
     double? size,
     Color? color,
@@ -1356,7 +1356,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.chevronLeft({
+  IcgLineIcons.chevronLeft({
     Key? key,
     double? size,
     Color? color,
@@ -1370,7 +1370,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.chevronRightCircle({
+  IcgLineIcons.chevronRightCircle({
     Key? key,
     double? size,
     Color? color,
@@ -1384,7 +1384,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.chevronRight({
+  IcgLineIcons.chevronRight({
     Key? key,
     double? size,
     Color? color,
@@ -1398,7 +1398,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.chevronUpCircle({
+  IcgLineIcons.chevronUpCircle({
     Key? key,
     double? size,
     Color? color,
@@ -1412,7 +1412,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.chevronUp({
+  IcgLineIcons.chevronUp({
     Key? key,
     double? size,
     Color? color,
@@ -1426,7 +1426,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.chrome({
+  IcgLineIcons.chrome({
     Key? key,
     double? size,
     Color? color,
@@ -1440,7 +1440,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.chromecast({
+  IcgLineIcons.chromecast({
     Key? key,
     double? size,
     Color? color,
@@ -1454,7 +1454,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.circleMinus({
+  IcgLineIcons.circleMinus({
     Key? key,
     double? size,
     Color? color,
@@ -1468,7 +1468,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.circlePlus({
+  IcgLineIcons.circlePlus({
     Key? key,
     double? size,
     Color? color,
@@ -1482,7 +1482,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.clipboard({
+  IcgLineIcons.clipboard({
     Key? key,
     double? size,
     Color? color,
@@ -1496,7 +1496,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.close({
+  IcgLineIcons.close({
     Key? key,
     double? size,
     Color? color,
@@ -1510,7 +1510,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cloudCheck({
+  IcgLineIcons.cloudCheck({
     Key? key,
     double? size,
     Color? color,
@@ -1524,7 +1524,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cloudDownload({
+  IcgLineIcons.cloudDownload({
     Key? key,
     double? size,
     Color? color,
@@ -1538,7 +1538,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cloudNetwork({
+  IcgLineIcons.cloudNetwork({
     Key? key,
     double? size,
     Color? color,
@@ -1552,7 +1552,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cloudSync({
+  IcgLineIcons.cloudSync({
     Key? key,
     double? size,
     Color? color,
@@ -1566,7 +1566,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cloudUpload({
+  IcgLineIcons.cloudUpload({
     Key? key,
     double? size,
     Color? color,
@@ -1580,7 +1580,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cloud({
+  IcgLineIcons.cloud({
     Key? key,
     double? size,
     Color? color,
@@ -1594,7 +1594,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cloudflare({
+  IcgLineIcons.cloudflare({
     Key? key,
     double? size,
     Color? color,
@@ -1608,7 +1608,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cloudySun({
+  IcgLineIcons.cloudySun({
     Key? key,
     double? size,
     Color? color,
@@ -1622,7 +1622,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.codeAlt({
+  IcgLineIcons.codeAlt({
     Key? key,
     double? size,
     Color? color,
@@ -1636,7 +1636,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.code({
+  IcgLineIcons.code({
     Key? key,
     double? size,
     Color? color,
@@ -1650,7 +1650,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.codepen({
+  IcgLineIcons.codepen({
     Key? key,
     double? size,
     Color? color,
@@ -1664,7 +1664,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.coffeeCup({
+  IcgLineIcons.coffeeCup({
     Key? key,
     double? size,
     Color? color,
@@ -1678,7 +1678,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cog({
+  IcgLineIcons.cog({
     Key? key,
     double? size,
     Color? color,
@@ -1692,7 +1692,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cogs({
+  IcgLineIcons.cogs({
     Key? key,
     double? size,
     Color? color,
@@ -1706,7 +1706,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.coin({
+  IcgLineIcons.coin({
     Key? key,
     double? size,
     Color? color,
@@ -1720,7 +1720,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.commentsAlt({
+  IcgLineIcons.commentsAlt({
     Key? key,
     double? size,
     Color? color,
@@ -1734,7 +1734,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.commentsReply({
+  IcgLineIcons.commentsReply({
     Key? key,
     double? size,
     Color? color,
@@ -1748,7 +1748,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.comments({
+  IcgLineIcons.comments({
     Key? key,
     double? size,
     Color? color,
@@ -1762,7 +1762,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.compass({
+  IcgLineIcons.compass({
     Key? key,
     double? size,
     Color? color,
@@ -1776,7 +1776,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.connectdevelop({
+  IcgLineIcons.connectdevelop({
     Key? key,
     double? size,
     Color? color,
@@ -1790,7 +1790,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.constructionHammer({
+  IcgLineIcons.constructionHammer({
     Key? key,
     double? size,
     Color? color,
@@ -1804,7 +1804,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.construction({
+  IcgLineIcons.construction({
     Key? key,
     double? size,
     Color? color,
@@ -1818,7 +1818,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.consulting({
+  IcgLineIcons.consulting({
     Key? key,
     double? size,
     Color? color,
@@ -1832,7 +1832,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.controlPanel({
+  IcgLineIcons.controlPanel({
     Key? key,
     double? size,
     Color? color,
@@ -1846,7 +1846,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cool({
+  IcgLineIcons.cool({
     Key? key,
     double? size,
     Color? color,
@@ -1860,7 +1860,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cpanel({
+  IcgLineIcons.cpanel({
     Key? key,
     double? size,
     Color? color,
@@ -1874,7 +1874,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.creativeCommons({
+  IcgLineIcons.creativeCommons({
     Key? key,
     double? size,
     Color? color,
@@ -1888,7 +1888,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.creditCards({
+  IcgLineIcons.creditCards({
     Key? key,
     double? size,
     Color? color,
@@ -1902,7 +1902,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.crop({
+  IcgLineIcons.crop({
     Key? key,
     double? size,
     Color? color,
@@ -1916,7 +1916,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.crossCircle({
+  IcgLineIcons.crossCircle({
     Key? key,
     double? size,
     Color? color,
@@ -1930,7 +1930,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.crown({
+  IcgLineIcons.crown({
     Key? key,
     double? size,
     Color? color,
@@ -1944,7 +1944,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.css3({
+  IcgLineIcons.css3({
     Key? key,
     double? size,
     Color? color,
@@ -1958,7 +1958,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cup({
+  IcgLineIcons.cup({
     Key? key,
     double? size,
     Color? color,
@@ -1972,7 +1972,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.customer({
+  IcgLineIcons.customer({
     Key? key,
     double? size,
     Color? color,
@@ -1986,7 +1986,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.cut({
+  IcgLineIcons.cut({
     Key? key,
     double? size,
     Color? color,
@@ -2000,7 +2000,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.dashboard({
+  IcgLineIcons.dashboard({
     Key? key,
     double? size,
     Color? color,
@@ -2014,7 +2014,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.database({
+  IcgLineIcons.database({
     Key? key,
     double? size,
     Color? color,
@@ -2028,7 +2028,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.delivery({
+  IcgLineIcons.delivery({
     Key? key,
     double? size,
     Color? color,
@@ -2042,7 +2042,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.dev({
+  IcgLineIcons.dev({
     Key? key,
     double? size,
     Color? color,
@@ -2056,7 +2056,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.diamondAlt({
+  IcgLineIcons.diamondAlt({
     Key? key,
     double? size,
     Color? color,
@@ -2070,7 +2070,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.diamond({
+  IcgLineIcons.diamond({
     Key? key,
     double? size,
     Color? color,
@@ -2084,7 +2084,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.digitalocean({
+  IcgLineIcons.digitalocean({
     Key? key,
     double? size,
     Color? color,
@@ -2098,7 +2098,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.dinersClub({
+  IcgLineIcons.dinersClub({
     Key? key,
     double? size,
     Color? color,
@@ -2112,7 +2112,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.dinner({
+  IcgLineIcons.dinner({
     Key? key,
     double? size,
     Color? color,
@@ -2126,7 +2126,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.directionAlt({
+  IcgLineIcons.directionAlt({
     Key? key,
     double? size,
     Color? color,
@@ -2140,7 +2140,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.directionLtr({
+  IcgLineIcons.directionLtr({
     Key? key,
     double? size,
     Color? color,
@@ -2154,7 +2154,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.directionRtl({
+  IcgLineIcons.directionRtl({
     Key? key,
     double? size,
     Color? color,
@@ -2168,7 +2168,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.direction({
+  IcgLineIcons.direction({
     Key? key,
     double? size,
     Color? color,
@@ -2182,7 +2182,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.discord({
+  IcgLineIcons.discord({
     Key? key,
     double? size,
     Color? color,
@@ -2196,7 +2196,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.discover({
+  IcgLineIcons.discover({
     Key? key,
     double? size,
     Color? color,
@@ -2210,7 +2210,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.displayAlt({
+  IcgLineIcons.displayAlt({
     Key? key,
     double? size,
     Color? color,
@@ -2224,7 +2224,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.display({
+  IcgLineIcons.display({
     Key? key,
     double? size,
     Color? color,
@@ -2238,7 +2238,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.docker({
+  IcgLineIcons.docker({
     Key? key,
     double? size,
     Color? color,
@@ -2252,7 +2252,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.dollar({
+  IcgLineIcons.dollar({
     Key? key,
     double? size,
     Color? color,
@@ -2266,7 +2266,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.domain({
+  IcgLineIcons.domain({
     Key? key,
     double? size,
     Color? color,
@@ -2280,7 +2280,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.download({
+  IcgLineIcons.download({
     Key? key,
     double? size,
     Color? color,
@@ -2294,7 +2294,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.dribbble({
+  IcgLineIcons.dribbble({
     Key? key,
     double? size,
     Color? color,
@@ -2308,7 +2308,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.drop({
+  IcgLineIcons.drop({
     Key? key,
     double? size,
     Color? color,
@@ -2322,7 +2322,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.dropboxOriginal({
+  IcgLineIcons.dropboxOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -2336,7 +2336,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.dropbox({
+  IcgLineIcons.dropbox({
     Key? key,
     double? size,
     Color? color,
@@ -2350,7 +2350,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.drupalOriginal({
+  IcgLineIcons.drupalOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -2364,7 +2364,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.drupal({
+  IcgLineIcons.drupal({
     Key? key,
     double? size,
     Color? color,
@@ -2378,7 +2378,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.dumbbell({
+  IcgLineIcons.dumbbell({
     Key? key,
     double? size,
     Color? color,
@@ -2392,7 +2392,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.edge({
+  IcgLineIcons.edge({
     Key? key,
     double? size,
     Color? color,
@@ -2406,7 +2406,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.emptyFile({
+  IcgLineIcons.emptyFile({
     Key? key,
     double? size,
     Color? color,
@@ -2420,7 +2420,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.enter({
+  IcgLineIcons.enter({
     Key? key,
     double? size,
     Color? color,
@@ -2434,7 +2434,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.envato({
+  IcgLineIcons.envato({
     Key? key,
     double? size,
     Color? color,
@@ -2448,7 +2448,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.envelope({
+  IcgLineIcons.envelope({
     Key? key,
     double? size,
     Color? color,
@@ -2462,7 +2462,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.eraser({
+  IcgLineIcons.eraser({
     Key? key,
     double? size,
     Color? color,
@@ -2476,7 +2476,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.euro({
+  IcgLineIcons.euro({
     Key? key,
     double? size,
     Color? color,
@@ -2490,7 +2490,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.exitDown({
+  IcgLineIcons.exitDown({
     Key? key,
     double? size,
     Color? color,
@@ -2504,7 +2504,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.exitUp({
+  IcgLineIcons.exitUp({
     Key? key,
     double? size,
     Color? color,
@@ -2518,7 +2518,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.exit({
+  IcgLineIcons.exit({
     Key? key,
     double? size,
     Color? color,
@@ -2532,7 +2532,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.eye({
+  IcgLineIcons.eye({
     Key? key,
     double? size,
     Color? color,
@@ -2546,7 +2546,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.facebookFilled({
+  IcgLineIcons.facebookFilled({
     Key? key,
     double? size,
     Color? color,
@@ -2560,7 +2560,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.facebookMessenger({
+  IcgLineIcons.facebookMessenger({
     Key? key,
     double? size,
     Color? color,
@@ -2574,7 +2574,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.facebookOriginal({
+  IcgLineIcons.facebookOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -2588,7 +2588,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.facebookOval({
+  IcgLineIcons.facebookOval({
     Key? key,
     double? size,
     Color? color,
@@ -2602,7 +2602,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.facebook({
+  IcgLineIcons.facebook({
     Key? key,
     double? size,
     Color? color,
@@ -2616,7 +2616,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.figma({
+  IcgLineIcons.figma({
     Key? key,
     double? size,
     Color? color,
@@ -2630,7 +2630,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.files({
+  IcgLineIcons.files({
     Key? key,
     double? size,
     Color? color,
@@ -2644,7 +2644,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.firefoxOriginal({
+  IcgLineIcons.firefoxOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -2658,7 +2658,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.firefox({
+  IcgLineIcons.firefox({
     Key? key,
     double? size,
     Color? color,
@@ -2672,7 +2672,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.fireworks({
+  IcgLineIcons.fireworks({
     Key? key,
     double? size,
     Color? color,
@@ -2686,7 +2686,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.firstAid({
+  IcgLineIcons.firstAid({
     Key? key,
     double? size,
     Color? color,
@@ -2700,7 +2700,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.flagAlt({
+  IcgLineIcons.flagAlt({
     Key? key,
     double? size,
     Color? color,
@@ -2714,7 +2714,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.flag({
+  IcgLineIcons.flag({
     Key? key,
     double? size,
     Color? color,
@@ -2728,7 +2728,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.flags({
+  IcgLineIcons.flags({
     Key? key,
     double? size,
     Color? color,
@@ -2742,7 +2742,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.flickr({
+  IcgLineIcons.flickr({
     Key? key,
     double? size,
     Color? color,
@@ -2756,7 +2756,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.flower({
+  IcgLineIcons.flower({
     Key? key,
     double? size,
     Color? color,
@@ -2770,7 +2770,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.folder({
+  IcgLineIcons.folder({
     Key? key,
     double? size,
     Color? color,
@@ -2784,7 +2784,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.forward({
+  IcgLineIcons.forward({
     Key? key,
     double? size,
     Color? color,
@@ -2798,7 +2798,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.frameExpand({
+  IcgLineIcons.frameExpand({
     Key? key,
     double? size,
     Color? color,
@@ -2812,7 +2812,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.freshJuice({
+  IcgLineIcons.freshJuice({
     Key? key,
     double? size,
     Color? color,
@@ -2826,7 +2826,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.friendly({
+  IcgLineIcons.friendly({
     Key? key,
     double? size,
     Color? color,
@@ -2840,7 +2840,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.fullScreen({
+  IcgLineIcons.fullScreen({
     Key? key,
     double? size,
     Color? color,
@@ -2854,7 +2854,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.funnel({
+  IcgLineIcons.funnel({
     Key? key,
     double? size,
     Color? color,
@@ -2868,7 +2868,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.gallery({
+  IcgLineIcons.gallery({
     Key? key,
     double? size,
     Color? color,
@@ -2882,7 +2882,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.game({
+  IcgLineIcons.game({
     Key? key,
     double? size,
     Color? color,
@@ -2896,7 +2896,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.gatsby({
+  IcgLineIcons.gatsby({
     Key? key,
     double? size,
     Color? color,
@@ -2910,7 +2910,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.gift({
+  IcgLineIcons.gift({
     Key? key,
     double? size,
     Color? color,
@@ -2924,7 +2924,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.git({
+  IcgLineIcons.git({
     Key? key,
     double? size,
     Color? color,
@@ -2938,7 +2938,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.githubOriginal({
+  IcgLineIcons.githubOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -2952,7 +2952,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.github({
+  IcgLineIcons.github({
     Key? key,
     double? size,
     Color? color,
@@ -2966,7 +2966,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.goodreads({
+  IcgLineIcons.goodreads({
     Key? key,
     double? size,
     Color? color,
@@ -2980,7 +2980,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.googleDrive({
+  IcgLineIcons.googleDrive({
     Key? key,
     double? size,
     Color? color,
@@ -2994,7 +2994,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.googlePay({
+  IcgLineIcons.googlePay({
     Key? key,
     double? size,
     Color? color,
@@ -3008,7 +3008,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.googleWallet({
+  IcgLineIcons.googleWallet({
     Key? key,
     double? size,
     Color? color,
@@ -3022,7 +3022,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.google({
+  IcgLineIcons.google({
     Key? key,
     double? size,
     Color? color,
@@ -3036,7 +3036,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.graduation({
+  IcgLineIcons.graduation({
     Key? key,
     double? size,
     Color? color,
@@ -3050,7 +3050,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.graph({
+  IcgLineIcons.graph({
     Key? key,
     double? size,
     Color? color,
@@ -3064,7 +3064,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.gridAlt({
+  IcgLineIcons.gridAlt({
     Key? key,
     double? size,
     Color? color,
@@ -3078,7 +3078,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.grid({
+  IcgLineIcons.grid({
     Key? key,
     double? size,
     Color? color,
@@ -3092,7 +3092,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.grow({
+  IcgLineIcons.grow({
     Key? key,
     double? size,
     Color? color,
@@ -3106,7 +3106,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.hackerNews({
+  IcgLineIcons.hackerNews({
     Key? key,
     double? size,
     Color? color,
@@ -3120,7 +3120,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.hammer({
+  IcgLineIcons.hammer({
     Key? key,
     double? size,
     Color? color,
@@ -3134,7 +3134,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.hand({
+  IcgLineIcons.hand({
     Key? key,
     double? size,
     Color? color,
@@ -3148,7 +3148,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.handshake({
+  IcgLineIcons.handshake({
     Key? key,
     double? size,
     Color? color,
@@ -3162,7 +3162,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.happy({
+  IcgLineIcons.happy({
     Key? key,
     double? size,
     Color? color,
@@ -3176,7 +3176,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.harddrive({
+  IcgLineIcons.harddrive({
     Key? key,
     double? size,
     Color? color,
@@ -3190,7 +3190,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.headphoneAlt({
+  IcgLineIcons.headphoneAlt({
     Key? key,
     double? size,
     Color? color,
@@ -3204,7 +3204,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.headphone({
+  IcgLineIcons.headphone({
     Key? key,
     double? size,
     Color? color,
@@ -3218,7 +3218,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.heartFilled({
+  IcgLineIcons.heartFilled({
     Key? key,
     double? size,
     Color? color,
@@ -3232,7 +3232,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.heartMonitor({
+  IcgLineIcons.heartMonitor({
     Key? key,
     double? size,
     Color? color,
@@ -3246,7 +3246,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.heart({
+  IcgLineIcons.heart({
     Key? key,
     double? size,
     Color? color,
@@ -3260,7 +3260,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.helicopter({
+  IcgLineIcons.helicopter({
     Key? key,
     double? size,
     Color? color,
@@ -3274,7 +3274,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.helmet({
+  IcgLineIcons.helmet({
     Key? key,
     double? size,
     Color? color,
@@ -3288,7 +3288,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.help({
+  IcgLineIcons.help({
     Key? key,
     double? size,
     Color? color,
@@ -3302,7 +3302,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.highlightAlt({
+  IcgLineIcons.highlightAlt({
     Key? key,
     double? size,
     Color? color,
@@ -3316,7 +3316,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.highlight({
+  IcgLineIcons.highlight({
     Key? key,
     double? size,
     Color? color,
@@ -3330,7 +3330,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.home({
+  IcgLineIcons.home({
     Key? key,
     double? size,
     Color? color,
@@ -3344,7 +3344,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.hospital({
+  IcgLineIcons.hospital({
     Key? key,
     double? size,
     Color? color,
@@ -3358,7 +3358,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.hourglass({
+  IcgLineIcons.hourglass({
     Key? key,
     double? size,
     Color? color,
@@ -3372,7 +3372,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.html5({
+  IcgLineIcons.html5({
     Key? key,
     double? size,
     Color? color,
@@ -3386,7 +3386,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.image({
+  IcgLineIcons.image({
     Key? key,
     double? size,
     Color? color,
@@ -3400,7 +3400,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.imdb({
+  IcgLineIcons.imdb({
     Key? key,
     double? size,
     Color? color,
@@ -3414,7 +3414,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.inbox({
+  IcgLineIcons.inbox({
     Key? key,
     double? size,
     Color? color,
@@ -3428,7 +3428,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.indentDecrease({
+  IcgLineIcons.indentDecrease({
     Key? key,
     double? size,
     Color? color,
@@ -3442,7 +3442,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.indentIncrease({
+  IcgLineIcons.indentIncrease({
     Key? key,
     double? size,
     Color? color,
@@ -3456,7 +3456,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.infinite({
+  IcgLineIcons.infinite({
     Key? key,
     double? size,
     Color? color,
@@ -3470,7 +3470,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.information({
+  IcgLineIcons.information({
     Key? key,
     double? size,
     Color? color,
@@ -3484,7 +3484,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.instagramFilled({
+  IcgLineIcons.instagramFilled({
     Key? key,
     double? size,
     Color? color,
@@ -3498,7 +3498,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.instagramOriginal({
+  IcgLineIcons.instagramOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -3512,7 +3512,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.instagram({
+  IcgLineIcons.instagram({
     Key? key,
     double? size,
     Color? color,
@@ -3526,7 +3526,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.invention({
+  IcgLineIcons.invention({
     Key? key,
     double? size,
     Color? color,
@@ -3540,7 +3540,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.investMonitor({
+  IcgLineIcons.investMonitor({
     Key? key,
     double? size,
     Color? color,
@@ -3554,7 +3554,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.investment({
+  IcgLineIcons.investment({
     Key? key,
     double? size,
     Color? color,
@@ -3568,7 +3568,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.island({
+  IcgLineIcons.island({
     Key? key,
     double? size,
     Color? color,
@@ -3582,7 +3582,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.italic({
+  IcgLineIcons.italic({
     Key? key,
     double? size,
     Color? color,
@@ -3596,7 +3596,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.java({
+  IcgLineIcons.java({
     Key? key,
     double? size,
     Color? color,
@@ -3610,7 +3610,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.javascript({
+  IcgLineIcons.javascript({
     Key? key,
     double? size,
     Color? color,
@@ -3624,7 +3624,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.jcb({
+  IcgLineIcons.jcb({
     Key? key,
     double? size,
     Color? color,
@@ -3638,7 +3638,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.joomlaOriginal({
+  IcgLineIcons.joomlaOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -3652,7 +3652,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.joomla({
+  IcgLineIcons.joomla({
     Key? key,
     double? size,
     Color? color,
@@ -3666,7 +3666,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.jsfiddle({
+  IcgLineIcons.jsfiddle({
     Key? key,
     double? size,
     Color? color,
@@ -3680,7 +3680,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.juice({
+  IcgLineIcons.juice({
     Key? key,
     double? size,
     Color? color,
@@ -3694,7 +3694,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.key({
+  IcgLineIcons.key({
     Key? key,
     double? size,
     Color? color,
@@ -3708,7 +3708,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.keyboard({
+  IcgLineIcons.keyboard({
     Key? key,
     double? size,
     Color? color,
@@ -3722,7 +3722,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.keywordResearch({
+  IcgLineIcons.keywordResearch({
     Key? key,
     double? size,
     Color? color,
@@ -3736,7 +3736,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.laptopPhone({
+  IcgLineIcons.laptopPhone({
     Key? key,
     double? size,
     Color? color,
@@ -3750,7 +3750,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.laptop({
+  IcgLineIcons.laptop({
     Key? key,
     double? size,
     Color? color,
@@ -3764,7 +3764,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.laravel({
+  IcgLineIcons.laravel({
     Key? key,
     double? size,
     Color? color,
@@ -3778,7 +3778,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.layers({
+  IcgLineIcons.layers({
     Key? key,
     double? size,
     Color? color,
@@ -3792,7 +3792,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.layout({
+  IcgLineIcons.layout({
     Key? key,
     double? size,
     Color? color,
@@ -3806,7 +3806,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.leaf({
+  IcgLineIcons.leaf({
     Key? key,
     double? size,
     Color? color,
@@ -3820,7 +3820,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.libraryIcon({
+  IcgLineIcons.libraryIcon({
     Key? key,
     double? size,
     Color? color,
@@ -3834,7 +3834,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.license({
+  IcgLineIcons.license({
     Key? key,
     double? size,
     Color? color,
@@ -3848,7 +3848,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.lifering({
+  IcgLineIcons.lifering({
     Key? key,
     double? size,
     Color? color,
@@ -3862,7 +3862,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.lineDashed({
+  IcgLineIcons.lineDashed({
     Key? key,
     double? size,
     Color? color,
@@ -3876,7 +3876,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.lineDotted({
+  IcgLineIcons.lineDotted({
     Key? key,
     double? size,
     Color? color,
@@ -3890,7 +3890,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.lineDouble({
+  IcgLineIcons.lineDouble({
     Key? key,
     double? size,
     Color? color,
@@ -3904,7 +3904,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.lineSpacing({
+  IcgLineIcons.lineSpacing({
     Key? key,
     double? size,
     Color? color,
@@ -3918,7 +3918,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.line({
+  IcgLineIcons.line({
     Key? key,
     double? size,
     Color? color,
@@ -3932,7 +3932,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.lineiconsAlt({
+  IcgLineIcons.lineiconsAlt({
     Key? key,
     double? size,
     Color? color,
@@ -3946,7 +3946,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.lineicons({
+  IcgLineIcons.lineicons({
     Key? key,
     double? size,
     Color? color,
@@ -3960,7 +3960,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.link({
+  IcgLineIcons.link({
     Key? key,
     double? size,
     Color? color,
@@ -3974,7 +3974,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.linkedinOriginal({
+  IcgLineIcons.linkedinOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -3988,7 +3988,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.linkedin({
+  IcgLineIcons.linkedin({
     Key? key,
     double? size,
     Color? color,
@@ -4002,7 +4002,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.list({
+  IcgLineIcons.list({
     Key? key,
     double? size,
     Color? color,
@@ -4016,7 +4016,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.lockAlt({
+  IcgLineIcons.lockAlt({
     Key? key,
     double? size,
     Color? color,
@@ -4030,7 +4030,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.lock({
+  IcgLineIcons.lock({
     Key? key,
     double? size,
     Color? color,
@@ -4044,7 +4044,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.magento({
+  IcgLineIcons.magento({
     Key? key,
     double? size,
     Color? color,
@@ -4058,7 +4058,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.magnet({
+  IcgLineIcons.magnet({
     Key? key,
     double? size,
     Color? color,
@@ -4072,7 +4072,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.magnifier({
+  IcgLineIcons.magnifier({
     Key? key,
     double? size,
     Color? color,
@@ -4086,7 +4086,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.mailchimp({
+  IcgLineIcons.mailchimp({
     Key? key,
     double? size,
     Color? color,
@@ -4100,7 +4100,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.mapMarker({
+  IcgLineIcons.mapMarker({
     Key? key,
     double? size,
     Color? color,
@@ -4114,7 +4114,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.map({
+  IcgLineIcons.map({
     Key? key,
     double? size,
     Color? color,
@@ -4128,7 +4128,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.markdown({
+  IcgLineIcons.markdown({
     Key? key,
     double? size,
     Color? color,
@@ -4142,7 +4142,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.mashroom({
+  IcgLineIcons.mashroom({
     Key? key,
     double? size,
     Color? color,
@@ -4156,7 +4156,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.mastercard({
+  IcgLineIcons.mastercard({
     Key? key,
     double? size,
     Color? color,
@@ -4170,7 +4170,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.medium({
+  IcgLineIcons.medium({
     Key? key,
     double? size,
     Color? color,
@@ -4184,7 +4184,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.menu({
+  IcgLineIcons.menu({
     Key? key,
     double? size,
     Color? color,
@@ -4198,7 +4198,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.mic({
+  IcgLineIcons.mic({
     Key? key,
     double? size,
     Color? color,
@@ -4212,7 +4212,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.microphone({
+  IcgLineIcons.microphone({
     Key? key,
     double? size,
     Color? color,
@@ -4226,7 +4226,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.microscope({
+  IcgLineIcons.microscope({
     Key? key,
     double? size,
     Color? color,
@@ -4240,7 +4240,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.microsoftEdge({
+  IcgLineIcons.microsoftEdge({
     Key? key,
     double? size,
     Color? color,
@@ -4254,7 +4254,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.microsoft({
+  IcgLineIcons.microsoft({
     Key? key,
     double? size,
     Color? color,
@@ -4268,7 +4268,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.minus({
+  IcgLineIcons.minus({
     Key? key,
     double? size,
     Color? color,
@@ -4282,7 +4282,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.mobile({
+  IcgLineIcons.mobile({
     Key? key,
     double? size,
     Color? color,
@@ -4296,7 +4296,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.moneyLocation({
+  IcgLineIcons.moneyLocation({
     Key? key,
     double? size,
     Color? color,
@@ -4310,7 +4310,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.moneyProtection({
+  IcgLineIcons.moneyProtection({
     Key? key,
     double? size,
     Color? color,
@@ -4324,7 +4324,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.moreAlt({
+  IcgLineIcons.moreAlt({
     Key? key,
     double? size,
     Color? color,
@@ -4338,7 +4338,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.more({
+  IcgLineIcons.more({
     Key? key,
     double? size,
     Color? color,
@@ -4352,7 +4352,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.mouse({
+  IcgLineIcons.mouse({
     Key? key,
     double? size,
     Color? color,
@@ -4366,7 +4366,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.move({
+  IcgLineIcons.move({
     Key? key,
     double? size,
     Color? color,
@@ -4380,7 +4380,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.music({
+  IcgLineIcons.music({
     Key? key,
     double? size,
     Color? color,
@@ -4394,7 +4394,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.netlify({
+  IcgLineIcons.netlify({
     Key? key,
     double? size,
     Color? color,
@@ -4408,7 +4408,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.network({
+  IcgLineIcons.network({
     Key? key,
     double? size,
     Color? color,
@@ -4422,7 +4422,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.night({
+  IcgLineIcons.night({
     Key? key,
     double? size,
     Color? color,
@@ -4436,7 +4436,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.nodejsAlt({
+  IcgLineIcons.nodejsAlt({
     Key? key,
     double? size,
     Color? color,
@@ -4450,7 +4450,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.nodejs({
+  IcgLineIcons.nodejs({
     Key? key,
     double? size,
     Color? color,
@@ -4464,7 +4464,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.notepad({
+  IcgLineIcons.notepad({
     Key? key,
     double? size,
     Color? color,
@@ -4478,7 +4478,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.npm({
+  IcgLineIcons.npm({
     Key? key,
     double? size,
     Color? color,
@@ -4492,7 +4492,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.offer({
+  IcgLineIcons.offer({
     Key? key,
     double? size,
     Color? color,
@@ -4506,7 +4506,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.opera({
+  IcgLineIcons.opera({
     Key? key,
     double? size,
     Color? color,
@@ -4520,7 +4520,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.package({
+  IcgLineIcons.package({
     Key? key,
     double? size,
     Color? color,
@@ -4534,7 +4534,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pageBreak({
+  IcgLineIcons.pageBreak({
     Key? key,
     double? size,
     Color? color,
@@ -4548,7 +4548,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pagination({
+  IcgLineIcons.pagination({
     Key? key,
     double? size,
     Color? color,
@@ -4562,7 +4562,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.paintBucket({
+  IcgLineIcons.paintBucket({
     Key? key,
     double? size,
     Color? color,
@@ -4576,7 +4576,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.paintRoller({
+  IcgLineIcons.paintRoller({
     Key? key,
     double? size,
     Color? color,
@@ -4590,7 +4590,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pallet({
+  IcgLineIcons.pallet({
     Key? key,
     double? size,
     Color? color,
@@ -4604,7 +4604,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.paperclip({
+  IcgLineIcons.paperclip({
     Key? key,
     double? size,
     Color? color,
@@ -4618,7 +4618,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.patreon({
+  IcgLineIcons.patreon({
     Key? key,
     double? size,
     Color? color,
@@ -4632,7 +4632,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pause({
+  IcgLineIcons.pause({
     Key? key,
     double? size,
     Color? color,
@@ -4646,7 +4646,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.paypalOriginal({
+  IcgLineIcons.paypalOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -4660,7 +4660,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.paypal({
+  IcgLineIcons.paypal({
     Key? key,
     double? size,
     Color? color,
@@ -4674,7 +4674,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pencilAlt({
+  IcgLineIcons.pencilAlt({
     Key? key,
     double? size,
     Color? color,
@@ -4688,7 +4688,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pencil({
+  IcgLineIcons.pencil({
     Key? key,
     double? size,
     Color? color,
@@ -4702,7 +4702,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.phoneSet({
+  IcgLineIcons.phoneSet({
     Key? key,
     double? size,
     Color? color,
@@ -4716,7 +4716,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.phone({
+  IcgLineIcons.phone({
     Key? key,
     double? size,
     Color? color,
@@ -4730,7 +4730,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.php({
+  IcgLineIcons.php({
     Key? key,
     double? size,
     Color? color,
@@ -4744,7 +4744,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pieChart({
+  IcgLineIcons.pieChart({
     Key? key,
     double? size,
     Color? color,
@@ -4758,7 +4758,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pilcrow({
+  IcgLineIcons.pilcrow({
     Key? key,
     double? size,
     Color? color,
@@ -4772,7 +4772,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pin({
+  IcgLineIcons.pin({
     Key? key,
     double? size,
     Color? color,
@@ -4786,7 +4786,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pinterest({
+  IcgLineIcons.pinterest({
     Key? key,
     double? size,
     Color? color,
@@ -4800,7 +4800,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pizza({
+  IcgLineIcons.pizza({
     Key? key,
     double? size,
     Color? color,
@@ -4814,7 +4814,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.plane({
+  IcgLineIcons.plane({
     Key? key,
     double? size,
     Color? color,
@@ -4828,7 +4828,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.playStore({
+  IcgLineIcons.playStore({
     Key? key,
     double? size,
     Color? color,
@@ -4842,7 +4842,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.play({
+  IcgLineIcons.play({
     Key? key,
     double? size,
     Color? color,
@@ -4856,7 +4856,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.playstation({
+  IcgLineIcons.playstation({
     Key? key,
     double? size,
     Color? color,
@@ -4870,7 +4870,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.plug({
+  IcgLineIcons.plug({
     Key? key,
     double? size,
     Color? color,
@@ -4884,7 +4884,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.plus({
+  IcgLineIcons.plus({
     Key? key,
     double? size,
     Color? color,
@@ -4898,7 +4898,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pointerDown({
+  IcgLineIcons.pointerDown({
     Key? key,
     double? size,
     Color? color,
@@ -4912,7 +4912,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pointerLeft({
+  IcgLineIcons.pointerLeft({
     Key? key,
     double? size,
     Color? color,
@@ -4926,7 +4926,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pointerRight({
+  IcgLineIcons.pointerRight({
     Key? key,
     double? size,
     Color? color,
@@ -4940,7 +4940,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pointerTop({
+  IcgLineIcons.pointerTop({
     Key? key,
     double? size,
     Color? color,
@@ -4954,7 +4954,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pointer({
+  IcgLineIcons.pointer({
     Key? key,
     double? size,
     Color? color,
@@ -4968,7 +4968,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.popup({
+  IcgLineIcons.popup({
     Key? key,
     double? size,
     Color? color,
@@ -4982,7 +4982,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.postcard({
+  IcgLineIcons.postcard({
     Key? key,
     double? size,
     Color? color,
@@ -4996,7 +4996,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pound({
+  IcgLineIcons.pound({
     Key? key,
     double? size,
     Color? color,
@@ -5010,7 +5010,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.powerSwitch({
+  IcgLineIcons.powerSwitch({
     Key? key,
     double? size,
     Color? color,
@@ -5024,7 +5024,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.printer({
+  IcgLineIcons.printer({
     Key? key,
     double? size,
     Color? color,
@@ -5038,7 +5038,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.producthunt({
+  IcgLineIcons.producthunt({
     Key? key,
     double? size,
     Color? color,
@@ -5052,7 +5052,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.protection({
+  IcgLineIcons.protection({
     Key? key,
     double? size,
     Color? color,
@@ -5066,7 +5066,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pulse({
+  IcgLineIcons.pulse({
     Key? key,
     double? size,
     Color? color,
@@ -5080,7 +5080,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.pyramids({
+  IcgLineIcons.pyramids({
     Key? key,
     double? size,
     Color? color,
@@ -5094,7 +5094,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.python({
+  IcgLineIcons.python({
     Key? key,
     double? size,
     Color? color,
@@ -5108,7 +5108,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.questionCircle({
+  IcgLineIcons.questionCircle({
     Key? key,
     double? size,
     Color? color,
@@ -5122,7 +5122,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.quora({
+  IcgLineIcons.quora({
     Key? key,
     double? size,
     Color? color,
@@ -5136,7 +5136,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.quotation({
+  IcgLineIcons.quotation({
     Key? key,
     double? size,
     Color? color,
@@ -5150,7 +5150,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.radioButton({
+  IcgLineIcons.radioButton({
     Key? key,
     double? size,
     Color? color,
@@ -5164,7 +5164,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.rain({
+  IcgLineIcons.rain({
     Key? key,
     double? size,
     Color? color,
@@ -5178,7 +5178,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.reddit({
+  IcgLineIcons.reddit({
     Key? key,
     double? size,
     Color? color,
@@ -5192,7 +5192,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.reload({
+  IcgLineIcons.reload({
     Key? key,
     double? size,
     Color? color,
@@ -5206,7 +5206,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.react({
+  IcgLineIcons.react({
     Key? key,
     double? size,
     Color? color,
@@ -5220,7 +5220,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.removeFile({
+  IcgLineIcons.removeFile({
     Key? key,
     double? size,
     Color? color,
@@ -5234,7 +5234,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.reply({
+  IcgLineIcons.reply({
     Key? key,
     double? size,
     Color? color,
@@ -5248,7 +5248,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.restaurant({
+  IcgLineIcons.restaurant({
     Key? key,
     double? size,
     Color? color,
@@ -5262,7 +5262,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.revenue({
+  IcgLineIcons.revenue({
     Key? key,
     double? size,
     Color? color,
@@ -5276,7 +5276,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.road({
+  IcgLineIcons.road({
     Key? key,
     double? size,
     Color? color,
@@ -5290,7 +5290,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.rocket({
+  IcgLineIcons.rocket({
     Key? key,
     double? size,
     Color? color,
@@ -5304,7 +5304,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.rssFeed({
+  IcgLineIcons.rssFeed({
     Key? key,
     double? size,
     Color? color,
@@ -5318,7 +5318,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.rulerAlt({
+  IcgLineIcons.rulerAlt({
     Key? key,
     double? size,
     Color? color,
@@ -5332,7 +5332,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.rulerPencil({
+  IcgLineIcons.rulerPencil({
     Key? key,
     double? size,
     Color? color,
@@ -5346,7 +5346,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.ruler({
+  IcgLineIcons.ruler({
     Key? key,
     double? size,
     Color? color,
@@ -5360,7 +5360,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.rupee({
+  IcgLineIcons.rupee({
     Key? key,
     double? size,
     Color? color,
@@ -5374,7 +5374,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.sad({
+  IcgLineIcons.sad({
     Key? key,
     double? size,
     Color? color,
@@ -5388,7 +5388,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.save({
+  IcgLineIcons.save({
     Key? key,
     double? size,
     Color? color,
@@ -5402,7 +5402,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.schoolBenchAlt({
+  IcgLineIcons.schoolBenchAlt({
     Key? key,
     double? size,
     Color? color,
@@ -5416,7 +5416,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.schoolBench({
+  IcgLineIcons.schoolBench({
     Key? key,
     double? size,
     Color? color,
@@ -5430,7 +5430,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.scooter({
+  IcgLineIcons.scooter({
     Key? key,
     double? size,
     Color? color,
@@ -5444,7 +5444,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.scrollDown({
+  IcgLineIcons.scrollDown({
     Key? key,
     double? size,
     Color? color,
@@ -5458,7 +5458,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.searchAlt({
+  IcgLineIcons.searchAlt({
     Key? key,
     double? size,
     Color? color,
@@ -5472,7 +5472,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.search({
+  IcgLineIcons.search({
     Key? key,
     double? size,
     Color? color,
@@ -5486,7 +5486,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.select({
+  IcgLineIcons.select({
     Key? key,
     double? size,
     Color? color,
@@ -5500,7 +5500,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.seo({
+  IcgLineIcons.seo({
     Key? key,
     double? size,
     Color? color,
@@ -5514,7 +5514,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.service({
+  IcgLineIcons.service({
     Key? key,
     double? size,
     Color? color,
@@ -5528,7 +5528,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.shareAlt1({
+  IcgLineIcons.shareAlt1({
     Key? key,
     double? size,
     Color? color,
@@ -5542,7 +5542,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.shareAlt({
+  IcgLineIcons.shareAlt({
     Key? key,
     double? size,
     Color? color,
@@ -5556,7 +5556,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.share({
+  IcgLineIcons.share({
     Key? key,
     double? size,
     Color? color,
@@ -5570,7 +5570,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.shield({
+  IcgLineIcons.shield({
     Key? key,
     double? size,
     Color? color,
@@ -5584,7 +5584,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.shiftLeft({
+  IcgLineIcons.shiftLeft({
     Key? key,
     double? size,
     Color? color,
@@ -5598,7 +5598,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.shiftRight({
+  IcgLineIcons.shiftRight({
     Key? key,
     double? size,
     Color? color,
@@ -5612,7 +5612,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.ship({
+  IcgLineIcons.ship({
     Key? key,
     double? size,
     Color? color,
@@ -5626,7 +5626,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.shopify({
+  IcgLineIcons.shopify({
     Key? key,
     double? size,
     Color? color,
@@ -5640,7 +5640,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.shoppingBasket({
+  IcgLineIcons.shoppingBasket({
     Key? key,
     double? size,
     Color? color,
@@ -5654,7 +5654,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.shortcode({
+  IcgLineIcons.shortcode({
     Key? key,
     double? size,
     Color? color,
@@ -5668,7 +5668,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.shovel({
+  IcgLineIcons.shovel({
     Key? key,
     double? size,
     Color? color,
@@ -5682,7 +5682,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.shuffle({
+  IcgLineIcons.shuffle({
     Key? key,
     double? size,
     Color? color,
@@ -5696,7 +5696,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.signal({
+  IcgLineIcons.signal({
     Key? key,
     double? size,
     Color? color,
@@ -5710,7 +5710,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.sketch({
+  IcgLineIcons.sketch({
     Key? key,
     double? size,
     Color? color,
@@ -5724,7 +5724,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.skippingRope({
+  IcgLineIcons.skippingRope({
     Key? key,
     double? size,
     Color? color,
@@ -5738,7 +5738,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.skype({
+  IcgLineIcons.skype({
     Key? key,
     double? size,
     Color? color,
@@ -5752,7 +5752,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.slackLine({
+  IcgLineIcons.slackLine({
     Key? key,
     double? size,
     Color? color,
@@ -5766,7 +5766,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.slack({
+  IcgLineIcons.slack({
     Key? key,
     double? size,
     Color? color,
@@ -5780,7 +5780,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.slice({
+  IcgLineIcons.slice({
     Key? key,
     double? size,
     Color? color,
@@ -5794,7 +5794,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.slideshare({
+  IcgLineIcons.slideshare({
     Key? key,
     double? size,
     Color? color,
@@ -5808,7 +5808,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.slim({
+  IcgLineIcons.slim({
     Key? key,
     double? size,
     Color? color,
@@ -5822,7 +5822,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.smile({
+  IcgLineIcons.smile({
     Key? key,
     double? size,
     Color? color,
@@ -5836,7 +5836,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.snapchat({
+  IcgLineIcons.snapchat({
     Key? key,
     double? size,
     Color? color,
@@ -5850,7 +5850,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.sortAlphaAsc({
+  IcgLineIcons.sortAlphaAsc({
     Key? key,
     double? size,
     Color? color,
@@ -5864,7 +5864,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.sortAmountAsc({
+  IcgLineIcons.sortAmountAsc({
     Key? key,
     double? size,
     Color? color,
@@ -5878,7 +5878,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.sortAmountDsc({
+  IcgLineIcons.sortAmountDsc({
     Key? key,
     double? size,
     Color? color,
@@ -5892,7 +5892,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.soundcloudOriginal({
+  IcgLineIcons.soundcloudOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -5906,7 +5906,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.soundcloud({
+  IcgLineIcons.soundcloud({
     Key? key,
     double? size,
     Color? color,
@@ -5920,7 +5920,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.speechless({
+  IcgLineIcons.speechless({
     Key? key,
     double? size,
     Color? color,
@@ -5934,7 +5934,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.spellcheck({
+  IcgLineIcons.spellcheck({
     Key? key,
     double? size,
     Color? color,
@@ -5948,7 +5948,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.spinnerArrow({
+  IcgLineIcons.spinnerArrow({
     Key? key,
     double? size,
     Color? color,
@@ -5962,7 +5962,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.spinnerSolid({
+  IcgLineIcons.spinnerSolid({
     Key? key,
     double? size,
     Color? color,
@@ -5976,7 +5976,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.spinner({
+  IcgLineIcons.spinner({
     Key? key,
     double? size,
     Color? color,
@@ -5990,7 +5990,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.spotifyOriginal({
+  IcgLineIcons.spotifyOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -6004,7 +6004,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.spotify({
+  IcgLineIcons.spotify({
     Key? key,
     double? size,
     Color? color,
@@ -6018,7 +6018,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.spray({
+  IcgLineIcons.spray({
     Key? key,
     double? size,
     Color? color,
@@ -6032,7 +6032,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.sprout({
+  IcgLineIcons.sprout({
     Key? key,
     double? size,
     Color? color,
@@ -6046,7 +6046,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.squarespace({
+  IcgLineIcons.squarespace({
     Key? key,
     double? size,
     Color? color,
@@ -6060,7 +6060,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.stackoverflow({
+  IcgLineIcons.stackoverflow({
     Key? key,
     double? size,
     Color? color,
@@ -6074,7 +6074,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.stamp({
+  IcgLineIcons.stamp({
     Key? key,
     double? size,
     Color? color,
@@ -6088,7 +6088,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.starEmpty({
+  IcgLineIcons.starEmpty({
     Key? key,
     double? size,
     Color? color,
@@ -6102,7 +6102,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.starFilled({
+  IcgLineIcons.starFilled({
     Key? key,
     double? size,
     Color? color,
@@ -6116,7 +6116,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.starHalf({
+  IcgLineIcons.starHalf({
     Key? key,
     double? size,
     Color? color,
@@ -6130,7 +6130,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.star({
+  IcgLineIcons.star({
     Key? key,
     double? size,
     Color? color,
@@ -6144,7 +6144,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.statsDown({
+  IcgLineIcons.statsDown({
     Key? key,
     double? size,
     Color? color,
@@ -6158,7 +6158,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.statsUp({
+  IcgLineIcons.statsUp({
     Key? key,
     double? size,
     Color? color,
@@ -6172,7 +6172,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.steam({
+  IcgLineIcons.steam({
     Key? key,
     double? size,
     Color? color,
@@ -6186,7 +6186,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.sthethoscope({
+  IcgLineIcons.sthethoscope({
     Key? key,
     double? size,
     Color? color,
@@ -6200,7 +6200,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.stop({
+  IcgLineIcons.stop({
     Key? key,
     double? size,
     Color? color,
@@ -6214,7 +6214,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.strikethrough({
+  IcgLineIcons.strikethrough({
     Key? key,
     double? size,
     Color? color,
@@ -6228,7 +6228,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.stripe({
+  IcgLineIcons.stripe({
     Key? key,
     double? size,
     Color? color,
@@ -6242,7 +6242,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.stumbleupon({
+  IcgLineIcons.stumbleupon({
     Key? key,
     double? size,
     Color? color,
@@ -6256,7 +6256,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.sun({
+  IcgLineIcons.sun({
     Key? key,
     double? size,
     Color? color,
@@ -6270,7 +6270,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.support({
+  IcgLineIcons.support({
     Key? key,
     double? size,
     Color? color,
@@ -6284,7 +6284,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.surfBoard({
+  IcgLineIcons.surfBoard({
     Key? key,
     double? size,
     Color? color,
@@ -6298,7 +6298,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.suspect({
+  IcgLineIcons.suspect({
     Key? key,
     double? size,
     Color? color,
@@ -6312,7 +6312,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.swift({
+  IcgLineIcons.swift({
     Key? key,
     double? size,
     Color? color,
@@ -6326,7 +6326,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.syringe({
+  IcgLineIcons.syringe({
     Key? key,
     double? size,
     Color? color,
@@ -6340,7 +6340,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.tab({
+  IcgLineIcons.tab({
     Key? key,
     double? size,
     Color? color,
@@ -6354,7 +6354,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.tag({
+  IcgLineIcons.tag({
     Key? key,
     double? size,
     Color? color,
@@ -6368,7 +6368,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.targetCustomer({
+  IcgLineIcons.targetCustomer({
     Key? key,
     double? size,
     Color? color,
@@ -6382,7 +6382,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.targetRevenue({
+  IcgLineIcons.targetRevenue({
     Key? key,
     double? size,
     Color? color,
@@ -6396,7 +6396,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.target({
+  IcgLineIcons.target({
     Key? key,
     double? size,
     Color? color,
@@ -6410,7 +6410,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.taxi({
+  IcgLineIcons.taxi({
     Key? key,
     double? size,
     Color? color,
@@ -6424,7 +6424,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.teabag({
+  IcgLineIcons.teabag({
     Key? key,
     double? size,
     Color? color,
@@ -6438,7 +6438,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.telegramOriginal({
+  IcgLineIcons.telegramOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -6452,7 +6452,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.telegram({
+  IcgLineIcons.telegram({
     Key? key,
     double? size,
     Color? color,
@@ -6466,7 +6466,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.textAlignCenter({
+  IcgLineIcons.textAlignCenter({
     Key? key,
     double? size,
     Color? color,
@@ -6480,7 +6480,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.textAlignJustify({
+  IcgLineIcons.textAlignJustify({
     Key? key,
     double? size,
     Color? color,
@@ -6494,7 +6494,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.textAlignLeft({
+  IcgLineIcons.textAlignLeft({
     Key? key,
     double? size,
     Color? color,
@@ -6508,7 +6508,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.textAlignRight({
+  IcgLineIcons.textAlignRight({
     Key? key,
     double? size,
     Color? color,
@@ -6522,7 +6522,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.textFormat({
+  IcgLineIcons.textFormat({
     Key? key,
     double? size,
     Color? color,
@@ -6536,7 +6536,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.thought({
+  IcgLineIcons.thought({
     Key? key,
     double? size,
     Color? color,
@@ -6550,7 +6550,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.thumbsDown({
+  IcgLineIcons.thumbsDown({
     Key? key,
     double? size,
     Color? color,
@@ -6564,7 +6564,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.textFormatRemove({
+  IcgLineIcons.textFormatRemove({
     Key? key,
     double? size,
     Color? color,
@@ -6578,7 +6578,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.thumbsUp({
+  IcgLineIcons.thumbsUp({
     Key? key,
     double? size,
     Color? color,
@@ -6592,7 +6592,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.thunderAlt({
+  IcgLineIcons.thunderAlt({
     Key? key,
     double? size,
     Color? color,
@@ -6606,7 +6606,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.thunder({
+  IcgLineIcons.thunder({
     Key? key,
     double? size,
     Color? color,
@@ -6620,7 +6620,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.ticketAlt({
+  IcgLineIcons.ticketAlt({
     Key? key,
     double? size,
     Color? color,
@@ -6634,7 +6634,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.ticket({
+  IcgLineIcons.ticket({
     Key? key,
     double? size,
     Color? color,
@@ -6648,7 +6648,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.tiktok({
+  IcgLineIcons.tiktok({
     Key? key,
     double? size,
     Color? color,
@@ -6662,7 +6662,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.timer({
+  IcgLineIcons.timer({
     Key? key,
     double? size,
     Color? color,
@@ -6676,7 +6676,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.tounge({
+  IcgLineIcons.tounge({
     Key? key,
     double? size,
     Color? color,
@@ -6690,7 +6690,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.trainAlt({
+  IcgLineIcons.trainAlt({
     Key? key,
     double? size,
     Color? color,
@@ -6704,7 +6704,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.train({
+  IcgLineIcons.train({
     Key? key,
     double? size,
     Color? color,
@@ -6718,7 +6718,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.trashCan({
+  IcgLineIcons.trashCan({
     Key? key,
     double? size,
     Color? color,
@@ -6732,7 +6732,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.travel({
+  IcgLineIcons.travel({
     Key? key,
     double? size,
     Color? color,
@@ -6746,7 +6746,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.tree({
+  IcgLineIcons.tree({
     Key? key,
     double? size,
     Color? color,
@@ -6760,7 +6760,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.trees({
+  IcgLineIcons.trees({
     Key? key,
     double? size,
     Color? color,
@@ -6774,7 +6774,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.trello({
+  IcgLineIcons.trello({
     Key? key,
     double? size,
     Color? color,
@@ -6788,7 +6788,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.trowel({
+  IcgLineIcons.trowel({
     Key? key,
     double? size,
     Color? color,
@@ -6802,7 +6802,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.tshirt({
+  IcgLineIcons.tshirt({
     Key? key,
     double? size,
     Color? color,
@@ -6816,7 +6816,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.tumblr({
+  IcgLineIcons.tumblr({
     Key? key,
     double? size,
     Color? color,
@@ -6830,7 +6830,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.twitch({
+  IcgLineIcons.twitch({
     Key? key,
     double? size,
     Color? color,
@@ -6844,7 +6844,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.twitterFilled({
+  IcgLineIcons.twitterFilled({
     Key? key,
     double? size,
     Color? color,
@@ -6858,7 +6858,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.twitterOriginal({
+  IcgLineIcons.twitterOriginal({
     Key? key,
     double? size,
     Color? color,
@@ -6872,7 +6872,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.twitter({
+  IcgLineIcons.twitter({
     Key? key,
     double? size,
     Color? color,
@@ -6886,7 +6886,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.ubuntu({
+  IcgLineIcons.ubuntu({
     Key? key,
     double? size,
     Color? color,
@@ -6900,7 +6900,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.underline({
+  IcgLineIcons.underline({
     Key? key,
     double? size,
     Color? color,
@@ -6914,7 +6914,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.unlink({
+  IcgLineIcons.unlink({
     Key? key,
     double? size,
     Color? color,
@@ -6928,7 +6928,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.unlock({
+  IcgLineIcons.unlock({
     Key? key,
     double? size,
     Color? color,
@@ -6942,7 +6942,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.unsplash({
+  IcgLineIcons.unsplash({
     Key? key,
     double? size,
     Color? color,
@@ -6956,7 +6956,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.upload({
+  IcgLineIcons.upload({
     Key? key,
     double? size,
     Color? color,
@@ -6970,7 +6970,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.user({
+  IcgLineIcons.user({
     Key? key,
     double? size,
     Color? color,
@@ -6984,7 +6984,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.ux({
+  IcgLineIcons.ux({
     Key? key,
     double? size,
     Color? color,
@@ -6998,7 +6998,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.vector({
+  IcgLineIcons.vector({
     Key? key,
     double? size,
     Color? color,
@@ -7012,7 +7012,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.video({
+  IcgLineIcons.video({
     Key? key,
     double? size,
     Color? color,
@@ -7026,7 +7026,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.vimeo({
+  IcgLineIcons.vimeo({
     Key? key,
     double? size,
     Color? color,
@@ -7040,7 +7040,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.users({
+  IcgLineIcons.users({
     Key? key,
     double? size,
     Color? color,
@@ -7054,7 +7054,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.visa({
+  IcgLineIcons.visa({
     Key? key,
     double? size,
     Color? color,
@@ -7068,7 +7068,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.vk({
+  IcgLineIcons.vk({
     Key? key,
     double? size,
     Color? color,
@@ -7082,7 +7082,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.volumeHigh({
+  IcgLineIcons.volumeHigh({
     Key? key,
     double? size,
     Color? color,
@@ -7096,7 +7096,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.volumeLow({
+  IcgLineIcons.volumeLow({
     Key? key,
     double? size,
     Color? color,
@@ -7110,7 +7110,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.volumeMedium({
+  IcgLineIcons.volumeMedium({
     Key? key,
     double? size,
     Color? color,
@@ -7124,7 +7124,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.volumeMute({
+  IcgLineIcons.volumeMute({
     Key? key,
     double? size,
     Color? color,
@@ -7138,7 +7138,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.volume({
+  IcgLineIcons.volume({
     Key? key,
     double? size,
     Color? color,
@@ -7152,7 +7152,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.wallet({
+  IcgLineIcons.wallet({
     Key? key,
     double? size,
     Color? color,
@@ -7166,7 +7166,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.warning({
+  IcgLineIcons.warning({
     Key? key,
     double? size,
     Color? color,
@@ -7180,7 +7180,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.websiteAlt({
+  IcgLineIcons.websiteAlt({
     Key? key,
     double? size,
     Color? color,
@@ -7194,7 +7194,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.website({
+  IcgLineIcons.website({
     Key? key,
     double? size,
     Color? color,
@@ -7208,7 +7208,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.wechat({
+  IcgLineIcons.wechat({
     Key? key,
     double? size,
     Color? color,
@@ -7222,7 +7222,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.weight({
+  IcgLineIcons.weight({
     Key? key,
     double? size,
     Color? color,
@@ -7236,7 +7236,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.whatsapp({
+  IcgLineIcons.whatsapp({
     Key? key,
     double? size,
     Color? color,
@@ -7250,7 +7250,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.wheelbarrow({
+  IcgLineIcons.wheelbarrow({
     Key? key,
     double? size,
     Color? color,
@@ -7264,7 +7264,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.wheelchair({
+  IcgLineIcons.wheelchair({
     Key? key,
     double? size,
     Color? color,
@@ -7278,7 +7278,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.windows({
+  IcgLineIcons.windows({
     Key? key,
     double? size,
     Color? color,
@@ -7292,7 +7292,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.wordpressFilled({
+  IcgLineIcons.wordpressFilled({
     Key? key,
     double? size,
     Color? color,
@@ -7306,7 +7306,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.wordpress({
+  IcgLineIcons.wordpress({
     Key? key,
     double? size,
     Color? color,
@@ -7320,7 +7320,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.worldAlt({
+  IcgLineIcons.worldAlt({
     Key? key,
     double? size,
     Color? color,
@@ -7334,7 +7334,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.write({
+  IcgLineIcons.write({
     Key? key,
     double? size,
     Color? color,
@@ -7348,7 +7348,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.world({
+  IcgLineIcons.world({
     Key? key,
     double? size,
     Color? color,
@@ -7362,7 +7362,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.xbox({
+  IcgLineIcons.xbox({
     Key? key,
     double? size,
     Color? color,
@@ -7376,7 +7376,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.yahoo({
+  IcgLineIcons.yahoo({
     Key? key,
     double? size,
     Color? color,
@@ -7390,7 +7390,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.ycombinator({
+  IcgLineIcons.ycombinator({
     Key? key,
     double? size,
     Color? color,
@@ -7404,7 +7404,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.yen({
+  IcgLineIcons.yen({
     Key? key,
     double? size,
     Color? color,
@@ -7418,7 +7418,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.zip({
+  IcgLineIcons.zip({
     Key? key,
     double? size,
     Color? color,
@@ -7432,7 +7432,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.zoomIn({
+  IcgLineIcons.zoomIn({
     Key? key,
     double? size,
     Color? color,
@@ -7446,7 +7446,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.youtube({
+  IcgLineIcons.youtube({
     Key? key,
     double? size,
     Color? color,
@@ -7460,7 +7460,7 @@ class IconsLineIcons extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsLineIcons.zoomOut({
+  IcgLineIcons.zoomOut({
     Key? key,
     double? size,
     Color? color,

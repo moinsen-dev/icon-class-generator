@@ -7,10 +7,10 @@
 import 'package:flutter/material.dart';
 import 'package:icon_class_generator/icons/icon_8.icg.dart';
 
-class IconsIcon8 extends Icon {
+class IcgIcon8 extends Icon {
   /// General constructor
   /// Not intended to be used widely, but who knows. It may come at hand sometime
-  IconsIcon8(
+  IcgIcon8(
     IconData icon, {
     Key? key,
     double? size,
@@ -26,7 +26,7 @@ class IconsIcon8 extends Icon {
           textDirection: textDirection,
         );
 
-  IconsIcon8.building2({
+  IcgIcon8.building2({
     Key? key,
     double? size,
     Color? color,
@@ -40,7 +40,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.map2({
+  IcgIcon8.map2({
     Key? key,
     double? size,
     Color? color,
@@ -54,7 +54,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.neutralFace2({
+  IcgIcon8.neutralFace2({
     Key? key,
     double? size,
     Color? color,
@@ -68,7 +68,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.eyeSlash1({
+  IcgIcon8.eyeSlash1({
     Key? key,
     double? size,
     Color? color,
@@ -82,7 +82,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretSquareUp2({
+  IcgIcon8.caretSquareUp2({
     Key? key,
     double? size,
     Color? color,
@@ -96,7 +96,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.copy2({
+  IcgIcon8.copy2({
     Key? key,
     double? size,
     Color? color,
@@ -110,7 +110,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dotCircle2({
+  IcgIcon8.dotCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -124,7 +124,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningFaceWithBigEyes4({
+  IcgIcon8.grinningFaceWithBigEyes4({
     Key? key,
     double? size,
     Color? color,
@@ -138,7 +138,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.save2({
+  IcgIcon8.save2({
     Key? key,
     double? size,
     Color? color,
@@ -152,7 +152,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.faceWithTearsOfJoy2({
+  IcgIcon8.faceWithTearsOfJoy2({
     Key? key,
     double? size,
     Color? color,
@@ -166,7 +166,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.starHalf2({
+  IcgIcon8.starHalf2({
     Key? key,
     double? size,
     Color? color,
@@ -180,7 +180,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.smilingFace2({
+  IcgIcon8.smilingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -194,7 +194,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningFaceWithSmilingEyes4({
+  IcgIcon8.grinningFaceWithSmilingEyes4({
     Key? key,
     double? size,
     Color? color,
@@ -208,7 +208,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.audioFile2({
+  IcgIcon8.audioFile2({
     Key? key,
     double? size,
     Color? color,
@@ -222,7 +222,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.windowMaximize2({
+  IcgIcon8.windowMaximize2({
     Key? key,
     double? size,
     Color? color,
@@ -236,7 +236,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.loudlyCryingFace2({
+  IcgIcon8.loudlyCryingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -250,7 +250,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stickyNote2({
+  IcgIcon8.stickyNote2({
     Key? key,
     double? size,
     Color? color,
@@ -264,7 +264,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angryFace2({
+  IcgIcon8.angryFace2({
     Key? key,
     double? size,
     Color? color,
@@ -278,7 +278,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.windowRestore2({
+  IcgIcon8.windowRestore2({
     Key? key,
     double? size,
     Color? color,
@@ -292,7 +292,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.star1({
+  IcgIcon8.star1({
     Key? key,
     double? size,
     Color? color,
@@ -306,7 +306,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.addressCard2({
+  IcgIcon8.addressCard2({
     Key? key,
     double? size,
     Color? color,
@@ -320,7 +320,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.comment2({
+  IcgIcon8.comment2({
     Key? key,
     double? size,
     Color? color,
@@ -334,7 +334,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.objectUngroup2({
+  IcgIcon8.objectUngroup2({
     Key? key,
     double? size,
     Color? color,
@@ -348,7 +348,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.winkingFace4({
+  IcgIcon8.winkingFace4({
     Key? key,
     double? size,
     Color? color,
@@ -362,7 +362,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.windowClose2({
+  IcgIcon8.windowClose2({
     Key? key,
     double? size,
     Color? color,
@@ -376,7 +376,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.videoFile2({
+  IcgIcon8.videoFile2({
     Key? key,
     double? size,
     Color? color,
@@ -390,7 +390,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hushedFace4({
+  IcgIcon8.hushedFace4({
     Key? key,
     double? size,
     Color? color,
@@ -404,7 +404,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.envelope2({
+  IcgIcon8.envelope2({
     Key? key,
     double? size,
     Color? color,
@@ -418,7 +418,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.faceWithTongue2({
+  IcgIcon8.faceWithTongue2({
     Key? key,
     double? size,
     Color? color,
@@ -432,7 +432,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretSquareDown2({
+  IcgIcon8.caretSquareDown2({
     Key? key,
     double? size,
     Color? color,
@@ -446,7 +446,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pauseCircle2({
+  IcgIcon8.pauseCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -460,7 +460,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.folderOpen2({
+  IcgIcon8.folderOpen2({
     Key? key,
     double? size,
     Color? color,
@@ -474,7 +474,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.folder2({
+  IcgIcon8.folder2({
     Key? key,
     double? size,
     Color? color,
@@ -488,7 +488,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.flag2({
+  IcgIcon8.flag2({
     Key? key,
     double? size,
     Color? color,
@@ -502,7 +502,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handPointingRight2({
+  IcgIcon8.handPointingRight2({
     Key? key,
     double? size,
     Color? color,
@@ -516,7 +516,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.minusSquare2({
+  IcgIcon8.minusSquare2({
     Key? key,
     double? size,
     Color? color,
@@ -530,7 +530,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateArrowCircleDown2({
+  IcgIcon8.alternateArrowCircleDown2({
     Key? key,
     double? size,
     Color? color,
@@ -544,7 +544,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.excelFile2({
+  IcgIcon8.excelFile2({
     Key? key,
     double? size,
     Color? color,
@@ -558,7 +558,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretSquareLeft2({
+  IcgIcon8.caretSquareLeft2({
     Key? key,
     double? size,
     Color? color,
@@ -572,7 +572,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pointerXhandX2({
+  IcgIcon8.pointerXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -586,7 +586,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningFaceWithSmilingEyes3({
+  IcgIcon8.grinningFaceWithSmilingEyes3({
     Key? key,
     double? size,
     Color? color,
@@ -600,7 +600,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.snowflake2({
+  IcgIcon8.snowflake2({
     Key? key,
     double? size,
     Color? color,
@@ -614,7 +614,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.starStruck2({
+  IcgIcon8.starStruck2({
     Key? key,
     double? size,
     Color? color,
@@ -628,7 +628,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stopCircle2({
+  IcgIcon8.stopCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -642,7 +642,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.comments2({
+  IcgIcon8.comments2({
     Key? key,
     double? size,
     Color? color,
@@ -656,7 +656,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.closedCaptioning2({
+  IcgIcon8.closedCaptioning2({
     Key? key,
     double? size,
     Color? color,
@@ -670,7 +670,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thumbsDown2({
+  IcgIcon8.thumbsDown2({
     Key? key,
     double? size,
     Color? color,
@@ -684,7 +684,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.winkingFace3({
+  IcgIcon8.winkingFace3({
     Key? key,
     double? size,
     Color? color,
@@ -698,7 +698,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.images2({
+  IcgIcon8.images2({
     Key? key,
     double? size,
     Color? color,
@@ -712,7 +712,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.compass2({
+  IcgIcon8.compass2({
     Key? key,
     double? size,
     Color? color,
@@ -726,7 +726,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.codeFile2({
+  IcgIcon8.codeFile2({
     Key? key,
     double? size,
     Color? color,
@@ -740,7 +740,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.squintingFaceWithTongue2({
+  IcgIcon8.squintingFaceWithTongue2({
     Key? key,
     double? size,
     Color? color,
@@ -754,7 +754,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.clipboard2({
+  IcgIcon8.clipboard2({
     Key? key,
     double? size,
     Color? color,
@@ -768,7 +768,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.newspaper2({
+  IcgIcon8.newspaper2({
     Key? key,
     double? size,
     Color? color,
@@ -782,7 +782,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handPointingLeft2({
+  IcgIcon8.handPointingLeft2({
     Key? key,
     double? size,
     Color? color,
@@ -796,7 +796,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.objectGroup2({
+  IcgIcon8.objectGroup2({
     Key? key,
     double? size,
     Color? color,
@@ -810,7 +810,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.image2({
+  IcgIcon8.image2({
     Key? key,
     double? size,
     Color? color,
@@ -824,7 +824,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.keyboard2({
+  IcgIcon8.keyboard2({
     Key? key,
     double? size,
     Color? color,
@@ -838,7 +838,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningSquintingFace4({
+  IcgIcon8.grinningSquintingFace4({
     Key? key,
     double? size,
     Color? color,
@@ -852,7 +852,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handPointingDown2({
+  IcgIcon8.handPointingDown2({
     Key? key,
     double? size,
     Color? color,
@@ -866,7 +866,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gem2({
+  IcgIcon8.gem2({
     Key? key,
     double? size,
     Color? color,
@@ -880,7 +880,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.kissingFaceWithSmilingEyes2({
+  IcgIcon8.kissingFaceWithSmilingEyes2({
     Key? key,
     double? size,
     Color? color,
@@ -894,7 +894,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.addressBook2({
+  IcgIcon8.addressBook2({
     Key? key,
     double? size,
     Color? color,
@@ -908,7 +908,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.faceWithoutMouth2({
+  IcgIcon8.faceWithoutMouth2({
     Key? key,
     double? size,
     Color? color,
@@ -922,7 +922,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.paperPlane2({
+  IcgIcon8.paperPlane2({
     Key? key,
     double? size,
     Color? color,
@@ -936,7 +936,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateArrowCircleUp2({
+  IcgIcon8.alternateArrowCircleUp2({
     Key? key,
     double? size,
     Color? color,
@@ -950,7 +950,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.playCircle2({
+  IcgIcon8.playCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -964,7 +964,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.imageFile2({
+  IcgIcon8.imageFile2({
     Key? key,
     double? size,
     Color? color,
@@ -978,7 +978,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dizzyFace2({
+  IcgIcon8.dizzyFace2({
     Key? key,
     double? size,
     Color? color,
@@ -992,7 +992,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.laughingWinkingFace2({
+  IcgIcon8.laughingWinkingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1006,7 +1006,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateMoneyBill2({
+  IcgIcon8.alternateMoneyBill2({
     Key? key,
     double? size,
     Color? color,
@@ -1020,7 +1020,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendarTimes2({
+  IcgIcon8.calendarTimes2({
     Key? key,
     double? size,
     Color? color,
@@ -1034,7 +1034,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rollingOnTheFloorLaughing2({
+  IcgIcon8.rollingOnTheFloorLaughing2({
     Key? key,
     double? size,
     Color? color,
@@ -1048,7 +1048,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.timesCircle2({
+  IcgIcon8.timesCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -1062,7 +1062,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendarPlus2({
+  IcgIcon8.calendarPlus2({
     Key? key,
     double? size,
     Color? color,
@@ -1076,7 +1076,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cryingFace2({
+  IcgIcon8.cryingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1090,7 +1090,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.powerpointFile2({
+  IcgIcon8.powerpointFile2({
     Key? key,
     double? size,
     Color? color,
@@ -1104,7 +1104,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hdd2({
+  IcgIcon8.hdd2({
     Key? key,
     double? size,
     Color? color,
@@ -1118,7 +1118,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hourglass2({
+  IcgIcon8.hourglass2({
     Key? key,
     double? size,
     Color? color,
@@ -1132,7 +1132,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creditCard2({
+  IcgIcon8.creditCard2({
     Key? key,
     double? size,
     Color? color,
@@ -1146,7 +1146,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bellSlash2({
+  IcgIcon8.bellSlash2({
     Key? key,
     double? size,
     Color? color,
@@ -1160,7 +1160,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lemon2({
+  IcgIcon8.lemon2({
     Key? key,
     double? size,
     Color? color,
@@ -1174,7 +1174,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateGrinningFace2({
+  IcgIcon8.alternateGrinningFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1188,7 +1188,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateArrowCircleRight2({
+  IcgIcon8.alternateArrowCircleRight2({
     Key? key,
     double? size,
     Color? color,
@@ -1202,7 +1202,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.archiveFile2({
+  IcgIcon8.archiveFile2({
     Key? key,
     double? size,
     Color? color,
@@ -1216,7 +1216,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lizardXhandX2({
+  IcgIcon8.lizardXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -1230,7 +1230,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningSquintingFace3({
+  IcgIcon8.grinningSquintingFace3({
     Key? key,
     double? size,
     Color? color,
@@ -1244,7 +1244,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningFaceWithBigEyes3({
+  IcgIcon8.grinningFaceWithBigEyes3({
     Key? key,
     double? size,
     Color? color,
@@ -1258,7 +1258,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thumbsUp2({
+  IcgIcon8.thumbsUp2({
     Key? key,
     double? size,
     Color? color,
@@ -1272,7 +1272,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hospital2({
+  IcgIcon8.hospital2({
     Key? key,
     double? size,
     Color? color,
@@ -1286,7 +1286,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.kissingFace2({
+  IcgIcon8.kissingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1300,7 +1300,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.faceBlowingAKiss2({
+  IcgIcon8.faceBlowingAKiss2({
     Key? key,
     double? size,
     Color? color,
@@ -1314,7 +1314,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.barChart1({
+  IcgIcon8.barChart1({
     Key? key,
     double? size,
     Color? color,
@@ -1328,7 +1328,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.heart1({
+  IcgIcon8.heart1({
     Key? key,
     double? size,
     Color? color,
@@ -1342,7 +1342,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateComment2({
+  IcgIcon8.alternateComment2({
     Key? key,
     double? size,
     Color? color,
@@ -1356,7 +1356,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.plusSquare2({
+  IcgIcon8.plusSquare2({
     Key? key,
     double? size,
     Color? color,
@@ -1370,7 +1370,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateList2({
+  IcgIcon8.alternateList2({
     Key? key,
     double? size,
     Color? color,
@@ -1384,7 +1384,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.smilingFaceWithHeartEyes2({
+  IcgIcon8.smilingFaceWithHeartEyes2({
     Key? key,
     double? size,
     Color? color,
@@ -1398,7 +1398,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateArrowCircleLeft2({
+  IcgIcon8.alternateArrowCircleLeft2({
     Key? key,
     double? size,
     Color? color,
@@ -1412,7 +1412,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hushedFace3({
+  IcgIcon8.hushedFace3({
     Key? key,
     double? size,
     Color? color,
@@ -1426,7 +1426,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tiredFace2({
+  IcgIcon8.tiredFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1440,7 +1440,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.peaceXhandX2({
+  IcgIcon8.peaceXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -1454,7 +1454,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendarMinus2({
+  IcgIcon8.calendarMinus2({
     Key? key,
     double? size,
     Color? color,
@@ -1468,7 +1468,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lightbulb2({
+  IcgIcon8.lightbulb2({
     Key? key,
     double? size,
     Color? color,
@@ -1482,7 +1482,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.checkSquare1({
+  IcgIcon8.checkSquare1({
     Key? key,
     double? size,
     Color? color,
@@ -1496,7 +1496,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.user2({
+  IcgIcon8.user2({
     Key? key,
     double? size,
     Color? color,
@@ -1510,7 +1510,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.spockXhandX2({
+  IcgIcon8.spockXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -1524,7 +1524,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.identificationCard2({
+  IcgIcon8.identificationCard2({
     Key? key,
     double? size,
     Color? color,
@@ -1538,7 +1538,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendarCheck2({
+  IcgIcon8.calendarCheck2({
     Key? key,
     double? size,
     Color? color,
@@ -1552,7 +1552,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.moon2({
+  IcgIcon8.moon2({
     Key? key,
     double? size,
     Color? color,
@@ -1566,7 +1566,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendar4({
+  IcgIcon8.calendar4({
     Key? key,
     double? size,
     Color? color,
@@ -1580,7 +1580,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.file2({
+  IcgIcon8.file2({
     Key? key,
     double? size,
     Color? color,
@@ -1594,7 +1594,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.clock2({
+  IcgIcon8.clock2({
     Key? key,
     double? size,
     Color? color,
@@ -1608,7 +1608,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sun2({
+  IcgIcon8.sun2({
     Key? key,
     double? size,
     Color? color,
@@ -1622,7 +1622,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handPointingUp2({
+  IcgIcon8.handPointingUp2({
     Key? key,
     double? size,
     Color? color,
@@ -1636,7 +1636,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userCircle2({
+  IcgIcon8.userCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -1650,7 +1650,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.envelopeOpen2({
+  IcgIcon8.envelopeOpen2({
     Key? key,
     double? size,
     Color? color,
@@ -1664,7 +1664,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.edit2({
+  IcgIcon8.edit2({
     Key? key,
     double? size,
     Color? color,
@@ -1678,7 +1678,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.circle1({
+  IcgIcon8.circle1({
     Key? key,
     double? size,
     Color? color,
@@ -1692,7 +1692,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wordFile2({
+  IcgIcon8.wordFile2({
     Key? key,
     double? size,
     Color? color,
@@ -1706,7 +1706,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateFile2({
+  IcgIcon8.alternateFile2({
     Key? key,
     double? size,
     Color? color,
@@ -1720,7 +1720,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.flushedFace2({
+  IcgIcon8.flushedFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1734,7 +1734,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lifeRing2({
+  IcgIcon8.lifeRing2({
     Key? key,
     double? size,
     Color? color,
@@ -1748,7 +1748,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretSquareRight2({
+  IcgIcon8.caretSquareRight2({
     Key? key,
     double? size,
     Color? color,
@@ -1762,7 +1762,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.beamingFaceWithSmilingEyes2({
+  IcgIcon8.beamingFaceWithSmilingEyes2({
     Key? key,
     double? size,
     Color? color,
@@ -1776,7 +1776,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.square2({
+  IcgIcon8.square2({
     Key? key,
     double? size,
     Color? color,
@@ -1790,7 +1790,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.questionCircle2({
+  IcgIcon8.questionCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -1804,7 +1804,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.eye2({
+  IcgIcon8.eye2({
     Key? key,
     double? size,
     Color? color,
@@ -1818,7 +1818,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pdfFile2({
+  IcgIcon8.pdfFile2({
     Key? key,
     double? size,
     Color? color,
@@ -1832,7 +1832,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.frowningFace2({
+  IcgIcon8.frowningFace2({
     Key? key,
     double? size,
     Color? color,
@@ -1846,7 +1846,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.windowMinimize2({
+  IcgIcon8.windowMinimize2({
     Key? key,
     double? size,
     Color? color,
@@ -1860,7 +1860,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.registeredTrademark2({
+  IcgIcon8.registeredTrademark2({
     Key? key,
     double? size,
     Color? color,
@@ -1874,7 +1874,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.commentDots2({
+  IcgIcon8.commentDots2({
     Key? key,
     double? size,
     Color? color,
@@ -1888,7 +1888,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.winkingFaceWithTongue2({
+  IcgIcon8.winkingFaceWithTongue2({
     Key? key,
     double? size,
     Color? color,
@@ -1902,7 +1902,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.futbol2({
+  IcgIcon8.futbol2({
     Key? key,
     double? size,
     Color? color,
@@ -1916,7 +1916,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.clone1({
+  IcgIcon8.clone1({
     Key? key,
     double? size,
     Color? color,
@@ -1930,7 +1930,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shareSquare2({
+  IcgIcon8.shareSquare2({
     Key? key,
     double? size,
     Color? color,
@@ -1944,7 +1944,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.copyright2({
+  IcgIcon8.copyright2({
     Key? key,
     double? size,
     Color? color,
@@ -1958,7 +1958,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bell2({
+  IcgIcon8.bell2({
     Key? key,
     double? size,
     Color? color,
@@ -1972,7 +1972,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.paperXhandX2({
+  IcgIcon8.paperXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -1986,7 +1986,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.scissorsXhandX2({
+  IcgIcon8.scissorsXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -2000,7 +2000,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bookmark2({
+  IcgIcon8.bookmark2({
     Key? key,
     double? size,
     Color? color,
@@ -2014,7 +2014,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grimacingFace2({
+  IcgIcon8.grimacingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -2028,7 +2028,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.checkCircle2({
+  IcgIcon8.checkCircle2({
     Key? key,
     double? size,
     Color? color,
@@ -2042,7 +2042,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendar3({
+  IcgIcon8.calendar3({
     Key? key,
     double? size,
     Color? color,
@@ -2056,7 +2056,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handshake2({
+  IcgIcon8.handshake2({
     Key? key,
     double? size,
     Color? color,
@@ -2070,7 +2070,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningFaceWithSweat2({
+  IcgIcon8.grinningFaceWithSweat2({
     Key? key,
     double? size,
     Color? color,
@@ -2084,7 +2084,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.identificationBadge2({
+  IcgIcon8.identificationBadge2({
     Key? key,
     double? size,
     Color? color,
@@ -2098,7 +2098,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rockXhandX2({
+  IcgIcon8.rockXhandX2({
     Key? key,
     double? size,
     Color? color,
@@ -2112,7 +2112,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.faceWithRollingEyes2({
+  IcgIcon8.faceWithRollingEyes2({
     Key? key,
     double? size,
     Color? color,
@@ -2126,7 +2126,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateTrash2({
+  IcgIcon8.alternateTrash2({
     Key? key,
     double? size,
     Color? color,
@@ -2140,7 +2140,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.martiniGlass({
+  IcgIcon8.martiniGlass({
     Key? key,
     double? size,
     Color? color,
@@ -2154,7 +2154,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.music({
+  IcgIcon8.music({
     Key? key,
     double? size,
     Color? color,
@@ -2168,7 +2168,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.search({
+  IcgIcon8.search({
     Key? key,
     double? size,
     Color? color,
@@ -2182,7 +2182,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.heart({
+  IcgIcon8.heart({
     Key? key,
     double? size,
     Color? color,
@@ -2196,7 +2196,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.star({
+  IcgIcon8.star({
     Key? key,
     double? size,
     Color? color,
@@ -2210,7 +2210,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.user1({
+  IcgIcon8.user1({
     Key? key,
     double? size,
     Color? color,
@@ -2224,7 +2224,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.film({
+  IcgIcon8.film({
     Key? key,
     double? size,
     Color? color,
@@ -2238,7 +2238,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thLarge({
+  IcgIcon8.thLarge({
     Key? key,
     double? size,
     Color? color,
@@ -2252,7 +2252,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.th({
+  IcgIcon8.th({
     Key? key,
     double? size,
     Color? color,
@@ -2266,7 +2266,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thList({
+  IcgIcon8.thList({
     Key? key,
     double? size,
     Color? color,
@@ -2280,7 +2280,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.check({
+  IcgIcon8.check({
     Key? key,
     double? size,
     Color? color,
@@ -2294,7 +2294,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.times({
+  IcgIcon8.times({
     Key? key,
     double? size,
     Color? color,
@@ -2308,7 +2308,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.searchPlus({
+  IcgIcon8.searchPlus({
     Key? key,
     double? size,
     Color? color,
@@ -2322,7 +2322,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.searchMinus({
+  IcgIcon8.searchMinus({
     Key? key,
     double? size,
     Color? color,
@@ -2336,7 +2336,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.powerOff({
+  IcgIcon8.powerOff({
     Key? key,
     double? size,
     Color? color,
@@ -2350,7 +2350,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.signal({
+  IcgIcon8.signal({
     Key? key,
     double? size,
     Color? color,
@@ -2364,7 +2364,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cog({
+  IcgIcon8.cog({
     Key? key,
     double? size,
     Color? color,
@@ -2378,7 +2378,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.home({
+  IcgIcon8.home({
     Key? key,
     double? size,
     Color? color,
@@ -2392,7 +2392,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.clock1({
+  IcgIcon8.clock1({
     Key? key,
     double? size,
     Color? color,
@@ -2406,7 +2406,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.road({
+  IcgIcon8.road({
     Key? key,
     double? size,
     Color? color,
@@ -2420,7 +2420,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.download({
+  IcgIcon8.download({
     Key? key,
     double? size,
     Color? color,
@@ -2434,7 +2434,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.inbox({
+  IcgIcon8.inbox({
     Key? key,
     double? size,
     Color? color,
@@ -2448,7 +2448,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.redo({
+  IcgIcon8.redo({
     Key? key,
     double? size,
     Color? color,
@@ -2462,7 +2462,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sync1({
+  IcgIcon8.sync1({
     Key? key,
     double? size,
     Color? color,
@@ -2476,7 +2476,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateList1({
+  IcgIcon8.alternateList1({
     Key? key,
     double? size,
     Color? color,
@@ -2490,7 +2490,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lock({
+  IcgIcon8.lock({
     Key? key,
     double? size,
     Color? color,
@@ -2504,7 +2504,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.flag1({
+  IcgIcon8.flag1({
     Key? key,
     double? size,
     Color? color,
@@ -2518,7 +2518,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.headphones1({
+  IcgIcon8.headphones1({
     Key? key,
     double? size,
     Color? color,
@@ -2532,7 +2532,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.volumeOff1({
+  IcgIcon8.volumeOff1({
     Key? key,
     double? size,
     Color? color,
@@ -2546,7 +2546,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.volumeDown({
+  IcgIcon8.volumeDown({
     Key? key,
     double? size,
     Color? color,
@@ -2560,7 +2560,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.volumeUp({
+  IcgIcon8.volumeUp({
     Key? key,
     double? size,
     Color? color,
@@ -2574,7 +2574,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.qrcode({
+  IcgIcon8.qrcode({
     Key? key,
     double? size,
     Color? color,
@@ -2588,7 +2588,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.barcode({
+  IcgIcon8.barcode({
     Key? key,
     double? size,
     Color? color,
@@ -2602,7 +2602,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tag({
+  IcgIcon8.tag({
     Key? key,
     double? size,
     Color? color,
@@ -2616,7 +2616,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tags({
+  IcgIcon8.tags({
     Key? key,
     double? size,
     Color? color,
@@ -2630,7 +2630,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.book({
+  IcgIcon8.book({
     Key? key,
     double? size,
     Color? color,
@@ -2644,7 +2644,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bookmark1({
+  IcgIcon8.bookmark1({
     Key? key,
     double? size,
     Color? color,
@@ -2658,7 +2658,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.print({
+  IcgIcon8.print({
     Key? key,
     double? size,
     Color? color,
@@ -2672,7 +2672,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.camera({
+  IcgIcon8.camera({
     Key? key,
     double? size,
     Color? color,
@@ -2686,7 +2686,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.font({
+  IcgIcon8.font({
     Key? key,
     double? size,
     Color? color,
@@ -2700,7 +2700,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bold({
+  IcgIcon8.bold({
     Key? key,
     double? size,
     Color? color,
@@ -2714,7 +2714,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.italic({
+  IcgIcon8.italic({
     Key? key,
     double? size,
     Color? color,
@@ -2728,7 +2728,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.textHeight({
+  IcgIcon8.textHeight({
     Key? key,
     double? size,
     Color? color,
@@ -2742,7 +2742,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.textWidth({
+  IcgIcon8.textWidth({
     Key? key,
     double? size,
     Color? color,
@@ -2756,7 +2756,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alignLeft({
+  IcgIcon8.alignLeft({
     Key? key,
     double? size,
     Color? color,
@@ -2770,7 +2770,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alignCenter({
+  IcgIcon8.alignCenter({
     Key? key,
     double? size,
     Color? color,
@@ -2784,7 +2784,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alignRight({
+  IcgIcon8.alignRight({
     Key? key,
     double? size,
     Color? color,
@@ -2798,7 +2798,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alignJustify({
+  IcgIcon8.alignJustify({
     Key? key,
     double? size,
     Color? color,
@@ -2812,7 +2812,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.list1({
+  IcgIcon8.list1({
     Key? key,
     double? size,
     Color? color,
@@ -2826,7 +2826,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.outdent({
+  IcgIcon8.outdent({
     Key? key,
     double? size,
     Color? color,
@@ -2840,7 +2840,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.indent({
+  IcgIcon8.indent({
     Key? key,
     double? size,
     Color? color,
@@ -2854,7 +2854,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.video({
+  IcgIcon8.video({
     Key? key,
     double? size,
     Color? color,
@@ -2868,7 +2868,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.image1({
+  IcgIcon8.image1({
     Key? key,
     double? size,
     Color? color,
@@ -2882,7 +2882,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mapMarker1({
+  IcgIcon8.mapMarker1({
     Key? key,
     double? size,
     Color? color,
@@ -2896,7 +2896,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.adjust({
+  IcgIcon8.adjust({
     Key? key,
     double? size,
     Color? color,
@@ -2910,7 +2910,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tint({
+  IcgIcon8.tint({
     Key? key,
     double? size,
     Color? color,
@@ -2924,7 +2924,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.edit1({
+  IcgIcon8.edit1({
     Key? key,
     double? size,
     Color? color,
@@ -2938,7 +2938,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stepBackward({
+  IcgIcon8.stepBackward({
     Key? key,
     double? size,
     Color? color,
@@ -2952,7 +2952,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fastBackward1({
+  IcgIcon8.fastBackward1({
     Key? key,
     double? size,
     Color? color,
@@ -2966,7 +2966,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fastBackward({
+  IcgIcon8.fastBackward({
     Key? key,
     double? size,
     Color? color,
@@ -2980,7 +2980,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.play({
+  IcgIcon8.play({
     Key? key,
     double? size,
     Color? color,
@@ -2994,7 +2994,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pause({
+  IcgIcon8.pause({
     Key? key,
     double? size,
     Color? color,
@@ -3008,7 +3008,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stop1({
+  IcgIcon8.stop1({
     Key? key,
     double? size,
     Color? color,
@@ -3022,7 +3022,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.forward1({
+  IcgIcon8.forward1({
     Key? key,
     double? size,
     Color? color,
@@ -3036,7 +3036,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.forward({
+  IcgIcon8.forward({
     Key? key,
     double? size,
     Color? color,
@@ -3050,7 +3050,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stepForward({
+  IcgIcon8.stepForward({
     Key? key,
     double? size,
     Color? color,
@@ -3064,7 +3064,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.eject({
+  IcgIcon8.eject({
     Key? key,
     double? size,
     Color? color,
@@ -3078,7 +3078,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chevronLeft({
+  IcgIcon8.chevronLeft({
     Key? key,
     double? size,
     Color? color,
@@ -3092,7 +3092,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chevronRight({
+  IcgIcon8.chevronRight({
     Key? key,
     double? size,
     Color? color,
@@ -3106,7 +3106,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.plusCircle({
+  IcgIcon8.plusCircle({
     Key? key,
     double? size,
     Color? color,
@@ -3120,7 +3120,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.minusCircle({
+  IcgIcon8.minusCircle({
     Key? key,
     double? size,
     Color? color,
@@ -3134,7 +3134,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.timesCircle1({
+  IcgIcon8.timesCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -3148,7 +3148,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.checkCircle1({
+  IcgIcon8.checkCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -3162,7 +3162,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.questionCircle1({
+  IcgIcon8.questionCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -3176,7 +3176,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.infoCircle({
+  IcgIcon8.infoCircle({
     Key? key,
     double? size,
     Color? color,
@@ -3190,7 +3190,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.crosshairs({
+  IcgIcon8.crosshairs({
     Key? key,
     double? size,
     Color? color,
@@ -3204,7 +3204,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ban({
+  IcgIcon8.ban({
     Key? key,
     double? size,
     Color? color,
@@ -3218,7 +3218,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.arrowLeft({
+  IcgIcon8.arrowLeft({
     Key? key,
     double? size,
     Color? color,
@@ -3232,7 +3232,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.arrowRight({
+  IcgIcon8.arrowRight({
     Key? key,
     double? size,
     Color? color,
@@ -3246,7 +3246,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.arrowUp({
+  IcgIcon8.arrowUp({
     Key? key,
     double? size,
     Color? color,
@@ -3260,7 +3260,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.arrowDown({
+  IcgIcon8.arrowDown({
     Key? key,
     double? size,
     Color? color,
@@ -3274,7 +3274,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.share({
+  IcgIcon8.share({
     Key? key,
     double? size,
     Color? color,
@@ -3288,7 +3288,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.expand({
+  IcgIcon8.expand({
     Key? key,
     double? size,
     Color? color,
@@ -3302,7 +3302,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.compress({
+  IcgIcon8.compress({
     Key? key,
     double? size,
     Color? color,
@@ -3316,7 +3316,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.plus({
+  IcgIcon8.plus({
     Key? key,
     double? size,
     Color? color,
@@ -3330,7 +3330,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.minus({
+  IcgIcon8.minus({
     Key? key,
     double? size,
     Color? color,
@@ -3344,7 +3344,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.asterisk({
+  IcgIcon8.asterisk({
     Key? key,
     double? size,
     Color? color,
@@ -3358,7 +3358,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.exclamationCircle({
+  IcgIcon8.exclamationCircle({
     Key? key,
     double? size,
     Color? color,
@@ -3372,7 +3372,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gift({
+  IcgIcon8.gift({
     Key? key,
     double? size,
     Color? color,
@@ -3386,7 +3386,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.leaf({
+  IcgIcon8.leaf({
     Key? key,
     double? size,
     Color? color,
@@ -3400,7 +3400,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fire({
+  IcgIcon8.fire({
     Key? key,
     double? size,
     Color? color,
@@ -3414,7 +3414,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.eye1({
+  IcgIcon8.eye1({
     Key? key,
     double? size,
     Color? color,
@@ -3428,7 +3428,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.eyeSlash({
+  IcgIcon8.eyeSlash({
     Key? key,
     double? size,
     Color? color,
@@ -3442,7 +3442,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.exclamationTriangle({
+  IcgIcon8.exclamationTriangle({
     Key? key,
     double? size,
     Color? color,
@@ -3456,7 +3456,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.plane({
+  IcgIcon8.plane({
     Key? key,
     double? size,
     Color? color,
@@ -3470,7 +3470,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendar2({
+  IcgIcon8.calendar2({
     Key? key,
     double? size,
     Color? color,
@@ -3484,7 +3484,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.random({
+  IcgIcon8.random({
     Key? key,
     double? size,
     Color? color,
@@ -3498,7 +3498,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.comment1({
+  IcgIcon8.comment1({
     Key? key,
     double? size,
     Color? color,
@@ -3512,7 +3512,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.magnet({
+  IcgIcon8.magnet({
     Key? key,
     double? size,
     Color? color,
@@ -3526,7 +3526,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chevronUp({
+  IcgIcon8.chevronUp({
     Key? key,
     double? size,
     Color? color,
@@ -3540,7 +3540,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chevronDown({
+  IcgIcon8.chevronDown({
     Key? key,
     double? size,
     Color? color,
@@ -3554,7 +3554,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.retweet({
+  IcgIcon8.retweet({
     Key? key,
     double? size,
     Color? color,
@@ -3568,7 +3568,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shoppingCart({
+  IcgIcon8.shoppingCart({
     Key? key,
     double? size,
     Color? color,
@@ -3582,7 +3582,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.folder1({
+  IcgIcon8.folder1({
     Key? key,
     double? size,
     Color? color,
@@ -3596,7 +3596,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.folderOpen1({
+  IcgIcon8.folderOpen1({
     Key? key,
     double? size,
     Color? color,
@@ -3610,7 +3610,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.barChart({
+  IcgIcon8.barChart({
     Key? key,
     double? size,
     Color? color,
@@ -3624,7 +3624,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.twitterSquare({
+  IcgIcon8.twitterSquare({
     Key? key,
     double? size,
     Color? color,
@@ -3638,7 +3638,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.facebookSquare({
+  IcgIcon8.facebookSquare({
     Key? key,
     double? size,
     Color? color,
@@ -3652,7 +3652,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.retroCamera({
+  IcgIcon8.retroCamera({
     Key? key,
     double? size,
     Color? color,
@@ -3666,7 +3666,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.key({
+  IcgIcon8.key({
     Key? key,
     double? size,
     Color? color,
@@ -3680,7 +3680,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cogs({
+  IcgIcon8.cogs({
     Key? key,
     double? size,
     Color? color,
@@ -3694,7 +3694,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.comments1({
+  IcgIcon8.comments1({
     Key? key,
     double? size,
     Color? color,
@@ -3708,7 +3708,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.starHalf1({
+  IcgIcon8.starHalf1({
     Key? key,
     double? size,
     Color? color,
@@ -3722,7 +3722,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.linkedin({
+  IcgIcon8.linkedin({
     Key? key,
     double? size,
     Color? color,
@@ -3736,7 +3736,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thumbtack({
+  IcgIcon8.thumbtack({
     Key? key,
     double? size,
     Color? color,
@@ -3750,7 +3750,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.trophy({
+  IcgIcon8.trophy({
     Key? key,
     double? size,
     Color? color,
@@ -3764,7 +3764,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.githubSquare({
+  IcgIcon8.githubSquare({
     Key? key,
     double? size,
     Color? color,
@@ -3778,7 +3778,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.upload({
+  IcgIcon8.upload({
     Key? key,
     double? size,
     Color? color,
@@ -3792,7 +3792,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lemon1({
+  IcgIcon8.lemon1({
     Key? key,
     double? size,
     Color? color,
@@ -3806,7 +3806,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.phone({
+  IcgIcon8.phone({
     Key? key,
     double? size,
     Color? color,
@@ -3820,7 +3820,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.phoneSquare({
+  IcgIcon8.phoneSquare({
     Key? key,
     double? size,
     Color? color,
@@ -3834,7 +3834,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.twitter({
+  IcgIcon8.twitter({
     Key? key,
     double? size,
     Color? color,
@@ -3848,7 +3848,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.facebook({
+  IcgIcon8.facebook({
     Key? key,
     double? size,
     Color? color,
@@ -3862,7 +3862,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.github({
+  IcgIcon8.github({
     Key? key,
     double? size,
     Color? color,
@@ -3876,7 +3876,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.unlock1({
+  IcgIcon8.unlock1({
     Key? key,
     double? size,
     Color? color,
@@ -3890,7 +3890,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creditCard1({
+  IcgIcon8.creditCard1({
     Key? key,
     double? size,
     Color? color,
@@ -3904,7 +3904,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rss({
+  IcgIcon8.rss({
     Key? key,
     double? size,
     Color? color,
@@ -3918,7 +3918,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hdd1({
+  IcgIcon8.hdd1({
     Key? key,
     double? size,
     Color? color,
@@ -3932,7 +3932,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bullhorn({
+  IcgIcon8.bullhorn({
     Key? key,
     double? size,
     Color? color,
@@ -3946,7 +3946,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.certificate1({
+  IcgIcon8.certificate1({
     Key? key,
     double? size,
     Color? color,
@@ -3960,7 +3960,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handPointingRight1({
+  IcgIcon8.handPointingRight1({
     Key? key,
     double? size,
     Color? color,
@@ -3974,7 +3974,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handPointingLeft1({
+  IcgIcon8.handPointingLeft1({
     Key? key,
     double? size,
     Color? color,
@@ -3988,7 +3988,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handPointingUp1({
+  IcgIcon8.handPointingUp1({
     Key? key,
     double? size,
     Color? color,
@@ -4002,7 +4002,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handPointingDown1({
+  IcgIcon8.handPointingDown1({
     Key? key,
     double? size,
     Color? color,
@@ -4016,7 +4016,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.arrowCircleLeft({
+  IcgIcon8.arrowCircleLeft({
     Key? key,
     double? size,
     Color? color,
@@ -4030,7 +4030,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.arrowCircleRight({
+  IcgIcon8.arrowCircleRight({
     Key? key,
     double? size,
     Color? color,
@@ -4044,7 +4044,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.arrowCircleUp({
+  IcgIcon8.arrowCircleUp({
     Key? key,
     double? size,
     Color? color,
@@ -4058,7 +4058,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.arrowCircleDown({
+  IcgIcon8.arrowCircleDown({
     Key? key,
     double? size,
     Color? color,
@@ -4072,7 +4072,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.globe({
+  IcgIcon8.globe({
     Key? key,
     double? size,
     Color? color,
@@ -4086,7 +4086,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wrench({
+  IcgIcon8.wrench({
     Key? key,
     double? size,
     Color? color,
@@ -4100,7 +4100,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tasks({
+  IcgIcon8.tasks({
     Key? key,
     double? size,
     Color? color,
@@ -4114,7 +4114,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.filter({
+  IcgIcon8.filter({
     Key? key,
     double? size,
     Color? color,
@@ -4128,7 +4128,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.briefcase({
+  IcgIcon8.briefcase({
     Key? key,
     double? size,
     Color? color,
@@ -4142,7 +4142,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateArrows({
+  IcgIcon8.alternateArrows({
     Key? key,
     double? size,
     Color? color,
@@ -4156,7 +4156,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.users({
+  IcgIcon8.users({
     Key? key,
     double? size,
     Color? color,
@@ -4170,7 +4170,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.link({
+  IcgIcon8.link({
     Key? key,
     double? size,
     Color? color,
@@ -4184,7 +4184,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cloud({
+  IcgIcon8.cloud({
     Key? key,
     double? size,
     Color? color,
@@ -4198,7 +4198,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.flask({
+  IcgIcon8.flask({
     Key? key,
     double? size,
     Color? color,
@@ -4212,7 +4212,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cut({
+  IcgIcon8.cut({
     Key? key,
     double? size,
     Color? color,
@@ -4226,7 +4226,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.copy1({
+  IcgIcon8.copy1({
     Key? key,
     double? size,
     Color? color,
@@ -4240,7 +4240,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.paperclip({
+  IcgIcon8.paperclip({
     Key? key,
     double? size,
     Color? color,
@@ -4254,7 +4254,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.save1({
+  IcgIcon8.save1({
     Key? key,
     double? size,
     Color? color,
@@ -4268,7 +4268,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stop({
+  IcgIcon8.stop({
     Key? key,
     double? size,
     Color? color,
@@ -4282,7 +4282,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bars({
+  IcgIcon8.bars({
     Key? key,
     double? size,
     Color? color,
@@ -4296,7 +4296,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.list({
+  IcgIcon8.list({
     Key? key,
     double? size,
     Color? color,
@@ -4310,7 +4310,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.listOl({
+  IcgIcon8.listOl({
     Key? key,
     double? size,
     Color? color,
@@ -4324,7 +4324,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.strikethrough({
+  IcgIcon8.strikethrough({
     Key? key,
     double? size,
     Color? color,
@@ -4338,7 +4338,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.underline({
+  IcgIcon8.underline({
     Key? key,
     double? size,
     Color? color,
@@ -4352,7 +4352,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.table({
+  IcgIcon8.table({
     Key? key,
     double? size,
     Color? color,
@@ -4366,7 +4366,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.magic({
+  IcgIcon8.magic({
     Key? key,
     double? size,
     Color? color,
@@ -4380,7 +4380,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.truck1({
+  IcgIcon8.truck1({
     Key? key,
     double? size,
     Color? color,
@@ -4394,7 +4394,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pinterest({
+  IcgIcon8.pinterest({
     Key? key,
     double? size,
     Color? color,
@@ -4408,7 +4408,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pinterestSquare({
+  IcgIcon8.pinterestSquare({
     Key? key,
     double? size,
     Color? color,
@@ -4422,7 +4422,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.googlePlusSquare({
+  IcgIcon8.googlePlusSquare({
     Key? key,
     double? size,
     Color? color,
@@ -4436,7 +4436,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.googlePlusG1({
+  IcgIcon8.googlePlusG1({
     Key? key,
     double? size,
     Color? color,
@@ -4450,7 +4450,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.moneyBill({
+  IcgIcon8.moneyBill({
     Key? key,
     double? size,
     Color? color,
@@ -4464,7 +4464,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretDown1({
+  IcgIcon8.caretDown1({
     Key? key,
     double? size,
     Color? color,
@@ -4478,7 +4478,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretUp1({
+  IcgIcon8.caretUp1({
     Key? key,
     double? size,
     Color? color,
@@ -4492,7 +4492,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretLeft({
+  IcgIcon8.caretLeft({
     Key? key,
     double? size,
     Color? color,
@@ -4506,7 +4506,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretRight({
+  IcgIcon8.caretRight({
     Key? key,
     double? size,
     Color? color,
@@ -4520,7 +4520,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.columns({
+  IcgIcon8.columns({
     Key? key,
     double? size,
     Color? color,
@@ -4534,7 +4534,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sort({
+  IcgIcon8.sort({
     Key? key,
     double? size,
     Color? color,
@@ -4548,7 +4548,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretDown({
+  IcgIcon8.caretDown({
     Key? key,
     double? size,
     Color? color,
@@ -4562,7 +4562,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretUp({
+  IcgIcon8.caretUp({
     Key? key,
     double? size,
     Color? color,
@@ -4576,7 +4576,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.envelope1({
+  IcgIcon8.envelope1({
     Key? key,
     double? size,
     Color? color,
@@ -4590,7 +4590,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.linkedinIn({
+  IcgIcon8.linkedinIn({
     Key? key,
     double? size,
     Color? color,
@@ -4604,7 +4604,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.undo({
+  IcgIcon8.undo({
     Key? key,
     double? size,
     Color? color,
@@ -4618,7 +4618,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gavel({
+  IcgIcon8.gavel({
     Key? key,
     double? size,
     Color? color,
@@ -4632,7 +4632,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lightningBolt({
+  IcgIcon8.lightningBolt({
     Key? key,
     double? size,
     Color? color,
@@ -4646,7 +4646,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sitemap({
+  IcgIcon8.sitemap({
     Key? key,
     double? size,
     Color? color,
@@ -4660,7 +4660,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.umbrella({
+  IcgIcon8.umbrella({
     Key? key,
     double? size,
     Color? color,
@@ -4674,7 +4674,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.clipboard1({
+  IcgIcon8.clipboard1({
     Key? key,
     double? size,
     Color? color,
@@ -4688,7 +4688,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lightbulb1({
+  IcgIcon8.lightbulb1({
     Key? key,
     double? size,
     Color? color,
@@ -4702,7 +4702,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.doctor({
+  IcgIcon8.doctor({
     Key? key,
     double? size,
     Color? color,
@@ -4716,7 +4716,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stethoscope({
+  IcgIcon8.stethoscope({
     Key? key,
     double? size,
     Color? color,
@@ -4730,7 +4730,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.suitcase({
+  IcgIcon8.suitcase({
     Key? key,
     double? size,
     Color? color,
@@ -4744,7 +4744,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bell1({
+  IcgIcon8.bell1({
     Key? key,
     double? size,
     Color? color,
@@ -4758,7 +4758,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.coffee({
+  IcgIcon8.coffee({
     Key? key,
     double? size,
     Color? color,
@@ -4772,7 +4772,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hospital1({
+  IcgIcon8.hospital1({
     Key? key,
     double? size,
     Color? color,
@@ -4786,7 +4786,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ambulance({
+  IcgIcon8.ambulance({
     Key? key,
     double? size,
     Color? color,
@@ -4800,7 +4800,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.medkit2({
+  IcgIcon8.medkit2({
     Key? key,
     double? size,
     Color? color,
@@ -4814,7 +4814,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fighterJet({
+  IcgIcon8.fighterJet({
     Key? key,
     double? size,
     Color? color,
@@ -4828,7 +4828,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.beer({
+  IcgIcon8.beer({
     Key? key,
     double? size,
     Color? color,
@@ -4842,7 +4842,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hSquare1({
+  IcgIcon8.hSquare1({
     Key? key,
     double? size,
     Color? color,
@@ -4856,7 +4856,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.plusSquare1({
+  IcgIcon8.plusSquare1({
     Key? key,
     double? size,
     Color? color,
@@ -4870,7 +4870,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angleDoubleLeft({
+  IcgIcon8.angleDoubleLeft({
     Key? key,
     double? size,
     Color? color,
@@ -4884,7 +4884,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angleDoubleRight({
+  IcgIcon8.angleDoubleRight({
     Key? key,
     double? size,
     Color? color,
@@ -4898,7 +4898,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angleDoubleUp({
+  IcgIcon8.angleDoubleUp({
     Key? key,
     double? size,
     Color? color,
@@ -4912,7 +4912,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angleDoubleDown({
+  IcgIcon8.angleDoubleDown({
     Key? key,
     double? size,
     Color? color,
@@ -4926,7 +4926,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angleLeft({
+  IcgIcon8.angleLeft({
     Key? key,
     double? size,
     Color? color,
@@ -4940,7 +4940,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angleRight({
+  IcgIcon8.angleRight({
     Key? key,
     double? size,
     Color? color,
@@ -4954,7 +4954,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angleUp({
+  IcgIcon8.angleUp({
     Key? key,
     double? size,
     Color? color,
@@ -4968,7 +4968,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angleDown({
+  IcgIcon8.angleDown({
     Key? key,
     double? size,
     Color? color,
@@ -4982,7 +4982,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.desktop({
+  IcgIcon8.desktop({
     Key? key,
     double? size,
     Color? color,
@@ -4996,7 +4996,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.laptop({
+  IcgIcon8.laptop({
     Key? key,
     double? size,
     Color? color,
@@ -5010,7 +5010,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tablet1({
+  IcgIcon8.tablet1({
     Key? key,
     double? size,
     Color? color,
@@ -5024,7 +5024,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mobilePhone1({
+  IcgIcon8.mobilePhone1({
     Key? key,
     double? size,
     Color? color,
@@ -5038,7 +5038,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.quoteLeft({
+  IcgIcon8.quoteLeft({
     Key? key,
     double? size,
     Color? color,
@@ -5052,7 +5052,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.quoteRight({
+  IcgIcon8.quoteRight({
     Key? key,
     double? size,
     Color? color,
@@ -5066,7 +5066,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.spinner({
+  IcgIcon8.spinner({
     Key? key,
     double? size,
     Color? color,
@@ -5080,7 +5080,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.circle({
+  IcgIcon8.circle({
     Key? key,
     double? size,
     Color? color,
@@ -5094,7 +5094,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateGithub({
+  IcgIcon8.alternateGithub({
     Key? key,
     double? size,
     Color? color,
@@ -5108,7 +5108,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.smilingFace1({
+  IcgIcon8.smilingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -5122,7 +5122,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.frowningFace1({
+  IcgIcon8.frowningFace1({
     Key? key,
     double? size,
     Color? color,
@@ -5136,7 +5136,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.neutralFace1({
+  IcgIcon8.neutralFace1({
     Key? key,
     double? size,
     Color? color,
@@ -5150,7 +5150,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gamepad({
+  IcgIcon8.gamepad({
     Key? key,
     double? size,
     Color? color,
@@ -5164,7 +5164,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.keyboard1({
+  IcgIcon8.keyboard1({
     Key? key,
     double? size,
     Color? color,
@@ -5178,7 +5178,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.flagCheckered({
+  IcgIcon8.flagCheckered({
     Key? key,
     double? size,
     Color? color,
@@ -5192,7 +5192,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.terminal({
+  IcgIcon8.terminal({
     Key? key,
     double? size,
     Color? color,
@@ -5206,7 +5206,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.code({
+  IcgIcon8.code({
     Key? key,
     double? size,
     Color? color,
@@ -5220,7 +5220,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.replyAll({
+  IcgIcon8.replyAll({
     Key? key,
     double? size,
     Color? color,
@@ -5234,7 +5234,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.locationArrow({
+  IcgIcon8.locationArrow({
     Key? key,
     double? size,
     Color? color,
@@ -5248,7 +5248,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.crop({
+  IcgIcon8.crop({
     Key? key,
     double? size,
     Color? color,
@@ -5262,7 +5262,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.codeBranch({
+  IcgIcon8.codeBranch({
     Key? key,
     double? size,
     Color? color,
@@ -5276,7 +5276,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.unlink({
+  IcgIcon8.unlink({
     Key? key,
     double? size,
     Color? color,
@@ -5290,7 +5290,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.question({
+  IcgIcon8.question({
     Key? key,
     double? size,
     Color? color,
@@ -5304,7 +5304,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.info({
+  IcgIcon8.info({
     Key? key,
     double? size,
     Color? color,
@@ -5318,7 +5318,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.exclamation({
+  IcgIcon8.exclamation({
     Key? key,
     double? size,
     Color? color,
@@ -5332,7 +5332,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.superscript({
+  IcgIcon8.superscript({
     Key? key,
     double? size,
     Color? color,
@@ -5346,7 +5346,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.subscript({
+  IcgIcon8.subscript({
     Key? key,
     double? size,
     Color? color,
@@ -5360,7 +5360,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.eraser({
+  IcgIcon8.eraser({
     Key? key,
     double? size,
     Color? color,
@@ -5374,7 +5374,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.puzzlePiece({
+  IcgIcon8.puzzlePiece({
     Key? key,
     double? size,
     Color? color,
@@ -5388,7 +5388,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.microphone({
+  IcgIcon8.microphone({
     Key? key,
     double? size,
     Color? color,
@@ -5402,7 +5402,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.microphoneSlash({
+  IcgIcon8.microphoneSlash({
     Key? key,
     double? size,
     Color? color,
@@ -5416,7 +5416,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendar1({
+  IcgIcon8.calendar1({
     Key? key,
     double? size,
     Color? color,
@@ -5430,7 +5430,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fireExtinguisher({
+  IcgIcon8.fireExtinguisher({
     Key? key,
     double? size,
     Color? color,
@@ -5444,7 +5444,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rocket({
+  IcgIcon8.rocket({
     Key? key,
     double? size,
     Color? color,
@@ -5458,7 +5458,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.maxcdn({
+  IcgIcon8.maxcdn({
     Key? key,
     double? size,
     Color? color,
@@ -5472,7 +5472,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chevronCircleLeft({
+  IcgIcon8.chevronCircleLeft({
     Key? key,
     double? size,
     Color? color,
@@ -5486,7 +5486,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chevronCircleRight({
+  IcgIcon8.chevronCircleRight({
     Key? key,
     double? size,
     Color? color,
@@ -5500,7 +5500,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chevronCircleUp({
+  IcgIcon8.chevronCircleUp({
     Key? key,
     double? size,
     Color? color,
@@ -5514,7 +5514,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chevronCircleDown({
+  IcgIcon8.chevronCircleDown({
     Key? key,
     double? size,
     Color? color,
@@ -5528,7 +5528,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.html5Logo({
+  IcgIcon8.html5Logo({
     Key? key,
     double? size,
     Color? color,
@@ -5542,7 +5542,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.css3Logo({
+  IcgIcon8.css3Logo({
     Key? key,
     double? size,
     Color? color,
@@ -5556,7 +5556,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.anchor({
+  IcgIcon8.anchor({
     Key? key,
     double? size,
     Color? color,
@@ -5570,7 +5570,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateUnlock({
+  IcgIcon8.alternateUnlock({
     Key? key,
     double? size,
     Color? color,
@@ -5584,7 +5584,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bullseye({
+  IcgIcon8.bullseye({
     Key? key,
     double? size,
     Color? color,
@@ -5598,7 +5598,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.horizontalEllipsis({
+  IcgIcon8.horizontalEllipsis({
     Key? key,
     double? size,
     Color? color,
@@ -5612,7 +5612,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.verticalEllipsis({
+  IcgIcon8.verticalEllipsis({
     Key? key,
     double? size,
     Color? color,
@@ -5626,7 +5626,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rssSquare({
+  IcgIcon8.rssSquare({
     Key? key,
     double? size,
     Color? color,
@@ -5640,7 +5640,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.playCircle1({
+  IcgIcon8.playCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -5654,7 +5654,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.minusSquare1({
+  IcgIcon8.minusSquare1({
     Key? key,
     double? size,
     Color? color,
@@ -5668,7 +5668,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.checkSquare({
+  IcgIcon8.checkSquare({
     Key? key,
     double? size,
     Color? color,
@@ -5682,7 +5682,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.penSquare({
+  IcgIcon8.penSquare({
     Key? key,
     double? size,
     Color? color,
@@ -5696,7 +5696,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shareSquare1({
+  IcgIcon8.shareSquare1({
     Key? key,
     double? size,
     Color? color,
@@ -5710,7 +5710,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.compass1({
+  IcgIcon8.compass1({
     Key? key,
     double? size,
     Color? color,
@@ -5724,7 +5724,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretSquareDown1({
+  IcgIcon8.caretSquareDown1({
     Key? key,
     double? size,
     Color? color,
@@ -5738,7 +5738,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretSquareUp1({
+  IcgIcon8.caretSquareUp1({
     Key? key,
     double? size,
     Color? color,
@@ -5752,7 +5752,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretSquareRight1({
+  IcgIcon8.caretSquareRight1({
     Key? key,
     double? size,
     Color? color,
@@ -5766,7 +5766,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.euroSign({
+  IcgIcon8.euroSign({
     Key? key,
     double? size,
     Color? color,
@@ -5780,7 +5780,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.poundSign({
+  IcgIcon8.poundSign({
     Key? key,
     double? size,
     Color? color,
@@ -5794,7 +5794,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dollarSign({
+  IcgIcon8.dollarSign({
     Key? key,
     double? size,
     Color? color,
@@ -5808,7 +5808,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.indianRupeeSign({
+  IcgIcon8.indianRupeeSign({
     Key? key,
     double? size,
     Color? color,
@@ -5822,7 +5822,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.yenSign({
+  IcgIcon8.yenSign({
     Key? key,
     double? size,
     Color? color,
@@ -5836,7 +5836,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rubleSign({
+  IcgIcon8.rubleSign({
     Key? key,
     double? size,
     Color? color,
@@ -5850,7 +5850,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wonSign({
+  IcgIcon8.wonSign({
     Key? key,
     double? size,
     Color? color,
@@ -5864,7 +5864,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.btc1({
+  IcgIcon8.btc1({
     Key? key,
     double? size,
     Color? color,
@@ -5878,7 +5878,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.file1({
+  IcgIcon8.file1({
     Key? key,
     double? size,
     Color? color,
@@ -5892,7 +5892,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateFile1({
+  IcgIcon8.alternateFile1({
     Key? key,
     double? size,
     Color? color,
@@ -5906,7 +5906,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sortAlphabeticalDown({
+  IcgIcon8.sortAlphabeticalDown({
     Key? key,
     double? size,
     Color? color,
@@ -5920,7 +5920,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sortAlphabeticalUp({
+  IcgIcon8.sortAlphabeticalUp({
     Key? key,
     double? size,
     Color? color,
@@ -5934,7 +5934,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sortAmountDown({
+  IcgIcon8.sortAmountDown({
     Key? key,
     double? size,
     Color? color,
@@ -5948,7 +5948,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sortAmountUp({
+  IcgIcon8.sortAmountUp({
     Key? key,
     double? size,
     Color? color,
@@ -5962,7 +5962,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sortNumericDown({
+  IcgIcon8.sortNumericDown({
     Key? key,
     double? size,
     Color? color,
@@ -5976,7 +5976,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sortNumericUp({
+  IcgIcon8.sortNumericUp({
     Key? key,
     double? size,
     Color? color,
@@ -5990,7 +5990,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thumbsUp1({
+  IcgIcon8.thumbsUp1({
     Key? key,
     double? size,
     Color? color,
@@ -6004,7 +6004,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thumbsDown1({
+  IcgIcon8.thumbsDown1({
     Key? key,
     double? size,
     Color? color,
@@ -6018,7 +6018,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.youtube({
+  IcgIcon8.youtube({
     Key? key,
     double? size,
     Color? color,
@@ -6032,7 +6032,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.xing({
+  IcgIcon8.xing({
     Key? key,
     double? size,
     Color? color,
@@ -6046,7 +6046,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.xingSquare({
+  IcgIcon8.xingSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6060,7 +6060,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dropbox({
+  IcgIcon8.dropbox({
     Key? key,
     double? size,
     Color? color,
@@ -6074,7 +6074,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stackOverflow({
+  IcgIcon8.stackOverflow({
     Key? key,
     double? size,
     Color? color,
@@ -6088,7 +6088,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.instagram({
+  IcgIcon8.instagram({
     Key? key,
     double? size,
     Color? color,
@@ -6102,7 +6102,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.flickr({
+  IcgIcon8.flickr({
     Key? key,
     double? size,
     Color? color,
@@ -6116,7 +6116,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.appNet({
+  IcgIcon8.appNet({
     Key? key,
     double? size,
     Color? color,
@@ -6130,7 +6130,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bitbucket({
+  IcgIcon8.bitbucket({
     Key? key,
     double? size,
     Color? color,
@@ -6144,7 +6144,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tumblr({
+  IcgIcon8.tumblr({
     Key? key,
     double? size,
     Color? color,
@@ -6158,7 +6158,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tumblrSquare({
+  IcgIcon8.tumblrSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6172,7 +6172,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.apple({
+  IcgIcon8.apple({
     Key? key,
     double? size,
     Color? color,
@@ -6186,7 +6186,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.windows({
+  IcgIcon8.windows({
     Key? key,
     double? size,
     Color? color,
@@ -6200,7 +6200,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.android({
+  IcgIcon8.android({
     Key? key,
     double? size,
     Color? color,
@@ -6214,7 +6214,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.linux({
+  IcgIcon8.linux({
     Key? key,
     double? size,
     Color? color,
@@ -6228,7 +6228,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dribbble({
+  IcgIcon8.dribbble({
     Key? key,
     double? size,
     Color? color,
@@ -6242,7 +6242,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.skype({
+  IcgIcon8.skype({
     Key? key,
     double? size,
     Color? color,
@@ -6256,7 +6256,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.foursquare({
+  IcgIcon8.foursquare({
     Key? key,
     double? size,
     Color? color,
@@ -6270,7 +6270,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.trello({
+  IcgIcon8.trello({
     Key? key,
     double? size,
     Color? color,
@@ -6284,7 +6284,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.female({
+  IcgIcon8.female({
     Key? key,
     double? size,
     Color? color,
@@ -6298,7 +6298,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.male({
+  IcgIcon8.male({
     Key? key,
     double? size,
     Color? color,
@@ -6312,7 +6312,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gratipayXgittip({
+  IcgIcon8.gratipayXgittip({
     Key? key,
     double? size,
     Color? color,
@@ -6326,7 +6326,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sun1({
+  IcgIcon8.sun1({
     Key? key,
     double? size,
     Color? color,
@@ -6340,7 +6340,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.moon1({
+  IcgIcon8.moon1({
     Key? key,
     double? size,
     Color? color,
@@ -6354,7 +6354,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.archive({
+  IcgIcon8.archive({
     Key? key,
     double? size,
     Color? color,
@@ -6368,7 +6368,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bug({
+  IcgIcon8.bug({
     Key? key,
     double? size,
     Color? color,
@@ -6382,7 +6382,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.vk({
+  IcgIcon8.vk({
     Key? key,
     double? size,
     Color? color,
@@ -6396,7 +6396,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.weibo({
+  IcgIcon8.weibo({
     Key? key,
     double? size,
     Color? color,
@@ -6410,7 +6410,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.renren({
+  IcgIcon8.renren({
     Key? key,
     double? size,
     Color? color,
@@ -6424,7 +6424,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pagelines({
+  IcgIcon8.pagelines({
     Key? key,
     double? size,
     Color? color,
@@ -6438,7 +6438,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stackExchange({
+  IcgIcon8.stackExchange({
     Key? key,
     double? size,
     Color? color,
@@ -6452,7 +6452,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.caretSquareLeft1({
+  IcgIcon8.caretSquareLeft1({
     Key? key,
     double? size,
     Color? color,
@@ -6466,7 +6466,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dotCircle1({
+  IcgIcon8.dotCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -6480,7 +6480,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wheelchair({
+  IcgIcon8.wheelchair({
     Key? key,
     double? size,
     Color? color,
@@ -6494,7 +6494,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.vimeoSquare({
+  IcgIcon8.vimeoSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6508,7 +6508,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.turkishLiraSign({
+  IcgIcon8.turkishLiraSign({
     Key? key,
     double? size,
     Color? color,
@@ -6522,7 +6522,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.spaceShuttle({
+  IcgIcon8.spaceShuttle({
     Key? key,
     double? size,
     Color? color,
@@ -6536,7 +6536,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.slackLogo1({
+  IcgIcon8.slackLogo1({
     Key? key,
     double? size,
     Color? color,
@@ -6550,7 +6550,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.envelopeSquare({
+  IcgIcon8.envelopeSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6564,7 +6564,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wordpressLogo({
+  IcgIcon8.wordpressLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6578,7 +6578,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.openid({
+  IcgIcon8.openid({
     Key? key,
     double? size,
     Color? color,
@@ -6592,7 +6592,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.university({
+  IcgIcon8.university({
     Key? key,
     double? size,
     Color? color,
@@ -6606,7 +6606,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.graduationCap({
+  IcgIcon8.graduationCap({
     Key? key,
     double? size,
     Color? color,
@@ -6620,7 +6620,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.yahooLogo({
+  IcgIcon8.yahooLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6634,7 +6634,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.googleLogo({
+  IcgIcon8.googleLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6648,7 +6648,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.redditLogo1({
+  IcgIcon8.redditLogo1({
     Key? key,
     double? size,
     Color? color,
@@ -6662,7 +6662,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.redditSquare({
+  IcgIcon8.redditSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6676,7 +6676,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stumbleuponCircle({
+  IcgIcon8.stumbleuponCircle({
     Key? key,
     double? size,
     Color? color,
@@ -6690,7 +6690,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stumbleuponLogo({
+  IcgIcon8.stumbleuponLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6704,7 +6704,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.delicious({
+  IcgIcon8.delicious({
     Key? key,
     double? size,
     Color? color,
@@ -6718,7 +6718,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.diggLogo({
+  IcgIcon8.diggLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6732,7 +6732,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.piedPiperPpLogoXoldX1({
+  IcgIcon8.piedPiperPpLogoXoldX1({
     Key? key,
     double? size,
     Color? color,
@@ -6746,7 +6746,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternatePiedPiperLogo({
+  IcgIcon8.alternatePiedPiperLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6760,7 +6760,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.drupalLogo({
+  IcgIcon8.drupalLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6774,7 +6774,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.joomlaLogo({
+  IcgIcon8.joomlaLogo({
     Key? key,
     double? size,
     Color? color,
@@ -6788,7 +6788,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.language({
+  IcgIcon8.language({
     Key? key,
     double? size,
     Color? color,
@@ -6802,7 +6802,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fax({
+  IcgIcon8.fax({
     Key? key,
     double? size,
     Color? color,
@@ -6816,7 +6816,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.building1({
+  IcgIcon8.building1({
     Key? key,
     double? size,
     Color? color,
@@ -6830,7 +6830,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.child({
+  IcgIcon8.child({
     Key? key,
     double? size,
     Color? color,
@@ -6844,7 +6844,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.paw({
+  IcgIcon8.paw({
     Key? key,
     double? size,
     Color? color,
@@ -6858,7 +6858,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cube({
+  IcgIcon8.cube({
     Key? key,
     double? size,
     Color? color,
@@ -6872,7 +6872,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cubes({
+  IcgIcon8.cubes({
     Key? key,
     double? size,
     Color? color,
@@ -6886,7 +6886,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.behance({
+  IcgIcon8.behance({
     Key? key,
     double? size,
     Color? color,
@@ -6900,7 +6900,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.behanceSquare({
+  IcgIcon8.behanceSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6914,7 +6914,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.steam({
+  IcgIcon8.steam({
     Key? key,
     double? size,
     Color? color,
@@ -6928,7 +6928,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.steamSquare({
+  IcgIcon8.steamSquare({
     Key? key,
     double? size,
     Color? color,
@@ -6942,7 +6942,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.recycle({
+  IcgIcon8.recycle({
     Key? key,
     double? size,
     Color? color,
@@ -6956,7 +6956,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.car({
+  IcgIcon8.car({
     Key? key,
     double? size,
     Color? color,
@@ -6970,7 +6970,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.taxi({
+  IcgIcon8.taxi({
     Key? key,
     double? size,
     Color? color,
@@ -6984,7 +6984,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tree({
+  IcgIcon8.tree({
     Key? key,
     double? size,
     Color? color,
@@ -6998,7 +6998,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.spotify({
+  IcgIcon8.spotify({
     Key? key,
     double? size,
     Color? color,
@@ -7012,7 +7012,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.deviantart({
+  IcgIcon8.deviantart({
     Key? key,
     double? size,
     Color? color,
@@ -7026,7 +7026,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.soundcloud({
+  IcgIcon8.soundcloud({
     Key? key,
     double? size,
     Color? color,
@@ -7040,7 +7040,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.database({
+  IcgIcon8.database({
     Key? key,
     double? size,
     Color? color,
@@ -7054,7 +7054,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pdfFile1({
+  IcgIcon8.pdfFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7068,7 +7068,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wordFile1({
+  IcgIcon8.wordFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7082,7 +7082,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.excelFile1({
+  IcgIcon8.excelFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7096,7 +7096,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.powerpointFile1({
+  IcgIcon8.powerpointFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7110,7 +7110,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.imageFile1({
+  IcgIcon8.imageFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7124,7 +7124,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.archiveFile1({
+  IcgIcon8.archiveFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7138,7 +7138,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.audioFile1({
+  IcgIcon8.audioFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7152,7 +7152,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.videoFile1({
+  IcgIcon8.videoFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7166,7 +7166,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.codeFile1({
+  IcgIcon8.codeFile1({
     Key? key,
     double? size,
     Color? color,
@@ -7180,7 +7180,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.vine({
+  IcgIcon8.vine({
     Key? key,
     double? size,
     Color? color,
@@ -7194,7 +7194,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.codepen({
+  IcgIcon8.codepen({
     Key? key,
     double? size,
     Color? color,
@@ -7208,7 +7208,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.jsfiddle({
+  IcgIcon8.jsfiddle({
     Key? key,
     double? size,
     Color? color,
@@ -7222,7 +7222,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lifeRing1({
+  IcgIcon8.lifeRing1({
     Key? key,
     double? size,
     Color? color,
@@ -7236,7 +7236,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.circleNotched({
+  IcgIcon8.circleNotched({
     Key? key,
     double? size,
     Color? color,
@@ -7250,7 +7250,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rebelAlliance({
+  IcgIcon8.rebelAlliance({
     Key? key,
     double? size,
     Color? color,
@@ -7264,7 +7264,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.galacticEmpire1({
+  IcgIcon8.galacticEmpire1({
     Key? key,
     double? size,
     Color? color,
@@ -7278,7 +7278,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gitSquare({
+  IcgIcon8.gitSquare({
     Key? key,
     double? size,
     Color? color,
@@ -7292,7 +7292,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.git1({
+  IcgIcon8.git1({
     Key? key,
     double? size,
     Color? color,
@@ -7306,7 +7306,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hackerNews1({
+  IcgIcon8.hackerNews1({
     Key? key,
     double? size,
     Color? color,
@@ -7320,7 +7320,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tencentWeibo({
+  IcgIcon8.tencentWeibo({
     Key? key,
     double? size,
     Color? color,
@@ -7334,7 +7334,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.qq({
+  IcgIcon8.qq({
     Key? key,
     double? size,
     Color? color,
@@ -7348,7 +7348,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.weixinXwechat({
+  IcgIcon8.weixinXwechat({
     Key? key,
     double? size,
     Color? color,
@@ -7362,7 +7362,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.paperPlane1({
+  IcgIcon8.paperPlane1({
     Key? key,
     double? size,
     Color? color,
@@ -7376,7 +7376,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.history({
+  IcgIcon8.history({
     Key? key,
     double? size,
     Color? color,
@@ -7390,7 +7390,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.heading({
+  IcgIcon8.heading({
     Key? key,
     double? size,
     Color? color,
@@ -7404,7 +7404,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.paragraph({
+  IcgIcon8.paragraph({
     Key? key,
     double? size,
     Color? color,
@@ -7418,7 +7418,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.horizontalSliders({
+  IcgIcon8.horizontalSliders({
     Key? key,
     double? size,
     Color? color,
@@ -7432,7 +7432,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateShare({
+  IcgIcon8.alternateShare({
     Key? key,
     double? size,
     Color? color,
@@ -7446,7 +7446,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateShareSquare({
+  IcgIcon8.alternateShareSquare({
     Key? key,
     double? size,
     Color? color,
@@ -7460,7 +7460,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bomb({
+  IcgIcon8.bomb({
     Key? key,
     double? size,
     Color? color,
@@ -7474,7 +7474,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.futbol1({
+  IcgIcon8.futbol1({
     Key? key,
     double? size,
     Color? color,
@@ -7488,7 +7488,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tty({
+  IcgIcon8.tty({
     Key? key,
     double? size,
     Color? color,
@@ -7502,7 +7502,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.binoculars({
+  IcgIcon8.binoculars({
     Key? key,
     double? size,
     Color? color,
@@ -7516,7 +7516,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.plug({
+  IcgIcon8.plug({
     Key? key,
     double? size,
     Color? color,
@@ -7530,7 +7530,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.slideshare({
+  IcgIcon8.slideshare({
     Key? key,
     double? size,
     Color? color,
@@ -7544,7 +7544,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.twitch({
+  IcgIcon8.twitch({
     Key? key,
     double? size,
     Color? color,
@@ -7558,7 +7558,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.yelp({
+  IcgIcon8.yelp({
     Key? key,
     double? size,
     Color? color,
@@ -7572,7 +7572,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.newspaper1({
+  IcgIcon8.newspaper1({
     Key? key,
     double? size,
     Color? color,
@@ -7586,7 +7586,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wifi({
+  IcgIcon8.wifi({
     Key? key,
     double? size,
     Color? color,
@@ -7600,7 +7600,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calculator({
+  IcgIcon8.calculator({
     Key? key,
     double? size,
     Color? color,
@@ -7614,7 +7614,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.paypal1({
+  IcgIcon8.paypal1({
     Key? key,
     double? size,
     Color? color,
@@ -7628,7 +7628,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.googleWallet({
+  IcgIcon8.googleWallet({
     Key? key,
     double? size,
     Color? color,
@@ -7642,7 +7642,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.visaCreditCard({
+  IcgIcon8.visaCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -7656,7 +7656,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mastercardCreditCard({
+  IcgIcon8.mastercardCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -7670,7 +7670,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.discoverCreditCard({
+  IcgIcon8.discoverCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -7684,7 +7684,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.americanExpressCreditCard({
+  IcgIcon8.americanExpressCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -7698,7 +7698,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.paypal({
+  IcgIcon8.paypal({
     Key? key,
     double? size,
     Color? color,
@@ -7712,7 +7712,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stripeCreditCard1({
+  IcgIcon8.stripeCreditCard1({
     Key? key,
     double? size,
     Color? color,
@@ -7726,7 +7726,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bellSlash1({
+  IcgIcon8.bellSlash1({
     Key? key,
     double? size,
     Color? color,
@@ -7740,7 +7740,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.trash({
+  IcgIcon8.trash({
     Key? key,
     double? size,
     Color? color,
@@ -7754,7 +7754,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.copyright1({
+  IcgIcon8.copyright1({
     Key? key,
     double? size,
     Color? color,
@@ -7768,7 +7768,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.at({
+  IcgIcon8.at({
     Key? key,
     double? size,
     Color? color,
@@ -7782,7 +7782,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.eyeDropper({
+  IcgIcon8.eyeDropper({
     Key? key,
     double? size,
     Color? color,
@@ -7796,7 +7796,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.paintBrush({
+  IcgIcon8.paintBrush({
     Key? key,
     double? size,
     Color? color,
@@ -7810,7 +7810,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.birthdayCake({
+  IcgIcon8.birthdayCake({
     Key? key,
     double? size,
     Color? color,
@@ -7824,7 +7824,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.areaChart({
+  IcgIcon8.areaChart({
     Key? key,
     double? size,
     Color? color,
@@ -7838,7 +7838,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pieChart({
+  IcgIcon8.pieChart({
     Key? key,
     double? size,
     Color? color,
@@ -7852,7 +7852,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lineChart({
+  IcgIcon8.lineChart({
     Key? key,
     double? size,
     Color? color,
@@ -7866,7 +7866,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lastFm({
+  IcgIcon8.lastFm({
     Key? key,
     double? size,
     Color? color,
@@ -7880,7 +7880,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lastFmSquare({
+  IcgIcon8.lastFmSquare({
     Key? key,
     double? size,
     Color? color,
@@ -7894,7 +7894,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.toggleOff({
+  IcgIcon8.toggleOff({
     Key? key,
     double? size,
     Color? color,
@@ -7908,7 +7908,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.toggleOn({
+  IcgIcon8.toggleOn({
     Key? key,
     double? size,
     Color? color,
@@ -7922,7 +7922,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bicycle({
+  IcgIcon8.bicycle({
     Key? key,
     double? size,
     Color? color,
@@ -7936,7 +7936,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bus({
+  IcgIcon8.bus({
     Key? key,
     double? size,
     Color? color,
@@ -7950,7 +7950,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ioxhost({
+  IcgIcon8.ioxhost({
     Key? key,
     double? size,
     Color? color,
@@ -7964,7 +7964,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angellist({
+  IcgIcon8.angellist({
     Key? key,
     double? size,
     Color? color,
@@ -7978,7 +7978,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.closedCaptioning1({
+  IcgIcon8.closedCaptioning1({
     Key? key,
     double? size,
     Color? color,
@@ -7992,7 +7992,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shekelSign({
+  IcgIcon8.shekelSign({
     Key? key,
     double? size,
     Color? color,
@@ -8006,7 +8006,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.buysellads({
+  IcgIcon8.buysellads({
     Key? key,
     double? size,
     Color? color,
@@ -8020,7 +8020,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.connectDevelop({
+  IcgIcon8.connectDevelop({
     Key? key,
     double? size,
     Color? color,
@@ -8034,7 +8034,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dashcube({
+  IcgIcon8.dashcube({
     Key? key,
     double? size,
     Color? color,
@@ -8048,7 +8048,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.forumbee({
+  IcgIcon8.forumbee({
     Key? key,
     double? size,
     Color? color,
@@ -8062,7 +8062,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.leanpub({
+  IcgIcon8.leanpub({
     Key? key,
     double? size,
     Color? color,
@@ -8076,7 +8076,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sellsy({
+  IcgIcon8.sellsy({
     Key? key,
     double? size,
     Color? color,
@@ -8090,7 +8090,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shirtsInBulk({
+  IcgIcon8.shirtsInBulk({
     Key? key,
     double? size,
     Color? color,
@@ -8104,7 +8104,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.simplybuilt({
+  IcgIcon8.simplybuilt({
     Key? key,
     double? size,
     Color? color,
@@ -8118,7 +8118,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.skyatlas({
+  IcgIcon8.skyatlas({
     Key? key,
     double? size,
     Color? color,
@@ -8132,7 +8132,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.addToShoppingCart({
+  IcgIcon8.addToShoppingCart({
     Key? key,
     double? size,
     Color? color,
@@ -8146,7 +8146,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shoppingCartArrowDown({
+  IcgIcon8.shoppingCartArrowDown({
     Key? key,
     double? size,
     Color? color,
@@ -8160,7 +8160,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ship({
+  IcgIcon8.ship({
     Key? key,
     double? size,
     Color? color,
@@ -8174,7 +8174,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userSecret({
+  IcgIcon8.userSecret({
     Key? key,
     double? size,
     Color? color,
@@ -8188,7 +8188,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.motorcycle({
+  IcgIcon8.motorcycle({
     Key? key,
     double? size,
     Color? color,
@@ -8202,7 +8202,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.streetView({
+  IcgIcon8.streetView({
     Key? key,
     double? size,
     Color? color,
@@ -8216,7 +8216,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.heartbeat({
+  IcgIcon8.heartbeat({
     Key? key,
     double? size,
     Color? color,
@@ -8230,7 +8230,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.venus({
+  IcgIcon8.venus({
     Key? key,
     double? size,
     Color? color,
@@ -8244,7 +8244,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mars({
+  IcgIcon8.mars({
     Key? key,
     double? size,
     Color? color,
@@ -8258,7 +8258,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mercury({
+  IcgIcon8.mercury({
     Key? key,
     double? size,
     Color? color,
@@ -8272,7 +8272,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.transgender({
+  IcgIcon8.transgender({
     Key? key,
     double? size,
     Color? color,
@@ -8286,7 +8286,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateTransgender({
+  IcgIcon8.alternateTransgender({
     Key? key,
     double? size,
     Color? color,
@@ -8300,7 +8300,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.venusDouble({
+  IcgIcon8.venusDouble({
     Key? key,
     double? size,
     Color? color,
@@ -8314,7 +8314,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.marsDouble({
+  IcgIcon8.marsDouble({
     Key? key,
     double? size,
     Color? color,
@@ -8328,7 +8328,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.venusMars({
+  IcgIcon8.venusMars({
     Key? key,
     double? size,
     Color? color,
@@ -8342,7 +8342,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.marsStroke({
+  IcgIcon8.marsStroke({
     Key? key,
     double? size,
     Color? color,
@@ -8356,7 +8356,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.marsStrokeVertical({
+  IcgIcon8.marsStrokeVertical({
     Key? key,
     double? size,
     Color? color,
@@ -8370,7 +8370,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.marsStrokeHorizontal({
+  IcgIcon8.marsStrokeHorizontal({
     Key? key,
     double? size,
     Color? color,
@@ -8384,7 +8384,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.neuter1({
+  IcgIcon8.neuter1({
     Key? key,
     double? size,
     Color? color,
@@ -8398,7 +8398,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.neuter({
+  IcgIcon8.neuter({
     Key? key,
     double? size,
     Color? color,
@@ -8412,7 +8412,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pinterestP({
+  IcgIcon8.pinterestP({
     Key? key,
     double? size,
     Color? color,
@@ -8426,7 +8426,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.whatSApp({
+  IcgIcon8.whatSApp({
     Key? key,
     double? size,
     Color? color,
@@ -8440,7 +8440,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.server({
+  IcgIcon8.server({
     Key? key,
     double? size,
     Color? color,
@@ -8454,7 +8454,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userPlus({
+  IcgIcon8.userPlus({
     Key? key,
     double? size,
     Color? color,
@@ -8468,7 +8468,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.removeUser({
+  IcgIcon8.removeUser({
     Key? key,
     double? size,
     Color? color,
@@ -8482,7 +8482,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bed({
+  IcgIcon8.bed({
     Key? key,
     double? size,
     Color? color,
@@ -8496,7 +8496,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.viacoin({
+  IcgIcon8.viacoin({
     Key? key,
     double? size,
     Color? color,
@@ -8510,7 +8510,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.train({
+  IcgIcon8.train({
     Key? key,
     double? size,
     Color? color,
@@ -8524,7 +8524,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.subway({
+  IcgIcon8.subway({
     Key? key,
     double? size,
     Color? color,
@@ -8538,7 +8538,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.medium1({
+  IcgIcon8.medium1({
     Key? key,
     double? size,
     Color? color,
@@ -8552,7 +8552,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hackerNews({
+  IcgIcon8.hackerNews({
     Key? key,
     double? size,
     Color? color,
@@ -8566,7 +8566,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.optinMonster({
+  IcgIcon8.optinMonster({
     Key? key,
     double? size,
     Color? color,
@@ -8580,7 +8580,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.opencart({
+  IcgIcon8.opencart({
     Key? key,
     double? size,
     Color? color,
@@ -8594,7 +8594,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.expeditedssl({
+  IcgIcon8.expeditedssl({
     Key? key,
     double? size,
     Color? color,
@@ -8608,7 +8608,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.batteryFull({
+  IcgIcon8.batteryFull({
     Key? key,
     double? size,
     Color? color,
@@ -8622,7 +8622,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.battery34Full({
+  IcgIcon8.battery34Full({
     Key? key,
     double? size,
     Color? color,
@@ -8636,7 +8636,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.battery12Full({
+  IcgIcon8.battery12Full({
     Key? key,
     double? size,
     Color? color,
@@ -8650,7 +8650,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.battery14Full({
+  IcgIcon8.battery14Full({
     Key? key,
     double? size,
     Color? color,
@@ -8664,7 +8664,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.batteryEmpty({
+  IcgIcon8.batteryEmpty({
     Key? key,
     double? size,
     Color? color,
@@ -8678,7 +8678,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mousePointer({
+  IcgIcon8.mousePointer({
     Key? key,
     double? size,
     Color? color,
@@ -8692,7 +8692,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.iBeamCursor({
+  IcgIcon8.iBeamCursor({
     Key? key,
     double? size,
     Color? color,
@@ -8706,7 +8706,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.objectGroup1({
+  IcgIcon8.objectGroup1({
     Key? key,
     double? size,
     Color? color,
@@ -8720,7 +8720,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.objectUngroup1({
+  IcgIcon8.objectUngroup1({
     Key? key,
     double? size,
     Color? color,
@@ -8734,7 +8734,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stickyNote1({
+  IcgIcon8.stickyNote1({
     Key? key,
     double? size,
     Color? color,
@@ -8748,7 +8748,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.jcbCreditCard({
+  IcgIcon8.jcbCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -8762,7 +8762,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dinerSClubCreditCard({
+  IcgIcon8.dinerSClubCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -8776,7 +8776,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.clone({
+  IcgIcon8.clone({
     Key? key,
     double? size,
     Color? color,
@@ -8790,7 +8790,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.balanceScale({
+  IcgIcon8.balanceScale({
     Key? key,
     double? size,
     Color? color,
@@ -8804,7 +8804,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hourglassStart({
+  IcgIcon8.hourglassStart({
     Key? key,
     double? size,
     Color? color,
@@ -8818,7 +8818,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hourglassHalf({
+  IcgIcon8.hourglassHalf({
     Key? key,
     double? size,
     Color? color,
@@ -8832,7 +8832,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hourglassEnd({
+  IcgIcon8.hourglassEnd({
     Key? key,
     double? size,
     Color? color,
@@ -8846,7 +8846,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hourglass1({
+  IcgIcon8.hourglass1({
     Key? key,
     double? size,
     Color? color,
@@ -8860,7 +8860,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rockXhandX1({
+  IcgIcon8.rockXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8874,7 +8874,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.paperXhandX1({
+  IcgIcon8.paperXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8888,7 +8888,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.scissorsXhandX1({
+  IcgIcon8.scissorsXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8902,7 +8902,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lizardXhandX1({
+  IcgIcon8.lizardXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8916,7 +8916,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.spockXhandX1({
+  IcgIcon8.spockXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8930,7 +8930,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pointerXhandX1({
+  IcgIcon8.pointerXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8944,7 +8944,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.peaceXhandX1({
+  IcgIcon8.peaceXhandX1({
     Key? key,
     double? size,
     Color? color,
@@ -8958,7 +8958,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.trademark({
+  IcgIcon8.trademark({
     Key? key,
     double? size,
     Color? color,
@@ -8972,7 +8972,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.registeredTrademark1({
+  IcgIcon8.registeredTrademark1({
     Key? key,
     double? size,
     Color? color,
@@ -8986,7 +8986,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommons({
+  IcgIcon8.creativeCommons({
     Key? key,
     double? size,
     Color? color,
@@ -9000,7 +9000,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ggCurrency({
+  IcgIcon8.ggCurrency({
     Key? key,
     double? size,
     Color? color,
@@ -9014,7 +9014,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ggCurrencyCircle({
+  IcgIcon8.ggCurrencyCircle({
     Key? key,
     double? size,
     Color? color,
@@ -9028,7 +9028,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tripadvisor({
+  IcgIcon8.tripadvisor({
     Key? key,
     double? size,
     Color? color,
@@ -9042,7 +9042,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.odnoklassniki({
+  IcgIcon8.odnoklassniki({
     Key? key,
     double? size,
     Color? color,
@@ -9056,7 +9056,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.odnoklassnikiSquare({
+  IcgIcon8.odnoklassnikiSquare({
     Key? key,
     double? size,
     Color? color,
@@ -9070,7 +9070,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.getPocket({
+  IcgIcon8.getPocket({
     Key? key,
     double? size,
     Color? color,
@@ -9084,7 +9084,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wikipediaW({
+  IcgIcon8.wikipediaW({
     Key? key,
     double? size,
     Color? color,
@@ -9098,7 +9098,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.safari({
+  IcgIcon8.safari({
     Key? key,
     double? size,
     Color? color,
@@ -9112,7 +9112,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chrome({
+  IcgIcon8.chrome({
     Key? key,
     double? size,
     Color? color,
@@ -9126,7 +9126,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.firefox({
+  IcgIcon8.firefox({
     Key? key,
     double? size,
     Color? color,
@@ -9140,7 +9140,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.opera({
+  IcgIcon8.opera({
     Key? key,
     double? size,
     Color? color,
@@ -9154,7 +9154,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.internetExplorer({
+  IcgIcon8.internetExplorer({
     Key? key,
     double? size,
     Color? color,
@@ -9168,7 +9168,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.television({
+  IcgIcon8.television({
     Key? key,
     double? size,
     Color? color,
@@ -9182,7 +9182,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.contao({
+  IcgIcon8.contao({
     Key? key,
     double? size,
     Color? color,
@@ -9196,7 +9196,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.px500({
+  IcgIcon8.px500({
     Key? key,
     double? size,
     Color? color,
@@ -9210,7 +9210,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.amazon({
+  IcgIcon8.amazon({
     Key? key,
     double? size,
     Color? color,
@@ -9224,7 +9224,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendarPlus1({
+  IcgIcon8.calendarPlus1({
     Key? key,
     double? size,
     Color? color,
@@ -9238,7 +9238,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendarMinus1({
+  IcgIcon8.calendarMinus1({
     Key? key,
     double? size,
     Color? color,
@@ -9252,7 +9252,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendarTimes1({
+  IcgIcon8.calendarTimes1({
     Key? key,
     double? size,
     Color? color,
@@ -9266,7 +9266,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendarCheck1({
+  IcgIcon8.calendarCheck1({
     Key? key,
     double? size,
     Color? color,
@@ -9280,7 +9280,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.industry({
+  IcgIcon8.industry({
     Key? key,
     double? size,
     Color? color,
@@ -9294,7 +9294,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mapPin({
+  IcgIcon8.mapPin({
     Key? key,
     double? size,
     Color? color,
@@ -9308,7 +9308,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mapSigns({
+  IcgIcon8.mapSigns({
     Key? key,
     double? size,
     Color? color,
@@ -9322,7 +9322,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.map1({
+  IcgIcon8.map1({
     Key? key,
     double? size,
     Color? color,
@@ -9336,7 +9336,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateComment1({
+  IcgIcon8.alternateComment1({
     Key? key,
     double? size,
     Color? color,
@@ -9350,7 +9350,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.houzz({
+  IcgIcon8.houzz({
     Key? key,
     double? size,
     Color? color,
@@ -9364,7 +9364,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.vimeo1({
+  IcgIcon8.vimeo1({
     Key? key,
     double? size,
     Color? color,
@@ -9378,7 +9378,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fontAwesomeBlackTie({
+  IcgIcon8.fontAwesomeBlackTie({
     Key? key,
     double? size,
     Color? color,
@@ -9392,7 +9392,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fonticons1({
+  IcgIcon8.fonticons1({
     Key? key,
     double? size,
     Color? color,
@@ -9406,7 +9406,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.redditLogo({
+  IcgIcon8.redditLogo({
     Key? key,
     double? size,
     Color? color,
@@ -9420,7 +9420,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.edgeBrowser({
+  IcgIcon8.edgeBrowser({
     Key? key,
     double? size,
     Color? color,
@@ -9434,7 +9434,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.codiePie({
+  IcgIcon8.codiePie({
     Key? key,
     double? size,
     Color? color,
@@ -9448,7 +9448,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.modx({
+  IcgIcon8.modx({
     Key? key,
     double? size,
     Color? color,
@@ -9462,7 +9462,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fortAwesome({
+  IcgIcon8.fortAwesome({
     Key? key,
     double? size,
     Color? color,
@@ -9476,7 +9476,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.usb({
+  IcgIcon8.usb({
     Key? key,
     double? size,
     Color? color,
@@ -9490,7 +9490,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.productHunt({
+  IcgIcon8.productHunt({
     Key? key,
     double? size,
     Color? color,
@@ -9504,7 +9504,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mixcloud({
+  IcgIcon8.mixcloud({
     Key? key,
     double? size,
     Color? color,
@@ -9518,7 +9518,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.scribd({
+  IcgIcon8.scribd({
     Key? key,
     double? size,
     Color? color,
@@ -9532,7 +9532,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pauseCircle1({
+  IcgIcon8.pauseCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -9546,7 +9546,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stopCircle1({
+  IcgIcon8.stopCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -9560,7 +9560,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shoppingBag({
+  IcgIcon8.shoppingBag({
     Key? key,
     double? size,
     Color? color,
@@ -9574,7 +9574,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shoppingBasket({
+  IcgIcon8.shoppingBasket({
     Key? key,
     double? size,
     Color? color,
@@ -9588,7 +9588,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hashtag({
+  IcgIcon8.hashtag({
     Key? key,
     double? size,
     Color? color,
@@ -9602,7 +9602,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bluetooth2({
+  IcgIcon8.bluetooth2({
     Key? key,
     double? size,
     Color? color,
@@ -9616,7 +9616,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bluetooth({
+  IcgIcon8.bluetooth({
     Key? key,
     double? size,
     Color? color,
@@ -9630,7 +9630,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.percent({
+  IcgIcon8.percent({
     Key? key,
     double? size,
     Color? color,
@@ -9644,7 +9644,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gitlab({
+  IcgIcon8.gitlab({
     Key? key,
     double? size,
     Color? color,
@@ -9658,7 +9658,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wpbeginner({
+  IcgIcon8.wpbeginner({
     Key? key,
     double? size,
     Color? color,
@@ -9672,7 +9672,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wpforms({
+  IcgIcon8.wpforms({
     Key? key,
     double? size,
     Color? color,
@@ -9686,7 +9686,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.enviraGallery({
+  IcgIcon8.enviraGallery({
     Key? key,
     double? size,
     Color? color,
@@ -9700,7 +9700,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.universalAccess({
+  IcgIcon8.universalAccess({
     Key? key,
     double? size,
     Color? color,
@@ -9714,7 +9714,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.blind({
+  IcgIcon8.blind({
     Key? key,
     double? size,
     Color? color,
@@ -9728,7 +9728,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.audioDescription({
+  IcgIcon8.audioDescription({
     Key? key,
     double? size,
     Color? color,
@@ -9742,7 +9742,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.phoneVolume({
+  IcgIcon8.phoneVolume({
     Key? key,
     double? size,
     Color? color,
@@ -9756,7 +9756,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.braille({
+  IcgIcon8.braille({
     Key? key,
     double? size,
     Color? color,
@@ -9770,7 +9770,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.assistiveListeningSystems({
+  IcgIcon8.assistiveListeningSystems({
     Key? key,
     double? size,
     Color? color,
@@ -9784,7 +9784,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.americanSignLanguageInterpreting({
+  IcgIcon8.americanSignLanguageInterpreting({
     Key? key,
     double? size,
     Color? color,
@@ -9798,7 +9798,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.deaf({
+  IcgIcon8.deaf({
     Key? key,
     double? size,
     Color? color,
@@ -9812,7 +9812,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.glide({
+  IcgIcon8.glide({
     Key? key,
     double? size,
     Color? color,
@@ -9826,7 +9826,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.glideG({
+  IcgIcon8.glideG({
     Key? key,
     double? size,
     Color? color,
@@ -9840,7 +9840,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.signLanguage({
+  IcgIcon8.signLanguage({
     Key? key,
     double? size,
     Color? color,
@@ -9854,7 +9854,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lowVision({
+  IcgIcon8.lowVision({
     Key? key,
     double? size,
     Color? color,
@@ -9868,7 +9868,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.video1({
+  IcgIcon8.video1({
     Key? key,
     double? size,
     Color? color,
@@ -9882,7 +9882,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.videoSquare({
+  IcgIcon8.videoSquare({
     Key? key,
     double? size,
     Color? color,
@@ -9896,7 +9896,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.snapchat1({
+  IcgIcon8.snapchat1({
     Key? key,
     double? size,
     Color? color,
@@ -9910,7 +9910,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.snapchat({
+  IcgIcon8.snapchat({
     Key? key,
     double? size,
     Color? color,
@@ -9924,7 +9924,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.snapchatSquare({
+  IcgIcon8.snapchatSquare({
     Key? key,
     double? size,
     Color? color,
@@ -9938,7 +9938,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.piedPiperPpLogoXold({
+  IcgIcon8.piedPiperPpLogoXold({
     Key? key,
     double? size,
     Color? color,
@@ -9952,7 +9952,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.firstOrder({
+  IcgIcon8.firstOrder({
     Key? key,
     double? size,
     Color? color,
@@ -9966,7 +9966,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.yoast({
+  IcgIcon8.yoast({
     Key? key,
     double? size,
     Color? color,
@@ -9980,7 +9980,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.themeisle({
+  IcgIcon8.themeisle({
     Key? key,
     double? size,
     Color? color,
@@ -9994,7 +9994,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.googlePlusG({
+  IcgIcon8.googlePlusG({
     Key? key,
     double? size,
     Color? color,
@@ -10008,7 +10008,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fontAwesome1({
+  IcgIcon8.fontAwesome1({
     Key? key,
     double? size,
     Color? color,
@@ -10022,7 +10022,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handshake1({
+  IcgIcon8.handshake1({
     Key? key,
     double? size,
     Color? color,
@@ -10036,7 +10036,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.envelopeOpen1({
+  IcgIcon8.envelopeOpen1({
     Key? key,
     double? size,
     Color? color,
@@ -10050,7 +10050,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.linode({
+  IcgIcon8.linode({
     Key? key,
     double? size,
     Color? color,
@@ -10064,7 +10064,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.addressBook1({
+  IcgIcon8.addressBook1({
     Key? key,
     double? size,
     Color? color,
@@ -10078,7 +10078,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.addressCard1({
+  IcgIcon8.addressCard1({
     Key? key,
     double? size,
     Color? color,
@@ -10092,7 +10092,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userCircle1({
+  IcgIcon8.userCircle1({
     Key? key,
     double? size,
     Color? color,
@@ -10106,7 +10106,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.identificationBadge1({
+  IcgIcon8.identificationBadge1({
     Key? key,
     double? size,
     Color? color,
@@ -10120,7 +10120,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.identificationCard1({
+  IcgIcon8.identificationCard1({
     Key? key,
     double? size,
     Color? color,
@@ -10134,7 +10134,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.quora({
+  IcgIcon8.quora({
     Key? key,
     double? size,
     Color? color,
@@ -10148,7 +10148,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.freeCodeCamp({
+  IcgIcon8.freeCodeCamp({
     Key? key,
     double? size,
     Color? color,
@@ -10162,7 +10162,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.telegram1({
+  IcgIcon8.telegram1({
     Key? key,
     double? size,
     Color? color,
@@ -10176,7 +10176,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thermometerFull({
+  IcgIcon8.thermometerFull({
     Key? key,
     double? size,
     Color? color,
@@ -10190,7 +10190,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thermometer34Full({
+  IcgIcon8.thermometer34Full({
     Key? key,
     double? size,
     Color? color,
@@ -10204,7 +10204,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thermometer12Full({
+  IcgIcon8.thermometer12Full({
     Key? key,
     double? size,
     Color? color,
@@ -10218,7 +10218,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thermometer14Full({
+  IcgIcon8.thermometer14Full({
     Key? key,
     double? size,
     Color? color,
@@ -10232,7 +10232,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thermometerEmpty({
+  IcgIcon8.thermometerEmpty({
     Key? key,
     double? size,
     Color? color,
@@ -10246,7 +10246,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shower({
+  IcgIcon8.shower({
     Key? key,
     double? size,
     Color? color,
@@ -10260,7 +10260,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bath({
+  IcgIcon8.bath({
     Key? key,
     double? size,
     Color? color,
@@ -10274,7 +10274,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.podcast({
+  IcgIcon8.podcast({
     Key? key,
     double? size,
     Color? color,
@@ -10288,7 +10288,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.windowMaximize1({
+  IcgIcon8.windowMaximize1({
     Key? key,
     double? size,
     Color? color,
@@ -10302,7 +10302,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.windowMinimize1({
+  IcgIcon8.windowMinimize1({
     Key? key,
     double? size,
     Color? color,
@@ -10316,7 +10316,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.windowRestore1({
+  IcgIcon8.windowRestore1({
     Key? key,
     double? size,
     Color? color,
@@ -10330,7 +10330,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bandcamp({
+  IcgIcon8.bandcamp({
     Key? key,
     double? size,
     Color? color,
@@ -10344,7 +10344,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grav({
+  IcgIcon8.grav({
     Key? key,
     double? size,
     Color? color,
@@ -10358,7 +10358,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.etsy({
+  IcgIcon8.etsy({
     Key? key,
     double? size,
     Color? color,
@@ -10372,7 +10372,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.imdb({
+  IcgIcon8.imdb({
     Key? key,
     double? size,
     Color? color,
@@ -10386,7 +10386,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ravelry({
+  IcgIcon8.ravelry({
     Key? key,
     double? size,
     Color? color,
@@ -10400,7 +10400,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sellcast({
+  IcgIcon8.sellcast({
     Key? key,
     double? size,
     Color? color,
@@ -10414,7 +10414,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.microchip({
+  IcgIcon8.microchip({
     Key? key,
     double? size,
     Color? color,
@@ -10428,7 +10428,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.snowflake1({
+  IcgIcon8.snowflake1({
     Key? key,
     double? size,
     Color? color,
@@ -10442,7 +10442,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.superpowers({
+  IcgIcon8.superpowers({
     Key? key,
     double? size,
     Color? color,
@@ -10456,7 +10456,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wpexplorer({
+  IcgIcon8.wpexplorer({
     Key? key,
     double? size,
     Color? color,
@@ -10470,7 +10470,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.meetup({
+  IcgIcon8.meetup({
     Key? key,
     double? size,
     Color? color,
@@ -10484,7 +10484,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.utensilSpoon({
+  IcgIcon8.utensilSpoon({
     Key? key,
     double? size,
     Color? color,
@@ -10498,7 +10498,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.utensils({
+  IcgIcon8.utensils({
     Key? key,
     double? size,
     Color? color,
@@ -10512,7 +10512,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateUndo({
+  IcgIcon8.alternateUndo({
     Key? key,
     double? size,
     Color? color,
@@ -10526,7 +10526,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateTrash1({
+  IcgIcon8.alternateTrash1({
     Key? key,
     double? size,
     Color? color,
@@ -10540,7 +10540,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.syncIcon({
+  IcgIcon8.syncIcon({
     Key? key,
     double? size,
     Color? color,
@@ -10554,7 +10554,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stopwatch({
+  IcgIcon8.stopwatch({
     Key? key,
     double? size,
     Color? color,
@@ -10568,7 +10568,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateSignOut({
+  IcgIcon8.alternateSignOut({
     Key? key,
     double? size,
     Color? color,
@@ -10582,7 +10582,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateSignIn({
+  IcgIcon8.alternateSignIn({
     Key? key,
     double? size,
     Color? color,
@@ -10596,7 +10596,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateRedo({
+  IcgIcon8.alternateRedo({
     Key? key,
     double? size,
     Color? color,
@@ -10610,7 +10610,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.poo({
+  IcgIcon8.poo({
     Key? key,
     double? size,
     Color? color,
@@ -10624,7 +10624,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.images1({
+  IcgIcon8.images1({
     Key? key,
     double? size,
     Color? color,
@@ -10638,7 +10638,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternatePencil({
+  IcgIcon8.alternatePencil({
     Key? key,
     double? size,
     Color? color,
@@ -10652,7 +10652,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pen({
+  IcgIcon8.pen({
     Key? key,
     double? size,
     Color? color,
@@ -10666,7 +10666,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternatePen({
+  IcgIcon8.alternatePen({
     Key? key,
     double? size,
     Color? color,
@@ -10680,7 +10680,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateLongArrowDown({
+  IcgIcon8.alternateLongArrowDown({
     Key? key,
     double? size,
     Color? color,
@@ -10694,7 +10694,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateLongArrowLeft({
+  IcgIcon8.alternateLongArrowLeft({
     Key? key,
     double? size,
     Color? color,
@@ -10708,7 +10708,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateLongArrowRight({
+  IcgIcon8.alternateLongArrowRight({
     Key? key,
     double? size,
     Color? color,
@@ -10722,7 +10722,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateLongArrowUp({
+  IcgIcon8.alternateLongArrowUp({
     Key? key,
     double? size,
     Color? color,
@@ -10736,7 +10736,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateExpandArrows({
+  IcgIcon8.alternateExpandArrows({
     Key? key,
     double? size,
     Color? color,
@@ -10750,7 +10750,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.clipboard({
+  IcgIcon8.clipboard({
     Key? key,
     double? size,
     Color? color,
@@ -10764,7 +10764,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateArrowsHorizontal({
+  IcgIcon8.alternateArrowsHorizontal({
     Key? key,
     double? size,
     Color? color,
@@ -10778,7 +10778,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateArrowsVertical({
+  IcgIcon8.alternateArrowsVertical({
     Key? key,
     double? size,
     Color? color,
@@ -10792,7 +10792,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateArrowCircleDown1({
+  IcgIcon8.alternateArrowCircleDown1({
     Key? key,
     double? size,
     Color? color,
@@ -10806,7 +10806,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateArrowCircleLeft1({
+  IcgIcon8.alternateArrowCircleLeft1({
     Key? key,
     double? size,
     Color? color,
@@ -10820,7 +10820,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateArrowCircleRight1({
+  IcgIcon8.alternateArrowCircleRight1({
     Key? key,
     double? size,
     Color? color,
@@ -10834,7 +10834,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateArrowCircleUp1({
+  IcgIcon8.alternateArrowCircleUp1({
     Key? key,
     double? size,
     Color? color,
@@ -10848,7 +10848,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fontAwesome({
+  IcgIcon8.fontAwesome({
     Key? key,
     double? size,
     Color? color,
@@ -10862,7 +10862,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateExternalLink({
+  IcgIcon8.alternateExternalLink({
     Key? key,
     double? size,
     Color? color,
@@ -10876,7 +10876,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateExternalLinkSquare({
+  IcgIcon8.alternateExternalLinkSquare({
     Key? key,
     double? size,
     Color? color,
@@ -10890,7 +10890,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateExchange({
+  IcgIcon8.alternateExchange({
     Key? key,
     double? size,
     Color? color,
@@ -10904,7 +10904,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.accessibleIcon({
+  IcgIcon8.accessibleIcon({
     Key? key,
     double? size,
     Color? color,
@@ -10918,7 +10918,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.accusoft({
+  IcgIcon8.accusoft({
     Key? key,
     double? size,
     Color? color,
@@ -10932,7 +10932,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.adversal({
+  IcgIcon8.adversal({
     Key? key,
     double? size,
     Color? color,
@@ -10946,7 +10946,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.affiliatetheme({
+  IcgIcon8.affiliatetheme({
     Key? key,
     double? size,
     Color? color,
@@ -10960,7 +10960,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.algolia({
+  IcgIcon8.algolia({
     Key? key,
     double? size,
     Color? color,
@@ -10974,7 +10974,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.amilia({
+  IcgIcon8.amilia({
     Key? key,
     double? size,
     Color? color,
@@ -10988,7 +10988,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angryCreative({
+  IcgIcon8.angryCreative({
     Key? key,
     double? size,
     Color? color,
@@ -11002,7 +11002,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.appStore({
+  IcgIcon8.appStore({
     Key? key,
     double? size,
     Color? color,
@@ -11016,7 +11016,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.iosAppStore({
+  IcgIcon8.iosAppStore({
     Key? key,
     double? size,
     Color? color,
@@ -11030,7 +11030,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.apperSystemsAb({
+  IcgIcon8.apperSystemsAb({
     Key? key,
     double? size,
     Color? color,
@@ -11044,7 +11044,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.asymmetrikXltd({
+  IcgIcon8.asymmetrikXltd({
     Key? key,
     double? size,
     Color? color,
@@ -11058,7 +11058,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.audible({
+  IcgIcon8.audible({
     Key? key,
     double? size,
     Color? color,
@@ -11072,7 +11072,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.avianex({
+  IcgIcon8.avianex({
     Key? key,
     double? size,
     Color? color,
@@ -11086,7 +11086,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.amazonWebServicesXaws({
+  IcgIcon8.amazonWebServicesXaws({
     Key? key,
     double? size,
     Color? color,
@@ -11100,7 +11100,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bimobject({
+  IcgIcon8.bimobject({
     Key? key,
     double? size,
     Color? color,
@@ -11114,7 +11114,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.btc({
+  IcgIcon8.btc({
     Key? key,
     double? size,
     Color? color,
@@ -11128,7 +11128,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bity({
+  IcgIcon8.bity({
     Key? key,
     double? size,
     Color? color,
@@ -11142,7 +11142,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.blackberry({
+  IcgIcon8.blackberry({
     Key? key,
     double? size,
     Color? color,
@@ -11156,7 +11156,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.blogger({
+  IcgIcon8.blogger({
     Key? key,
     double? size,
     Color? color,
@@ -11170,7 +11170,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bloggerB({
+  IcgIcon8.bloggerB({
     Key? key,
     double? size,
     Color? color,
@@ -11184,7 +11184,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bRomBelExperteGmbhXCoXkg({
+  IcgIcon8.bRomBelExperteGmbhXCoXkg({
     Key? key,
     double? size,
     Color? color,
@@ -11198,7 +11198,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.centercode({
+  IcgIcon8.centercode({
     Key? key,
     double? size,
     Color? color,
@@ -11212,7 +11212,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateCloudDownload({
+  IcgIcon8.alternateCloudDownload({
     Key? key,
     double? size,
     Color? color,
@@ -11226,7 +11226,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateCloudUpload({
+  IcgIcon8.alternateCloudUpload({
     Key? key,
     double? size,
     Color? color,
@@ -11240,7 +11240,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cloudscaleCh({
+  IcgIcon8.cloudscaleCh({
     Key? key,
     double? size,
     Color? color,
@@ -11254,7 +11254,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cloudsmith({
+  IcgIcon8.cloudsmith({
     Key? key,
     double? size,
     Color? color,
@@ -11268,7 +11268,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cloudversify({
+  IcgIcon8.cloudversify({
     Key? key,
     double? size,
     Color? color,
@@ -11282,7 +11282,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cpanel({
+  IcgIcon8.cpanel({
     Key? key,
     double? size,
     Color? color,
@@ -11296,7 +11296,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateCss3Logo({
+  IcgIcon8.alternateCss3Logo({
     Key? key,
     double? size,
     Color? color,
@@ -11310,7 +11310,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cuttlefish({
+  IcgIcon8.cuttlefish({
     Key? key,
     double? size,
     Color? color,
@@ -11324,7 +11324,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dungeonsXDragons({
+  IcgIcon8.dungeonsXDragons({
     Key? key,
     double? size,
     Color? color,
@@ -11338,7 +11338,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.deployDog({
+  IcgIcon8.deployDog({
     Key? key,
     double? size,
     Color? color,
@@ -11352,7 +11352,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.deskpro({
+  IcgIcon8.deskpro({
     Key? key,
     double? size,
     Color? color,
@@ -11366,7 +11366,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.digitalOcean({
+  IcgIcon8.digitalOcean({
     Key? key,
     double? size,
     Color? color,
@@ -11380,7 +11380,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.discord({
+  IcgIcon8.discord({
     Key? key,
     double? size,
     Color? color,
@@ -11394,7 +11394,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.discourse({
+  IcgIcon8.discourse({
     Key? key,
     double? size,
     Color? color,
@@ -11408,7 +11408,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dochub({
+  IcgIcon8.dochub({
     Key? key,
     double? size,
     Color? color,
@@ -11422,7 +11422,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.docker({
+  IcgIcon8.docker({
     Key? key,
     double? size,
     Color? color,
@@ -11436,7 +11436,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.draft2digital({
+  IcgIcon8.draft2digital({
     Key? key,
     double? size,
     Color? color,
@@ -11450,7 +11450,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dribbbleSquare({
+  IcgIcon8.dribbbleSquare({
     Key? key,
     double? size,
     Color? color,
@@ -11464,7 +11464,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dyalog({
+  IcgIcon8.dyalog({
     Key? key,
     double? size,
     Color? color,
@@ -11478,7 +11478,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.earlybirds({
+  IcgIcon8.earlybirds({
     Key? key,
     double? size,
     Color? color,
@@ -11492,7 +11492,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.erlang({
+  IcgIcon8.erlang({
     Key? key,
     double? size,
     Color? color,
@@ -11506,7 +11506,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.facebookF({
+  IcgIcon8.facebookF({
     Key? key,
     double? size,
     Color? color,
@@ -11520,7 +11520,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.facebookMessenger({
+  IcgIcon8.facebookMessenger({
     Key? key,
     double? size,
     Color? color,
@@ -11534,7 +11534,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.firstdraft({
+  IcgIcon8.firstdraft({
     Key? key,
     double? size,
     Color? color,
@@ -11548,7 +11548,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fonticons({
+  IcgIcon8.fonticons({
     Key? key,
     double? size,
     Color? color,
@@ -11562,7 +11562,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateFortAwesome({
+  IcgIcon8.alternateFortAwesome({
     Key? key,
     double? size,
     Color? color,
@@ -11576,7 +11576,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.freebsd({
+  IcgIcon8.freebsd({
     Key? key,
     double? size,
     Color? color,
@@ -11590,7 +11590,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gem1({
+  IcgIcon8.gem1({
     Key? key,
     double? size,
     Color? color,
@@ -11604,7 +11604,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gitkraken({
+  IcgIcon8.gitkraken({
     Key? key,
     double? size,
     Color? color,
@@ -11618,7 +11618,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gofore({
+  IcgIcon8.gofore({
     Key? key,
     double? size,
     Color? color,
@@ -11632,7 +11632,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.goodreads({
+  IcgIcon8.goodreads({
     Key? key,
     double? size,
     Color? color,
@@ -11646,7 +11646,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.goodreadsG({
+  IcgIcon8.goodreadsG({
     Key? key,
     double? size,
     Color? color,
@@ -11660,7 +11660,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.googleDrive({
+  IcgIcon8.googleDrive({
     Key? key,
     double? size,
     Color? color,
@@ -11674,7 +11674,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.googlePlay({
+  IcgIcon8.googlePlay({
     Key? key,
     double? size,
     Color? color,
@@ -11688,7 +11688,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gripfireXinc({
+  IcgIcon8.gripfireXinc({
     Key? key,
     double? size,
     Color? color,
@@ -11702,7 +11702,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grunt({
+  IcgIcon8.grunt({
     Key? key,
     double? size,
     Color? color,
@@ -11716,7 +11716,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gulp({
+  IcgIcon8.gulp({
     Key? key,
     double? size,
     Color? color,
@@ -11730,7 +11730,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hackerNewsSquare({
+  IcgIcon8.hackerNewsSquare({
     Key? key,
     double? size,
     Color? color,
@@ -11744,7 +11744,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hireahelper({
+  IcgIcon8.hireahelper({
     Key? key,
     double? size,
     Color? color,
@@ -11758,7 +11758,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hotjar({
+  IcgIcon8.hotjar({
     Key? key,
     double? size,
     Color? color,
@@ -11772,7 +11772,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hubspot({
+  IcgIcon8.hubspot({
     Key? key,
     double? size,
     Color? color,
@@ -11786,7 +11786,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.itunes({
+  IcgIcon8.itunes({
     Key? key,
     double? size,
     Color? color,
@@ -11800,7 +11800,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.itunesNote({
+  IcgIcon8.itunesNote({
     Key? key,
     double? size,
     Color? color,
@@ -11814,7 +11814,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.jenkis({
+  IcgIcon8.jenkis({
     Key? key,
     double? size,
     Color? color,
@@ -11828,7 +11828,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.joget({
+  IcgIcon8.joget({
     Key? key,
     double? size,
     Color? color,
@@ -11842,7 +11842,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.javascriptXjs({
+  IcgIcon8.javascriptXjs({
     Key? key,
     double? size,
     Color? color,
@@ -11856,7 +11856,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.javascriptXjsXsquare({
+  IcgIcon8.javascriptXjsXsquare({
     Key? key,
     double? size,
     Color? color,
@@ -11870,7 +11870,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.keycdn({
+  IcgIcon8.keycdn({
     Key? key,
     double? size,
     Color? color,
@@ -11884,7 +11884,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.kickstarter({
+  IcgIcon8.kickstarter({
     Key? key,
     double? size,
     Color? color,
@@ -11898,7 +11898,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.kickstarterK({
+  IcgIcon8.kickstarterK({
     Key? key,
     double? size,
     Color? color,
@@ -11912,7 +11912,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.laravel({
+  IcgIcon8.laravel({
     Key? key,
     double? size,
     Color? color,
@@ -11926,7 +11926,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateLevelDown({
+  IcgIcon8.alternateLevelDown({
     Key? key,
     double? size,
     Color? color,
@@ -11940,7 +11940,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateLevelUp({
+  IcgIcon8.alternateLevelUp({
     Key? key,
     double? size,
     Color? color,
@@ -11954,7 +11954,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.line({
+  IcgIcon8.line({
     Key? key,
     double? size,
     Color? color,
@@ -11968,7 +11968,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.unlock({
+  IcgIcon8.unlock({
     Key? key,
     double? size,
     Color? color,
@@ -11982,7 +11982,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lyft({
+  IcgIcon8.lyft({
     Key? key,
     double? size,
     Color? color,
@@ -11996,7 +11996,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.magento({
+  IcgIcon8.magento({
     Key? key,
     double? size,
     Color? color,
@@ -12010,7 +12010,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mapMarker({
+  IcgIcon8.mapMarker({
     Key? key,
     double? size,
     Color? color,
@@ -12024,7 +12024,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.medapps({
+  IcgIcon8.medapps({
     Key? key,
     double? size,
     Color? color,
@@ -12038,7 +12038,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.medium({
+  IcgIcon8.medium({
     Key? key,
     double? size,
     Color? color,
@@ -12052,7 +12052,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mrt({
+  IcgIcon8.mrt({
     Key? key,
     double? size,
     Color? color,
@@ -12066,7 +12066,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateMicrophone({
+  IcgIcon8.alternateMicrophone({
     Key? key,
     double? size,
     Color? color,
@@ -12080,7 +12080,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.microsoft1({
+  IcgIcon8.microsoft1({
     Key? key,
     double? size,
     Color? color,
@@ -12094,7 +12094,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mix({
+  IcgIcon8.mix({
     Key? key,
     double? size,
     Color? color,
@@ -12108,7 +12108,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mizuni({
+  IcgIcon8.mizuni({
     Key? key,
     double? size,
     Color? color,
@@ -12122,7 +12122,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mobilePhone({
+  IcgIcon8.mobilePhone({
     Key? key,
     double? size,
     Color? color,
@@ -12136,7 +12136,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.monero({
+  IcgIcon8.monero({
     Key? key,
     double? size,
     Color? color,
@@ -12150,7 +12150,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateMoneyBill1({
+  IcgIcon8.alternateMoneyBill1({
     Key? key,
     double? size,
     Color? color,
@@ -12164,7 +12164,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.napster({
+  IcgIcon8.napster({
     Key? key,
     double? size,
     Color? color,
@@ -12178,7 +12178,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.nodeJsJs({
+  IcgIcon8.nodeJsJs({
     Key? key,
     double? size,
     Color? color,
@@ -12192,7 +12192,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.npm({
+  IcgIcon8.npm({
     Key? key,
     double? size,
     Color? color,
@@ -12206,7 +12206,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ns8({
+  IcgIcon8.ns8({
     Key? key,
     double? size,
     Color? color,
@@ -12220,7 +12220,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.nutritionix({
+  IcgIcon8.nutritionix({
     Key? key,
     double? size,
     Color? color,
@@ -12234,7 +12234,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.page4Corporation({
+  IcgIcon8.page4Corporation({
     Key? key,
     double? size,
     Color? color,
@@ -12248,7 +12248,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.palfed({
+  IcgIcon8.palfed({
     Key? key,
     double? size,
     Color? color,
@@ -12262,7 +12262,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.patreon({
+  IcgIcon8.patreon({
     Key? key,
     double? size,
     Color? color,
@@ -12276,7 +12276,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.periscope({
+  IcgIcon8.periscope({
     Key? key,
     double? size,
     Color? color,
@@ -12290,7 +12290,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.phabricator({
+  IcgIcon8.phabricator({
     Key? key,
     double? size,
     Color? color,
@@ -12304,7 +12304,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.phoenixFramework({
+  IcgIcon8.phoenixFramework({
     Key? key,
     double? size,
     Color? color,
@@ -12318,7 +12318,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.phoneSlash({
+  IcgIcon8.phoneSlash({
     Key? key,
     double? size,
     Color? color,
@@ -12332,7 +12332,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.playstation({
+  IcgIcon8.playstation({
     Key? key,
     double? size,
     Color? color,
@@ -12346,7 +12346,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.portrait({
+  IcgIcon8.portrait({
     Key? key,
     double? size,
     Color? color,
@@ -12360,7 +12360,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pushed({
+  IcgIcon8.pushed({
     Key? key,
     double? size,
     Color? color,
@@ -12374,7 +12374,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.python({
+  IcgIcon8.python({
     Key? key,
     double? size,
     Color? color,
@@ -12388,7 +12388,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.redRiver({
+  IcgIcon8.redRiver({
     Key? key,
     double? size,
     Color? color,
@@ -12402,7 +12402,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wpressr({
+  IcgIcon8.wpressr({
     Key? key,
     double? size,
     Color? color,
@@ -12416,7 +12416,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.reply({
+  IcgIcon8.reply({
     Key? key,
     double? size,
     Color? color,
@@ -12430,7 +12430,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.replyd({
+  IcgIcon8.replyd({
     Key? key,
     double? size,
     Color? color,
@@ -12444,7 +12444,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.resolving({
+  IcgIcon8.resolving({
     Key? key,
     double? size,
     Color? color,
@@ -12458,7 +12458,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rocketChat({
+  IcgIcon8.rocketChat({
     Key? key,
     double? size,
     Color? color,
@@ -12472,7 +12472,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rockrms({
+  IcgIcon8.rockrms({
     Key? key,
     double? size,
     Color? color,
@@ -12486,7 +12486,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.schlix({
+  IcgIcon8.schlix({
     Key? key,
     double? size,
     Color? color,
@@ -12500,7 +12500,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.searchengin({
+  IcgIcon8.searchengin({
     Key? key,
     double? size,
     Color? color,
@@ -12514,7 +12514,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.servicestack({
+  IcgIcon8.servicestack({
     Key? key,
     double? size,
     Color? color,
@@ -12528,7 +12528,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateShield({
+  IcgIcon8.alternateShield({
     Key? key,
     double? size,
     Color? color,
@@ -12542,7 +12542,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sistrix({
+  IcgIcon8.sistrix({
     Key? key,
     double? size,
     Color? color,
@@ -12556,7 +12556,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.slackLogo({
+  IcgIcon8.slackLogo({
     Key? key,
     double? size,
     Color? color,
@@ -12570,7 +12570,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.speakap({
+  IcgIcon8.speakap({
     Key? key,
     double? size,
     Color? color,
@@ -12584,7 +12584,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.staylinked({
+  IcgIcon8.staylinked({
     Key? key,
     double? size,
     Color? color,
@@ -12598,7 +12598,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.steamSymbol({
+  IcgIcon8.steamSymbol({
     Key? key,
     double? size,
     Color? color,
@@ -12612,7 +12612,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stickerMule({
+  IcgIcon8.stickerMule({
     Key? key,
     double? size,
     Color? color,
@@ -12626,7 +12626,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.studioVinari({
+  IcgIcon8.studioVinari({
     Key? key,
     double? size,
     Color? color,
@@ -12640,7 +12640,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.supple({
+  IcgIcon8.supple({
     Key? key,
     double? size,
     Color? color,
@@ -12654,7 +12654,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tablet({
+  IcgIcon8.tablet({
     Key? key,
     double? size,
     Color? color,
@@ -12668,7 +12668,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateTachometer({
+  IcgIcon8.alternateTachometer({
     Key? key,
     double? size,
     Color? color,
@@ -12682,7 +12682,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.telegram({
+  IcgIcon8.telegram({
     Key? key,
     double? size,
     Color? color,
@@ -12696,7 +12696,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateTicket({
+  IcgIcon8.alternateTicket({
     Key? key,
     double? size,
     Color? color,
@@ -12710,7 +12710,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.uber({
+  IcgIcon8.uber({
     Key? key,
     double? size,
     Color? color,
@@ -12724,7 +12724,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.uikit({
+  IcgIcon8.uikit({
     Key? key,
     double? size,
     Color? color,
@@ -12738,7 +12738,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.uniregistry({
+  IcgIcon8.uniregistry({
     Key? key,
     double? size,
     Color? color,
@@ -12752,7 +12752,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.untappd({
+  IcgIcon8.untappd({
     Key? key,
     double? size,
     Color? color,
@@ -12766,7 +12766,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateUser({
+  IcgIcon8.alternateUser({
     Key? key,
     double? size,
     Color? color,
@@ -12780,7 +12780,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.usSunnahFoundation({
+  IcgIcon8.usSunnahFoundation({
     Key? key,
     double? size,
     Color? color,
@@ -12794,7 +12794,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.vaadin({
+  IcgIcon8.vaadin({
     Key? key,
     double? size,
     Color? color,
@@ -12808,7 +12808,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.viber({
+  IcgIcon8.viber({
     Key? key,
     double? size,
     Color? color,
@@ -12822,7 +12822,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.vimeo({
+  IcgIcon8.vimeo({
     Key? key,
     double? size,
     Color? color,
@@ -12836,7 +12836,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.vnv({
+  IcgIcon8.vnv({
     Key? key,
     double? size,
     Color? color,
@@ -12850,7 +12850,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.whatSAppSquare({
+  IcgIcon8.whatSAppSquare({
     Key? key,
     double? size,
     Color? color,
@@ -12864,7 +12864,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.whmcs({
+  IcgIcon8.whmcs({
     Key? key,
     double? size,
     Color? color,
@@ -12878,7 +12878,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.windowClose1({
+  IcgIcon8.windowClose1({
     Key? key,
     double? size,
     Color? color,
@@ -12892,7 +12892,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wordpressSimple({
+  IcgIcon8.wordpressSimple({
     Key? key,
     double? size,
     Color? color,
@@ -12906,7 +12906,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.xbox({
+  IcgIcon8.xbox({
     Key? key,
     double? size,
     Color? color,
@@ -12920,7 +12920,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.yandex({
+  IcgIcon8.yandex({
     Key? key,
     double? size,
     Color? color,
@@ -12934,7 +12934,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.yandexInternational({
+  IcgIcon8.yandexInternational({
     Key? key,
     double? size,
     Color? color,
@@ -12948,7 +12948,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.applePay({
+  IcgIcon8.applePay({
     Key? key,
     double? size,
     Color? color,
@@ -12962,7 +12962,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.applePayCreditCard({
+  IcgIcon8.applePayCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -12976,7 +12976,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fly({
+  IcgIcon8.fly({
     Key? key,
     double? size,
     Color? color,
@@ -12990,7 +12990,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.nodeJs({
+  IcgIcon8.nodeJs({
     Key? key,
     double? size,
     Color? color,
@@ -13004,7 +13004,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.openSourceInitiative({
+  IcgIcon8.openSourceInitiative({
     Key? key,
     double? size,
     Color? color,
@@ -13018,7 +13018,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.react({
+  IcgIcon8.react({
     Key? key,
     double? size,
     Color? color,
@@ -13032,7 +13032,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.autoprefixer({
+  IcgIcon8.autoprefixer({
     Key? key,
     double? size,
     Color? color,
@@ -13046,7 +13046,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.less({
+  IcgIcon8.less({
     Key? key,
     double? size,
     Color? color,
@@ -13060,7 +13060,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sass({
+  IcgIcon8.sass({
     Key? key,
     double? size,
     Color? color,
@@ -13074,7 +13074,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.vueJs({
+  IcgIcon8.vueJs({
     Key? key,
     double? size,
     Color? color,
@@ -13088,7 +13088,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angular({
+  IcgIcon8.angular({
     Key? key,
     double? size,
     Color? color,
@@ -13102,7 +13102,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.aviato({
+  IcgIcon8.aviato({
     Key? key,
     double? size,
     Color? color,
@@ -13116,7 +13116,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ember({
+  IcgIcon8.ember({
     Key? key,
     double? size,
     Color? color,
@@ -13130,7 +13130,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fontAwesomeFlag({
+  IcgIcon8.fontAwesomeFlag({
     Key? key,
     double? size,
     Color? color,
@@ -13144,7 +13144,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gitter({
+  IcgIcon8.gitter({
     Key? key,
     double? size,
     Color? color,
@@ -13158,7 +13158,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hooli({
+  IcgIcon8.hooli({
     Key? key,
     double? size,
     Color? color,
@@ -13172,7 +13172,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.strava({
+  IcgIcon8.strava({
     Key? key,
     double? size,
     Color? color,
@@ -13186,7 +13186,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stripeCreditCard({
+  IcgIcon8.stripeCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -13200,7 +13200,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stripeS({
+  IcgIcon8.stripeS({
     Key? key,
     double? size,
     Color? color,
@@ -13214,7 +13214,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.typo3({
+  IcgIcon8.typo3({
     Key? key,
     double? size,
     Color? color,
@@ -13228,7 +13228,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.amazonPay({
+  IcgIcon8.amazonPay({
     Key? key,
     double? size,
     Color? color,
@@ -13242,7 +13242,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.amazonPayCreditCard({
+  IcgIcon8.amazonPayCreditCard({
     Key? key,
     double? size,
     Color? color,
@@ -13256,7 +13256,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ethereum({
+  IcgIcon8.ethereum({
     Key? key,
     double? size,
     Color? color,
@@ -13270,7 +13270,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.korvue({
+  IcgIcon8.korvue({
     Key? key,
     double? size,
     Color? color,
@@ -13284,7 +13284,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.elementor({
+  IcgIcon8.elementor({
     Key? key,
     double? size,
     Color? color,
@@ -13298,7 +13298,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.youtubeSquare({
+  IcgIcon8.youtubeSquare({
     Key? key,
     double? size,
     Color? color,
@@ -13312,7 +13312,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.baseballBall({
+  IcgIcon8.baseballBall({
     Key? key,
     double? size,
     Color? color,
@@ -13326,7 +13326,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.basketballBall({
+  IcgIcon8.basketballBall({
     Key? key,
     double? size,
     Color? color,
@@ -13340,7 +13340,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bowlingBall({
+  IcgIcon8.bowlingBall({
     Key? key,
     double? size,
     Color? color,
@@ -13354,7 +13354,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chess({
+  IcgIcon8.chess({
     Key? key,
     double? size,
     Color? color,
@@ -13368,7 +13368,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chessBishop({
+  IcgIcon8.chessBishop({
     Key? key,
     double? size,
     Color? color,
@@ -13382,7 +13382,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chessBoard({
+  IcgIcon8.chessBoard({
     Key? key,
     double? size,
     Color? color,
@@ -13396,7 +13396,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chessKing({
+  IcgIcon8.chessKing({
     Key? key,
     double? size,
     Color? color,
@@ -13410,7 +13410,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chessKnight({
+  IcgIcon8.chessKnight({
     Key? key,
     double? size,
     Color? color,
@@ -13424,7 +13424,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chessPawn({
+  IcgIcon8.chessPawn({
     Key? key,
     double? size,
     Color? color,
@@ -13438,7 +13438,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chessQueen({
+  IcgIcon8.chessQueen({
     Key? key,
     double? size,
     Color? color,
@@ -13452,7 +13452,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chessRook({
+  IcgIcon8.chessRook({
     Key? key,
     double? size,
     Color? color,
@@ -13466,7 +13466,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dumbbell({
+  IcgIcon8.dumbbell({
     Key? key,
     double? size,
     Color? color,
@@ -13480,7 +13480,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.flipboard({
+  IcgIcon8.flipboard({
     Key? key,
     double? size,
     Color? color,
@@ -13494,7 +13494,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.footballBall({
+  IcgIcon8.footballBall({
     Key? key,
     double? size,
     Color? color,
@@ -13508,7 +13508,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.golfBall({
+  IcgIcon8.golfBall({
     Key? key,
     double? size,
     Color? color,
@@ -13522,7 +13522,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hips({
+  IcgIcon8.hips({
     Key? key,
     double? size,
     Color? color,
@@ -13536,7 +13536,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hockeyPuck({
+  IcgIcon8.hockeyPuck({
     Key? key,
     double? size,
     Color? color,
@@ -13550,7 +13550,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.php({
+  IcgIcon8.php({
     Key? key,
     double? size,
     Color? color,
@@ -13564,7 +13564,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.quidditch({
+  IcgIcon8.quidditch({
     Key? key,
     double? size,
     Color? color,
@@ -13578,7 +13578,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.quinscape({
+  IcgIcon8.quinscape({
     Key? key,
     double? size,
     Color? color,
@@ -13592,7 +13592,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.square1({
+  IcgIcon8.square1({
     Key? key,
     double? size,
     Color? color,
@@ -13606,7 +13606,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tableTennis({
+  IcgIcon8.tableTennis({
     Key? key,
     double? size,
     Color? color,
@@ -13620,7 +13620,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.volleyballBall({
+  IcgIcon8.volleyballBall({
     Key? key,
     double? size,
     Color? color,
@@ -13634,7 +13634,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.allergies({
+  IcgIcon8.allergies({
     Key? key,
     double? size,
     Color? color,
@@ -13648,7 +13648,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bandAid({
+  IcgIcon8.bandAid({
     Key? key,
     double? size,
     Color? color,
@@ -13662,7 +13662,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.box({
+  IcgIcon8.box({
     Key? key,
     double? size,
     Color? color,
@@ -13676,7 +13676,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.boxes({
+  IcgIcon8.boxes({
     Key? key,
     double? size,
     Color? color,
@@ -13690,7 +13690,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.medkit1({
+  IcgIcon8.medkit1({
     Key? key,
     double? size,
     Color? color,
@@ -13704,7 +13704,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.burn({
+  IcgIcon8.burn({
     Key? key,
     double? size,
     Color? color,
@@ -13718,7 +13718,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.capsules({
+  IcgIcon8.capsules({
     Key? key,
     double? size,
     Color? color,
@@ -13732,7 +13732,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.clipboardWithCheck({
+  IcgIcon8.clipboardWithCheck({
     Key? key,
     double? size,
     Color? color,
@@ -13746,7 +13746,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.clipboardList({
+  IcgIcon8.clipboardList({
     Key? key,
     double? size,
     Color? color,
@@ -13760,7 +13760,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.diagnoses({
+  IcgIcon8.diagnoses({
     Key? key,
     double? size,
     Color? color,
@@ -13774,7 +13774,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dna({
+  IcgIcon8.dna({
     Key? key,
     double? size,
     Color? color,
@@ -13788,7 +13788,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dolly({
+  IcgIcon8.dolly({
     Key? key,
     double? size,
     Color? color,
@@ -13802,7 +13802,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dollyFlatbed1({
+  IcgIcon8.dollyFlatbed1({
     Key? key,
     double? size,
     Color? color,
@@ -13816,7 +13816,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.medicalFile({
+  IcgIcon8.medicalFile({
     Key? key,
     double? size,
     Color? color,
@@ -13830,7 +13830,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateMedicalFile({
+  IcgIcon8.alternateMedicalFile({
     Key? key,
     double? size,
     Color? color,
@@ -13844,7 +13844,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.medkit({
+  IcgIcon8.medkit({
     Key? key,
     double? size,
     Color? color,
@@ -13858,7 +13858,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateHospital1({
+  IcgIcon8.alternateHospital1({
     Key? key,
     double? size,
     Color? color,
@@ -13872,7 +13872,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hSquare({
+  IcgIcon8.hSquare({
     Key? key,
     double? size,
     Color? color,
@@ -13886,7 +13886,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateIdentificationCard({
+  IcgIcon8.alternateIdentificationCard({
     Key? key,
     double? size,
     Color? color,
@@ -13900,7 +13900,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.medicalNotes({
+  IcgIcon8.medicalNotes({
     Key? key,
     double? size,
     Color? color,
@@ -13914,7 +13914,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pallet({
+  IcgIcon8.pallet({
     Key? key,
     double? size,
     Color? color,
@@ -13928,7 +13928,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pills({
+  IcgIcon8.pills({
     Key? key,
     double? size,
     Color? color,
@@ -13942,7 +13942,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.prescriptionBottle({
+  IcgIcon8.prescriptionBottle({
     Key? key,
     double? size,
     Color? color,
@@ -13956,7 +13956,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternatePrescriptionBottle({
+  IcgIcon8.alternatePrescriptionBottle({
     Key? key,
     double? size,
     Color? color,
@@ -13970,7 +13970,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.procedures({
+  IcgIcon8.procedures({
     Key? key,
     double? size,
     Color? color,
@@ -13984,7 +13984,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shippingFast({
+  IcgIcon8.shippingFast({
     Key? key,
     double? size,
     Color? color,
@@ -13998,7 +13998,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.smoking({
+  IcgIcon8.smoking({
     Key? key,
     double? size,
     Color? color,
@@ -14012,7 +14012,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.syringe({
+  IcgIcon8.syringe({
     Key? key,
     double? size,
     Color? color,
@@ -14026,7 +14026,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tablets({
+  IcgIcon8.tablets({
     Key? key,
     double? size,
     Color? color,
@@ -14040,7 +14040,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thermometer({
+  IcgIcon8.thermometer({
     Key? key,
     double? size,
     Color? color,
@@ -14054,7 +14054,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.vial({
+  IcgIcon8.vial({
     Key? key,
     double? size,
     Color? color,
@@ -14068,7 +14068,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.vials({
+  IcgIcon8.vials({
     Key? key,
     double? size,
     Color? color,
@@ -14082,7 +14082,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.warehouse({
+  IcgIcon8.warehouse({
     Key? key,
     double? size,
     Color? color,
@@ -14096,7 +14096,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.weight({
+  IcgIcon8.weight({
     Key? key,
     double? size,
     Color? color,
@@ -14110,7 +14110,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.xRay({
+  IcgIcon8.xRay({
     Key? key,
     double? size,
     Color? color,
@@ -14124,7 +14124,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.boxOpen({
+  IcgIcon8.boxOpen({
     Key? key,
     double? size,
     Color? color,
@@ -14138,7 +14138,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.commentDots1({
+  IcgIcon8.commentDots1({
     Key? key,
     double? size,
     Color? color,
@@ -14152,7 +14152,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.commentSlash({
+  IcgIcon8.commentSlash({
     Key? key,
     double? size,
     Color? color,
@@ -14166,7 +14166,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.couch({
+  IcgIcon8.couch({
     Key? key,
     double? size,
     Color? color,
@@ -14180,7 +14180,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.donate({
+  IcgIcon8.donate({
     Key? key,
     double? size,
     Color? color,
@@ -14194,7 +14194,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dove({
+  IcgIcon8.dove({
     Key? key,
     double? size,
     Color? color,
@@ -14208,7 +14208,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handHolding({
+  IcgIcon8.handHolding({
     Key? key,
     double? size,
     Color? color,
@@ -14222,7 +14222,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handHoldingHeart({
+  IcgIcon8.handHoldingHeart({
     Key? key,
     double? size,
     Color? color,
@@ -14236,7 +14236,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handHoldingUsDollar({
+  IcgIcon8.handHoldingUsDollar({
     Key? key,
     double? size,
     Color? color,
@@ -14250,7 +14250,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hands({
+  IcgIcon8.hands({
     Key? key,
     double? size,
     Color? color,
@@ -14264,7 +14264,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.helpingHands({
+  IcgIcon8.helpingHands({
     Key? key,
     double? size,
     Color? color,
@@ -14278,7 +14278,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.parachuteBox({
+  IcgIcon8.parachuteBox({
     Key? key,
     double? size,
     Color? color,
@@ -14292,7 +14292,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.peopleCarry({
+  IcgIcon8.peopleCarry({
     Key? key,
     double? size,
     Color? color,
@@ -14306,7 +14306,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.piggyBank({
+  IcgIcon8.piggyBank({
     Key? key,
     double? size,
     Color? color,
@@ -14320,7 +14320,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.readme({
+  IcgIcon8.readme({
     Key? key,
     double? size,
     Color? color,
@@ -14334,7 +14334,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ribbon({
+  IcgIcon8.ribbon({
     Key? key,
     double? size,
     Color? color,
@@ -14348,7 +14348,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.route({
+  IcgIcon8.route({
     Key? key,
     double? size,
     Color? color,
@@ -14362,7 +14362,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.seedling({
+  IcgIcon8.seedling({
     Key? key,
     double? size,
     Color? color,
@@ -14376,7 +14376,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sign({
+  IcgIcon8.sign({
     Key? key,
     double? size,
     Color? color,
@@ -14390,7 +14390,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.winkingFace2({
+  IcgIcon8.winkingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -14404,7 +14404,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tape({
+  IcgIcon8.tape({
     Key? key,
     double? size,
     Color? color,
@@ -14418,7 +14418,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.truckLoading({
+  IcgIcon8.truckLoading({
     Key? key,
     double? size,
     Color? color,
@@ -14432,7 +14432,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.truck({
+  IcgIcon8.truck({
     Key? key,
     double? size,
     Color? color,
@@ -14446,7 +14446,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.videoSlash({
+  IcgIcon8.videoSlash({
     Key? key,
     double? size,
     Color? color,
@@ -14460,7 +14460,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wineGlass({
+  IcgIcon8.wineGlass({
     Key? key,
     double? size,
     Color? color,
@@ -14474,7 +14474,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.java({
+  IcgIcon8.java({
     Key? key,
     double? size,
     Color? color,
@@ -14488,7 +14488,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.piedPiperHat({
+  IcgIcon8.piedPiperHat({
     Key? key,
     double? size,
     Color? color,
@@ -14502,7 +14502,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommonsAttribution({
+  IcgIcon8.creativeCommonsAttribution({
     Key? key,
     double? size,
     Color? color,
@@ -14516,7 +14516,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommonsNoncommercial({
+  IcgIcon8.creativeCommonsNoncommercial({
     Key? key,
     double? size,
     Color? color,
@@ -14530,7 +14530,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommonsNoncommercialXeuroSign({
+  IcgIcon8.creativeCommonsNoncommercialXeuroSign({
     Key? key,
     double? size,
     Color? color,
@@ -14544,7 +14544,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommonsNoncommercialXyenSign({
+  IcgIcon8.creativeCommonsNoncommercialXyenSign({
     Key? key,
     double? size,
     Color? color,
@@ -14558,7 +14558,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommonsNoDerivativeWorks({
+  IcgIcon8.creativeCommonsNoDerivativeWorks({
     Key? key,
     double? size,
     Color? color,
@@ -14572,7 +14572,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommonsPublicDomain({
+  IcgIcon8.creativeCommonsPublicDomain({
     Key? key,
     double? size,
     Color? color,
@@ -14586,7 +14586,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateCreativeCommonsPublicDomain({
+  IcgIcon8.alternateCreativeCommonsPublicDomain({
     Key? key,
     double? size,
     Color? color,
@@ -14600,7 +14600,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommonsRemix({
+  IcgIcon8.creativeCommonsRemix({
     Key? key,
     double? size,
     Color? color,
@@ -14614,7 +14614,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommonsShareAlike({
+  IcgIcon8.creativeCommonsShareAlike({
     Key? key,
     double? size,
     Color? color,
@@ -14628,7 +14628,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommonsSampling({
+  IcgIcon8.creativeCommonsSampling({
     Key? key,
     double? size,
     Color? color,
@@ -14642,7 +14642,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommonsSamplingX({
+  IcgIcon8.creativeCommonsSamplingX({
     Key? key,
     double? size,
     Color? color,
@@ -14656,7 +14656,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommonsShare({
+  IcgIcon8.creativeCommonsShare({
     Key? key,
     double? size,
     Color? color,
@@ -14670,7 +14670,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.creativeCommonsCc0({
+  IcgIcon8.creativeCommonsCc0({
     Key? key,
     double? size,
     Color? color,
@@ -14684,7 +14684,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ebay({
+  IcgIcon8.ebay({
     Key? key,
     double? size,
     Color? color,
@@ -14698,7 +14698,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.keybase({
+  IcgIcon8.keybase({
     Key? key,
     double? size,
     Color? color,
@@ -14712,7 +14712,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mastodon({
+  IcgIcon8.mastodon({
     Key? key,
     double? size,
     Color? color,
@@ -14726,7 +14726,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rProject({
+  IcgIcon8.rProject({
     Key? key,
     double? size,
     Color? color,
@@ -14740,7 +14740,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.researchgate({
+  IcgIcon8.researchgate({
     Key? key,
     double? size,
     Color? color,
@@ -14754,7 +14754,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.teamspeak({
+  IcgIcon8.teamspeak({
     Key? key,
     double? size,
     Color? color,
@@ -14768,7 +14768,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateUserSlash({
+  IcgIcon8.alternateUserSlash({
     Key? key,
     double? size,
     Color? color,
@@ -14782,7 +14782,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userAstronaut({
+  IcgIcon8.userAstronaut({
     Key? key,
     double? size,
     Color? color,
@@ -14796,7 +14796,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userCheck({
+  IcgIcon8.userCheck({
     Key? key,
     double? size,
     Color? color,
@@ -14810,7 +14810,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userClock({
+  IcgIcon8.userClock({
     Key? key,
     double? size,
     Color? color,
@@ -14824,7 +14824,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userCog({
+  IcgIcon8.userCog({
     Key? key,
     double? size,
     Color? color,
@@ -14838,7 +14838,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userEdit({
+  IcgIcon8.userEdit({
     Key? key,
     double? size,
     Color? color,
@@ -14852,7 +14852,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userFriends({
+  IcgIcon8.userFriends({
     Key? key,
     double? size,
     Color? color,
@@ -14866,7 +14866,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userGraduate({
+  IcgIcon8.userGraduate({
     Key? key,
     double? size,
     Color? color,
@@ -14880,7 +14880,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userLock({
+  IcgIcon8.userLock({
     Key? key,
     double? size,
     Color? color,
@@ -14894,7 +14894,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userMinus({
+  IcgIcon8.userMinus({
     Key? key,
     double? size,
     Color? color,
@@ -14908,7 +14908,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userNinja({
+  IcgIcon8.userNinja({
     Key? key,
     double? size,
     Color? color,
@@ -14922,7 +14922,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userShield({
+  IcgIcon8.userShield({
     Key? key,
     double? size,
     Color? color,
@@ -14936,7 +14936,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userSlash({
+  IcgIcon8.userSlash({
     Key? key,
     double? size,
     Color? color,
@@ -14950,7 +14950,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userTag({
+  IcgIcon8.userTag({
     Key? key,
     double? size,
     Color? color,
@@ -14964,7 +14964,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userTie({
+  IcgIcon8.userTie({
     Key? key,
     double? size,
     Color? color,
@@ -14978,7 +14978,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.usersCog({
+  IcgIcon8.usersCog({
     Key? key,
     double? size,
     Color? color,
@@ -14992,7 +14992,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateFirstOrder({
+  IcgIcon8.alternateFirstOrder({
     Key? key,
     double? size,
     Color? color,
@@ -15006,7 +15006,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fulcrum({
+  IcgIcon8.fulcrum({
     Key? key,
     double? size,
     Color? color,
@@ -15020,7 +15020,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.galacticEmpire({
+  IcgIcon8.galacticEmpire({
     Key? key,
     double? size,
     Color? color,
@@ -15034,7 +15034,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.galacticSenate({
+  IcgIcon8.galacticSenate({
     Key? key,
     double? size,
     Color? color,
@@ -15048,7 +15048,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.jediOrder({
+  IcgIcon8.jediOrder({
     Key? key,
     double? size,
     Color? color,
@@ -15062,7 +15062,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mandalorian({
+  IcgIcon8.mandalorian({
     Key? key,
     double? size,
     Color? color,
@@ -15076,7 +15076,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.oldRepublic({
+  IcgIcon8.oldRepublic({
     Key? key,
     double? size,
     Color? color,
@@ -15090,7 +15090,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.phoenixSquadron({
+  IcgIcon8.phoenixSquadron({
     Key? key,
     double? size,
     Color? color,
@@ -15104,7 +15104,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sith({
+  IcgIcon8.sith({
     Key? key,
     double? size,
     Color? color,
@@ -15118,7 +15118,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tradeFederation({
+  IcgIcon8.tradeFederation({
     Key? key,
     double? size,
     Color? color,
@@ -15132,7 +15132,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wolfPackBattalion({
+  IcgIcon8.wolfPackBattalion({
     Key? key,
     double? size,
     Color? color,
@@ -15146,7 +15146,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.balanceScaleXleftWeighted({
+  IcgIcon8.balanceScaleXleftWeighted({
     Key? key,
     double? size,
     Color? color,
@@ -15160,7 +15160,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.balanceScaleXrightWeighted({
+  IcgIcon8.balanceScaleXrightWeighted({
     Key? key,
     double? size,
     Color? color,
@@ -15174,7 +15174,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.blender({
+  IcgIcon8.blender({
     Key? key,
     double? size,
     Color? color,
@@ -15188,7 +15188,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bookOpen({
+  IcgIcon8.bookOpen({
     Key? key,
     double? size,
     Color? color,
@@ -15202,7 +15202,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.broadcastTower({
+  IcgIcon8.broadcastTower({
     Key? key,
     double? size,
     Color? color,
@@ -15216,7 +15216,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.broom({
+  IcgIcon8.broom({
     Key? key,
     double? size,
     Color? color,
@@ -15230,7 +15230,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chalkboard({
+  IcgIcon8.chalkboard({
     Key? key,
     double? size,
     Color? color,
@@ -15244,7 +15244,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chalkboardTeacher({
+  IcgIcon8.chalkboardTeacher({
     Key? key,
     double? size,
     Color? color,
@@ -15258,7 +15258,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.church({
+  IcgIcon8.church({
     Key? key,
     double? size,
     Color? color,
@@ -15272,7 +15272,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.coins({
+  IcgIcon8.coins({
     Key? key,
     double? size,
     Color? color,
@@ -15286,7 +15286,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.compactDisc({
+  IcgIcon8.compactDisc({
     Key? key,
     double? size,
     Color? color,
@@ -15300,7 +15300,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.crow({
+  IcgIcon8.crow({
     Key? key,
     double? size,
     Color? color,
@@ -15314,7 +15314,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.crown({
+  IcgIcon8.crown({
     Key? key,
     double? size,
     Color? color,
@@ -15328,7 +15328,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dice({
+  IcgIcon8.dice({
     Key? key,
     double? size,
     Color? color,
@@ -15342,7 +15342,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.diceFive({
+  IcgIcon8.diceFive({
     Key? key,
     double? size,
     Color? color,
@@ -15356,7 +15356,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.diceFour({
+  IcgIcon8.diceFour({
     Key? key,
     double? size,
     Color? color,
@@ -15370,7 +15370,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.diceOne({
+  IcgIcon8.diceOne({
     Key? key,
     double? size,
     Color? color,
@@ -15384,7 +15384,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.diceSix({
+  IcgIcon8.diceSix({
     Key? key,
     double? size,
     Color? color,
@@ -15398,7 +15398,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.diceThree({
+  IcgIcon8.diceThree({
     Key? key,
     double? size,
     Color? color,
@@ -15412,7 +15412,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.diceTwo({
+  IcgIcon8.diceTwo({
     Key? key,
     double? size,
     Color? color,
@@ -15426,7 +15426,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.divide({
+  IcgIcon8.divide({
     Key? key,
     double? size,
     Color? color,
@@ -15440,7 +15440,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.doorClosed({
+  IcgIcon8.doorClosed({
     Key? key,
     double? size,
     Color? color,
@@ -15454,7 +15454,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.doorOpen({
+  IcgIcon8.doorOpen({
     Key? key,
     double? size,
     Color? color,
@@ -15468,7 +15468,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.equals({
+  IcgIcon8.equals({
     Key? key,
     double? size,
     Color? color,
@@ -15482,7 +15482,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.feather({
+  IcgIcon8.feather({
     Key? key,
     double? size,
     Color? color,
@@ -15496,7 +15496,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.frog({
+  IcgIcon8.frog({
     Key? key,
     double? size,
     Color? color,
@@ -15510,7 +15510,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gasPump({
+  IcgIcon8.gasPump({
     Key? key,
     double? size,
     Color? color,
@@ -15524,7 +15524,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.glasses({
+  IcgIcon8.glasses({
     Key? key,
     double? size,
     Color? color,
@@ -15538,7 +15538,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.greaterThan({
+  IcgIcon8.greaterThan({
     Key? key,
     double? size,
     Color? color,
@@ -15552,7 +15552,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.greaterThanEqualTo({
+  IcgIcon8.greaterThanEqualTo({
     Key? key,
     double? size,
     Color? color,
@@ -15566,7 +15566,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.helicopter({
+  IcgIcon8.helicopter({
     Key? key,
     double? size,
     Color? color,
@@ -15580,7 +15580,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.infinity({
+  IcgIcon8.infinity({
     Key? key,
     double? size,
     Color? color,
@@ -15594,7 +15594,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.kiwiBird({
+  IcgIcon8.kiwiBird({
     Key? key,
     double? size,
     Color? color,
@@ -15608,7 +15608,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lessThan({
+  IcgIcon8.lessThan({
     Key? key,
     double? size,
     Color? color,
@@ -15622,7 +15622,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lessThanEqualTo({
+  IcgIcon8.lessThanEqualTo({
     Key? key,
     double? size,
     Color? color,
@@ -15636,7 +15636,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.memory({
+  IcgIcon8.memory({
     Key? key,
     double? size,
     Color? color,
@@ -15650,7 +15650,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateMicrophoneSlash({
+  IcgIcon8.alternateMicrophoneSlash({
     Key? key,
     double? size,
     Color? color,
@@ -15664,7 +15664,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wavyMoneyBill({
+  IcgIcon8.wavyMoneyBill({
     Key? key,
     double? size,
     Color? color,
@@ -15678,7 +15678,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateWavyMoneyBill({
+  IcgIcon8.alternateWavyMoneyBill({
     Key? key,
     double? size,
     Color? color,
@@ -15692,7 +15692,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.moneyCheck({
+  IcgIcon8.moneyCheck({
     Key? key,
     double? size,
     Color? color,
@@ -15706,7 +15706,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateMoneyCheck({
+  IcgIcon8.alternateMoneyCheck({
     Key? key,
     double? size,
     Color? color,
@@ -15720,7 +15720,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.notEqual({
+  IcgIcon8.notEqual({
     Key? key,
     double? size,
     Color? color,
@@ -15734,7 +15734,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.palette({
+  IcgIcon8.palette({
     Key? key,
     double? size,
     Color? color,
@@ -15748,7 +15748,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.parking({
+  IcgIcon8.parking({
     Key? key,
     double? size,
     Color? color,
@@ -15762,7 +15762,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.percentage({
+  IcgIcon8.percentage({
     Key? key,
     double? size,
     Color? color,
@@ -15776,7 +15776,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.projectDiagram({
+  IcgIcon8.projectDiagram({
     Key? key,
     double? size,
     Color? color,
@@ -15790,7 +15790,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.receipt({
+  IcgIcon8.receipt({
     Key? key,
     double? size,
     Color? color,
@@ -15804,7 +15804,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.robot({
+  IcgIcon8.robot({
     Key? key,
     double? size,
     Color? color,
@@ -15818,7 +15818,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ruler({
+  IcgIcon8.ruler({
     Key? key,
     double? size,
     Color? color,
@@ -15832,7 +15832,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rulerCombined({
+  IcgIcon8.rulerCombined({
     Key? key,
     double? size,
     Color? color,
@@ -15846,7 +15846,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rulerHorizontal({
+  IcgIcon8.rulerHorizontal({
     Key? key,
     double? size,
     Color? color,
@@ -15860,7 +15860,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rulerVertical({
+  IcgIcon8.rulerVertical({
     Key? key,
     double? size,
     Color? color,
@@ -15874,7 +15874,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.school({
+  IcgIcon8.school({
     Key? key,
     double? size,
     Color? color,
@@ -15888,7 +15888,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.screwdriver({
+  IcgIcon8.screwdriver({
     Key? key,
     double? size,
     Color? color,
@@ -15902,7 +15902,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shoePrints({
+  IcgIcon8.shoePrints({
     Key? key,
     double? size,
     Color? color,
@@ -15916,7 +15916,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.skull({
+  IcgIcon8.skull({
     Key? key,
     double? size,
     Color? color,
@@ -15930,7 +15930,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.smokingBan({
+  IcgIcon8.smokingBan({
     Key? key,
     double? size,
     Color? color,
@@ -15944,7 +15944,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.store({
+  IcgIcon8.store({
     Key? key,
     double? size,
     Color? color,
@@ -15958,7 +15958,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateStore({
+  IcgIcon8.alternateStore({
     Key? key,
     double? size,
     Color? color,
@@ -15972,7 +15972,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stream({
+  IcgIcon8.stream({
     Key? key,
     double? size,
     Color? color,
@@ -15986,7 +15986,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stroopwafel({
+  IcgIcon8.stroopwafel({
     Key? key,
     double? size,
     Color? color,
@@ -16000,7 +16000,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.toolbox({
+  IcgIcon8.toolbox({
     Key? key,
     double? size,
     Color? color,
@@ -16014,7 +16014,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tShirt({
+  IcgIcon8.tShirt({
     Key? key,
     double? size,
     Color? color,
@@ -16028,7 +16028,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.walking({
+  IcgIcon8.walking({
     Key? key,
     double? size,
     Color? color,
@@ -16042,7 +16042,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wallet({
+  IcgIcon8.wallet({
     Key? key,
     double? size,
     Color? color,
@@ -16056,7 +16056,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.angryFace1({
+  IcgIcon8.angryFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16070,7 +16070,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.archway({
+  IcgIcon8.archway({
     Key? key,
     double? size,
     Color? color,
@@ -16084,7 +16084,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.atlas({
+  IcgIcon8.atlas({
     Key? key,
     double? size,
     Color? color,
@@ -16098,7 +16098,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.certificate({
+  IcgIcon8.certificate({
     Key? key,
     double? size,
     Color? color,
@@ -16112,7 +16112,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.backspace({
+  IcgIcon8.backspace({
     Key? key,
     double? size,
     Color? color,
@@ -16126,7 +16126,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bezierCurve({
+  IcgIcon8.bezierCurve({
     Key? key,
     double? size,
     Color? color,
@@ -16140,7 +16140,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bong({
+  IcgIcon8.bong({
     Key? key,
     double? size,
     Color? color,
@@ -16154,7 +16154,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.brush({
+  IcgIcon8.brush({
     Key? key,
     double? size,
     Color? color,
@@ -16168,7 +16168,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.busAlt({
+  IcgIcon8.busAlt({
     Key? key,
     double? size,
     Color? color,
@@ -16182,7 +16182,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cannabis({
+  IcgIcon8.cannabis({
     Key? key,
     double? size,
     Color? color,
@@ -16196,7 +16196,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.doubleCheck({
+  IcgIcon8.doubleCheck({
     Key? key,
     double? size,
     Color? color,
@@ -16210,7 +16210,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cocktail1({
+  IcgIcon8.cocktail1({
     Key? key,
     double? size,
     Color? color,
@@ -16224,7 +16224,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.conciergeBell({
+  IcgIcon8.conciergeBell({
     Key? key,
     double? size,
     Color? color,
@@ -16238,7 +16238,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cookie({
+  IcgIcon8.cookie({
     Key? key,
     double? size,
     Color? color,
@@ -16252,7 +16252,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cookieBite({
+  IcgIcon8.cookieBite({
     Key? key,
     double? size,
     Color? color,
@@ -16266,7 +16266,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateCrop({
+  IcgIcon8.alternateCrop({
     Key? key,
     double? size,
     Color? color,
@@ -16280,7 +16280,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.digitalTachograph({
+  IcgIcon8.digitalTachograph({
     Key? key,
     double? size,
     Color? color,
@@ -16294,7 +16294,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dizzyFace1({
+  IcgIcon8.dizzyFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16308,7 +16308,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.draftingCompass({
+  IcgIcon8.draftingCompass({
     Key? key,
     double? size,
     Color? color,
@@ -16322,7 +16322,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.drum({
+  IcgIcon8.drum({
     Key? key,
     double? size,
     Color? color,
@@ -16336,7 +16336,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.drumSteelpan({
+  IcgIcon8.drumSteelpan({
     Key? key,
     double? size,
     Color? color,
@@ -16350,7 +16350,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateFeather({
+  IcgIcon8.alternateFeather({
     Key? key,
     double? size,
     Color? color,
@@ -16364,7 +16364,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fileContract({
+  IcgIcon8.fileContract({
     Key? key,
     double? size,
     Color? color,
@@ -16378,7 +16378,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fileDownload({
+  IcgIcon8.fileDownload({
     Key? key,
     double? size,
     Color? color,
@@ -16392,7 +16392,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fileExport({
+  IcgIcon8.fileExport({
     Key? key,
     double? size,
     Color? color,
@@ -16406,7 +16406,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fileImport({
+  IcgIcon8.fileImport({
     Key? key,
     double? size,
     Color? color,
@@ -16420,7 +16420,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fileInvoice({
+  IcgIcon8.fileInvoice({
     Key? key,
     double? size,
     Color? color,
@@ -16434,7 +16434,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fileInvoiceWithUsDollar({
+  IcgIcon8.fileInvoiceWithUsDollar({
     Key? key,
     double? size,
     Color? color,
@@ -16448,7 +16448,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.filePrescription({
+  IcgIcon8.filePrescription({
     Key? key,
     double? size,
     Color? color,
@@ -16462,7 +16462,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fileSignature({
+  IcgIcon8.fileSignature({
     Key? key,
     double? size,
     Color? color,
@@ -16476,7 +16476,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fileUpload({
+  IcgIcon8.fileUpload({
     Key? key,
     double? size,
     Color? color,
@@ -16490,7 +16490,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fill({
+  IcgIcon8.fill({
     Key? key,
     double? size,
     Color? color,
@@ -16504,7 +16504,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fillDrip({
+  IcgIcon8.fillDrip({
     Key? key,
     double? size,
     Color? color,
@@ -16518,7 +16518,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fingerprint({
+  IcgIcon8.fingerprint({
     Key? key,
     double? size,
     Color? color,
@@ -16532,7 +16532,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fish({
+  IcgIcon8.fish({
     Key? key,
     double? size,
     Color? color,
@@ -16546,7 +16546,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.flushedFace1({
+  IcgIcon8.flushedFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16560,7 +16560,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hushedFace2({
+  IcgIcon8.hushedFace2({
     Key? key,
     double? size,
     Color? color,
@@ -16574,7 +16574,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cocktail({
+  IcgIcon8.cocktail({
     Key? key,
     double? size,
     Color? color,
@@ -16588,7 +16588,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.globeWithAfricaShown({
+  IcgIcon8.globeWithAfricaShown({
     Key? key,
     double? size,
     Color? color,
@@ -16602,7 +16602,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.globeWithAmericasShown({
+  IcgIcon8.globeWithAmericasShown({
     Key? key,
     double? size,
     Color? color,
@@ -16616,7 +16616,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.globeWithAsiaShown({
+  IcgIcon8.globeWithAsiaShown({
     Key? key,
     double? size,
     Color? color,
@@ -16630,7 +16630,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grimacingFace1({
+  IcgIcon8.grimacingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16644,7 +16644,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningFaceWithBigEyes2({
+  IcgIcon8.grinningFaceWithBigEyes2({
     Key? key,
     double? size,
     Color? color,
@@ -16658,7 +16658,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateGrinningFace1({
+  IcgIcon8.alternateGrinningFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16672,7 +16672,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningFaceWithSmilingEyes2({
+  IcgIcon8.grinningFaceWithSmilingEyes2({
     Key? key,
     double? size,
     Color? color,
@@ -16686,7 +16686,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningFaceWithSweat1({
+  IcgIcon8.grinningFaceWithSweat1({
     Key? key,
     double? size,
     Color? color,
@@ -16700,7 +16700,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.smilingFaceWithHeartEyes1({
+  IcgIcon8.smilingFaceWithHeartEyes1({
     Key? key,
     double? size,
     Color? color,
@@ -16714,7 +16714,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningSquintingFace2({
+  IcgIcon8.grinningSquintingFace2({
     Key? key,
     double? size,
     Color? color,
@@ -16728,7 +16728,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rollingOnTheFloorLaughing1({
+  IcgIcon8.rollingOnTheFloorLaughing1({
     Key? key,
     double? size,
     Color? color,
@@ -16742,7 +16742,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.starStruck1({
+  IcgIcon8.starStruck1({
     Key? key,
     double? size,
     Color? color,
@@ -16756,7 +16756,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.faceWithTearsOfJoy1({
+  IcgIcon8.faceWithTearsOfJoy1({
     Key? key,
     double? size,
     Color? color,
@@ -16770,7 +16770,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.faceWithTongue1({
+  IcgIcon8.faceWithTongue1({
     Key? key,
     double? size,
     Color? color,
@@ -16784,7 +16784,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.squintingFaceWithTongue1({
+  IcgIcon8.squintingFaceWithTongue1({
     Key? key,
     double? size,
     Color? color,
@@ -16798,7 +16798,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.winkingFaceWithTongue1({
+  IcgIcon8.winkingFaceWithTongue1({
     Key? key,
     double? size,
     Color? color,
@@ -16812,7 +16812,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.winkingFace1({
+  IcgIcon8.winkingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16826,7 +16826,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gripHorizontal({
+  IcgIcon8.gripHorizontal({
     Key? key,
     double? size,
     Color? color,
@@ -16840,7 +16840,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gripVertical({
+  IcgIcon8.gripVertical({
     Key? key,
     double? size,
     Color? color,
@@ -16854,7 +16854,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.headphones({
+  IcgIcon8.headphones({
     Key? key,
     double? size,
     Color? color,
@@ -16868,7 +16868,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.headset({
+  IcgIcon8.headset({
     Key? key,
     double? size,
     Color? color,
@@ -16882,7 +16882,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.highlighter1({
+  IcgIcon8.highlighter1({
     Key? key,
     double? size,
     Color? color,
@@ -16896,7 +16896,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hornbill({
+  IcgIcon8.hornbill({
     Key? key,
     double? size,
     Color? color,
@@ -16910,7 +16910,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hotTub({
+  IcgIcon8.hotTub({
     Key? key,
     double? size,
     Color? color,
@@ -16924,7 +16924,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hotel({
+  IcgIcon8.hotel({
     Key? key,
     double? size,
     Color? color,
@@ -16938,7 +16938,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.joint({
+  IcgIcon8.joint({
     Key? key,
     double? size,
     Color? color,
@@ -16952,7 +16952,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.kissingFace1({
+  IcgIcon8.kissingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -16966,7 +16966,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.kissingFaceWithSmilingEyes1({
+  IcgIcon8.kissingFaceWithSmilingEyes1({
     Key? key,
     double? size,
     Color? color,
@@ -16980,7 +16980,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.faceBlowingAKiss1({
+  IcgIcon8.faceBlowingAKiss1({
     Key? key,
     double? size,
     Color? color,
@@ -16994,7 +16994,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningFaceWithBigEyes1({
+  IcgIcon8.grinningFaceWithBigEyes1({
     Key? key,
     double? size,
     Color? color,
@@ -17008,7 +17008,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningFaceWithSmilingEyes1({
+  IcgIcon8.grinningFaceWithSmilingEyes1({
     Key? key,
     double? size,
     Color? color,
@@ -17022,7 +17022,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.grinningSquintingFace1({
+  IcgIcon8.grinningSquintingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -17036,7 +17036,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.laughingWinkingFace1({
+  IcgIcon8.laughingWinkingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -17050,7 +17050,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dollyFlatbed({
+  IcgIcon8.dollyFlatbed({
     Key? key,
     double? size,
     Color? color,
@@ -17064,7 +17064,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mailchimp({
+  IcgIcon8.mailchimp({
     Key? key,
     double? size,
     Color? color,
@@ -17078,7 +17078,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mapMarked({
+  IcgIcon8.mapMarked({
     Key? key,
     double? size,
     Color? color,
@@ -17092,7 +17092,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateMapMarked({
+  IcgIcon8.alternateMapMarked({
     Key? key,
     double? size,
     Color? color,
@@ -17106,7 +17106,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.highlighter({
+  IcgIcon8.highlighter({
     Key? key,
     double? size,
     Color? color,
@@ -17120,7 +17120,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.medal({
+  IcgIcon8.medal({
     Key? key,
     double? size,
     Color? color,
@@ -17134,7 +17134,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.megaport({
+  IcgIcon8.megaport({
     Key? key,
     double? size,
     Color? color,
@@ -17148,7 +17148,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.faceWithoutMouth1({
+  IcgIcon8.faceWithoutMouth1({
     Key? key,
     double? size,
     Color? color,
@@ -17162,7 +17162,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.faceWithRollingEyes1({
+  IcgIcon8.faceWithRollingEyes1({
     Key? key,
     double? size,
     Color? color,
@@ -17176,7 +17176,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.monument({
+  IcgIcon8.monument({
     Key? key,
     double? size,
     Color? color,
@@ -17190,7 +17190,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mortarPestle({
+  IcgIcon8.mortarPestle({
     Key? key,
     double? size,
     Color? color,
@@ -17204,7 +17204,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.nimblr({
+  IcgIcon8.nimblr({
     Key? key,
     double? size,
     Color? color,
@@ -17218,7 +17218,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.paintRoller({
+  IcgIcon8.paintRoller({
     Key? key,
     double? size,
     Color? color,
@@ -17232,7 +17232,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.passport({
+  IcgIcon8.passport({
     Key? key,
     double? size,
     Color? color,
@@ -17246,7 +17246,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.penFancy({
+  IcgIcon8.penFancy({
     Key? key,
     double? size,
     Color? color,
@@ -17260,7 +17260,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.penNib({
+  IcgIcon8.penNib({
     Key? key,
     double? size,
     Color? color,
@@ -17274,7 +17274,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pencilRuler({
+  IcgIcon8.pencilRuler({
     Key? key,
     double? size,
     Color? color,
@@ -17288,7 +17288,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.planeArrival({
+  IcgIcon8.planeArrival({
     Key? key,
     double? size,
     Color? color,
@@ -17302,7 +17302,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.planeDeparture({
+  IcgIcon8.planeDeparture({
     Key? key,
     double? size,
     Color? color,
@@ -17316,7 +17316,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.prescription({
+  IcgIcon8.prescription({
     Key? key,
     double? size,
     Color? color,
@@ -17330,7 +17330,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.revIo({
+  IcgIcon8.revIo({
     Key? key,
     double? size,
     Color? color,
@@ -17344,7 +17344,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cryingFace1({
+  IcgIcon8.cryingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -17358,7 +17358,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.loudlyCryingFace1({
+  IcgIcon8.loudlyCryingFace1({
     Key? key,
     double? size,
     Color? color,
@@ -17372,7 +17372,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shopware({
+  IcgIcon8.shopware({
     Key? key,
     double? size,
     Color? color,
@@ -17386,7 +17386,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shuttleVan({
+  IcgIcon8.shuttleVan({
     Key? key,
     double? size,
     Color? color,
@@ -17400,7 +17400,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.signature({
+  IcgIcon8.signature({
     Key? key,
     double? size,
     Color? color,
@@ -17414,7 +17414,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.beamingFaceWithSmilingEyes1({
+  IcgIcon8.beamingFaceWithSmilingEyes1({
     Key? key,
     double? size,
     Color? color,
@@ -17428,7 +17428,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.solarPanel({
+  IcgIcon8.solarPanel({
     Key? key,
     double? size,
     Color? color,
@@ -17442,7 +17442,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.spa({
+  IcgIcon8.spa({
     Key? key,
     double? size,
     Color? color,
@@ -17456,7 +17456,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.splotch({
+  IcgIcon8.splotch({
     Key? key,
     double? size,
     Color? color,
@@ -17470,7 +17470,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sprayCan({
+  IcgIcon8.sprayCan({
     Key? key,
     double? size,
     Color? color,
@@ -17484,7 +17484,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.squarespace({
+  IcgIcon8.squarespace({
     Key? key,
     double? size,
     Color? color,
@@ -17498,7 +17498,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stamp({
+  IcgIcon8.stamp({
     Key? key,
     double? size,
     Color? color,
@@ -17512,7 +17512,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateStarHalf({
+  IcgIcon8.alternateStarHalf({
     Key? key,
     double? size,
     Color? color,
@@ -17526,7 +17526,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.suitcaseRolling({
+  IcgIcon8.suitcaseRolling({
     Key? key,
     double? size,
     Color? color,
@@ -17540,7 +17540,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hushedFace1({
+  IcgIcon8.hushedFace1({
     Key? key,
     double? size,
     Color? color,
@@ -17554,7 +17554,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.swatchbook({
+  IcgIcon8.swatchbook({
     Key? key,
     double? size,
     Color? color,
@@ -17568,7 +17568,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.swimmer({
+  IcgIcon8.swimmer({
     Key? key,
     double? size,
     Color? color,
@@ -17582,7 +17582,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.swimmingPool({
+  IcgIcon8.swimmingPool({
     Key? key,
     double? size,
     Color? color,
@@ -17596,7 +17596,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.themeco({
+  IcgIcon8.themeco({
     Key? key,
     double? size,
     Color? color,
@@ -17610,7 +17610,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tintSlash({
+  IcgIcon8.tintSlash({
     Key? key,
     double? size,
     Color? color,
@@ -17624,7 +17624,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tiredFace1({
+  IcgIcon8.tiredFace1({
     Key? key,
     double? size,
     Color? color,
@@ -17638,7 +17638,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tooth({
+  IcgIcon8.tooth({
     Key? key,
     double? size,
     Color? color,
@@ -17652,7 +17652,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.umbrellaBeach({
+  IcgIcon8.umbrellaBeach({
     Key? key,
     double? size,
     Color? color,
@@ -17666,7 +17666,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.vectorSquare({
+  IcgIcon8.vectorSquare({
     Key? key,
     double? size,
     Color? color,
@@ -17680,7 +17680,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.weebly({
+  IcgIcon8.weebly({
     Key? key,
     double? size,
     Color? color,
@@ -17694,7 +17694,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hangingWeight({
+  IcgIcon8.hangingWeight({
     Key? key,
     double? size,
     Color? color,
@@ -17708,7 +17708,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateWineGlas({
+  IcgIcon8.alternateWineGlas({
     Key? key,
     double? size,
     Color? color,
@@ -17722,7 +17722,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wix({
+  IcgIcon8.wix({
     Key? key,
     double? size,
     Color? color,
@@ -17736,7 +17736,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.airFreshener({
+  IcgIcon8.airFreshener({
     Key? key,
     double? size,
     Color? color,
@@ -17750,7 +17750,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fruitApple({
+  IcgIcon8.fruitApple({
     Key? key,
     double? size,
     Color? color,
@@ -17764,7 +17764,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.atom({
+  IcgIcon8.atom({
     Key? key,
     double? size,
     Color? color,
@@ -17778,7 +17778,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bone({
+  IcgIcon8.bone({
     Key? key,
     double? size,
     Color? color,
@@ -17792,7 +17792,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bookReader({
+  IcgIcon8.bookReader({
     Key? key,
     double? size,
     Color? color,
@@ -17806,7 +17806,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.brain({
+  IcgIcon8.brain({
     Key? key,
     double? size,
     Color? color,
@@ -17820,7 +17820,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateCar({
+  IcgIcon8.alternateCar({
     Key? key,
     double? size,
     Color? color,
@@ -17834,7 +17834,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.carBattery({
+  IcgIcon8.carBattery({
     Key? key,
     double? size,
     Color? color,
@@ -17848,7 +17848,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.carCrash({
+  IcgIcon8.carCrash({
     Key? key,
     double? size,
     Color? color,
@@ -17862,7 +17862,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.carSide({
+  IcgIcon8.carSide({
     Key? key,
     double? size,
     Color? color,
@@ -17876,7 +17876,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chargingStation({
+  IcgIcon8.chargingStation({
     Key? key,
     double? size,
     Color? color,
@@ -17890,7 +17890,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.directions({
+  IcgIcon8.directions({
     Key? key,
     double? size,
     Color? color,
@@ -17904,7 +17904,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.drawPolygon({
+  IcgIcon8.drawPolygon({
     Key? key,
     double? size,
     Color? color,
@@ -17918,7 +17918,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ello({
+  IcgIcon8.ello({
     Key? key,
     double? size,
     Color? color,
@@ -17932,7 +17932,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hackerrank({
+  IcgIcon8.hackerrank({
     Key? key,
     double? size,
     Color? color,
@@ -17946,7 +17946,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.kaggle({
+  IcgIcon8.kaggle({
     Key? key,
     double? size,
     Color? color,
@@ -17960,7 +17960,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.laptopCode({
+  IcgIcon8.laptopCode({
     Key? key,
     double? size,
     Color? color,
@@ -17974,7 +17974,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.layerGroup({
+  IcgIcon8.layerGroup({
     Key? key,
     double? size,
     Color? color,
@@ -17988,7 +17988,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.markdown({
+  IcgIcon8.markdown({
     Key? key,
     double? size,
     Color? color,
@@ -18002,7 +18002,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.microscope({
+  IcgIcon8.microscope({
     Key? key,
     double? size,
     Color? color,
@@ -18016,7 +18016,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.neos({
+  IcgIcon8.neos({
     Key? key,
     double? size,
     Color? color,
@@ -18030,7 +18030,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.oilCan({
+  IcgIcon8.oilCan({
     Key? key,
     double? size,
     Color? color,
@@ -18044,7 +18044,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.poop({
+  IcgIcon8.poop({
     Key? key,
     double? size,
     Color? color,
@@ -18058,7 +18058,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.shapes({
+  IcgIcon8.shapes({
     Key? key,
     double? size,
     Color? color,
@@ -18072,7 +18072,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.starOfLife({
+  IcgIcon8.starOfLife({
     Key? key,
     double? size,
     Color? color,
@@ -18086,7 +18086,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.teeth({
+  IcgIcon8.teeth({
     Key? key,
     double? size,
     Color? color,
@@ -18100,7 +18100,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.teethOpen({
+  IcgIcon8.teethOpen({
     Key? key,
     double? size,
     Color? color,
@@ -18114,7 +18114,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.theaterMasks({
+  IcgIcon8.theaterMasks({
     Key? key,
     double? size,
     Color? color,
@@ -18128,7 +18128,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.trafficLight({
+  IcgIcon8.trafficLight({
     Key? key,
     double? size,
     Color? color,
@@ -18142,7 +18142,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.truckMonster({
+  IcgIcon8.truckMonster({
     Key? key,
     double? size,
     Color? color,
@@ -18156,7 +18156,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.truckSide({
+  IcgIcon8.truckSide({
     Key? key,
     double? size,
     Color? color,
@@ -18170,7 +18170,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.zhihu({
+  IcgIcon8.zhihu({
     Key? key,
     double? size,
     Color? color,
@@ -18184,7 +18184,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ad({
+  IcgIcon8.ad({
     Key? key,
     double? size,
     Color? color,
@@ -18198,7 +18198,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alipay({
+  IcgIcon8.alipay({
     Key? key,
     double? size,
     Color? color,
@@ -18212,7 +18212,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ankh({
+  IcgIcon8.ankh({
     Key? key,
     double? size,
     Color? color,
@@ -18226,7 +18226,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bible({
+  IcgIcon8.bible({
     Key? key,
     double? size,
     Color? color,
@@ -18240,7 +18240,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.businessTime({
+  IcgIcon8.businessTime({
     Key? key,
     double? size,
     Color? color,
@@ -18254,7 +18254,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.city({
+  IcgIcon8.city({
     Key? key,
     double? size,
     Color? color,
@@ -18268,7 +18268,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.commentDollar({
+  IcgIcon8.commentDollar({
     Key? key,
     double? size,
     Color? color,
@@ -18282,7 +18282,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.commentsDollar({
+  IcgIcon8.commentsDollar({
     Key? key,
     double? size,
     Color? color,
@@ -18296,7 +18296,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cross({
+  IcgIcon8.cross({
     Key? key,
     double? size,
     Color? color,
@@ -18310,7 +18310,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dharmachakra({
+  IcgIcon8.dharmachakra({
     Key? key,
     double? size,
     Color? color,
@@ -18324,7 +18324,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.envelopeOpenText({
+  IcgIcon8.envelopeOpenText({
     Key? key,
     double? size,
     Color? color,
@@ -18338,7 +18338,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.folderMinus({
+  IcgIcon8.folderMinus({
     Key? key,
     double? size,
     Color? color,
@@ -18352,7 +18352,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.folderPlus({
+  IcgIcon8.folderPlus({
     Key? key,
     double? size,
     Color? color,
@@ -18366,7 +18366,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.funnelDollar({
+  IcgIcon8.funnelDollar({
     Key? key,
     double? size,
     Color? color,
@@ -18380,7 +18380,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gopuram({
+  IcgIcon8.gopuram({
     Key? key,
     double? size,
     Color? color,
@@ -18394,7 +18394,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hamsa({
+  IcgIcon8.hamsa({
     Key? key,
     double? size,
     Color? color,
@@ -18408,7 +18408,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.haykal({
+  IcgIcon8.haykal({
     Key? key,
     double? size,
     Color? color,
@@ -18422,7 +18422,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.jedi({
+  IcgIcon8.jedi({
     Key? key,
     double? size,
     Color? color,
@@ -18436,7 +18436,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.journalOfTheWhills({
+  IcgIcon8.journalOfTheWhills({
     Key? key,
     double? size,
     Color? color,
@@ -18450,7 +18450,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.kaaba({
+  IcgIcon8.kaaba({
     Key? key,
     double? size,
     Color? color,
@@ -18464,7 +18464,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.khanda({
+  IcgIcon8.khanda({
     Key? key,
     double? size,
     Color? color,
@@ -18478,7 +18478,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.landmark({
+  IcgIcon8.landmark({
     Key? key,
     double? size,
     Color? color,
@@ -18492,7 +18492,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mailBulk({
+  IcgIcon8.mailBulk({
     Key? key,
     double? size,
     Color? color,
@@ -18506,7 +18506,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.menorah({
+  IcgIcon8.menorah({
     Key? key,
     double? size,
     Color? color,
@@ -18520,7 +18520,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mosque({
+  IcgIcon8.mosque({
     Key? key,
     double? size,
     Color? color,
@@ -18534,7 +18534,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.om({
+  IcgIcon8.om({
     Key? key,
     double? size,
     Color? color,
@@ -18548,7 +18548,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pastafarianism({
+  IcgIcon8.pastafarianism({
     Key? key,
     double? size,
     Color? color,
@@ -18562,7 +18562,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.peace({
+  IcgIcon8.peace({
     Key? key,
     double? size,
     Color? color,
@@ -18576,7 +18576,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.placeOfWorship({
+  IcgIcon8.placeOfWorship({
     Key? key,
     double? size,
     Color? color,
@@ -18590,7 +18590,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.poll({
+  IcgIcon8.poll({
     Key? key,
     double? size,
     Color? color,
@@ -18604,7 +18604,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pollH({
+  IcgIcon8.pollH({
     Key? key,
     double? size,
     Color? color,
@@ -18618,7 +18618,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pray({
+  IcgIcon8.pray({
     Key? key,
     double? size,
     Color? color,
@@ -18632,7 +18632,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.prayingHands({
+  IcgIcon8.prayingHands({
     Key? key,
     double? size,
     Color? color,
@@ -18646,7 +18646,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.quran({
+  IcgIcon8.quran({
     Key? key,
     double? size,
     Color? color,
@@ -18660,7 +18660,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.searchDollar({
+  IcgIcon8.searchDollar({
     Key? key,
     double? size,
     Color? color,
@@ -18674,7 +18674,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.searchLocation({
+  IcgIcon8.searchLocation({
     Key? key,
     double? size,
     Color? color,
@@ -18688,7 +18688,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.socks({
+  IcgIcon8.socks({
     Key? key,
     double? size,
     Color? color,
@@ -18702,7 +18702,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateSquareRoot({
+  IcgIcon8.alternateSquareRoot({
     Key? key,
     double? size,
     Color? color,
@@ -18716,7 +18716,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.starAndCrescent({
+  IcgIcon8.starAndCrescent({
     Key? key,
     double? size,
     Color? color,
@@ -18730,7 +18730,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.starOfDavid({
+  IcgIcon8.starOfDavid({
     Key? key,
     double? size,
     Color? color,
@@ -18744,7 +18744,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.synagogue({
+  IcgIcon8.synagogue({
     Key? key,
     double? size,
     Color? color,
@@ -18758,7 +18758,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.theRedYeti({
+  IcgIcon8.theRedYeti({
     Key? key,
     double? size,
     Color? color,
@@ -18772,7 +18772,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.torah({
+  IcgIcon8.torah({
     Key? key,
     double? size,
     Color? color,
@@ -18786,7 +18786,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.toriiGate({
+  IcgIcon8.toriiGate({
     Key? key,
     double? size,
     Color? color,
@@ -18800,7 +18800,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.vihara({
+  IcgIcon8.vihara({
     Key? key,
     double? size,
     Color? color,
@@ -18814,7 +18814,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.volumeOff({
+  IcgIcon8.volumeOff({
     Key? key,
     double? size,
     Color? color,
@@ -18828,7 +18828,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.yinYang({
+  IcgIcon8.yinYang({
     Key? key,
     double? size,
     Color? color,
@@ -18842,7 +18842,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.acquisitionsIncorporated({
+  IcgIcon8.acquisitionsIncorporated({
     Key? key,
     double? size,
     Color? color,
@@ -18856,7 +18856,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.blenderPhone({
+  IcgIcon8.blenderPhone({
     Key? key,
     double? size,
     Color? color,
@@ -18870,7 +18870,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bookOfTheDead({
+  IcgIcon8.bookOfTheDead({
     Key? key,
     double? size,
     Color? color,
@@ -18884,7 +18884,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.campground({
+  IcgIcon8.campground({
     Key? key,
     double? size,
     Color? color,
@@ -18898,7 +18898,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cat({
+  IcgIcon8.cat({
     Key? key,
     double? size,
     Color? color,
@@ -18912,7 +18912,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chair({
+  IcgIcon8.chair({
     Key? key,
     double? size,
     Color? color,
@@ -18926,7 +18926,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cloudWithMoon({
+  IcgIcon8.cloudWithMoon({
     Key? key,
     double? size,
     Color? color,
@@ -18940,7 +18940,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cloudWithSun({
+  IcgIcon8.cloudWithSun({
     Key? key,
     double? size,
     Color? color,
@@ -18954,7 +18954,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.criticalRole({
+  IcgIcon8.criticalRole({
     Key? key,
     double? size,
     Color? color,
@@ -18968,7 +18968,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dDBeyond({
+  IcgIcon8.dDBeyond({
     Key? key,
     double? size,
     Color? color,
@@ -18982,7 +18982,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dev({
+  IcgIcon8.dev({
     Key? key,
     double? size,
     Color? color,
@@ -18996,7 +18996,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.diceD20({
+  IcgIcon8.diceD20({
     Key? key,
     double? size,
     Color? color,
@@ -19010,7 +19010,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.diceD6({
+  IcgIcon8.diceD6({
     Key? key,
     double? size,
     Color? color,
@@ -19024,7 +19024,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dog({
+  IcgIcon8.dog({
     Key? key,
     double? size,
     Color? color,
@@ -19038,7 +19038,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dragon({
+  IcgIcon8.dragon({
     Key? key,
     double? size,
     Color? color,
@@ -19052,7 +19052,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.drumstickWithBiteTakenOut({
+  IcgIcon8.drumstickWithBiteTakenOut({
     Key? key,
     double? size,
     Color? color,
@@ -19066,7 +19066,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dungeon({
+  IcgIcon8.dungeon({
     Key? key,
     double? size,
     Color? color,
@@ -19080,7 +19080,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fantasyFlightGames({
+  IcgIcon8.fantasyFlightGames({
     Key? key,
     double? size,
     Color? color,
@@ -19094,7 +19094,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fileCsv({
+  IcgIcon8.fileCsv({
     Key? key,
     double? size,
     Color? color,
@@ -19108,7 +19108,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.raisedFist({
+  IcgIcon8.raisedFist({
     Key? key,
     double? size,
     Color? color,
@@ -19122,7 +19122,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ghost({
+  IcgIcon8.ghost({
     Key? key,
     double? size,
     Color? color,
@@ -19136,7 +19136,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hammer({
+  IcgIcon8.hammer({
     Key? key,
     double? size,
     Color? color,
@@ -19150,7 +19150,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hanukiah({
+  IcgIcon8.hanukiah({
     Key? key,
     double? size,
     Color? color,
@@ -19164,7 +19164,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wizardSHat({
+  IcgIcon8.wizardSHat({
     Key? key,
     double? size,
     Color? color,
@@ -19178,7 +19178,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hiking({
+  IcgIcon8.hiking({
     Key? key,
     double? size,
     Color? color,
@@ -19192,7 +19192,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hippo({
+  IcgIcon8.hippo({
     Key? key,
     double? size,
     Color? color,
@@ -19206,7 +19206,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.horse({
+  IcgIcon8.horse({
     Key? key,
     double? size,
     Color? color,
@@ -19220,7 +19220,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.damagedHouse({
+  IcgIcon8.damagedHouse({
     Key? key,
     double? size,
     Color? color,
@@ -19234,7 +19234,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hryvnia({
+  IcgIcon8.hryvnia({
     Key? key,
     double? size,
     Color? color,
@@ -19248,7 +19248,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mask({
+  IcgIcon8.mask({
     Key? key,
     double? size,
     Color? color,
@@ -19262,7 +19262,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mountain({
+  IcgIcon8.mountain({
     Key? key,
     double? size,
     Color? color,
@@ -19276,7 +19276,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wiredNetwork({
+  IcgIcon8.wiredNetwork({
     Key? key,
     double? size,
     Color? color,
@@ -19290,7 +19290,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.otter({
+  IcgIcon8.otter({
     Key? key,
     double? size,
     Color? color,
@@ -19304,7 +19304,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pennyArcade({
+  IcgIcon8.pennyArcade({
     Key? key,
     double? size,
     Color? color,
@@ -19318,7 +19318,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ring({
+  IcgIcon8.ring({
     Key? key,
     double? size,
     Color? color,
@@ -19332,7 +19332,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.running({
+  IcgIcon8.running({
     Key? key,
     double? size,
     Color? color,
@@ -19346,7 +19346,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.scroll({
+  IcgIcon8.scroll({
     Key? key,
     double? size,
     Color? color,
@@ -19360,7 +19360,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.skullXCrossbones({
+  IcgIcon8.skullXCrossbones({
     Key? key,
     double? size,
     Color? color,
@@ -19374,7 +19374,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.slash({
+  IcgIcon8.slash({
     Key? key,
     double? size,
     Color? color,
@@ -19388,7 +19388,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.spider({
+  IcgIcon8.spider({
     Key? key,
     double? size,
     Color? color,
@@ -19402,7 +19402,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.toiletPaper({
+  IcgIcon8.toiletPaper({
     Key? key,
     double? size,
     Color? color,
@@ -19416,7 +19416,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tractor({
+  IcgIcon8.tractor({
     Key? key,
     double? size,
     Color? color,
@@ -19430,7 +19430,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.userInjured({
+  IcgIcon8.userInjured({
     Key? key,
     double? size,
     Color? color,
@@ -19444,7 +19444,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cardboardVr({
+  IcgIcon8.cardboardVr({
     Key? key,
     double? size,
     Color? color,
@@ -19458,7 +19458,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wind({
+  IcgIcon8.wind({
     Key? key,
     double? size,
     Color? color,
@@ -19472,7 +19472,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wineBottle({
+  IcgIcon8.wineBottle({
     Key? key,
     double? size,
     Color? color,
@@ -19486,7 +19486,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.wizardsOfTheCoast({
+  IcgIcon8.wizardsOfTheCoast({
     Key? key,
     double? size,
     Color? color,
@@ -19500,7 +19500,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.thinkPeaks({
+  IcgIcon8.thinkPeaks({
     Key? key,
     double? size,
     Color? color,
@@ -19514,7 +19514,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cloudWithXaChanceOfXmeatball({
+  IcgIcon8.cloudWithXaChanceOfXmeatball({
     Key? key,
     double? size,
     Color? color,
@@ -19528,7 +19528,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cloudWithMoonAndRain({
+  IcgIcon8.cloudWithMoonAndRain({
     Key? key,
     double? size,
     Color? color,
@@ -19542,7 +19542,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cloudWithRain({
+  IcgIcon8.cloudWithRain({
     Key? key,
     double? size,
     Color? color,
@@ -19556,7 +19556,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cloudWithHeavyShowers({
+  IcgIcon8.cloudWithHeavyShowers({
     Key? key,
     double? size,
     Color? color,
@@ -19570,7 +19570,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cloudWithSunAndRain({
+  IcgIcon8.cloudWithSunAndRain({
     Key? key,
     double? size,
     Color? color,
@@ -19584,7 +19584,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.democrat({
+  IcgIcon8.democrat({
     Key? key,
     double? size,
     Color? color,
@@ -19598,7 +19598,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.unitedStatesOfAmericaFlag({
+  IcgIcon8.unitedStatesOfAmericaFlag({
     Key? key,
     double? size,
     Color? color,
@@ -19612,7 +19612,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.meteor({
+  IcgIcon8.meteor({
     Key? key,
     double? size,
     Color? color,
@@ -19626,7 +19626,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.personEnteringBooth({
+  IcgIcon8.personEnteringBooth({
     Key? key,
     double? size,
     Color? color,
@@ -19640,7 +19640,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pooStorm({
+  IcgIcon8.pooStorm({
     Key? key,
     double? size,
     Color? color,
@@ -19654,7 +19654,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.rainbow({
+  IcgIcon8.rainbow({
     Key? key,
     double? size,
     Color? color,
@@ -19668,7 +19668,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.reacteurope({
+  IcgIcon8.reacteurope({
     Key? key,
     double? size,
     Color? color,
@@ -19682,7 +19682,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.republican({
+  IcgIcon8.republican({
     Key? key,
     double? size,
     Color? color,
@@ -19696,7 +19696,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.smog({
+  IcgIcon8.smog({
     Key? key,
     double? size,
     Color? color,
@@ -19710,7 +19710,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.highTemperature({
+  IcgIcon8.highTemperature({
     Key? key,
     double? size,
     Color? color,
@@ -19724,7 +19724,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.lowTemperature({
+  IcgIcon8.lowTemperature({
     Key? key,
     double? size,
     Color? color,
@@ -19738,7 +19738,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.voteYea({
+  IcgIcon8.voteYea({
     Key? key,
     double? size,
     Color? color,
@@ -19752,7 +19752,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.water({
+  IcgIcon8.water({
     Key? key,
     double? size,
     Color? color,
@@ -19766,7 +19766,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.adobe({
+  IcgIcon8.adobe({
     Key? key,
     double? size,
     Color? color,
@@ -19780,7 +19780,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.artstation({
+  IcgIcon8.artstation({
     Key? key,
     double? size,
     Color? color,
@@ -19794,7 +19794,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.atlassian({
+  IcgIcon8.atlassian({
     Key? key,
     double? size,
     Color? color,
@@ -19808,7 +19808,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.baby({
+  IcgIcon8.baby({
     Key? key,
     double? size,
     Color? color,
@@ -19822,7 +19822,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.babyCarriage({
+  IcgIcon8.babyCarriage({
     Key? key,
     double? size,
     Color? color,
@@ -19836,7 +19836,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.biohazard({
+  IcgIcon8.biohazard({
     Key? key,
     double? size,
     Color? color,
@@ -19850,7 +19850,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.blog({
+  IcgIcon8.blog({
     Key? key,
     double? size,
     Color? color,
@@ -19864,7 +19864,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendarWithDayFocus({
+  IcgIcon8.calendarWithDayFocus({
     Key? key,
     double? size,
     Color? color,
@@ -19878,7 +19878,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.calendarWithWeekFocus({
+  IcgIcon8.calendarWithWeekFocus({
     Key? key,
     double? size,
     Color? color,
@@ -19892,7 +19892,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.canadianMapleLeaf({
+  IcgIcon8.canadianMapleLeaf({
     Key? key,
     double? size,
     Color? color,
@@ -19906,7 +19906,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.candyCane({
+  IcgIcon8.candyCane({
     Key? key,
     double? size,
     Color? color,
@@ -19920,7 +19920,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.carrot({
+  IcgIcon8.carrot({
     Key? key,
     double? size,
     Color? color,
@@ -19934,7 +19934,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cashRegister({
+  IcgIcon8.cashRegister({
     Key? key,
     double? size,
     Color? color,
@@ -19948,7 +19948,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.centos({
+  IcgIcon8.centos({
     Key? key,
     double? size,
     Color? color,
@@ -19962,7 +19962,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateCompressArrows({
+  IcgIcon8.alternateCompressArrows({
     Key? key,
     double? size,
     Color? color,
@@ -19976,7 +19976,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.confluence({
+  IcgIcon8.confluence({
     Key? key,
     double? size,
     Color? color,
@@ -19990,7 +19990,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dhl({
+  IcgIcon8.dhl({
     Key? key,
     double? size,
     Color? color,
@@ -20004,7 +20004,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.diaspora({
+  IcgIcon8.diaspora({
     Key? key,
     double? size,
     Color? color,
@@ -20018,7 +20018,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dumpster({
+  IcgIcon8.dumpster({
     Key? key,
     double? size,
     Color? color,
@@ -20032,7 +20032,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.dumpsterFire({
+  IcgIcon8.dumpsterFire({
     Key? key,
     double? size,
     Color? color,
@@ -20046,7 +20046,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ethernet({
+  IcgIcon8.ethernet({
     Key? key,
     double? size,
     Color? color,
@@ -20060,7 +20060,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fedex({
+  IcgIcon8.fedex({
     Key? key,
     double? size,
     Color? color,
@@ -20074,7 +20074,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fedora({
+  IcgIcon8.fedora({
     Key? key,
     double? size,
     Color? color,
@@ -20088,7 +20088,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.figma({
+  IcgIcon8.figma({
     Key? key,
     double? size,
     Color? color,
@@ -20102,7 +20102,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gifts({
+  IcgIcon8.gifts({
     Key? key,
     double? size,
     Color? color,
@@ -20116,7 +20116,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.glassCheers({
+  IcgIcon8.glassCheers({
     Key? key,
     double? size,
     Color? color,
@@ -20130,7 +20130,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.glassWhiskey({
+  IcgIcon8.glassWhiskey({
     Key? key,
     double? size,
     Color? color,
@@ -20144,7 +20144,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.globeWithEuropeShown({
+  IcgIcon8.globeWithEuropeShown({
     Key? key,
     double? size,
     Color? color,
@@ -20158,7 +20158,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gripLines({
+  IcgIcon8.gripLines({
     Key? key,
     double? size,
     Color? color,
@@ -20172,7 +20172,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.gripLinesVertical({
+  IcgIcon8.gripLinesVertical({
     Key? key,
     double? size,
     Color? color,
@@ -20186,7 +20186,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.guitar({
+  IcgIcon8.guitar({
     Key? key,
     double? size,
     Color? color,
@@ -20200,7 +20200,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.heartBroken({
+  IcgIcon8.heartBroken({
     Key? key,
     double? size,
     Color? color,
@@ -20214,7 +20214,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hollyBerry({
+  IcgIcon8.hollyBerry({
     Key? key,
     double? size,
     Color? color,
@@ -20228,7 +20228,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.horseHead({
+  IcgIcon8.horseHead({
     Key? key,
     double? size,
     Color? color,
@@ -20242,7 +20242,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.icicles({
+  IcgIcon8.icicles({
     Key? key,
     double? size,
     Color? color,
@@ -20256,7 +20256,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.igloo({
+  IcgIcon8.igloo({
     Key? key,
     double? size,
     Color? color,
@@ -20270,7 +20270,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.intercom({
+  IcgIcon8.intercom({
     Key? key,
     double? size,
     Color? color,
@@ -20284,7 +20284,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.invision({
+  IcgIcon8.invision({
     Key? key,
     double? size,
     Color? color,
@@ -20298,7 +20298,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.jira({
+  IcgIcon8.jira({
     Key? key,
     double? size,
     Color? color,
@@ -20312,7 +20312,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mendeley({
+  IcgIcon8.mendeley({
     Key? key,
     double? size,
     Color? color,
@@ -20326,7 +20326,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mitten({
+  IcgIcon8.mitten({
     Key? key,
     double? size,
     Color? color,
@@ -20340,7 +20340,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mugHot({
+  IcgIcon8.mugHot({
     Key? key,
     double? size,
     Color? color,
@@ -20354,7 +20354,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.radiation({
+  IcgIcon8.radiation({
     Key? key,
     double? size,
     Color? color,
@@ -20368,7 +20368,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateRadiation({
+  IcgIcon8.alternateRadiation({
     Key? key,
     double? size,
     Color? color,
@@ -20382,7 +20382,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.raspberryPi({
+  IcgIcon8.raspberryPi({
     Key? key,
     double? size,
     Color? color,
@@ -20396,7 +20396,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.redhat({
+  IcgIcon8.redhat({
     Key? key,
     double? size,
     Color? color,
@@ -20410,7 +20410,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.restroom({
+  IcgIcon8.restroom({
     Key? key,
     double? size,
     Color? color,
@@ -20424,7 +20424,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.satellite({
+  IcgIcon8.satellite({
     Key? key,
     double? size,
     Color? color,
@@ -20438,7 +20438,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.satelliteDish({
+  IcgIcon8.satelliteDish({
     Key? key,
     double? size,
     Color? color,
@@ -20452,7 +20452,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sdCard({
+  IcgIcon8.sdCard({
     Key? key,
     double? size,
     Color? color,
@@ -20466,7 +20466,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.simCard({
+  IcgIcon8.simCard({
     Key? key,
     double? size,
     Color? color,
@@ -20480,7 +20480,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.skating({
+  IcgIcon8.skating({
     Key? key,
     double? size,
     Color? color,
@@ -20494,7 +20494,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sketch({
+  IcgIcon8.sketch({
     Key? key,
     double? size,
     Color? color,
@@ -20508,7 +20508,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.skiing({
+  IcgIcon8.skiing({
     Key? key,
     double? size,
     Color? color,
@@ -20522,7 +20522,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.skiingNordic({
+  IcgIcon8.skiingNordic({
     Key? key,
     double? size,
     Color? color,
@@ -20536,7 +20536,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sleigh({
+  IcgIcon8.sleigh({
     Key? key,
     double? size,
     Color? color,
@@ -20550,7 +20550,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sms({
+  IcgIcon8.sms({
     Key? key,
     double? size,
     Color? color,
@@ -20564,7 +20564,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.snowboarding({
+  IcgIcon8.snowboarding({
     Key? key,
     double? size,
     Color? color,
@@ -20578,7 +20578,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.snowman({
+  IcgIcon8.snowman({
     Key? key,
     double? size,
     Color? color,
@@ -20592,7 +20592,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.snowplow({
+  IcgIcon8.snowplow({
     Key? key,
     double? size,
     Color? color,
@@ -20606,7 +20606,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.sourcetree({
+  IcgIcon8.sourcetree({
     Key? key,
     double? size,
     Color? color,
@@ -20620,7 +20620,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.suse({
+  IcgIcon8.suse({
     Key? key,
     double? size,
     Color? color,
@@ -20634,7 +20634,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tenge({
+  IcgIcon8.tenge({
     Key? key,
     double? size,
     Color? color,
@@ -20648,7 +20648,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.toilet({
+  IcgIcon8.toilet({
     Key? key,
     double? size,
     Color? color,
@@ -20662,7 +20662,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tools({
+  IcgIcon8.tools({
     Key? key,
     double? size,
     Color? color,
@@ -20676,7 +20676,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.tram({
+  IcgIcon8.tram({
     Key? key,
     double? size,
     Color? color,
@@ -20690,7 +20690,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ubuntu({
+  IcgIcon8.ubuntu({
     Key? key,
     double? size,
     Color? color,
@@ -20704,7 +20704,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.ups({
+  IcgIcon8.ups({
     Key? key,
     double? size,
     Color? color,
@@ -20718,7 +20718,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.unitedStatesPostalService({
+  IcgIcon8.unitedStatesPostalService({
     Key? key,
     double? size,
     Color? color,
@@ -20732,7 +20732,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.yarn({
+  IcgIcon8.yarn({
     Key? key,
     double? size,
     Color? color,
@@ -20746,7 +20746,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateFire({
+  IcgIcon8.alternateFire({
     Key? key,
     double? size,
     Color? color,
@@ -20760,7 +20760,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bacon({
+  IcgIcon8.bacon({
     Key? key,
     double? size,
     Color? color,
@@ -20774,7 +20774,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.medicalBook({
+  IcgIcon8.medicalBook({
     Key? key,
     double? size,
     Color? color,
@@ -20788,7 +20788,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.breadSlice({
+  IcgIcon8.breadSlice({
     Key? key,
     double? size,
     Color? color,
@@ -20802,7 +20802,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cheese({
+  IcgIcon8.cheese({
     Key? key,
     double? size,
     Color? color,
@@ -20816,7 +20816,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateHospital({
+  IcgIcon8.alternateHospital({
     Key? key,
     double? size,
     Color? color,
@@ -20830,7 +20830,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateMedicalChat({
+  IcgIcon8.alternateMedicalChat({
     Key? key,
     double? size,
     Color? color,
@@ -20844,7 +20844,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.crutch({
+  IcgIcon8.crutch({
     Key? key,
     double? size,
     Color? color,
@@ -20858,7 +20858,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.egg({
+  IcgIcon8.egg({
     Key? key,
     double? size,
     Color? color,
@@ -20872,7 +20872,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hamburger({
+  IcgIcon8.hamburger({
     Key? key,
     double? size,
     Color? color,
@@ -20886,7 +20886,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.handWithMiddleFingerRaised({
+  IcgIcon8.handWithMiddleFingerRaised({
     Key? key,
     double? size,
     Color? color,
@@ -20900,7 +20900,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hardHat({
+  IcgIcon8.hardHat({
     Key? key,
     double? size,
     Color? color,
@@ -20914,7 +20914,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hotDog({
+  IcgIcon8.hotDog({
     Key? key,
     double? size,
     Color? color,
@@ -20928,7 +20928,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.iceCream({
+  IcgIcon8.iceCream({
     Key? key,
     double? size,
     Color? color,
@@ -20942,7 +20942,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.laptopMedical({
+  IcgIcon8.laptopMedical({
     Key? key,
     double? size,
     Color? color,
@@ -20956,7 +20956,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pager({
+  IcgIcon8.pager({
     Key? key,
     double? size,
     Color? color,
@@ -20970,7 +20970,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.hotPepper({
+  IcgIcon8.hotPepper({
     Key? key,
     double? size,
     Color? color,
@@ -20984,7 +20984,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.pizzaSlice({
+  IcgIcon8.pizzaSlice({
     Key? key,
     double? size,
     Color? color,
@@ -20998,7 +20998,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.trashRestore({
+  IcgIcon8.trashRestore({
     Key? key,
     double? size,
     Color? color,
@@ -21012,7 +21012,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternativeTrashRestore({
+  IcgIcon8.alternativeTrashRestore({
     Key? key,
     double? size,
     Color? color,
@@ -21026,7 +21026,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.nurse({
+  IcgIcon8.nurse({
     Key? key,
     double? size,
     Color? color,
@@ -21040,7 +21040,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.airbnb({
+  IcgIcon8.airbnb({
     Key? key,
     double? size,
     Color? color,
@@ -21054,7 +21054,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.battleNet({
+  IcgIcon8.battleNet({
     Key? key,
     double? size,
     Color? color,
@@ -21068,7 +21068,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.bootstrap({
+  IcgIcon8.bootstrap({
     Key? key,
     double? size,
     Color? color,
@@ -21082,7 +21082,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.buffer({
+  IcgIcon8.buffer({
     Key? key,
     double? size,
     Color? color,
@@ -21096,7 +21096,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.chromecast({
+  IcgIcon8.chromecast({
     Key? key,
     double? size,
     Color? color,
@@ -21110,7 +21110,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.evernote({
+  IcgIcon8.evernote({
     Key? key,
     double? size,
     Color? color,
@@ -21124,7 +21124,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.itchIo({
+  IcgIcon8.itchIo({
     Key? key,
     double? size,
     Color? color,
@@ -21138,7 +21138,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.salesforce({
+  IcgIcon8.salesforce({
     Key? key,
     double? size,
     Color? color,
@@ -21152,7 +21152,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.speakerDeck({
+  IcgIcon8.speakerDeck({
     Key? key,
     double? size,
     Color? color,
@@ -21166,7 +21166,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.symfony({
+  IcgIcon8.symfony({
     Key? key,
     double? size,
     Color? color,
@@ -21180,7 +21180,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.squareWave({
+  IcgIcon8.squareWave({
     Key? key,
     double? size,
     Color? color,
@@ -21194,7 +21194,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.waze({
+  IcgIcon8.waze({
     Key? key,
     double? size,
     Color? color,
@@ -21208,7 +21208,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.yammer({
+  IcgIcon8.yammer({
     Key? key,
     double? size,
     Color? color,
@@ -21222,7 +21222,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.git({
+  IcgIcon8.git({
     Key? key,
     double? size,
     Color? color,
@@ -21236,7 +21236,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.stackpath({
+  IcgIcon8.stackpath({
     Key? key,
     double? size,
     Color? color,
@@ -21250,7 +21250,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.biking({
+  IcgIcon8.biking({
     Key? key,
     double? size,
     Color? color,
@@ -21264,7 +21264,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.microsoft({
+  IcgIcon8.microsoft({
     Key? key,
     double? size,
     Color? color,
@@ -21278,7 +21278,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.borderNone({
+  IcgIcon8.borderNone({
     Key? key,
     double? size,
     Color? color,
@@ -21292,7 +21292,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.borderStyle({
+  IcgIcon8.borderStyle({
     Key? key,
     double? size,
     Color? color,
@@ -21306,7 +21306,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.fan({
+  IcgIcon8.fan({
     Key? key,
     double? size,
     Color? color,
@@ -21320,7 +21320,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.icons({
+  IcgIcon8.icons({
     Key? key,
     double? size,
     Color? color,
@@ -21334,7 +21334,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternatePhone({
+  IcgIcon8.alternatePhone({
     Key? key,
     double? size,
     Color? color,
@@ -21348,7 +21348,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternatePhoneSquare({
+  IcgIcon8.alternatePhoneSquare({
     Key? key,
     double? size,
     Color? color,
@@ -21362,7 +21362,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.photoVideo({
+  IcgIcon8.photoVideo({
     Key? key,
     double? size,
     Color? color,
@@ -21376,7 +21376,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.removeFormat({
+  IcgIcon8.removeFormat({
     Key? key,
     double? size,
     Color? color,
@@ -21390,7 +21390,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateSortAlphabeticalDown({
+  IcgIcon8.alternateSortAlphabeticalDown({
     Key? key,
     double? size,
     Color? color,
@@ -21404,7 +21404,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateSortAlphabeticalUp({
+  IcgIcon8.alternateSortAlphabeticalUp({
     Key? key,
     double? size,
     Color? color,
@@ -21418,7 +21418,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateSortAmountDown({
+  IcgIcon8.alternateSortAmountDown({
     Key? key,
     double? size,
     Color? color,
@@ -21432,7 +21432,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateSortAmountUp({
+  IcgIcon8.alternateSortAmountUp({
     Key? key,
     double? size,
     Color? color,
@@ -21446,7 +21446,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateSortNumericDown({
+  IcgIcon8.alternateSortNumericDown({
     Key? key,
     double? size,
     Color? color,
@@ -21460,7 +21460,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.alternateSortNumericUp({
+  IcgIcon8.alternateSortNumericUp({
     Key? key,
     double? size,
     Color? color,
@@ -21474,7 +21474,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.spellCheck({
+  IcgIcon8.spellCheck({
     Key? key,
     double? size,
     Color? color,
@@ -21488,7 +21488,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.voicemail({
+  IcgIcon8.voicemail({
     Key? key,
     double? size,
     Color? color,
@@ -21502,7 +21502,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cottonBureau({
+  IcgIcon8.cottonBureau({
     Key? key,
     double? size,
     Color? color,
@@ -21516,7 +21516,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.buyNLarge({
+  IcgIcon8.buyNLarge({
     Key? key,
     double? size,
     Color? color,
@@ -21530,7 +21530,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cowboyHat({
+  IcgIcon8.cowboyHat({
     Key? key,
     double? size,
     Color? color,
@@ -21544,7 +21544,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.cowboyHatSide({
+  IcgIcon8.cowboyHatSide({
     Key? key,
     double? size,
     Color? color,
@@ -21558,7 +21558,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.materialDesignForBootstrap({
+  IcgIcon8.materialDesignForBootstrap({
     Key? key,
     double? size,
     Color? color,
@@ -21572,7 +21572,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.mouse({
+  IcgIcon8.mouse({
     Key? key,
     double? size,
     Color? color,
@@ -21586,7 +21586,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.orcid({
+  IcgIcon8.orcid({
     Key? key,
     double? size,
     Color? color,
@@ -21600,7 +21600,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.recordVinyl({
+  IcgIcon8.recordVinyl({
     Key? key,
     double? size,
     Color? color,
@@ -21614,7 +21614,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.swift({
+  IcgIcon8.swift({
     Key? key,
     double? size,
     Color? color,
@@ -21628,7 +21628,7 @@ class IconsIcon8 extends Icon {
           semanticLabel: semanticLabel,
           textDirection: textDirection,
         );
-  IconsIcon8.umbraco({
+  IcgIcon8.umbraco({
     Key? key,
     double? size,
     Color? color,
