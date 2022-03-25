@@ -1,3 +1,4 @@
 library icon_class_generator;
 
-export 'icons/icons_8.dart';
+export 'icons/icon_8.icg.g.dart';
+export 'icons/line_icons.icg.g.dart';

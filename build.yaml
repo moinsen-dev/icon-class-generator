@@ -10,3 +10,6 @@ builders:
     build_extensions: { '.dart': ['.g.part'] }
     auto_apply: root_package
     build_to: source
+    defaults:
+      generate_for:
+        - '**.icg.dart'

@@ -1,21 +1,19 @@
-import 'dart:io';
-
-import 'package:analyzer/dart/element/element.dart';
 import 'package:build/build.dart';
-import 'package:icon_class_generator/src/icons_annotation.dart';
 import 'package:recase/recase.dart';
 import 'package:source_gen/source_gen.dart';
 
-class IconFontGenerator extends GeneratorForAnnotation<IconClassGenerator> {
+class IconFontGenerator extends Generator {
   @override
-  generateForAnnotatedElement(
-      Element element, ConstantReader annotation, BuildStep buildStep) {
-    // TODO: add here: ${annotation.read('name')}
-    final name = 'icon_8';
+  Future<String> generate(LibraryReader library, BuildStep buildStep) async {
+    final nameRegEx = new RegExp(r'(.*)\.icg');
+    final pathSegment = buildStep.inputId.pathSegments;
+    // final lastSegment = pathSegment[pathSegment.l]
+    final name = nameRegEx.firstMatch(pathSegment.last)?.group(1)?.trim() ?? '';
+    print(
+        'Name: $name, Path: ${buildStep.inputId.path}, Path: ${buildStep.inputId.pathSegments}');
     final fontName = transformToCamelCase(name);
 
-// TODO: remove implicit file path
-    String contents = new File('./lib/icons/$name.dart').readAsStringSync();
+    String contents = await buildStep.readAsString(buildStep.inputId);
 
     final staticIconRegEx =
         RegExp(r'static\sconst\sIconData.*[\n\r]*.*?;', multiLine: true);
@@ -30,7 +28,7 @@ class IconFontGenerator extends GeneratorForAnnotation<IconClassGenerator> {
 
     return """
 import 'package:flutter/material.dart';
-import 'package:icon_class_generator/icons/$name.dart';
+import 'package:icon_class_generator/icons/$name.icg.dart';
 
 class $className extends Icon {
   /// General constructor
@@ -75,14 +73,14 @@ class $className extends Icon {
     final newIconName = transformToCamelCase(iconName.replaceAll('__', 'X'));
 
     return """
-      ${className}.${newIconName}({
+      $className.$newIconName({
           Key? key,
           double? size,
           Color? color,
           String? semanticLabel,
           TextDirection? textDirection,
         }) : super(
-                ${fontName}.${iconName},
+                $fontName.$iconName,
                 key: key,
                 size: size,
                 color: color,

@@ -5,7 +5,7 @@
 // **************************************************************************
 
 import 'package:flutter/material.dart';
-import 'package:icon_class_generator/icons/icon_8.dart';
+import 'package:icon_class_generator/icons/icon_8.icg.dart';
 
 class IconsIcon8 extends Icon {
   /// General constructor
