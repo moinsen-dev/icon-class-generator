@@ -20,10 +20,15 @@ class IconFontGenerator extends Generator {
 
     final className = "Icg${fontName.pascalCase}";
 
-    final newIcons = staticIconRegEx
-        .allMatches(contents)
+    final staticIcons = staticIconRegEx.allMatches(contents);
+    final newStaticIcons = staticIcons
         .map((e) =>
             renderIconFunc(e.group(0) ?? '', fontName.pascalCase, className))
+        .join();
+
+    // TODO: get Icon by Name/String
+    final iconsByString = staticIcons
+        .map((e) => renderStaticIconMap(e.group(0) ?? '', fontName.pascalCase))
         .join();
 
     return """
@@ -49,17 +54,29 @@ class $className extends Icon {
           textDirection: textDirection,
         );
 
-  $newIcons
+  $newStaticIcons
 
+  static final iconMap = {
+    $iconsByString
+  };
+
+  IconData? getIcon(String iconName) {
+    return iconMap[iconName] ?? null;
   }
 
+}
     """;
   }
 
   String transformToCamelCase(String fontName) {
-    ReCase res = new ReCase(fontName);
+    ReCase res = new ReCase(fontName.replaceAll('__', 'X'));
 
     return res.camelCase;
+  }
+
+  String getIconName(String match) {
+    final iconRegEx = RegExp(r'static const IconData (.*) =');
+    return iconRegEx.firstMatch(match)?.group(1)?.trim() ?? '';
   }
 
   String renderIconFunc(String match, String fontName, String className) {
@@ -67,10 +84,9 @@ class $className extends Icon {
       return '';
     }
 
-    final iconRegEx = RegExp(r'static const IconData (.*) =');
-    final iconName = iconRegEx.firstMatch(match)?.group(1)?.trim() ?? '';
+    final iconName = getIconName(match);
 
-    final newIconName = transformToCamelCase(iconName.replaceAll('__', 'X'));
+    final newIconName = transformToCamelCase(iconName);
 
     return """
       $className.$newIconName({
@@ -88,5 +104,12 @@ class $className extends Icon {
                 textDirection: textDirection,
               );
     """;
+  }
+
+  String renderStaticIconMap(String match, String fontName) {
+    final iconName = getIconName(match);
+    final newIconName = transformToCamelCase(iconName);
+
+    return "'$newIconName':$fontName.$iconName,\n";
   }
 }
