@@ -7,6 +7,10 @@ This readme will be update when the package can handle custom builds.
 
 ## How to add an Icon-Font
 
-<https://fluttericon.com/>
+This is planned for the new future, but not yet functional.
 
-<https://github.com/galonsos/line_icons>
+## Thanks
+
+This package is inspired by the package [line_icons](https://github.com/galonsos/line_icons).
+And it uses Icons from [Icons8](https://icons8.com/line-awesome) and the base class is provided by [fluttericon](https://fluttericon.com/).  
+Thanks a lot!
